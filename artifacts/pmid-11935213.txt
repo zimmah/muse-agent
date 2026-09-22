@@ -1,0 +1,38 @@
+1. Cancer Chemother Pharmacol. 2002 Mar;49(3):211-6. doi: 
+10.1007/s00280-001-0401-7. Epub 2001 Dec 22.
+
+Antitumor activity of combinations of anti-HER-2 antibody trastuzumab and oral 
+fluoropyrimidines capecitabine/5'-dFUrd in human breast cancer models.
+
+Fujimoto-Ouchi K(1), Sekiguchi F, Tanaka Y.
+
+Author information:
+(1)Oncology, Nippon Roche Research Center, 200 Kajiwara, Kamakura, Kanagawa 
+247-8530, Japan. kaori.ohuchi@roche.com
+
+The anti-HER-2 antibody, trastuzumab (Herceptin), and the oral fluoropyrimidine, 
+capecitabine (Xeloda), are both effective in breast cancer with different modes 
+of action and toxicity profiles. Therefore, the efficacy in combination therapy 
+of these agents for the treatment of HER-2-overexpressing breast cancer was of 
+interest. An antagonistic interaction in vitro between trastuzumab and 
+5-fluorouracil (5-FUra) in combination has previously been reported. In the same 
+study, the in vivo antitumor activity of this combination was investigated. 
+However, the results were inconclusive since 5-FUra at the dose used had 
+sufficient antitumor efficacy as a single agent and therefore it was not 
+possible to clarify the potential difference between 5-FUra alone and the 
+combination. In the present study, we investigated the efficacy of trastuzumab 
+in combination with capecitabine or its intermediate metabolite 5'-dFUrd in 
+HER-2-overexpressing human breast cancer cell lines and xenograft models. In 
+vivo antitumor activity of the combination was at least additive, in terms of 
+tumor growth inhibition and tumor growth delay, in human breast cancer models 
+KPL-4 and BT-474. The combination treatment in vivo was superior to the 
+treatment with either single agent alone, even though in vitro treatment with 
+trastuzumab and 5'-dFUrd/5-FUra showed antagonistic antiproliferative activity 
+in these cell lines. The reason for the discrepancy between the in vivo and in 
+vitro results was not clarified. However, observed additive in vivo antitumor 
+activity clearly indicates that the clinical efficacy of the combination of 
+trastuzumab and capecitabine/5'-dFUrd against HER-2-overexpressing breast cancer 
+is worth investigating.
+
+DOI: 10.1007/s00280-001-0401-7
+PMID: 11935213 [Indexed for MEDLINE]
