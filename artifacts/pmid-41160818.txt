@@ -1,0 +1,134 @@
+1. N Engl J Med. 2026 Feb 5;394(6):551-562. doi: 10.1056/NEJMoa2508668. Epub 2025
+ Oct 29.
+
+Trastuzumab Deruxtecan plus Pertuzumab for HER2-Positive Metastatic Breast 
+Cancer.
+
+Tolaney SM(1), Jiang Z(2), Zhang Q(3), Barroso-Sousa R(4), Park YH(5), Rimawi 
+MF(6), Saura C(7), Schneeweiss A(8), Toi M(9), Chae YS(10), Kemal Y(11), 
+Chaudhari M(12), Şendur MAN(13), Yamashita T(14), Casalnuovo M(15), Danso 
+MA(16)(17), Liu J(18), Shetty J(19), Herbolsheimer P(19), Loibl S(20)(21); 
+DESTINY-Breast09 Trial Investigators.
+
+Collaborators: Casalnuovo M, Paskevicius M, Rosselli G, Salvatierra A, Caceres 
+V, Korbenfeld E, Casarini I, Ostoich S, Guercovich A, Garbaos G, Daniele S, 
+Gomez Abuin G, Wildiers H, Gremonprez F, Canon JL, Jerusalem G, Papadimitriou K, 
+Duhoux F, Taylor D, Velu T, Cruz F, Liedke P, Matias D, Matsuda A, Freitas R, 
+Liutti V, Faccio A, Pires L, Bertollo G, Mithoowani H, Glenns V, Hussain M, 
+Henning JW, Ahmed O, Rayson D, Asselah J, Brezden-Masley C, Ayoub JP, Noujaim J, 
+Esfahani K, Kassam F, Poirier E, Veitch Z, Jiang Z, Wang S, Yang J, Zhang S, Xu 
+F, Wang X, Fu P, Yin Y, Li W, Shen K, Wang H, Wang S, Wang M, Zhang H, Tong Z, 
+Teng Y, Nie J, Tu Y, Cheng J, Cheng Q, Wang S, Lu Y, Zhang Q, Lin Y, Chen Q, Min 
+Y, Xie L, Ouyang Q, Liu X, Fang F, Chen W, Wang S, Xiong H, Luo T, Soeegaard 
+Knop A, Orts Christensen C, Dalsgaard Iversen E, Dieras V, Levy C, Ung M, 
+Villanueva C, Garbay D, Robert M, Grenier J, Massard V, Ferrero JM, Jacot W, 
+Bonnin N, Meynard G, Bourgeois H, Brain E, Pierga JY, Wimberger P, Tio J, Aktas 
+B, Kuemmel S, Lux MP, Zaiss M, Schem C, Thill M, Fasching P, Schneeweiss A, 
+Kiver V, Horvath Z, Szigeti A, Nemeth H, Meszaros E, Madaras B, Weber A, Papai 
+Z, Nagy Z, Dank M, Bondarde S, Batra U, Tandon N, Tiwari P, Jain P, Shah M, 
+Chaudhari M, K G S, C T S, P S S, Shapira Rotenberg T, Yerushalmi R, Shai A, 
+Sonnenblick A, Paluch-Shimon S, Guarneri V, Gregorc V, Arpino G, Del Mastro L, 
+Rota Caremoli E, Saltalamacchia G, Coltelli L, Colleoni M, Pascoletti G, Tomioka 
+N, Tsurutani J, Yamashita T, Niikura N, Okazaki M, Takano T, Yonemori K, Tsugawa 
+K, Tsuneizumi M, Ishiguro H, Fujisawa T, Saji S, Miyashita M, Nakamura R, Itoh 
+M, Aogi K, Taira T, Toh U, Kaneko K, Hara F, Toyama T, Shien T, Takada M, 
+Nishimukai A, Nakayama T, Suzuki E, Sasada S, Matsumoto K, Mizuno T, Hashimoto 
+N, Navarrete J, Gomez A, Villarreal C, Pimentel A, de la Mora E, Alarcon A, 
+Vidaurre T, Alvarez R, Sotelo M, Leiva M, Li R, Villa CP, Lui AG, Tiambeng ML, 
+Tadeo K, Bing JTC, Alipat JJ, Tan J, Park YH, Sohn JH, Lee KS, Jung KH, Chae YS, 
+Kim JH, Im SA, Seo JH, Lee J, Kim HJ, Ungureanu A, Nitipir C, Gornastolev D, 
+Mochalova A, Kislov N, Karnaukhov I, Pokataev I, Krivorotko P, Sefiane S, Bin 
+Jabal D, Refae S, Al-Foheidi M, Al-Tweigeri T, Schoeman E, Rapoport B, 
+Mekebeb-Reuter M, Maurel JM, Demetriou G, Coccia-Portugal M, Punt L, Corlia C, 
+Mathiba R, Ciruelos E, Cortes Castan J, Saura C, Zamora Auñón P, Vidal MJ, 
+Cubedo Cervera R, Ponce J, de la Cruz L, Valachis A, Samuelsson Gustbée E, Klint 
+L, Margolin S, Lindman H, Chao TY, Tseng LM, Huang CS, Chang YC, Chung WP, Chen 
+SC, Wang HC, Demirci U, Dikilitas M, Arslan C, Kemal Y, Şendur MAN, Bayram E, 
+Davies M, Howell S, Spensley S, Michie C, Paterson F, Schmid P, Raja F, Tolaney 
+S, Ali H, Beck T, Gillespie-Twardy A, Danso M, Richards D, Seneviratne L, 
+Dasgupta A, Craft B, Aponte E, Kurkul C, Ackerman C, Ahmed A, Osborne C, Kannan 
+L, Vidal G, Ryan P, Sandoval Leon A, Zuniga R, Andreopoulou E, Guerin B, Tung N, 
+Robinson S, Feinstein T, Senecal F, La Porte P, Thummala A.
+
+Author information:
+(1)Dana-Farber Cancer Institute, Harvard Medical School, Boston.
+(2)Department of Breast Cancer, Fifth Medical Center of People's Liberation Army 
+General Hospital, Beijing.
+(3)Department of Oncology, Harbin Medical University Cancer Hospital, Harbin, 
+China.
+(4)Brasilia Hospital, Rede Américas, Brasilia, Brazil.
+(5)Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, 
+South Korea.
+(6)Dan L. Duncan Comprehensive Cancer Center, Baylor College of Medicine, 
+Houston.
+(7)Vall d'Hebron University Hospital, Barcelona.
+(8)National Center for Tumor Diseases, University Hospital and German Cancer 
+Research Center, Heidelberg, Germany.
+(9)Tokyo Metropolitan Cancer and Infectious Disease Center, Komagome Hospital, 
+Tokyo.
+(10)Department of Oncology and Hematology, Kyungpook National University Chilgok 
+Hospital, Kyungpook National University School of Medicine, Daegu, South Korea.
+(11)Department of Medical Oncology, Faculty of Medicine, Altınbas University, 
+Istanbul, Turkey.
+(12)Department of Medical Oncology, HCG Manavata Cancer Center, Mumbai Naka, 
+Nashik, India.
+(13)Department of Medical Oncology, Faculty of Medicine, Ankara Yıldırım Beyazıt 
+University, Ankara Bilkent City Hospital, Ankara, Turkey.
+(14)Department of Breast Surgery and Oncology, Kanagawa Cancer Center, Yokohama, 
+Japan.
+(15)Clinical Oncology Unit, LUCEN, Buenos Aires.
+(16)Department of Medical Oncology, Brock Cancer Center, Virginia Oncology 
+Associates, Norfolk.
+(17)Department of Medical Oncology, Brock Cancer Center, Sarah Cannon Research 
+Institute, Norfolk, VA.
+(18)Biometrics Oncology, Late-Stage Development, Oncology Research and 
+Development, AstraZeneca, San Francisco.
+(19)Late Development Oncology, Clinical Development, Oncology Research and 
+Development, AstraZeneca, Gaithersburg, MD.
+(20)Johann Wolfgang Goethe Universität, Frankfurt am Main, Germany.
+(21)German Breast Group, Frankfurt am Main, Germany.
+
+Comment in
+    Transl Cancer Res. 2026 Apr 30;15(4):354. doi: 10.21037/tcr-2026-1-0209.
+
+BACKGROUND: Trastuzumab deruxtecan has shown efficacy in patients with 
+previously treated human epidermal growth factor receptor 2 (HER2)-positive 
+advanced or metastatic breast cancer. The efficacy and safety of trastuzumab 
+deruxtecan in patients with no previous therapy for HER2-positive advanced or 
+metastatic breast cancer are unclear.
+METHODS: We conducted a phase 3 trial involving patients with HER2-positive 
+advanced or metastatic breast cancer and no previous chemotherapy or 
+HER2-directed therapy for metastatic disease. Patients were randomly assigned in 
+a 1:1:1 ratio to receive trastuzumab deruxtecan plus pertuzumab; trastuzumab 
+deruxtecan plus placebo; or a taxane, trastuzumab, and pertuzumab (THP). The 
+primary end point was progression-free survival as assessed by blinded 
+independent central review. Secondary end points included objective response, 
+duration of response, and safety.
+RESULTS: For this prespecified interim analysis, data for trastuzumab deruxtecan 
+plus pertuzumab and for THP are reported; data for trastuzumab deruxtecan plus 
+placebo remain blinded until the final analysis of progression-free survival. At 
+the data-cutoff date (February 26, 2025), the median progression-free survival 
+was 40.7 months with trastuzumab deruxtecan plus pertuzumab (383 patients) and 
+26.9 months with THP (387 patients) (hazard ratio for progression or death, 
+0.56; 95% confidence interval [CI], 0.44 to 0.71; P<0.00001 [P-value boundary 
+for superiority, 0.00043]). The incidence of a confirmed response was 85.1% with 
+trastuzumab deruxtecan plus pertuzumab and 78.6% with THP (complete responses in 
+15.1% and 8.5%, respectively), with a median duration of response of 39.2 months 
+and 26.4 months. Safety was consistent with the known profiles of the individual 
+treatments. The incidence of grade 3 or higher adverse events was 63.5% with 
+trastuzumab deruxtecan plus pertuzumab and 62.3% with THP; the most common were 
+neutropenia, hypokalemia, and anemia with trastuzumab deruxtecan plus pertuzumab 
+and neutropenia, leukopenia, and diarrhea with THP. Adjudicated drug-related 
+interstitial lung disease or pneumonitis occurred in 12.1% of patients receiving 
+trastuzumab deruxtecan plus pertuzumab (grade 1 or 2 in 44 patients and grade 5 
+[death] in 2 patients) and in 1.0% of those receiving THP (all grade 1 or 2).
+CONCLUSIONS: Trastuzumab deruxtecan plus pertuzumab led to a significantly lower 
+risk of progression or death than THP when used as first-line treatment for 
+HER2-positive advanced or metastatic breast cancer, with no new safety signals. 
+(Funded by AstraZeneca and Daiichi Sankyo; DESTINY-Breast09 ClinicalTrials.gov 
+number, NCT04784715.).
+
+Copyright © 2025 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2508668
+PMID: 41160818 [Indexed for MEDLINE]

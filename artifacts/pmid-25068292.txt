@@ -1,0 +1,55 @@
+1. PLoS One. 2014 Jul 28;9(7):e102764. doi: 10.1371/journal.pone.0102764. 
+eCollection 2014.
+
+Differential peripheral blood gene expression profile based on Her2 expression 
+on primary tumors of breast cancer patients.
+
+Tudoran O(1), Virtic O(2), Balacescu L(1), Pop L(2), Dragla F(1), Eniu A(1), 
+Fetica B(3), Balacescu O(1), Berindan-Neagoe I(4).
+
+Author information:
+(1)Department of Functional Genomics and Experimental Pathology, The Oncology 
+Institute I. Chiricuta, Cluj-Napoca, Romania.
+(2)Research Center for Functional Genomics, Biomedicine and Translational 
+Medicine, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj-Napoca, 
+Romania.
+(3)Department of Pathology, The Oncology Institute I. Chiricuta, Cluj-Napoca, 
+Romania.
+(4)Department of Functional Genomics and Experimental Pathology, The Oncology 
+Institute I. Chiricuta, Cluj-Napoca, Romania; Research Center for Functional 
+Genomics, Biomedicine and Translational Medicine, Iuliu Hatieganu University of 
+Medicine and Pharmacy, Cluj-Napoca, Romania; Department of Immunology, Iuliu 
+Hatieganu University of Medicine and Pharmacy, Cluj Napoca, Romania.
+
+Erratum in
+    PLoS One. 2014;9(10):e110962.
+
+Breast cancer prognosis and treatment is highly dependent on the molecular 
+features of the primary tumors. These tumors release specific molecules into the 
+environment that trigger characteristic responses into the circulatory cells. In 
+this study we investigated the expression pattern of 84 genes known to be 
+involved in breast cancer signaling in the peripheral blood of breast cancer 
+patients with ER-, PR- primary tumors. The patients were grouped according to 
+Her2 expression on the primary tumors in Her2+ and Her2- cohorts. 
+Transcriptional analysis revealed 15 genes to be differentially expressed 
+between the two groups highlighting that Her2 signaling in primary tumors could 
+be associated with specific blood gene expression. We found CCNA1 to be 
+up-regulated, while ERBB2, RASSF1, CDH1, MKI67, GATA3, GLI1, SFN, PTGS2, JUN, 
+NOTCH1, CTNNB1, KRT8, SRC, and HIC1 genes were down-regulated in the blood of 
+triple negative breast cancer patients compared to Her2+ cohort. IPA network 
+analysis predicts that the identified genes are interconnected and regulate each 
+other. These genes code for cell cycle regulators, cell adhesion molecules, 
+transcription factors or signal transducers that modulate immune signaling, 
+several genes being also associated with cancer progression and treatment 
+response. These results indicate an altered immune signaling in the peripheral 
+blood of triple negative breast cancer patients. The involvement of the immune 
+system is necessary in favorable treatment response, therefore these results 
+could explain the low response rates observed for triple negative breast cancer 
+patients.
+
+DOI: 10.1371/journal.pone.0102764
+PMCID: PMC4113305
+PMID: 25068292 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

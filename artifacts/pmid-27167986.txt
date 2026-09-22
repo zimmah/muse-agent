@@ -1,0 +1,53 @@
+1. Breast Cancer Res Treat. 2016 Jun;157(2):307-318. doi: 
+10.1007/s10549-016-3828-6. Epub 2016 May 11.
+
+Efficacy and safety of trastuzumab emtansine (T-DM1) in patients with 
+HER2-positive breast cancer with brain metastases.
+
+Jacot W(1), Pons E(2), Frenel JS(3), Guiu S(4), Levy C(5), Heudel PE(6), 
+Bachelot T(6), D'Hondt V(4), Darlix A(4), Firmin N(4), Romieu G(4), Thezenas 
+S(7), Dalenc F(2).
+
+Author information:
+(1)Medical Oncology Department, Institut Régional du Cancer de Montpellier 
+(ICM), 208 rue des Apothicaires, 34298, Montpellier Cedex 5, France. 
+william.jacot@icm.unicancer.fr.
+(2)Medical Oncology Department, Institut Claudius Regaud, IUCT-Oncopole, 1 
+avenue Irène Joliot-Curie, 31059, Toulouse, France.
+(3)Medical Oncology Department, Institut de Cancérologie de l'Ouest, Boulevard 
+Professeur Jacques Monod, 44805, Saint-Herblain, France.
+(4)Medical Oncology Department, Institut Régional du Cancer de Montpellier 
+(ICM), 208 rue des Apothicaires, 34298, Montpellier Cedex 5, France.
+(5)Breast Pathology Unit, Centre François Baclesse, 3 Avenue du Général Harris, 
+14000, Caen, France.
+(6)Medical Oncology Department, Centre Léon Bérard, 28 Prom. Léa et Napoléon 
+Bullukian, 69008, Lyon, France.
+(7)Biometrics Unit, Institut régional du Cancer de Montpellier (ICM), 208 rue 
+des Apothicaires, 34298, Montpellier, France.
+
+Few data are currently available regarding the efficacy and safety of T-DM1 in 
+breast cancer (BC) patients with unselected brain metastases (BM), since most 
+clinical trials have excluded BM patients or have only included highly selected 
+patients. HER2 + BC patients with BM treated with T-DM1 in 5 French centers were 
+included in this retrospective study. Clinical management was performed 
+according to the product guidelines. Efficacy was evaluated recording tumor 
+response rates, progression-free (PFS) and overall survival, treatment 
+compliance, and safety. Thirty nine patients received T-DM1, among whom 82 % 
+presented with concomitant extra-cerebral disease. Median number of previous 
+metastatic chemotherapy and HER2-directed targeted therapy regimens was 2 (range 
+0-8) and 1 (0-7), respectively. Thirty six patients had received BM 
+loco-regional treatment (72 % whole-brain radiation therapy). After a median 
+follow-up of 8.1 months (1.4-39.6), 24 patients had progressed (first site of 
+progression: brain 14; meningeal 2; outside of the central nervous system 5; 
+both intra- and extra-cerebral 3), 12 patients had died (disease progression), 
+and 27 patients were still alive. Median number of T-DM1 cycles was 8 (1-43). 
+There were 17 partial responses (44 %) and 6 patients achieved disease 
+stabilization (59 % clinical benefit rate). Median PFS was 6.1 months (95 %CI 
+5.2-18.3), with one- and two-year PFS rates of 33 and 17 %, respectively. 
+Treatment was well tolerated, without unexpected toxicities, treatment delay, or 
+dose reduction. In this retrospective study, T-DM1 appeared to be an effective 
+and well-tolerated therapeutic option in unselected HER2 + BC patients with BM. 
+These findings require a prospective validation.
+
+DOI: 10.1007/s10549-016-3828-6
+PMID: 27167986 [Indexed for MEDLINE]

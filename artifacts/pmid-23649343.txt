@@ -1,0 +1,27 @@
+1. Biol Pharm Bull. 2013;36(5):861-5. doi: 10.1248/bpb.b12-01084.
+
+Therapeutic effects of autologous lymphocytes activated with trastuzumab for 
+xenograft mouse models of human breast cancer.
+
+Nakagawa S(1), Matsuoka Y, Ichihara H, Yoshida H, Yoshida K, Ueoka R.
+
+Author information:
+(1)Immuno-medical Lab, Omote Sando Yoshida Hospital, Kumamoto 860–0855, Japan.
+
+Trastuzumab (TTZ) is molecular targeted drug used for metastatic breast cancer 
+patients overexpressing human epidermal growth factor receptor 2 (HER2). 
+Therapeutic effects of lymphocytes activated with TTZ (TTZ-LAK) using xenograft 
+mouse models of human breast cancer (MDA-MB-453) cells were examined in vivo. 
+Remarkable reduction of tumor volume in a xenograft mouse models intravenously 
+treated with TTZ-LAK cells after the subcutaneously inoculated of MDA-MB-453 
+cells was verified in vivo. The migration of TTZ-LAK cells in tumor of mouse 
+models subcutaneously inoculated MDA-MB-453 cells was observed on the basis of 
+histological analysis using immunostaining with CD-3. Induction of apoptosis in 
+tumor of xenograft mice treated with TTZ-LAK cells was observed in micrographs 
+using terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate 
+nick-end labeling (TUNEL) method. It was noteworthy that the therapeutic effects 
+of TTZ-LAK cells along with apoptosis were obtained for xenograft mouse models 
+of human breast tumor in vivo.
+
+DOI: 10.1248/bpb.b12-01084
+PMID: 23649343 [Indexed for MEDLINE]
