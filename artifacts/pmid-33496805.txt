@@ -1,0 +1,57 @@
+1. Virchows Arch. 2021 Jul;479(1):13-21. doi: 10.1007/s00428-021-03036-2. Epub
+2021  Jan 26.
+
+Predictive significance of HER2 intratumoral heterogeneity, determined by 
+simultaneous gene and protein analysis, for resistance to trastuzumab-based 
+treatments for HER2-positive breast cancer.
+
+Horii R(1)(2), Nitta H(3), Nojima M(4), Maruyama R(5), Ueno T(6), Ito Y(6), Ohno 
+S(6), Banks P(7), Kanda H(8)(9), Akiyama F(8).
+
+Author information:
+(1)Division of Pathology, Cancer Institute, Japanese Foundation for Cancer 
+Research, Tokyo, Japan. riehorii@cancer-c.pref.saitamaa.jp.
+(2)Department of Pathology, Saitama Cancer Center, 780 Komuro, Ina, 
+Kita-adachi-gun, Saitama, 362-0806, Japan. riehorii@cancer-c.pref.saitamaa.jp.
+(3)Roche Tissue Diagnostics, Tucson, AZ, USA.
+(4)Center for Translational Research, The Institute of Medical Science Hospital, 
+The University of Tokyo, Tokyo, Japan.
+(5)Project for Cancer Epigenomics, Cancer Institute, Japanese Foundation for 
+Cancer Research, Tokyo, Japan.
+(6)Breast Oncology Center, Cancer Institute Hospital, Japanese Foundation for 
+Cancer Research, Tokyo, Japan.
+(7)Department of Pathology and Laboratory Medicine, University of North Carolina 
+at Chapel Hill, Chapel Hill, NC, USA.
+(8)Division of Pathology, Cancer Institute, Japanese Foundation for Cancer 
+Research, Tokyo, Japan.
+(9)Department of Pathology, Saitama Cancer Center, 780 Komuro, Ina, 
+Kita-adachi-gun, Saitama, 362-0806, Japan.
+
+Gene-protein assay (GPA), a combination of immunohistochemistry and dual in situ 
+hybridization, allows simultaneous visualization of HER2 protein and gene on a 
+single slide. We aimed to clarify the clinical significance of HER2 intratumoral 
+heterogeneity (ITH) using GPA. We investigated the relationships between various 
+HER2 ITH indicators and clinical course in 102 patients with HER2-positive 
+breast cancer, treated with neoadjuvant trastuzumab and chemotherapy. Five 
+representative microscopic images were captured from each GPA slide of 
+pre-therapeutic biopsy materials. All evaluable cancer cells in the images were 
+individually assessed for HER2 gene copy number and protein expression. Mean and 
+coefficient of variation (CV) of both gene copy number and protein category were 
+calculated, and each was divided into negative, equivocal, and positive. Based 
+on their combined status, cancer cells were classified into nine types. 
+Pathological complete response (pCR) to neoadjuvant treatments showed positive 
+relationships to mean gene copy number (P < 0.001), mean protein category (P < 
+0.001), and proportion of gene- and protein-positive tumor cells (P < 0.001) and 
+showed negative relationships to the CV of protein category (P < 0.001) and the 
+proportion of gene-amplified but protein-negative tumor cells (P = 0.002). Two 
+diagnostic models, created by combining clinicopathological factors and ITH 
+indicators, showed excellent potential diagnostic ability for pCR (mean gene 
+copy number and protein category CV; AUC = 0.837, proportion of gene- and 
+protein-positive tumor cells; AUC = 0.831). HER2 ITH quantified by GPA is a 
+potential predictive indicator for efficacy of HER2-targeted treatment.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH, DE part 
+of Springer Nature.
+
+DOI: 10.1007/s00428-021-03036-2
+PMID: 33496805 [Indexed for MEDLINE]
