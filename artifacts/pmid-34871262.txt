@@ -1,0 +1,62 @@
+1. Medicine (Baltimore). 2021 Nov 5;100(44):e27710. doi: 
+10.1097/MD.0000000000027710.
+
+Real-world effectiveness and sensitivity of palbociclib plus endocrine therapy 
+in HR+/HER2- patients with metastatic breast cancer.
+
+Li J(1), Zhang X(2), Yang C(1)(2), Lv Y(3), Yang H(4), Kong X(5), Han M(6), Wang 
+Z(7), Ma J(8), Han J(9), Liu Y(1)(2).
+
+Author information:
+(1)Breast Center, The Fourth Hospital of Hebei Medical University, Shijiazhuang, 
+China.
+(2)Hebei Provincial Key Laboratory of Tumor Microenvironment and Drug 
+Resistance, China.
+(3)Department of Medical Oncology, The Fourth Hospital of Hebei Medical 
+University, Shijiazhuang, China.
+(4)Department of Internal Medicine, Affiliated Hospital of Hebei University, 
+Baoding, China.
+(5)Department of Breast Cancer, People's Hospital of Xingtai City, Xingtai, 
+China.
+(6)Department of Breast Cancer, First Hospital of Qinhuangdao City, Qinhuangdao, 
+China.
+(7)Department of Breast Cancer, Center Hospital of Cangzhou City, Cangzhou, 
+China.
+(8)Department of Breast Cancer, People's Hospital of Tangshan City, Tangshan, 
+China.
+(9)Department of Breast Cancer, Affiliated Hospital of Hebei University of 
+Engineering, Handan, China.
+
+Palbociclib has shown satisfactory outcomes when combined with endocrine therapy 
+(ET) in hormone receptor-positive and human epidermal growth factor receptor 
+2-negative (HR+/HER2-) metastatic breast cancer (MBC). However, data in Asia are 
+currently scarce.This retrospective study aimed to evaluate the real-world 
+effectiveness, sensitivity, and toxicity of palbociclib plus ET in HR+/HER2- MBC 
+in North China. We recruited patients with HR+/HER2- MBC from August 2018 to 
+July 2020 across 7 hospitals in North China. The primary endpoint was to 
+evaluate progression-free survival (PFS) after initial progress on palbociclib 
+therapy. The secondary endpoints included determining predictive biomarkers of 
+palbociclib sensitivity and toxicity of palbociclib.A total of 54 patients were 
+analyzed in this cohort with an estimated median follow-up time of 14.3 months. 
+Patients who received palbociclib as a first-line treatment showed significantly 
+prolonged PFS compared with those who received palbociclib as a second-line or 
+beyond treatment (21.8 months vs 15.9 months vs 6.8 months) (P < .001). Besides, 
+patients with Ki67 <30% (P = .024) and PR ≥20% (P = .041) in metastatic tumors 
+had significantly longer PFS. The Cox proportional-hazards regression analyses 
+proved that different lines (P = .001 in multivariate analysis), Ki67 <30% 
+(P = .035 in multivariate analysis), and PR ≥20% (P = .045 in univariate 
+analysis) in metastatic tumors affected PFS significantly. The most common 
+adverse events were hematologic, with 31.48% of patients having 
+neutropenia.Palbociclib plus ET significantly prolonged PFS for patients with 
+HR+/HER2- MBC who received first-line therapy, with manageable toxicity. The 
+values of Ki67 and PR in metastatic tumors may be potential predictive 
+biomarkers of palbociclib sensitivity.
+
+Copyright © 2021 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000027710
+PMCID: PMC8568379
+PMID: 34871262 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.
