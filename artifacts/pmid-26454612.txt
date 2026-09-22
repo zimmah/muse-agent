@@ -1,0 +1,46 @@
+1. Clin Breast Cancer. 2016 Apr;16(2):87-94. doi: 10.1016/j.clbc.2015.09.009.
+Epub  2015 Sep 25.
+
+A Pilot Study of Dose-Dense Paclitaxel With Trastuzumab and Lapatinib for 
+Node-negative HER2-Overexpressed Breast Cancer.
+
+Iyengar NM(1), Fornier MN(2), Sugarman SM(2), Theodoulou M(2), Troso-Sandoval 
+TA(2), D'Andrea GM(2), Drullinsky PR(2), Gajria D(2), Goldfarb SB(2), Comen 
+EA(2), Lake DE(2), Modi S(2), Traina TA(2), Lacouture ME(2), Chen MF(2), Patil 
+S(2), Baselga J(2), Norton L(2), Hudis CA(2), Dang CT(2).
+
+Author information:
+(1)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY. 
+Electronic address: iyengarn@mskcc.org.
+(2)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY.
+
+BACKGROUND: Dual anti-HER2 therapy is effective for HER2-amplified breast 
+cancer. Weekly paclitaxel, trastuzumab, and full-dose lapatinib (PTL) is not 
+feasible because of grade 3 diarrhea. We conducted a phase II feasibility study 
+of dose-dense (DD; every other week) PTL (ClinicalTrials.gov identifier, 
+NCT01827163).
+PATIENTS AND METHODS: Eligible patients had HER2-positive breast cancer, tumor 
+size ≤ 3 cm, and negative nodes. Treatment included paclitaxel (175 mg/m(2) × 4, 
+every 2 weeks with pegfilgrastim), trastuzumab (4 mg/kg load and then 2 mg/kg 
+weekly), and lapatinib (1000 mg daily). After paclitaxel × 4, trastuzumab (6 
+mg/kg every 3 weeks) plus lapatinib were continued for 1 year. The primary 
+endpoint was feasibility, defined as (1) > 80% of patients completing PTL 
+without a dose delay or reduction, (2) grade 3 diarrhea rate < 20%, and (3) 
+cardiac event rate < 4%.
+RESULTS: From May 2013 to November 2013, we enrolled 20 of 55 planned patients. 
+The median age was 49 years (range, 34-74 years). One patient had immediate 
+paclitaxel hypersensitivity and was deemed inevaluable. Only 13 of 19 evaluable 
+patients (68%) completed PTL without a dose delay or reduction or unacceptable 
+toxicities. Only 3 of 19 (16%) had grade 3 diarrhea. Rash was frequent, with all 
+grades in 18 of 19 (95%) and grade 3 in 2 of 19 (11%). The study was stopped 
+early because of excess toxicity.
+CONCLUSION: The discontinuation rate during DD PTL was high, owing, in part, to 
+an unexpectedly high incidence of rash. The trial was halted, because the 
+initial discontinuation rate from overall toxicity made it unlikely that full 
+accrual would demonstrate feasibility.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2015.09.009
+PMCID: PMC4968930
+PMID: 26454612 [Indexed for MEDLINE]
