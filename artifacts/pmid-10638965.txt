@@ -1,0 +1,34 @@
+1. Br J Cancer. 2000 Jan;82(1):46-51. doi: 10.1054/bjoc.1999.0875.
+
+Anti-HER2 antibody enhances the growth inhibitory effect of anti-oestrogen on 
+breast cancer cells expressing both oestrogen receptors and HER2.
+
+Kunisue H(1), Kurebayashi J, Otsuki T, Tang CK, Kurosumi M, Yamamoto S, Tanaka 
+K, Doihara H, Shimizu N, Sonoo H.
+
+Author information:
+(1)Department of Breast and Thyroid Surgery, Kawasaki Medical School, Okayama, 
+Japan.
+
+Anti-oestrogen is effective for the treatment of oestrogen receptor 
+(ER)-positive breast carcinomas, but most of these tumours become resistant to 
+anti-oestrogen. It has been suggested that anti-oestrogen therapy may induce a 
+HER2 signalling pathway in breast cancer cells and this may cause resistance to 
+anti-oestrogen. Thus, it is conceivable that combined therapy with 
+anti-oestrogen and anti-HER2 antibody might be more effective. In the present 
+study, we investigated the effect of combined treatment with a humanized 
+anti-HER2 monoclonal antibody, rhumAbHER2 (trastuzumab), and an anti-oestrogen, 
+ICI 182,780, on the cell growth of three human breast cancer cell lines which 
+respectively express different levels of ER and HER2. The combined treatment 
+enhanced the growth inhibitory effect on ML-20 cells, which express a high level 
+of ER and a moderate level of HER2, but showed no additive effect on either 
+KPL-4 cells, which express no ER and a moderate level of HER2, or MDA-MB-231 
+cells, which express no ER and a low level of HER2. It is also suggested that 
+both the antibody and anti-oestrogen induce a G1-S blockade and apoptosis. These 
+findings indicate that combined treatment with anti-HER2 antibody and 
+anti-oestrogen may be useful for the treatment of patients with breast cancer 
+expressing both ER and HER2.
+
+DOI: 10.1054/bjoc.1999.0875
+PMCID: PMC2363211
+PMID: 10638965 [Indexed for MEDLINE]
