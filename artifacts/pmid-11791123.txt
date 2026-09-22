@@ -1,0 +1,22 @@
+1. Breast Cancer. 2001;8(4):310-5. doi: 10.1007/BF02967530.
+
+Compassionate use of humanized anti-HER2/neu protein, trastuzumab for metastatic 
+breast cancer in Japan.
+
+Tokuda Y(1), Suzuki Y, Ohta M, Saito Y, Kubota M, Tajima T, Umemura S, Osamura 
+RY.
+
+Author information:
+(1)Department of Surgery, Tokai University School of Medicine, Bohseidai, 
+Isehara, Kanagawa 259-1193, Japan. tokuda@is.icc.u-tokai.ac.jp
+
+The HER-2/neu protein is thought to be a unique and useful target for antibody 
+therapy of cancers overexpressing the HER-2/neu gene. The recombinant humanized 
+anti-HER-2 monoclonal antibody, trastuzumab (Herceptin) was approved for 
+clinical use in the US in 1998. In Japan, it was approved and later became 
+available in June, 2001. We have treated 41 patients with metastatic breast 
+cancer with trastuzumab purchased from the US. In this paper, the details of the 
+patients we experienced are reviewed.
+
+DOI: 10.1007/BF02967530
+PMID: 11791123 [Indexed for MEDLINE]
