@@ -424,23 +424,48 @@ async function verifyBatch(state: State, max: number): Promise<number> {
     );
     return 0;
   }
+  // evidence index: contentHash / hash → PMID, for claims that only reference evidence by hash
+  const pmidByHash = new Map<string, string>();
+  for (const ev of graph.evidence ?? []) {
+    if (ev?.externalId) {
+      if (ev.hash) pmidByHash.set(String(ev.hash), String(ev.externalId));
+      if (ev.contentHash)
+        pmidByHash.set(String(ev.contentHash), String(ev.externalId));
+    }
+  }
+  const ours = new Set(state.usedPmids ?? []);
   const verified = new Set(state.verifiedClaims ?? []);
-  const candidates = all.filter(
-    (c) =>
-      !verified.has(c.id) &&
-      c.wallet !== state.wallet &&
-      (c.pmid || /pubmed\.ncbi/.test(String(c.url ?? ""))),
-  );
+  const candidates = all
+    .map((c) => {
+      // resolve PMID: explicit field → URL → "PMID 12345" in the text → any 64-hex hash in the text matching evidence
+      let pmid: string | undefined = c.pmid && String(c.pmid);
+      pmid ??= String(c.url ?? "").match(
+        /pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/,
+      )?.[1];
+      pmid ??= String(c.text).match(/PMID[ :]*(\d{6,9})/i)?.[1];
+      if (!pmid) {
+        for (const h of String(c.text).match(/\b[0-9a-f]{64}\b/g) ?? []) {
+          const hit = pmidByHash.get(h);
+          if (hit) {
+            pmid = hit;
+            break;
+          }
+        }
+      }
+      return { ...c, pmid };
+    })
+    .filter(
+      (c) =>
+        !verified.has(c.id) &&
+        c.wallet !== state.wallet &&
+        c.pmid &&
+        !ours.has(String(c.pmid)),
+    );
   let done = 0;
   for (const c of candidates) {
     if (done >= max) break;
     try {
-      const pmid = String(
-        c.pmid ??
-          String(c.url).match(/pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/)?.[1] ??
-          "",
-      );
-      if (!pmid) continue;
+      const pmid = String(c.pmid);
       const sourceText = await fetchPubmedAbstract(pmid);
 
       // deterministic part: every number in the claim must appear in the source
