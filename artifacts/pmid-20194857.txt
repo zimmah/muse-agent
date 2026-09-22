@@ -1,0 +1,45 @@
+1. J Clin Oncol. 2010 Apr 1;28(10):1684-91. doi: 10.1200/JCO.2009.24.9284. Epub 
+2010 Mar 1.
+
+Breast cancer subtypes and the risk of local and regional relapse.
+
+Voduc KD(1), Cheang MC, Tyldesley S, Gelmon K, Nielsen TO, Kennecke H.
+
+Author information:
+(1)Department of Radiation Oncology, British Columbia Cancer Agency, Vancouver, 
+British Columbia, Canada V5Z 4E6. dvoduc@bccancer.bc.ca
+
+Comment in
+    J Clin Oncol. 2010 Apr 1;28(10):1625-7. doi: 10.1200/JCO.2009.25.2882.
+    J Clin Oncol. 2010 Apr 1;28(10):1627-9. doi: 10.1200/JCO.2009.27.1080.
+
+PURPOSE: The risk of local and regional relapse associated with each breast 
+cancer molecular subtype was determined in a large cohort of patients with 
+breast cancer. Subtype assignment was accomplished using a validated six-marker 
+immunohistochemical panel applied to tissue microarrays.
+PATIENTS AND METHODS: Semiquantitative analysis of estrogen receptor (ER), 
+progesterone receptor (PR), Ki-67, human epidermal growth factor receptor 2 
+(HER2), epidermal growth factor receptor (EGFR), and cytokeratin (CK) 5/6 was 
+performed on tissue microarrays constructed from 2,985 patients with early 
+invasive breast cancer. Patients were classified into the following categories: 
+luminal A, luminal B, luminal-HER2, HER2 enriched, basal-like, or 
+triple-negative phenotype-nonbasal. Multivariable Cox analysis was used to 
+determine the risk of local or regional relapse associated the intrinsic 
+subtypes, adjusting for standard clinicopathologic factors.
+RESULTS: The intrinsic molecular subtype was successfully determined in 2,985 
+tumors. The median follow-up time was 12 years, and there have been a total of 
+325 local recurrences and 227 regional lymph node recurrences. Luminal A tumors 
+(ER or PR positive, HER2 negative, Ki-67 < 1%) had the best prognosis and the 
+lowest rate of local or regional relapse. For patients undergoing breast 
+conservation, HER2-enriched and basal subtypes demonstrated an increased risk of 
+regional recurrence, and this was statistically significant on multivariable 
+analysis. After mastectomy, luminal B, luminal-HER2, HER2-enriched, and basal 
+subtypes were all associated with an increased risk of local and regional 
+relapse on multivariable analysis.
+CONCLUSION: Luminal A tumors are associated with a low risk of local or regional 
+recurrence. Molecular subtyping of breast tumors using a six-marker 
+immunohistochemical panel can identify patients at increased risk of local and 
+regional recurrence.
+
+DOI: 10.1200/JCO.2009.24.9284
+PMID: 20194857 [Indexed for MEDLINE]
