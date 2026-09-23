@@ -1,0 +1,37 @@
+1. J Control Release. 2013 Aug 10;169(3):185-92. doi: 
+10.1016/j.jconrel.2013.01.035. Epub 2013 Feb 10.
+
+Targeted co-delivery of docetaxel, cisplatin and herceptin by vitamin E 
+TPGS-cisplatin prodrug nanoparticles for multimodality treatment of cancer.
+
+Mi Y(1), Zhao J, Feng SS.
+
+Author information:
+(1)Department of Chemical & Biomolecular Engineering, Faculty of Engineering, 
+National University of Singapore, Block E5 #02-11, 4 Engineering Drive 4, 
+Singapore 117576, Singapore.
+
+We developed a nanocarrier system of herceptin-conjugated nanoparticles of 
+d-alpha-tocopheryl-co-poly(ethylene glycol) 1000 succinate (TPGS)-cisplatin 
+prodrug (HTCP NPs) for targeted co-delivery of cisplatin, docetaxel and 
+herceptin for multimodality treatment of breast cancer of high human epidermal 
+growth factor receptor 2 (HER2) overexpression. Co-polymers poly(lactic 
+acid)-TPGS (PLA-TPGS) and carboxyl group-terminated TPGS (TPGS-COOH) were also 
+added in the polymeric matrix to stabilize the prodrug nanoparticles and to 
+facilitate herceptin conjugation. The HTCP NPs of high, moderate and low 
+docetaxel versus cisplatin ratio were prepared by the nanoprecipitation method, 
+which showed a pH-sensitive release for both anticancer drugs. The therapeutic 
+effects of HTCP NPs were evaluated in vitro and compared with Taxotere® and 
+cisplatin. The HTCP NPs of high docetaxel versus cisplatin ratio were found to 
+have better efficacy than those of moderate and low docetaxel versus cisplatin 
+ratio. The targeting effects of the HTCP NPs were demonstrated by a much lower 
+IC50 value of 0.0201+0.00780+0.1629μg/mL of docetaxel+cisplatin+herceptin for 
+SK-BR-3 cells, which are of high HER2 overexpression, than that of 
+0.225+0.0875+1.827μg/mL for NIH3T3 cells, which are of low HER2 overexpression, 
+after 24h incubation. The same design of TPGS prodrug nanoparticles can also be 
+applied for targeted co-delivery of other hydrophilic and hydrophobic drugs.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jconrel.2013.01.035
+PMID: 23403395 [Indexed for MEDLINE]
