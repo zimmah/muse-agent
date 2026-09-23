@@ -1,0 +1,35 @@
+1. Clin Pharmacol Ther. 2014 May;95(5):558-64. doi: 10.1038/clpt.2014.24. Epub
+2014  Jan 31.
+
+Exposure-response relationship of T-DM1: insight into dose optimization for 
+patients with HER2-positive metastatic breast cancer.
+
+Wang J(1), Song P(1), Schrieber S(1), Liu Q(1), Xu Q(2), Blumenthal G(3), Amiri 
+Kordestani L(3), Cortazar P(3), Ibrahim A(3), Justice R(3), Wang Y(1), Tang 
+S(2), Booth B(1), Mehrotra N(1), Rahman A(1).
+
+Author information:
+(1)Office of Clinical Pharmacology, Center for Drug Evaluation and Research, US 
+Food and Drug Administration, Silver Spring, Maryland, USA.
+(2)Office of Biostatistics, Center for Drug Evaluation and Research, US Food and 
+Drug Administration, Silver Spring, Maryland, USA.
+(3)Office of Hematology and Oncology Products, Center for Drug Evaluation and 
+Research, US Food and Drug Administration, Silver Spring, Maryland, USA.
+
+Exposure-response (E-R) analyses for ado-trastuzumab emtansine (T-DM1, Kadcyla) 
+were performed using data from a randomized, active control (lapatinib plus 
+capecitabine) trial in patients with human epidermal growth factor 2-positive 
+metastatic breast cancer. Kaplan-Meier survival analyses stratified by T-DM1 
+trough concentration on day 21 of cycle 1 (Cmin,C1D21) were performed for 
+overall survival (OS) and progression-free survival (PFS). E-R analyses 
+indicated that after adjusting for baseline risk factors, higher T-DM1 exposure 
+is associated with improved efficacy. T-DM1-treated patients with Cmin,C1D21 
+lower than the median value had values of OS and PFS comparable to those of the 
+active control arm. The percentage of patients who received T-DM1 dose 
+adjustments was similar across the exposure range and was lower than that of the 
+active control arm. Our findings suggest that there may be an opportunity to 
+optimize Kadcyla dose in the patient subgroup with low T-DM1 exposure for 
+improved efficacy with acceptable tolerability.
+
+DOI: 10.1038/clpt.2014.24
+PMID: 24488143 [Indexed for MEDLINE]
