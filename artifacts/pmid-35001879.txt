@@ -1,0 +1,36 @@
+1. Cancer Biomark. 2022;34(2):319-328. doi: 10.3233/CBM-210470.
+
+Thresholding of prominent biomarkers of breast cancer on overall survival using 
+classification and regression tree.
+
+Vishwakarma GK(1), Kumari P(1), Bhattacharjee A(2)(3).
+
+Author information:
+(1)Department of Mathematics & Computing, Indian Institute of Technology 
+Dhanbad, Dhanbad-826004, India.
+(2)Section of Biostatistics, Centre for Cancer Epidemiology, Tata Memorial 
+Centre, Navi Mumbai, India.
+(3)Homi Bhabha National Institute, Mumbai, India.
+
+BACKGROUND: HER2, ER, PR, and ERBB2 play a vital role in treating breast cancer. 
+These are significant predictive and prognosis biomarkers of breast cancer.
+OBJECTIVE: We aim to obtain a unique biomarker-specific prediction on overall 
+survival to know their survival and death risk.
+METHODS: Survival analysis is performed on classified data using Classification 
+and Regression Tree (CART) analysis. Hazard ratio and Confidence Interval are 
+computed using MLE and the Bayesian approach with the CPH model for univariate 
+and multivariable illustrations. Validation of CART is executed with the Brier 
+score, and accuracy and sensitivity are obtained using the k-nn classifier.
+RESULTS: Utilizing CART analysis, the cut-off value of continuous-valued 
+biomarkers HER2, ER, PR, and ERBB2 are obtained as 14.707, 8.128, 13.153, and 
+6.884, respectively. Brier score of CART is 0.16 towards validation of 
+methodology. Survival analysis gives a demonstration of the survival estimates 
+with significant statistical strategies.
+CONCLUSIONS: Patients with breast cancer are at low risk of death, whose HER2 
+value is below its cut-off value, and ER, PR, and ERBB2 values are greater than 
+their cut-off values. This comparison is with the patient having the opposite 
+side of these cut-off values for the same biomarkers.
+
+DOI: 10.3233/CBM-210470
+PMCID: PMC12364287
+PMID: 35001879 [Indexed for MEDLINE]
