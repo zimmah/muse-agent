@@ -1,0 +1,43 @@
+1. Cancer Epidemiol. 2011 Dec;35(6):503-9. doi: 10.1016/j.canep.2011.01.007. Epub
+ 2011 Apr 7.
+
+Lack of replication for the association between HER2 I655V polymorphism and 
+breast cancer risk: a systematic review and meta-analysis.
+
+Dahabreh IJ(1), Murray S.
+
+Author information:
+(1)Center for Clinical Evidence Synthesis, Institute for Clinical Research and 
+Health Policy Studies, Tufts Medical Center, Boston, MA, USA. 
+idahabreh@tuftsmedicalcenter.org
+
+BACKGROUND: Multiple epidemiological studies have investigated rs1136201, a 
+non-synonymous polymorphism of the human epidermal growth factor receptor-2 gene 
+(HER2) resulting in the substitution of valine for isoleucine at codon 655 
+(Ile655Val) of the HER2 protein, as a risk factor for breast cancer.
+METHODS: We searched multiple databases to identify genetic association studies 
+investigating the effect of rs1136201 on breast cancer risk. For each study we 
+calculated unadjusted odds ratios (ORs) with their variance under additive, 
+dominant, recessive and allele-frequency genetic models. Summary ORs with their 
+corresponding confidence interval (CI) were calculated using random effects 
+models.
+RESULTS: Based on the 33 case-control studies reporting data for the additive 
+genetic model (20,461 cases/23,832 controls) we did not find evidence of an 
+association between rs1136201 and breast cancer, OR=1.05 (95% CI, 0.99-1.11), 
+with significant between-study heterogeneity (p(Q)<0.001; I(2)=49%). Smaller 
+studies produced more extreme results compared to larger studies (p=0.001). 
+Studies in which genotyping was not blind to case-control status (p=0.01), 
+studies not reporting the use of genotyping quality control (p=0.01), and 
+studies using RFLP-based methods (p=0.01) produced significant associations. 
+Meta-regression results confirmed that there was a significant interaction 
+between lack of quality control (p=0.04) and lack of blinding (p=0.04) and the 
+genetic effect of rs1136201 on breast cancer risk.
+CONCLUSIONS: It is unlikely that HER2 rs1136201 is a risk factor for breast 
+cancer. Laboratory artifacts, lack of genotyping quality control or blinding and 
+publication bias appear to have influenced the results published to date and 
+need to be addressed in the design of future studies.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.canep.2011.01.007
+PMID: 21474413 [Indexed for MEDLINE]
