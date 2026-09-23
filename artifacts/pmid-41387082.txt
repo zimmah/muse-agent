@@ -1,0 +1,98 @@
+1. Breast. 2026 Feb;85:104669. doi: 10.1016/j.breast.2025.104669. Epub 2025 Dec
+6.
+
+Adjuvant ovarian function suppression and aromatase inhibitors in premenopausal 
+patients with hormone receptor and HER2 positive breast cancer, by timing of 
+chemotherapy and trastuzumab and response to neoadjuvant therapy.
+
+Shai A(1), Wildiers H(2), Venieri C(3), Pogoda K(4), Linderholm B(5), Lambertini 
+M(6), Matos L(7), De Maio D'Esposito E(8), Hajjaji N(9), Matos E(10), González 
+Cortijo L(11), Fotia G(3), Fortuna A(12), Sella T(13), Gouveia H(7), Rosset 
+L(14), Constantinidou A(15), Angeli E(16), Cicin I(17), Tjan-Heijnen V(18), 
+Ruyssers N(19), Demasure S(20), Abu Remilah A(21), Huygh G(22), Paluch-Shimon 
+S(23), Chiappe E(6), Shirron N(24), Neven P(2), Artac M(25), Kilictas B(25), 
+Baranseh J(24), Vicente-Rubio E(26), Atci M(17), Amato O(27), van Duijnhoven 
+F(28).
+
+Author information:
+(1)Oncology Wing, RAMBAM Health Care Campus, Haifa, Israel; Rappaport Faculty of 
+Medicine, Technion Israeli Institute of Technology, Haifa, Israel. Electronic 
+address: a_shai@rambam.health.gov.il.
+(2)Department of General Medical Oncology and Multidisciplinary Breast Center, 
+University Hospitals Leuven, Leuven, Belgium.
+(3)Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale Tumori, 
+Milan, Italy; Department of Oncology and Hematology-Oncology, University of 
+Milan, Milan, Italy.
+(4)Department of Breast Cancer and Reconstructive Surgery, Maria 
+Sklodowska-Curie National Research Institute of Oncology, Warsaw, Poland.
+(5)Sahlgrenska Academy at Gothenburg University and Sahlgrenska University 
+Hospital, Gothenburg, Sweden.
+(6)Department of Medical Oncology, U.O. Clinica di Oncologia Medica, IRCCS 
+Ospedale Policlinico San Martino, Genova, Italy; Department of Internal Medicine 
+and Medical Specialties (DIMI), School of Medicine, University of Genova, 
+Genova, Italy.
+(7)Breast Unit, Champalimaud Clinical Center, Champalimaud Foundation, Lisbon, 
+Portugal.
+(8)Institut Universitaire du Cancer Toulouse - Oncopole, France.
+(9)Centre Oscar Lambret, Lille, France.
+(10)Institute of Oncology Ljubljana, Slovenia.
+(11)Hospital Universitario Quirónsalud, Madrid, Spain.
+(12)Unidade Local de Saúde do Algarve, Portugal.
+(13)Department of Oncology, Chaim Sheba Medical Center, Tel HaShomer, Israel.
+(14)Centre du Sein Fribourg, Switzerland.
+(15)Bank of Cyprus Oncology Centre, Nicosia, Cyprus.
+(16)Department of Medical Oncology, Hôpital Avicenne, Bobigny, France.
+(17)Department of Medical Oncology, Istinye University, Istanbul, Turkey.
+(18)Div. Medical Oncology, Maastricht UMC+, Netherlands.
+(19)Dept of Surgical Oncology, AZ Turnhout, Belgium.
+(20)AZ Groeninge vzw, Campus Kennedylaan, Kortrijk, Belgium.
+(21)Department of Oncology, Shaare Zedek Medical Center, Jerusalem, Israel.
+(22)AZORG Campus, Moorselbaan, Belgium.
+(23)Sharett Institute of Oncology, Hadassah University Hospital, Israel; Faculty 
+of Medicine Hebrew University, Jerusalem, Israel.
+(24)Oncology Wing, RAMBAM Health Care Campus, Haifa, Israel.
+(25)Necmettin Erbakan University, Department of Medical Oncology, Konya, Turkey.
+(26)Canarian Comprehensive Cancer Center, San Roque University Hospital, Las 
+Palmas de Gran Canaria, Spain.
+(27)Department of Oncology, Luigi Sacco University Hospital, ASST 
+Fatebenefratelli Sacco, Milan, Italy.
+(28)Department of Surgical Oncology, The Netherlands Cancer Institute-Antoni van 
+Leeuwenhoek Hospital, Amsterdam, Netherlands.
+
+BACKGROUND: The benefit of adjuvant ovarian function suppression (OFS) and 
+aromatase inhibitors (AI) in premenopausal patients with hormone receptor 
+positive, HER2 positive (HR+/HER2+) breast cancer (BC) is unclear. We aimed to 
+investigate this question in a retrospective cohort, stratified by timing 
+(adjuvant or neoadjuvant) of chemotherapy and trastuzumab and by response to 
+neoadjuvant therapy.
+METHODS: Patients aged <45Y at diagnosis, with stage I-III HR + HER2+ BC, 
+treated with (neo)adjuvant chemotherapy and trastuzumab ( ± pertuzumab) and 
+endocrine therapy were included. LHRH-agonists and oophorectomy were considered 
+OFS. We compared distant disease-free survival (DDFS) with tamoxifen, 
+OFS + tamoxifen and OFS + AI in three cohorts: neoadjuvant-pathologic complete 
+response (pCR), neoadjuvant-residual disease (RD) and adjuvant. Endocrine 
+therapy (ET) was modeled as a time dependent covariate in cox logistic 
+regression analyses.
+RESULTS: The study included 1124 patients with median follow-up of 72.6 months 
+(range:0-205 months). DDFS rates at 5 years were 83.9 %, 86.8 % and 92.1 % with 
+tamoxifen, OFS + tamoxifen and OFS + AI respectively in the RD group, 94.3 %, 
+97.6 % and 96.5 % in the pCR group, and 94.3 %, 93.4 % and 98.6 % in the 
+adjuvant group. OFS + AI was associated with better DDFS compared to tamoxifen 
+in the RD group (n = 366) (multivariable weighted HR 0.28. 95 % CI 0.11-.069, 
+p = 0.006), but associations of ET with DDFS in the pCR (n = 307, p = 0.59) and 
+adjuvant (n = 451, p = 0.18) cohorts were not detected. Stage III was associated 
+with worse DDFS in all groups.
+CONCLUSION: OFS + AI were associated with better DDFS in patients with RD after 
+neoadjuvant therapy. Our findings can assist shared decision-making on adjuvant 
+endocrine therapy of these patients.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.breast.2025.104669
+PMCID: PMC12892083
+PMID: 41387082 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
