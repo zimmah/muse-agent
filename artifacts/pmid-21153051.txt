@@ -1,0 +1,41 @@
+1. Breast Cancer Res Treat. 2011 Nov;130(1):29-40. doi:
+10.1007/s10549-010-1281-5.  Epub 2010 Dec 9.
+
+HER2-positive breast cancer cells resistant to trastuzumab and lapatinib lose 
+reliance upon HER2 and are sensitive to the multitargeted kinase inhibitor 
+sorafenib.
+
+Valabrega G(1), Capellero S, Cavalloni G, Zaccarello G, Petrelli A, Migliardi G, 
+Milani A, Peraldo-Neia C, Gammaitoni L, Sapino A, Pecchioni C, Moggio A, 
+Giordano S, Aglietta M, Montemurro F.
+
+Author information:
+(1)Department of Oncological Sciences, Institute for Cancer Research and 
+Treatment (IRCC), University of Turin Medical School, Candiolo, TO, Italy. 
+giorgio.valabrega@unito.it
+
+Trastuzumab has changed the prognosis of HER2 positive breast cancers. Despite 
+this progress, resistance to trastuzumab occurs in most patients. Newer 
+anti-HER2 therapies, like the dual tyrosine-kinase inhibitor (TKI) lapatinib, 
+show significant antitumor activity, indicating that HER2 can be still exploited 
+as a target after trastuzumab failure. However, since a high proportion of 
+patients fail to respond to these alternative strategies, it is possible that 
+cell escape from HER2 targeting may rely on HER2 independent pathways. The 
+knowledge of these pathways deserve to be exploited to develop new therapies. We 
+characterized two human HER2 overexpressing breast cancer cell lines resistant 
+to trastuzumab and lapatinib (T100 and JIMT-1) from a molecular and biological 
+point of view. Indeed, we assessed both in vitro and in vivo the activity of the 
+multitarget inhibitor sorafenib. In both cell lines, the previously proposed 
+mechanisms did not explain resistance to HER2 inhibitors. Notably, silencing 
+HER2 by shRNA did not affect the growth of our cells, suggesting loss of 
+reliance upon HER2. Moreover, we identified alterations in two antiapoptotic 
+proteins Mcl-1 and Survivin which are known to be targets of the multikinase 
+inhibitor sorafenib. Moreover, sorafenib, strongly inhibited the in vitro growth 
+of T100 and JIMT-1 cells, through the downregulation of both Mcl-1 and Survivin. 
+Similar results were obtained in JIMT-1 xenografts subcutaneously injected in 
+NOD SCID mice. We provide preclinical evidence that tumor cells resistant to 
+trastuzumab and lapatinib may rely on HER2 independent pathways that can be 
+efficiently inhibited by sorafenib.
+
+DOI: 10.1007/s10549-010-1281-5
+PMID: 21153051 [Indexed for MEDLINE]
