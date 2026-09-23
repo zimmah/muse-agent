@@ -1,0 +1,37 @@
+1. Lancet Oncol. 2019 Jul;20(7):e390-e396. doi: 10.1016/S1470-2045(19)30158-5.
+
+Changing frameworks in treatment sequencing of triple-negative and 
+HER2-positive, early-stage breast cancers.
+
+Pusztai L(1), Foldi J(2), Dhawan A(2), DiGiovanna MP(2), Mamounas EP(3).
+
+Author information:
+(1)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA. Electronic 
+address: lajos.pusztai@yale.edu.
+(2)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA.
+(3)Orlando Health, University of Florida Health Cancer Center, Orlando, FL, USA.
+
+Important results are emerging from clinical trials showing that surgery 
+followed by chemotherapy might not be the optimal strategy to maximise a 
+patient's chance of survival from triple-negative or HER2-positive breast 
+cancers. Administering chemotherapy before surgery provides an opportunity to 
+directly observe the efficacy of a particular chemotherapy regimen. Patients who 
+have extensive residual invasive cancer after neoadjuvant chemotherapy are at a 
+high risk of recurrence for metastatic disease, which, in turn, make these 
+patients ideal candidates for clinical trials. Two important clinical trials, 
+CREATE-X (UMIN000000843) and KATHERINE (NCT01772472), have shown improved 
+disease-free survival with postoperative capecitabine and ado-trastuzumab 
+emtansine in patients with either triple-negative or HER2-positive breast cancer 
+who had residual disease after neoadjuvant chemotherapy. The opportunity for 
+residual-disease guided therapy, as observed in these trials, is lost when 
+patients undergo surgery first. In this Personal View, we discuss the clinical 
+implications of the CREATE-X and KATHERINE trials and place them into context 
+with other developments in the adjuvant setting of early-stage breast cancer. We 
+suggest that neoadjuvant systemic therapy should be considered as the new 
+standard of care for HER2-positive and oestrogen receptor negative breast 
+cancer, even for patients who present with operable (T1 or T2) disease.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(19)30158-5
+PMID: 31267973 [Indexed for MEDLINE]
