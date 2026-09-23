@@ -1,0 +1,39 @@
+1. Indian J Pharmacol. 2016 Sep-Oct;48(5):490-497. doi: 10.4103/0253-7613.190719.
+
+Benefits of antihypertensive medications for anthracycline- and 
+trastuzumab-induced cardiotoxicity in patients with breast cancer: Insights from 
+recent clinical trials.
+
+Rygiel K(1).
+
+Author information:
+(1)Department of Family Practice, Medical University of Silesia (SUM), Katowice, 
+Poland.
+
+Advances in oncologic therapies have allowed many patients with breast cancer to 
+achieve better outcomes and longer survival. However, this progress has been 
+tempered by cardiotoxicity, associated with anticancer therapies, ranging from 
+subclinical abnormalities to irreversible life-threatening complications, such 
+as congestive heart failure or cardiomyopathy. In particular, exposure to 
+chemotherapy (CHT), including anthracyclines and trastuzumab, can lead to 
+cardiac dysfunction with short- or long-term consequences, among patients with 
+breast cancer. The aim of this study is to highlight the potential role of 
+commonly used cardiac medications in the prevention of anthracycline- and 
+trastuzumab-mediated cardiotoxicity, in women with breast cancer, based on 
+evidence from recent clinical trials. This overview is focused on the use of 
+antihypertensive medications, such as angiotensin-converting enzyme inhibitors 
+and angiotensin receptor blockers, outlining their cardioprotective effects in 
+this patient population. In addition, the importance of biomarkers and modern 
+imaging tests, as potential tools for detection and monitoring of cardiac 
+dysfunction, induced by CHT, as well as some practical preventive and 
+therapeutic strategies for cardio-oncology treatment teams, involved in the 
+management of a growing number of women with breast cancer have been outlined. 
+The content of this overview is based on a literature search of PubMed, within 
+the last 5 years, mostly in relevance to the human epidermal growth factor 
+receptor 2-positive patients with breast cancer, treated with anthracycline or 
+trastuzumab therapy (in addition to surgery and/or radiation therapy [RT] 
+regimen).
+
+DOI: 10.4103/0253-7613.190719
+PMCID: PMC5051240
+PMID: 27721532 [Indexed for MEDLINE]
