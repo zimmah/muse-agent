@@ -1,0 +1,41 @@
+1. Asian Pac J Cancer Prev. 2015;16(4):1643-9. doi: 10.7314/apjcp.2015.16.4.1643.
+
+Patients with HER2-positive early breast cancer receiving adjuvant trastuzumab: 
+clinicopathological features, efficacy, and factors affecting survival.
+
+Ulas A(1), Kos T, Avci N, Cubukcu E, Olmez OF, Bulut N, Degirmenci M.
+
+Author information:
+(1)Department of Medical Oncology, Ankara Ataturk Training and Research 
+Hospital, Ankara, Turkey E-mail : drarifeulas@hotmail.com.
+
+BACKGROUND: The aim of the present study was to evaluate clinicopathological 
+characteristics of our early stage breast cancer patients who are epidermal 
+growth factor receptor 2 (HER2) overexpressed/ amplified (HER2+), the efficacy 
+of trastuzumab treatment and survival results.
+MATERIALS AND METHODS: Patients with HER2- positive early stage breast cancer 
+receiving adjuvant trastuzumab were investigated retrospectively. 
+Clinicopathological features of 210 patients and treatment outcome were 
+analysed. To evaluate survival rates, the Kaplan-Meier method was used. 
+Univariate and multivariate analyses were conducted with the Cox regression 
+model.
+RESULTS: Mean age of the patients was 51.8, 71.9% being postmenopausal. Some 
+37.6% of patients were node negative, and 31% had T1 tumor size and 52.4% were 
+positive for estrogen receptor. Of 210 patients, 89.5% completed planned 52 
+weeks adjuvant trastuzumab treatment. The median follow up was 27.5 months 
+(6.0-86.0 ). Relapse free survival (RFS) was 68.0 months (95% CI: 62.1-74.0) and 
+overall survival (OS) was 74.8 months (95% CI: 69.5-80.1). The 3 year OS for all 
+patients was 92.0% and RFS was 79.6%. During follow up, relapse was detected at 
+the rate of 14.3%. Trastuzumab associated cardiotoxicity was found at the rate 
+of 3.3%. In univariate analyses, larger tumor size and grade III were 
+significantly associated (p<0.05) with RFS. Multivariate analyses of covariates 
+displaying p<0.05 identified grade III as an independent prognostic factor.
+CONCLUSIONS: In the present study, it was established that trastuzumab had a 
+satisfactory safety profile and treatment efficacy as in other clinical studies 
+and that among clinicopathological factors evaluated, only being grade 3 had a 
+significant effect on RFS. The occurrence of relapse with adjuvant trastuzumab 
+makes it necessary to identify molecular predictors, which will define this 
+group better and help explain resistance to anti HER2 based therapies.
+
+DOI: 10.7314/apjcp.2015.16.4.1643
+PMID: 25743846 [Indexed for MEDLINE]
