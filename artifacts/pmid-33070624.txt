@@ -1,0 +1,43 @@
+1. Ann Pharmacother. 2021 Jul;55(7):921-931. doi: 10.1177/1060028020966548. Epub 
+2020 Oct 17.
+
+Sacituzumab Govitecan-hziy: An Antibody-Drug Conjugate for the Treatment of 
+Refractory, Metastatic, Triple-Negative Breast Cancer.
+
+Seligson JM(1), Patron AM(2), Berger MJ(3), Harvey RD(4), Seligson ND(2)(5).
+
+Author information:
+(1)Nova Southeastern University, Clearwater, FL, USA.
+(2)University of Florida, Jacksonville, FL, USA.
+(3)The Ohio State University, Columbus, OH, USA.
+(4)Emory University School of Medicine, Atlanta, GA, USA.
+(5)Nemours Children's Specialty Care, Jacksonville, FL, USA.
+
+OBJECTIVE: To review the pharmacology, efficacy, and safety of sacituzumab 
+govitecan (-hziy; IMMU-132, Trodelvy) for patients with metastatic 
+triple-negative breast cancer (mTNBC) who have received at least 2 prior 
+therapies for metastatic disease.
+DATA SOURCES: A literature search was conducted utilizing PubMed and MEDLINE 
+databases, applicable published abstracts, and ongoing studies from 
+ClinicalTrials.gov between January 1, 1981, and September 3, 2020. Keywords 
+included sacituzumab govitecan (-hziy), IMMU-132, Trop-2 (trophoblast 
+cell-surface antigen 2), and TACSTD2.
+STUDY SELECTION AND DATA EXTRACTION: All English-language trials involving 
+sacituzumab govitecan for mTNBC were included and discussed.
+DATA SYNTHESIS: Sacituzumab govitecan is an antibody-drug conjugate targeted for 
+Trop-2 and conjugated to the topoisomerase-1 inhibitor SN-38. It was granted 
+accelerated Food and Drug Administration approval based on a phase I/II 
+single-arm, multicenter study (n = 108), which reported an overall response rate 
+of 33.3% and median duration of response of 7.7 months (95% CI = 4.9-10.8 
+months). Common adverse reactions include nausea, neutropenia, diarrhea, 
+fatigue, anemia, vomiting, alopecia, constipation, rash, decreased appetite, 
+abdominal pain, and respiratory infection. A confirmatory, randomized phase III 
+clinical trial is ongoing (NCT02574455).
+RELEVANCE TO PATIENT CARE AND CLINICAL PRACTICE: This review covers the 
+efficacy, safety, and clinical use of sacituzumab govitecan, a third-line drug 
+with activity in mTNBC.
+CONCLUSION: Sacituzumab govitecan is a novel targeted treatment with promising 
+activity in mTNBC.
+
+DOI: 10.1177/1060028020966548
+PMID: 33070624 [Indexed for MEDLINE]
