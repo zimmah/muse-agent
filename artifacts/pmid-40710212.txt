@@ -1,0 +1,90 @@
+1. Curr Oncol. 2025 Jul 14;32(7):402. doi: 10.3390/curroncol32070402.
+
+Optimizing Adjuvant Care in Early Breast Cancer: Multidisciplinary Strategies 
+and Innovative Models from Canadian Centers.
+
+Chan A(1), Nixon N(2), Al-Khaifi M(3), Bestavros A(4), Blyth C(5), Cheung WY(2), 
+Hamm C(6), Joly-Mischlich T(7), Manna M(8), McFarlane T(9), Minard LV(10), 
+Naujokaitis S(11), Peragine C(3), Railton C(5), Edwards S(12).
+
+Author information:
+(1)Faculty of Medicine, BC Cancer, University of British Columbia, Vancouver, BC 
+V6T 1Z3, Canada.
+(2)Department of Oncology, Cumming School of Medicine, University of Calgary, 
+Calgary, AB T2N 2T8, Canada.
+(3)Odette Cancer Centre, Sunnybrook Health Science Centre, University of 
+Toronto, Toronto, ON M4N 3M5, Canada.
+(4)Faculté de Médecine, Université de Montréal, Montreal, QC H3T 1J4, Canada.
+(5)Arthur J.E. Child Comprehensive Cancer Centre, Calgary, AB T2N 5G2, Canada.
+(6)Department of Medical Oncology, Windsor Regional Hospital, Windsor, ON N8W 
+1L9, Canada.
+(7)Université de Sherbrooke Cancer Research Institute (IRCUS), Université de 
+Sherbrooke, Sherbrooke, QC J1E 4K8, Canada.
+(8)Department of Medical Oncology, College of Medicine, University of 
+Saskatchewan, Saskatoon, SK S7N 5E5, Canada.
+(9)School of Pharmacy, University of Waterloo, Kitchener, ON N2G 1C5, Canada.
+(10)Department of Pharmacy, Nova Scotia Health, QEII Health Sciences Centre, 
+Halifax, NS B3H 2Y9, Canada.
+(11)London Health Sciences Centre, London, ON N6A 5W9, Canada.
+(12)Faculty of Medicine and School of Pharmacy, Memorial University of 
+Newfoundland, St John's, NL A1B 3V6, Canada.
+
+The adjuvant treatment landscape for hormone receptor-positive (HR+), human 
+epidermal growth factor receptor 2-negative (HER2-) early breast cancer (EBC) is 
+rapidly evolving, with a diverse range of therapeutic options-including 
+endocrine therapies, bisphosphonates, ovarian function suppression, olaparib, 
+CDK4/6 inhibitors, and emerging agents such as immunotherapy. While these 
+advances have markedly improved patient outcomes, they also introduce challenges 
+related to implementation, monitoring, and resource allocation. Notably, 
+therapies like CDK4/6 inhibitors require particularly close monitoring, creating 
+logistical and capacity challenges for medical oncologists, whose workloads are 
+already stretched due to rising cancer incidence and treatment complexities. 
+These challenges underscore the need for innovative care delivery solutions to 
+ensure patients with EBC continue to receive optimal care. This paper offers a 
+comprehensive guide-a playbook-of multidisciplinary-team-based care models 
+designed to optimize adjuvant treatment delivery in EBC. Drawing on real-world 
+evidence and successful applications across Canadian centers, we explore models 
+led by nurses, nurse practitioners (NPs), general practitioners in oncology 
+(GPO), and pharmacists. Each model leverages the unique expertise of its team to 
+manage treatment toxicities, facilitate adherence, and enhance patient 
+education, thereby promoting effective and sustainable care delivery. 
+Importantly, these models are not intended to compete with one another, but 
+rather to serve as a flexible recipe book from which breast cancer care teams 
+can draw strategies tailored to their local resources and patient needs. By 
+detailing implementation strategies, benefits, and challenges-in many instances 
+supported by quantitative metrics and economic evaluations-this work aims to 
+inspire care teams nationwide to optimize the adjuvant management of patients 
+with HR+, HER2- EBC.
+
+DOI: 10.3390/curroncol32070402
+PMCID: PMC12293295
+PMID: 40710212 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.A-K.: Speaker honoraria—Wellsprings Canada; 
+A.B.: Advisory boards—AstraZeneca, Merck, Novartis, Pfizer. Speaker 
+honoraria—AstraZeneca, Merck, Novartis, Pfizer. Grants/research 
+support—Apobiologix; C.B.: N/A; A.C.: Advisory boards—AstraZeneca, BMS, Eli 
+Lilly, Gilead, Merck, Novartis, Pfizer, Roche. Speaker honoraria—AstraZeneca, 
+Daiichi Sankyo, Eisai, Merck, Novartis, Pfizer; W.C.: Advisory boards and 
+speaker honoraria—Novartis. Grants/research support—Novartis; S.E.: Advisory 
+boards—Bayer, Ipsen, Novartis, Pfizer. Speaker honoraria—Apobiologix, Astellas 
+Pharma, AstraZeneca, Bayer, Eisai, Gilead, Ipsen, Janssen, Merck, Novartis, 
+Pfizer; C.H.: Advisory boards—Novartis. Grants/research support—Gilead, 
+Novartis; T.J-M.: Advisory boards—Astellas Pharma, BMS, Knight Therapeutics, 
+Roche. Speaker honoraria—AstraZeneca, Knight Therapeutics, Merck. 
+Grants/research support—AstraZeneca, Novartis, Pfizer; M.M.: Advisory 
+boards—AstraZeneca, Daiichi Sankyo, Eli Lilly, Gilead Sciences, Merck, Novartis, 
+Pfizer Canada, Roche. Speaker honoraria—AstraZeneca, Daiichi Sankyo, Eli Lilly, 
+Gilead Sciences, Merck, Novartis, Pfizer Canada. Grants/research 
+support—AstraZeneca, RUH Foundation Women Leading Philanthropy; T.M.: Advisory 
+boards—Knight Therapeutics. Speaker honoraria—Apobiologix, AstraZeneca, GSK, 
+Novartis; L.V.M.: Advisory boards—Eisai, Taro. Speaker honoraria—Amgen, Merck. 
+Grants/research support—Pfizer. Other—Clinical Oncology Pharmacy Services 
+Toolkit Project (Sponsored by Novartis); S.N.: N/A; N.N.: Advisory 
+boards—AstraZeneca, Eli Lilly, Gilead, Novartis, Roche, Seagen. Speaker 
+honoraria—AstraZeneca, Genomic Health, Gilead, Merck, Seagen. Grants/research 
+support—AstraZeneca, Gilead, Merck, Novartis, Seagen; C.P.: Advisory 
+boards—AstraZeneca, Astellas, Organon, Pfizer, Sandoz, Taro. Speaker 
+honoraria—Apobiologix, AstraZeneca, BeiGene, CAPhO, Eisai, Eli Lilly, Ipsen, 
+Merck, Novartis, Pfizer, Seagen. Grants/research support—Bayer; C.R.: Advisory 
+boards—Eli Lilly. Speaker honoraria—AstraZeneca, Eli Lilly.
