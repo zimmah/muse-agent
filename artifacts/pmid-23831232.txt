@@ -1,0 +1,43 @@
+1. Breast. 2013 Oct;22(5):993-8. doi: 10.1016/j.breast.2013.05.011. Epub 2013 Jul
+ 3.
+
+Prognostic factors of brain metastases from breast cancer: impact of targeted 
+therapies.
+
+Braccini AL(1), Azria D, Thezenas S, Romieu G, Ferrero JM, Jacot W.
+
+Author information:
+(1)Department of Radiation Oncology, Val d'Aurelle Cancer Institute, 208 rue des 
+Apothicaires, 34298 Montpellier, France. Electronic address: 
+antoine.braccini@montpellier.unicancer.fr.
+
+INTRODUCTION: Brain metastases (BM) from breast cancer are associated with poor 
+prognosis. This study was made to determine the prognostic influence of breast 
+cancer biological subtypes, and to define the best therapeutic options in this 
+setting, with a special focus on the HER2-positive population.
+PATIENTS AND METHODS: Breast cancer patients with known hormone receptors (HR) 
+and HER2 status presenting with BM treated between 1995 and 2010 in our two 
+institutions were considered for this retrospective study.
+RESULTS: 250 patients were included. The study population consisted of 25.6% 
+patients categorized as triple-negative (HR-/HER2-), 30.8% as HR+/HER2- and 
+43.6% as HER2+ breast cancer. Median overall survival (OS) was 8.9 months (95% 
+CI, 6.9-10.3 months). Cerebral progression remained the most frequent cause of 
+death (57.1%). On multivariate analysis, HER2 positivity and the RPA score were 
+the two most important prognostic factors. Local treatment (surgery or 
+stereotactic radiotherapy) and chemotherapy were significantly associated with 
+an increased survival. On multivariate analysis of the RPA1-2 population, local 
+treatment and chemotherapy were independent prognostic factors in addition to 
+biological subtypes, RPA class, liver metastases and clinical signs of 
+intra-cranial hypertension. Anti-HER2 therapies administered after BM diagnosis 
+significantly and independently increased OS. Median OS in patients receiving 
+both trastuzumab and lapatinib after BM diagnosis was significantly better than 
+that the one of patients receiving only one of the 2 targeted therapies (25.7 
+vs. 9.6 months, p < 0.001).
+CONCLUSIONS: Biological subtypes are independent prognostic determinants. 
+Chemotherapy and targeted therapies positively affect the prognosis after first 
+BM.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.breast.2013.05.011
+PMID: 23831232 [Indexed for MEDLINE]
