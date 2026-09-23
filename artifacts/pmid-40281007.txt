@@ -1,0 +1,67 @@
+1. Nat Commun. 2025 Apr 25;16(1):3908. doi: 10.1038/s41467-025-59184-5.
+
+ZMYND8 drives HER2 antibody resistance in breast cancer via lipid control of 
+IL-27.
+
+Wang Y(1), Wang Y(1), Bao L(1), Vale G(2)(3), McDonald JG(2)(3), Fang Y(1), Peng 
+Y(1), Kumar A(4), Xing C(4)(5), Brasó-Maristany F(6)(7)(8), Prat 
+A(6)(7)(8)(9)(10), Arteaga CL(11), Wang Y(1)(11)(12)(13), Luo W(14)(15)(16).
+
+Author information:
+(1)Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA.
+(2)Center for Human Nutrition, UT Southwestern Medical Center, Dallas, TX, USA.
+(3)Department of Molecular Genetics, UT Southwestern Medical Center, Dallas, TX, 
+USA.
+(4)Eugene McDermott Center for Human Growth and Development, UT Southwestern 
+Medical Center, Dallas, TX, USA.
+(5)Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, 
+Dallas, TX, USA.
+(6)Translational Genomics and Targeted Therapies in Solid Tumors, August Pi i 
+Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, Spain.
+(7)Cancer Institute and Blood Diseases, Hospital Clínic of Barcelona, Barcelona, 
+Spain.
+(8)Reveal Genomics, S.L., Barcelona, Spain.
+(9)University of Barcelona, Barcelona, Spain.
+(10)Institute of Oncology-Hospital Quirónsalud, Barcelona, Spain.
+(11)Harold C. Simmons Comprehensive Cancer Center, UT Southwestern Medical 
+Center, Dallas, TX, USA.
+(12)Department of Neurology, UT Southwestern Medical Center, Dallas, TX, USA.
+(13)Peter O'Donnell Jr. Brain Institute, UT Southwestern Medical Center, Dallas, 
+TX, USA.
+(14)Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA. 
+Weibo.Luo@UTSouthwestern.edu.
+(15)Harold C. Simmons Comprehensive Cancer Center, UT Southwestern Medical 
+Center, Dallas, TX, USA. Weibo.Luo@UTSouthwestern.edu.
+(16)Department of Pharmacology, UT Southwestern Medical Center, Dallas, TX, USA. 
+Weibo.Luo@UTSouthwestern.edu.
+
+Erratum in
+    Nat Commun. 2025 May 22;16(1):4769. doi: 10.1038/s41467-025-60137-1.
+
+Anti-HER2 antibodies are effective but often lead to resistance in patients with 
+HER2+ breast cancer. Here, we report an epigenetic crosstalk with aberrant 
+glycerophospholipid metabolism and inflammation as a key resistance mechanism of 
+anti-HER2 therapies in HER2+ breast cancer. Histone reader ZMYND8 specifically 
+confers resistance to cancer cells against trastuzumab and/or pertuzumab. 
+Mechanistically, ZMYND8 enhances cPLA2α expression in resistant tumor cells 
+through inducing c-Myc. cPLA2α inactivates phosphatidylcholine-specific 
+phospholipase C to inhibit phosphatidylcholine breakdown into diacylglycerol, 
+which diminishes protein kinase C activity leading to interleukin-27 secretion. 
+Supplementation with interleukin-27 protein counteracts cPLA2α loss to reinforce 
+trastuzumab resistance in HER2+ tumor cells and patient-derived organoids. 
+Upregulation of ZMYND8, c-Myc, cPLA2α, and IL-27 is prevalent in HER2+ breast 
+cancer patients following HER2-targeted therapies. Targeting c-Myc or cPLA2α 
+effectively overcomes anti-HER2 therapy resistance in patient-derived 
+xenografts. Collectively, this study uncovers a druggable signaling cascade that 
+drives resistance to HER2-targeted therapies in HER2+ breast cancer.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41467-025-59184-5
+PMCID: PMC12032076
+PMID: 40281007 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Yong Wang, Yingfei Wang, 
+and W.L. are inventors on provisional patent application US 63/676,270. F.B.-M. 
+has filed patents, including PCT/EP2022/086493, PCT/EP2023/060810, EP23382703 
+and EP23383369. The other authors declare no competing interests.
