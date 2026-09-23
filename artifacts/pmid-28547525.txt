@@ -1,0 +1,56 @@
+1. Int J Clin Oncol. 2017 Oct;22(5):880-886. doi: 10.1007/s10147-017-1136-8. Epub
+ 2017 May 25.
+
+Neoadjuvant chemotherapy with trastuzumab, docetaxel, and carboplatin 
+administered every 3 weeks for Japanese women with HER2-positive primary breast 
+cancer: efficacy and safety.
+
+Sugitani I(1), Ueda S(1), Sakurai T(2), Shigekawa T(1), Hirokawa E(1), Shimada 
+H(1), Takeuchi H(1), Matsuura K(3), Misumi M(1), Fujiuchi N(1), Takahashi T(4), 
+Hasebe T(5), Osaki A(1), Saeki T(6).
+
+Author information:
+(1)Department of Breast Oncology, Saitama Medical University International 
+Medical Center, 1397-1 Yamane, Hidaka, Saitama, 350-1298, Japan.
+(2)Breast Center, JCHO Saitama Medical Center, 4-9-3, Kita-urawa, Urawa-ku, 
+Saitama, 330-0074, Japan.
+(3)Department of Breast Surgery, Hiroshima Prefectural Hospital, 1-5-54 Kanda, 
+Minami-ku, Hiroshkloima-Shi, Hiroshima, 734-8530, Japan.
+(4)Department of Palliative Medicine, Saitama Medical University International 
+Medical Center, 1397-1 Yamane, Hidaka, Saitama, Japan, 350-1298.
+(5)Department of Pathology, Saitama Medical University International Medical 
+Center, 1397-1 Yamane, Hidaka, Saitama, 350-1298, Japan.
+(6)Department of Breast Oncology, Saitama Medical University International 
+Medical Center, 1397-1 Yamane, Hidaka, Saitama, 350-1298, Japan. 
+tsaeki@saitama-med.ac.jp.
+
+BACKGROUND: This phase II neoadjuvant study evaluated the efficacy and safety of 
+a triweekly regimen of docetaxel and carboplatin in combination with trastuzumab 
+(TCbH) in Japanese women with human epidermal growth factor receptor type2 
+(HER2)-positive primary breast cancer.
+METHODS: Patients with HER2-positive, stage I-III invasive breast cancer 
+received six courses of trastuzumab (8 mg/kg loading dose, then 6 mg/kg, day 1), 
+docetaxel (75 mg/m2, day 1), and carboplatin (area under the curve: 6, day 1) 
+every 3 weeks. The primary endpoint was pathological complete response (pCR) of 
+both breast and axillary lymph node disease.
+RESULTS: Fifty patients were enrolled in this study. Median age was 58 (range 
+32-75) years. All patients underwent definitive surgery. Thirty-three (66%) 
+patients completed the chemotherapy course, while the treatment was delayed or 
+discontinued in the other 17 (34%) patients because of adverse events (AEs). The 
+pCR rate was 52%; the overall response rate was 66%. Grade 3/4 AEs due to 
+nonhematological toxicity were anorexia (4%), diarrhea (2%), and rash (2%), and 
+those due to hematological toxicity were neutropenia (36%), anemia (12%), and 
+thrombocytopenia (2%).
+CONCLUSION: Although the triweekly six-course regimen of TCbH achieved a high 
+pCR rate, hematological AEs frequently occurred during the latter part of the 
+chemotherapy course. One-third of patients experienced delayed or discontinued 
+chemotherapy. Clinical registration number: http://www.umin.org.au 
+UMIN000013513.
+
+DOI: 10.1007/s10147-017-1136-8
+PMCID: PMC5608788
+PMID: 28547525 [Indexed for MEDLINE]
+
+Conflict of interest statement: Toshiaki Saeki received lecture fees from Chugai 
+Pharmaceutical Co., Ltd. The other authors declare that they had no conflict of 
+interest.
