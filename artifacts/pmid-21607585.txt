@@ -1,0 +1,38 @@
+1. Breast Cancer Res Treat. 2011 Sep;129(2):623-8. doi:
+10.1007/s10549-011-1586-z.  Epub 2011 May 24.
+
+Simultaneous measurement of ERα, HER2, and phosphoERK1/2 in breast cancer cell 
+lines by flow cytometry.
+
+Bayraktar UD(1), Kim TK, Drews-Elger K, Benjamin C, El-Ashry D, Wieder E, 
+Komanduri KV.
+
+Author information:
+(1)Department of Medicine, Division of Hematology/Oncology, University of Miami, 
+Sylvester Comprehensive Cancer Center, 1475 NW 12th Ave St 3300, Miami, FL, 
+33136, USA. udbayraktar@mdanderson.org
+
+The activation of human epidermal growth factor receptor-2 (HER2) results in the 
+activation of the mitogen-activated protein kinase (MAPK) cascade that may lead 
+to the resistance to anti-estrogen therapy in estrogen receptor (ERα) expressing 
+breast cancer by means of phosphorylation of ERα in the N-terminal region by 
+phosphorylated extracellular signal-regulated kinase 1/2 (pERK1/2) and by means 
+of decreasing ERα expression. Immunohistochemistry is the most widely used 
+technique for the detection of ERα and HER2 in breast cancer specimens, however, 
+is inadequate in its ability to assess the relationship between ERα, HER2, and 
+MAPK cascade at the single cell level. To clear this major hurdle, we devised a 
+novel flow cytometric method to quantify the expression of ERα, HER2, and the 
+activation of MAPK cascade simultaneously in single cells. The method was 
+validated by concurrent Western blotting in established cell lines: MDA-231 (ERα 
+and HER2-negative), MCF-7 (ERα-positive, HER2-negative), MCF-7 cells 
+overexpressing ERα after long-term incubation in estrogen-free medium, and HER2 
+transfected MCF7 cells. Using the flow cytometry method, we confirmed the 
+previous finding that ERα expression is down-regulated upon epidermal growth 
+factor mediated ERK1/2 phosphorylation in EGFR/MCF-7 cells. To our knowledge, 
+this is the first such assay to incorporate simultaneous single cell measurement 
+for all of these pathways, which may prove useful to determine the intratumoral 
+heterogeneity in breast tumors or the receptor status in circulating tumor 
+cells.
+
+DOI: 10.1007/s10549-011-1586-z
+PMID: 21607585 [Indexed for MEDLINE]
