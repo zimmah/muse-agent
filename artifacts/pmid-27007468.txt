@@ -1,0 +1,35 @@
+1. Expert Opin Drug Saf. 2016 Jul;15(7):911-23. doi:
+10.1517/14740338.2016.1170115.  Epub 2016 Apr 18.
+
+Principles of a risk evaluation and mitigation strategy (REMS) for breast cancer 
+patients receiving potentially cardiotoxic adjuvant treatments.
+
+Ahmed SH(1), Moussa Sherif DE(1), Fouad Y(2), Kelany M(1), Abdel-Rahman O(1).
+
+Author information:
+(1)a Clinical Oncology Department, Faculty of Medicine , Ain Shams University , 
+Cairo , Egypt.
+(2)b Faculty of Medicine , Ain Shams University , Cairo , Egypt.
+
+INTRODUCTION: The number of breast cancer long survivors has increased in the 
+last few years. However, this increase in survival may be affected by the side 
+effects of adjuvant breast cancer therapies. In this context cardiovascular 
+toxicity is considered one of the most clinically important toxicities.
+AREAS COVERED: In this work we review the published clinical trials of adjuvant 
+treatment on breast cancer, focusing on the trials which accurately mentioned 
+the cardiotoxicity of the adjuvant treatments and those which underwent long 
+term follow up of cardiac function. This article tries to summarize and evaluate 
+the risk of cardiac toxicities associated with different adjuvant treatments for 
+breast cancer (chemotherapy, radiotherapy, endocrine therapy and trastuzumab).
+EXPERT OPINION: In our opinion, each individual breast cancer patient should be 
+meticulously evaluated before starting adjuvant treatment in order to basically 
+asses cardiac function and to manage any predisposing risk factor which may 
+increase the probability of treatment induced cardiotoxicity. Rigorous and 
+frequent reassessment of cardiac function along with providing different 
+mitigation strategies that can prevent or decrease the risk of such 
+cardiovascular toxicities are inevitable methods to protect the patient from 
+cardiac events which can mask the survival benefit associated with different 
+adjuvant treatments.
+
+DOI: 10.1517/14740338.2016.1170115
+PMID: 27007468 [Indexed for MEDLINE]
