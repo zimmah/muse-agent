@@ -1,0 +1,49 @@
+1. J Egypt Natl Canc Inst. 2022 Sep 12;34(1):38. doi: 10.1186/s43046-022-00141-4.
+
+Intermittent fasting during adjuvant chemotherapy may promote differential 
+stress resistance in breast cancer patients.
+
+Omar EM(1), Omran GA(2), Mustafa MF(3), El-Khodary NM(4).
+
+Author information:
+(1)Damanhour Oncology Center, Damanhour, 22511, Egypt.
+(2)Department of Biochemistry, Faculty of Pharmacy, Damanhour University, 
+Damanhour, 22511, Egypt.
+(3)Department of Clinical Oncology, Faculty of Medicine, Alexandria University, 
+Alexandria, 21500, Egypt.
+(4)Department of Clinical Pharmacy, Faculty of Pharmacy, Kafrelsheikh 
+University, Kafrelsheikh, 33511, Egypt. noha_mahmoud@pharm.kfs.edu.eg.
+
+BACKGROUND: Preclinical studies prove that short-term fasting secures healthy 
+cells against chemotherapy side effects and makes malignant cells more 
+vulnerable to them. This study aimed to examine the effects of intermittent 
+fasting (IF) during adjuvant chemotherapy AC (doxorubicin, cyclophosphamide) 
+protocol in breast cancer (BC) patients.
+METHODS: Forty-eight newly diagnosed human epidermal growth factor receptor 
+2-negative (HER2 negative) BC patients were divided equally into two groups (24 
+each). The first group was recruited to fast intermittently for three 
+consecutive days around chemotherapy for 18 h a day from 12 am to 6 pm and eats 
+through 6 h a day from 6 pm to 12 am with permission of drinking water during 
+fasting hours (IF group). This IF was repeated every 3 weeks for four cycles. 
+The second group is a non-fasting (NF) group that was allowed to eat regularly. 
+Toxicity in the two groups was compared. Hematologic, metabolic, and 
+inflammatory parameters were measured and compared.
+RESULTS: Toxicity related to the gastrointestinal tract (GIT) was reduced in the 
+IF group. Hematologic parameters showed no significant variations between the 
+two studied groups after cycle 4. There was a significant increase in median 
+glucose and median insulin levels (P < 0.001 and P = 0.001, respectively) in the 
+NF group between baseline and after cycle 4. In addition, there was a 
+significant decrease in the median insulin level (P = 0.002) in the IF group 
+between the two time points.
+CONCLUSION: IF throughout chemotherapy was well tolerated and decreased the 
+toxicity of chemotherapy. Additionally, IF-improved metabolic profiles of 
+patients may have a positive impact on the clinical efficacy of chemotherapy.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s43046-022-00141-4
+PMCID: PMC13314233
+PMID: 36089614 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
