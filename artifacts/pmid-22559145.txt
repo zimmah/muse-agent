@@ -1,0 +1,43 @@
+1. BMC Cancer. 2012 May 4;12:165. doi: 10.1186/1471-2407-12-165.
+
+Weekly paclitaxel plus trastuzumab in metastatic breast cancer pretreated with 
+anthracyclines--a phase II multipractice study.
+
+John M(1), Hinke A, Stauch M, Wolf H, Mohr B, Hindenburg HJ, Papke J, Schlosser 
+J; FAKT Study Group.
+
+Author information:
+(1)Practice for Gynecology, Dr.-Doerffel-Strasse 1, 08371 Glauchau, Germany. 
+dr.matthias.john@web.de
+
+BACKGROUND: The 3-weekly combination of trastuzumab and paclitaxel has been 
+approved for the treatment of advanced breast cancer based on a large pivotal 
+study. However, mono and combination chemotherapy trials suggest that weekly 
+paclitaxel has a better therapeutic index, especially in the palliative setting. 
+The present trial examined the efficacy and safety of weekly paclitaxel over a 
+limited duration combined with continued trastuzumab in HER2+ patients.
+METHODS: Patients with histologically confirmed metastatic breast cancer 
+overexpressing HER2 were eligible if pretreated with anthracycline in either the 
+adjuvant or palliative setting. Treatment consisted of weekly trastuzumab (2 
+mg/kg/week for up to one year after a loading dose of 4 mg/kg in week 1) and 
+paclitaxel (90 mg/m², administered in weeks 1-6 and 8-13).
+RESULTS: Twenty-seven German centers enrolled 121 patients. The median number of 
+metastatic sites was two (range 1-5); 38% of patients had received chemotherapy 
+for advanced disease. After a median 42 weeks of trastuzumab treatment, limited 
+by disease progression in roughly half the patients, a best objective response 
+rate (complete response + partial response) of 76% was achieved, including 
+complete remissions in 29%. 74% of patients lived without tumor progression at 
+six months. Median progression-free and overall survival were 9.4 (95% 
+confidence interval [CI]: 8.1-11.3) and 22 months (95% CI: 17-46). After 
+alopecia, Common Toxicity Criteria grade ≥2 toxicity was predominantly 
+hematological (leukopenia [31%] and anemia [41%]); however, thrombocytopenia 
+occurred in only 5%. Neurotoxicity was remarkably low. Two cardiac events 
+(grades 2 and 3) were presumed treatment-related.
+CONCLUSIONS: Weekly paclitaxel plus trastuzumab allows an increased dose density 
+and offers an attractive and effective alternative to the conventional schedule. 
+Limiting the duration of cytotoxic therapy to 3 months seems to be an option to 
+reduce neurotoxicity without impairing long-term outcome.
+
+DOI: 10.1186/1471-2407-12-165
+PMCID: PMC3443018
+PMID: 22559145 [Indexed for MEDLINE]
