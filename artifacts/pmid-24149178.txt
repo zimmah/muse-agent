@@ -1,0 +1,40 @@
+1. Br J Cancer. 2013 Dec 10;109(12):2965-72. doi: 10.1038/bjc.2013.661. Epub 2013
+ Oct 22.
+
+Neoadjuvant chemotherapy adaptation and serial MRI response monitoring in 
+ER-positive HER2-negative breast cancer.
+
+Rigter LS(1), Loo CE, Linn SC, Sonke GS, van Werkhoven E, Lips EH, Warnars HA, 
+Doll PK, Bruining A, Mandjes IA, Vrancken Peeters MJ, Wesseling J, Gilhuijs KG, 
+Rodenhuis S.
+
+Author information:
+(1)Department of Medical Oncology, The Netherlands Cancer Institute, Plesmanlaan 
+121, Amsterdam 1066, The Netherlands.
+
+BACKGROUND: Changing the neoadjuvant chemotherapy regimen in insufficiently 
+responding breast cancer is not a standard policy. We analysed a series of 
+patients with 'luminal'-type breast cancer in whom the second half of 
+neoadjuvant chemotherapy was selected based on the response to the first half.
+METHODS: Patients with oestrogen receptor-positive (ER+) human epidermal growth 
+factor receptor 2-negative (HER2-) breast cancer received three courses of 
+neoadjuvant dose-dense doxorubicin and cyclophosphamide (ddAC). Three further 
+courses of ddAC were administered in case of a 'favourable response' on the 
+interim magnetic resonance imaging (MRI) and a switch to docetaxel and 
+capecitabine (DC) was made in case of an 'unfavourable response', using 
+previously published response criteria. The efficacy of this approach was 
+evaluated by tumour size reductions on serial contrast-enhanced MRI, pathologic 
+response and relapse-free survival.
+RESULTS: Two hundred and forty-six patients received three courses of ddAC. One 
+hundred and sixty-four patients (67%) had a favourable response at the interim 
+MRI, with a mean tumour size reduction of 31% after the first three courses and 
+34% after the second three courses. Patients with unfavourable responsive 
+tumours had a mean tumour size reduction of 12% after three courses and received 
+three courses of DC rather than ddAC. This led to a mean shrinkage of 27%.
+CONCLUSION: The tumour size reduction of initially less responsive tumours after 
+treatment adaptation adds further evidence that a response-adapted strategy may 
+enhance the efficacy of neoadjuvant chemotherapy.
+
+DOI: 10.1038/bjc.2013.661
+PMCID: PMC3859944
+PMID: 24149178 [Indexed for MEDLINE]
