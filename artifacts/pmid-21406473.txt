@@ -1,0 +1,48 @@
+1. Ann Oncol. 2011 Nov;22(11):2387-2393. doi: 10.1093/annonc/mdq786. Epub 2011
+Mar  15.
+
+Coping with uncertainty: T1a,bN0M0 HER2-positive breast cancer, do we have a 
+treatment threshold?
+
+Kelly CM(1), Pritchard KI(2), Trudeau M(2), Andreopoulou E(3), Hess K(4), 
+Pusztai L(3).
+
+Author information:
+(1)Department of Medical Oncology, Waterford Regional Hospital, Waterford, 
+Ireland. Electronic address: catherine.kelly@ucd.ie.
+(2)Department of Medical Oncology/Hematology, Division of Medical 
+Oncology/Hematology, Sunnybrook Health Sciences Centre, Toronto, Canada.
+(3)Department of Breast Medical Oncology.
+(4)Department of Biostatistics, Division of Quantitative Sciences, M.D. Anderson 
+Cancer Center, Houston, USA.
+
+Comment in
+    Ann Oncol. 2011 Nov;22(11):2530. doi: 10.1093/annonc/mdr308.
+
+BACKGROUND: Recent retrospective studies have suggested that patients with 
+T1a,bN0M0 human epidermal growth factor receptor 2 (HER2)-positive breast cancer 
+are at a higher risk for recurrence and might benefit from adjuvant trastuzumab. 
+The absolute benefits associated with treating this subgroup are uncertain.
+DESIGN: We reviewed recent studies examining the prognostic value of HER2 in 
+patients with node-negative T1a,b HER2-positive breast cancer. We calculated the 
+number needed to treat (NNT) using baseline risk estimates for untreated 
+T1a,bN0M0 breast cancer and the number needed to harm (NNH) using the incidence 
+of cardiac events in each of the adjuvant trastuzumab clinical trials.
+RESULTS: Several studies were identified, each with limitations inherent to 
+retrospective database analyses: small cohort sizes, lack of systematic HER2 
+testing in older specimens, variations in the use of adjuvant therapy and 
+definitions of study end points, and lack of information relating to 
+comorbidities. The 5-year disease-free survival in the pre-trastuzumab era 
+ranged from 77% to 95%. Comparisons between small HER2 -positive and small HER2 
+-negative cancers showed numerically worse outcome for the HER2-positive cohort 
+in some but not all studies. In many instances, the NNH was larger (26-250) than 
+the NNT (13-35); however, in a subset of patients, the NNH was lower (6) than 
+the NNT (13-35).
+CONCLUSIONS: Better prediction tools to estimate more precisely the risk for 
+death due to comorbid illness versus breast cancer are needed. In some patients, 
+the risks of therapy could outweigh the benefits. Treatment selection for 
+T1a,bN0 HER2-positive cancers remains in the transition area between evidence- 
+and subjective judgment-based medicine.
+
+DOI: 10.1093/annonc/mdq786
+PMID: 21406473 [Indexed for MEDLINE]
