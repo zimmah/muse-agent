@@ -1,0 +1,43 @@
+1. Curr Med Chem. 2022 Mar 4;29(8):1436-1458. doi: 
+10.2174/0929867328666210707165530.
+
+Epigenetics of Triple-Negative Breast Cancer via Natural Compounds.
+
+Kaleem M(1), Perwaiz M(2), Nur SM(1), Abdulrahman AO(1), Ahmad W(3), Al-Abbasi 
+FA(1), Kumar V(4), Kamal MA(5), Anwar F(1).
+
+Author information:
+(1)Department of Biochemistry, Faculty of Science, King Abdulaziz University, 
+Jeddah 21589, Saudi Arabia.
+(2)Department of Sciences, University of Toronto, Mississauga, Canada.
+(3)Department of Kuliyate Tib, National Institute of Unani Medicine, 
+Kottigepalya, Bengaluru, India- 560091.
+(4)Natural Product Discovery Laboratory, Department of Pharmaceutical Sciences, 
+Shalom Institute of Health and Allied Sciences. SHUATS, Naini, Prayagraj, India.
+(5)West China School of Nursing / Institutes for Systems Genetics, Frontiers 
+Science Center for Disease-related Molecular Network, West China Hospital, 
+Sichuan University, Chengdu 610041, Sichuan, China.
+
+Triple-negative breast cancer (TNBC) is a highly resistant, lethal, and 
+metastatic sub-division of breast carcinoma, characterized by the deficiency of 
+estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth 
+factor receptor 2 (HER2). In women, TNBC shows a higher aggressive behavior with 
+poor patient prognosis and a higher recurrence rate during reproductive age. 
+TNBC is defined by the presence of epithelial- to-mesenchymal-transition (EMT), 
+which shows a significant role in cancer progression. At the epigenetic level, 
+TNBC is characterized by epigenetic signatures, such as DNA methylation, histone 
+remodeling, and a host of miRNA, MiR-193, LncRNA, HIF- 2α, eEF2K, LIN9/NEK2, 
+IMP3, LISCH7/TGF-β1, GD3s, KLK12, mediated regulation. These modifications 
+either are silenced or activate the necessary genes that are prevalent in TNBC. 
+The review is based on epigenetic mediated mechanistic changes in TNBC. 
+Furthermore, Thymoquinone (TQ), Regorafenib, Fangjihuangqi decoction, 
+Saikosaponin A, and Huaier, etc., are potent antitumor natural compounds 
+extensively reported in the literature. Further, the review emphasizes the role 
+of these natural compounds in TNBC and their possible epigenetic targets, which 
+can be utilized as a potential therapeutic strategy in the treatment of TNBC.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0929867328666210707165530
+PMID: 34238140 [Indexed for MEDLINE]
