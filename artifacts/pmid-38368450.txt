@@ -1,0 +1,68 @@
+1. Sci Rep. 2024 Feb 17;14(1):3978. doi: 10.1038/s41598-024-54590-z.
+
+The unique monoclonal antibodies and immunochemical assay for comprehensive 
+determination of the cell-bound and soluble HER2 in different biological 
+samples.
+
+Antos A(#)(1), Topolska-Woś A(#)(1), Woś M(1), Mitura A(1), Sarzyńska P(1), 
+Lipiński T(2), Kurylcio A(3), Ziółkowski P(4), Świtalska M(5), Tkaczuk-Włach 
+J(6), Gamian A(7), Polkowski WP(3), Staniszewska M(8)(9).
+
+Author information:
+(1)SDS Optic, EcoTech Complex, Block A, Głęboka 39, 20-612, Lublin, Poland.
+(2)Lukasiewicz Research Network - PORT Polish Center for Technology Development, 
+Stabłowicka 147, 54-066, Wrocław, Poland.
+(3)Department of Surgical Oncology, Medical University of Lublin, Radziwiłłowska 
+13, 20-080, Lublin, Poland.
+(4)Department of Pathomorphology, Wrocław Medical University, Marcinkowskiego 1, 
+50-368, Wrocław, Poland.
+(5)Department of Experimental Oncology, Hirszfeld Institute of Immunology and 
+Experimental Therapy, Polish Academy of Sciences, Weigla 12, 53-114, Wrocław, 
+Poland.
+(6)Chair of Obstetrics and Gynecology, Faculty of Health Sciences, Medical 
+University of Lublin, Staszica 4/6, 20-081, Lublin, Poland.
+(7)Laboratory of Medical Microbiology, Hirszfeld Institute of Immunology and 
+Experimental Therapy, Polish Academy of Sciences, Weigla 12, 53-114, Wrocław, 
+Poland.
+(8)SDS Optic, EcoTech Complex, Block A, Głęboka 39, 20-612, Lublin, Poland. 
+mstaniszewska@sdsoptic.pl.
+(9)Faculty of Medicine, The John Paul II Catholic University of Lublin, 
+Konstantynów 1J, 20-708, Lublin, Poland. mstaniszewska@sdsoptic.pl.
+(#)Contributed equally
+
+The expression of the HER2 (human epidermal growth factor receptor 2) protein in 
+cancer cells is a well-established cancer marker used for diagnostic and 
+therapeutic purposes in modern treatment protocols, especially in breast cancer. 
+The gold-standard immunohistochemical diagnostic methods with the specific 
+anti-HER2 antibodies are utilized in the clinic to measure expression level of 
+the membrane-bound receptor. However, a soluble extracellular domain (ECD) of 
+HER2 is released to the extracellular matrix, thus the blood assays for HER2 
+measurements present an attractive way for HER2 level determination. There is a 
+need for accurate and validated assays that can be used to correlate the 
+concentration of the circulating HER2 protein with disease clinical 
+manifestations. Here we describe two monoclonal antibodies binding HER2 with a 
+unique sequence of the complementarity-determining regions that recognize HER2 
+ECD. Development and validation of the sandwich enzyme-linked immunosorbent 
+assay (ELISA) for quantification of the soluble HER2 in a variety of biological 
+samples is also presented. The assay provides HER2 quantitation within a 
+concentrations range from 1.56 to 100 ng/ml with sensitivity at the level of 
+0.5 ng/ml that meets the expectations for measurements of HER2 in the blood and 
+tumor tissue samples. The method presents satisfactory intra- and inter-assay 
+precision and accuracy for immunochemical quantification of biomarkers in 
+biological samples. The utility of the generated monoclonal anti-HER2 antibodies 
+has been confirmed for use in the precise measurement of HER2 (both cell-bound 
+and soluble) in several types of biological material, including serum, solid 
+tumor tissue, and cell culture medium. Additionally, the developed 
+immunochemical tools have a potential for HER2 detection, not only in a wide 
+range of sample types but also independently of the sample 
+storage/pre-processing, allowing for comprehensive HER2 analysis in tissue 
+(IHC), cultured cells (immunofluorescence) and blood (ELISA).
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-54590-z
+PMCID: PMC10874376
+PMID: 38368450 [Indexed for MEDLINE]
+
+Conflict of interest statement: A.A., A.T.-W., M.W., A.M., and M.S. are 
+associated with SDS Optic. All other authors declare no competing interests.
