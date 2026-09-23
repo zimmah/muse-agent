@@ -1,0 +1,31 @@
+1. Cancer J. 2021 Jan-Feb 01;27(1):2-7. doi: 10.1097/PPO.0000000000000494.
+
+Triple-Negative Breast Cancer: Breast Tumors With an Identity Crisis.
+
+Nunnery SE, Mayer IA, Balko JM.
+
+Triple-negative breast cancer (TNBC) is pathologically defined by lack of 
+expression of the estrogen receptor, progesterone receptor, and human epidermal 
+growth factor receptor 2 amplification and portends an aggressive clinical 
+course with worse outcomes compared with other breast cancers. Until recently, 
+standard treatment options consisted of sequential cytotoxic chemotherapies for 
+both early and metastatic disease. Advances in sequencing technology have led to 
+the identification of 4 main subtypes of TNBC based on recurrent genetic 
+alterations, transcriptional patterns, and molecular features: basal-like 1 
+(BL1), basal-like 2 (BL2), mesenchymal (M), and luminal androgen receptor (LAR). 
+Frequent alterations found in DNA damage response pathways, germline and somatic 
+BRCA1/2 genes, PI3K signaling pathways, and the presence of androgen receptors 
+and infiltrating immune cells could serve as actionable targets to optimize 
+treatments and improve outcomes for patients with TNBC. Recent approvals for 
+immune checkpoint inhibitors and the antibody-drug conjugate, sacituzumab 
+govitecan-hziy, for advanced TNBC illustrate the advances in treatment that can 
+result from these molecular discoveries. This review will explore the molecular 
+subtypes of TNBC and their distinct characteristics, as well as highlight the 
+molecular features and potential "drivers" that have been identified as 
+promising targets for new treatment strategies.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/PPO.0000000000000494
+PMCID: PMC8109153
+PMID: 33475287 [Indexed for MEDLINE]
