@@ -1,0 +1,65 @@
+1. BMC Med. 2023 Jun 26;21(1):226. doi: 10.1186/s12916-023-02943-2.
+
+Pyrotinib in combination with letrozole for hormone receptor-positive, human 
+epidermal growth factor receptor 2-positive metastatic breast cancer (PLEHERM): 
+a multicenter, single-arm, phase II trial.
+
+Hu ZY(1)(2), Yan M(3), Xiong H(4), Ran L(5), Zhong J(6), Luo T(7), Sun T(8), Xie 
+N(1)(2), Liu L(1)(2), Yang X(1)(2), Xiao H(1)(2), Li J(1)(2), Liu B(1)(2), 
+Ouyang Q(9)(10).
+
+Author information:
+(1)Medical Department of Breast Cancer, Hunan Cancer Hospital, No. 283, Tongzipo 
+Road, Changsha, 410013, China.
+(2)Medical Department of Breast Cancer, the Affiliated Cancer Hospital of 
+Xiangya School of Medicine, Central South University, Changsha, China.
+(3)Department of Breast Cancer, Henan Cancer Hospital, Zhengzhou, China.
+(4)Department of Oncology, Tongji Hospital of Tongji Medical College of Huazhong 
+University of Science and Technology, Wuhan, China.
+(5)Department of Oncology, The Affiliated Hospital of Guizhou Medical 
+University, Guiyang, China.
+(6)Department of Medical Oncology, The First Affiliated Hospital of Guangxi 
+Medical University, Nanning, China.
+(7)Department of Breast Surgery, West China Hospital, Sichuan University, 
+Chengdu, China.
+(8)Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital, 
+Shenyang, China.
+(9)Medical Department of Breast Cancer, Hunan Cancer Hospital, No. 283, Tongzipo 
+Road, Changsha, 410013, China. oyqc1969@126.com.
+(10)Medical Department of Breast Cancer, the Affiliated Cancer Hospital of 
+Xiangya School of Medicine, Central South University, Changsha, China. 
+oyqc1969@126.com.
+
+BACKGROUND: Human epidermal growth factor receptor 2 (HER2) targeted therapy 
+combined with endocrine therapy has been recommended as an alternative treatment 
+strategy for patients with hormone receptor (HR)-positive, HER2-positive 
+metastatic breast cancer (MBC). This study aimed to evaluate the role of 
+pyrotinib, an oral pan-HER irreversible tyrosine kinase inhibitor, in 
+combination with letrozole for patients with HR-positive, HER2-positive MBC.
+METHODS: In this multi-center, phase II trial, HR-positive and HER2-positive MBC 
+patients who were not previously treated for metastasis disease were enrolled. 
+Patients received daily oral pyrotinib 400 mg and letrozole 2.5 mg until disease 
+progression, unacceptable toxicity, or withdrawal of consent. The primary 
+endpoint was the clinical benefit rate (CBR) assessed by an investigator 
+according to the Response Evaluation Criteria in Solid Tumors version 1.1.
+RESULTS: From November 2019 to December 2021, 53 patients were enrolled and 
+received pyrotinib plus letrozole. As of August 2022, the median follow-up 
+duration was 11.6 months (95% confidence interval [CI], 8.7-14.0 months). The 
+CBR was 71.7% (95% CI, 57.7-83.2%), and the objective response rate was 64.2% 
+(95% CI, 49.8-76.9%). The median progression-free survival was 13.7 months (95% 
+CI, 10.7-18.7 months). The most common treatment-related adverse event of grade 
+3 or higher was diarrhea (18.9%). No treatment-related deaths were reported, and 
+one patient experienced treatment discontinuation due to adverse event.
+CONCLUSIONS: Our preliminary results suggested that pyrotinib plus letrozole is 
+feasible for the first-line treatment of patients with HR-positive and 
+HER2-positive MBC, with manageable toxicities.
+TRIAL REGISTRATION: ClinicalTrials.gov, NCT04407988.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12916-023-02943-2
+PMCID: PMC10294469
+PMID: 37365596 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no 
+financial/non-financial competing interests.
