@@ -1,0 +1,75 @@
+1. Breast Cancer. 2020 Jan;27(1):85-91. doi: 10.1007/s12282-019-00997-w. Epub
+2019  Jul 20.
+
+Taxane-based combinations as adjuvant chemotherapy for node-positive ER-positive 
+breast cancer based on 2004-2009 data from the Breast Cancer Registry of the 
+Japanese Breast Cancer Society.
+
+Hojo T(1), Masuda N(2), Iwamoto T(3), Niikura N(4), Anan K(5), Aogi K(6), 
+Ohnishi T(7), Yamauchi C(7), Yoshida M(8), Kinoshita T(9), Masuoka H(10), Sagara 
+Y(11), Sakatani T(12), Kojima Y(13), Tsuda H(14), Kumamaru H(15), Miyata H(16), 
+Nakamura S(17).
+
+Author information:
+(1)Department of Breast Oncology, Saitama Medical University International 
+Medical Center, 1397-1 Yamane, Hidaka, Saitama, 350-1298, Japan. 
+tahojo@east.ncc.go.jp.
+(2)Department of Breast Surgery, Osaka National Hospital, 2-1-14, Houenzaka, 
+Chuo-ku Osaka-shi, Osaka, 540-0006, Japan.
+(3)Department of Breast and Endocrine Surgery, Okayama University Hospital, 
+2-5-1 Shikata-cho, Kitaku, Okayama City, Okayama, 700-8558, Japan.
+(4)Department of Breast and Endocrine Surgery, Tokai University School of 
+Medicine, Kanagawa, 143 Shimokasuya, Isehara, Kanagawa, 259-1193, Japan.
+(5)Department of Surgery, Kitakyushu Municipal Medical Center, Kitakyushu, 
+Japan.
+(6)Department of Breast Oncology, Shikoku Cancer Center, Matsuyama, Japan.
+(7)Department of Breast Surgery, National Cancer Center Hospital East, 6-5-1, 
+Kashiwanoha, Kashiwa, Chiba, 277-8577, Japan.
+(8)Department of Pathology and Clinical Laboratories, National Cancer Center 
+Hospital, 5-1-1, Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan.
+(9)Department of Breast Surgery, National Cancer Center Hospital, 5-1-1, 
+Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan.
+(10)Sapporo-kotoni Breast Clinic, Sapporo, Japan.
+(11)Department of Breast Surgery, Sagara Hospital, 3-31, Matsubara, Kagoshima, 
+Kagoshima, 892-0833, Japan.
+(12)Department of Diagnostic Pathology, Nippon Medical School Hospital, 1-1-5, 
+Sendagi, Bunkyo-ku, Tokyo, 113-8603, Japan.
+(13)Division of Breast and Endocrine Surgery, Department of Surgery, St. 
+Marianna University School of Medicine, 2-16-1 Sugao, Miyamae, Kawasaki, 
+Kanagawa, 216-8511, Japan.
+(14)Department of Basic Pathology, National Defense Medical College, 3-2 Namiki, 
+Tokorozawa, 359-8513, Japan.
+(15)Department of Healthcare Quality Assessment, Graduate School of Medicine, 
+The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(16)Department of Health Policy and Management, School of Medicine, Keio 
+University, 35 Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, Japan.
+(17)Division of Breast Surgical Oncology, Department of Surgery, Showa 
+University, Tokyo, Japan.
+
+BACKGROUND: Adding taxane to an anthracycline-based regimen improves survival in 
+node-positive breast cancer patients, as shown by clinical trials and 
+meta-analyses. However, no studies have analyzed the number of metastatic lymph 
+nodes in patients with estrogen receptor (ER)-positive cancer. This study 
+investigated whether adding a taxane to an anthracycline-based regimen improved 
+prognosis in node-positive, ER-positive, human epidermal growth factor receptor 
+2 (HER2)-negative breast cancer patients in a real-world setting.
+METHODS: Using Japanese Breast Cancer Society registry data, we compared 
+disease-free survival (DFS) of patients with ER-positive, HER2-negative breast 
+cancer, excluding those receiving neoadjuvant chemotherapy, between those who 
+received an anthracycline-based regimen followed by a taxane-based regimen 
+(A + T) and those who received only an anthracycline-based regimen (A w/o T), 
+stratified by lymph node status. A Cox proportional hazards model was used to 
+evaluate DFS in both groups.
+RESULTS: There were 4566 eligible patients with ER-positive, HER2-negative 
+breast cancer. During the median follow-up period of 60 months, there were 481 
+recurrences and 149 deaths. There was no significant difference in DFS between 
+the A + T and A w/o T groups among patients with 1-3 positive nodes, while there 
+was a significant difference among patients with ≥ 4 positive nodes.
+CONCLUSIONS: In patients with ER-positive, HER2-negative breast cancer, adding 
+taxane to an anthracycline regimen did not improve DFS in patients with 
+metastasis in 1-3 lymph nodes. We considered that the group without the addition 
+of taxane might be present in patients with ER-positive, HER2-negative lymph 
+node metastases.
+
+DOI: 10.1007/s12282-019-00997-w
+PMID: 31327134 [Indexed for MEDLINE]
