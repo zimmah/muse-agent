@@ -1,0 +1,35 @@
+1. Anal Chim Acta. 2016 Jan 28;905:156-62. doi: 10.1016/j.aca.2015.12.020. Epub 
+2015 Dec 18.
+
+Surface plasmon resonance immunosensor for ErbB2 breast cancer biomarker 
+determination in human serum and raw cancer cell lysates.
+
+Eletxigerra U(1), Martinez-Perdiguero J(2), Barderas R(3), Pingarrón JM(4), 
+Campuzano S(4), Merino S(1).
+
+Author information:
+(1)Micro-NanoFabrication Unit, IK4-Tekniker, Eibar, Spain.
+(2)Micro-NanoFabrication Unit, IK4-Tekniker, Eibar, Spain; Departamento de 
+Física Aplicada 1, Universidad del País Vasco (UPV/EHU), Vitoria, Spain. 
+Electronic address: josu.martinez@tekniker.es.
+(3)Departamento de Bioquímica y Biología Molecular, Facultad de CC. Químicas, 
+Universidad Complutense de Madrid, Madrid, Spain.
+(4)Departamento de Química Analítica, Facultad de CC. Químicas, Universidad 
+Complutense de Madrid, Madrid, Spain.
+
+A highly sensitive surface plasmon resonance (SPR) immunosensor for the 
+important ErbB2 breast cancer biomarker has been developed. Optimization of the 
+assay has been carried out, including signal enhancement employing gold 
+nanoparticles (GNPs). The effect of the signal amplification of the GNPs has 
+been also studied. The assay has been tested with clinically relevant matrices. 
+Results in 50% human serum yielded a LOD of 180 pg mL(-1) which is a 
+concentration 83 times lower than the clinical cut-off. Raw lysates from model 
+breast cancer cell lines (SK-BR-3, MCF-7 and MDA-MB-436) have been also assayed 
+and higher quantities of the ErbB2 protein were clearly observed in the ErbB2 
+over-expressing case (SK-BR-3). The results confirmed that the simple and highly 
+sensitive SPR immunosensor represents a feasible tool for ErbB2 detection.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.aca.2015.12.020
+PMID: 26755150 [Indexed for MEDLINE]
