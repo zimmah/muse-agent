@@ -1,0 +1,51 @@
+1. Neuro Oncol. 2015 Sep;17(9):1241-9. doi: 10.1093/neuonc/nov012. Epub 2015 Feb 
+13.
+
+Quantitative HER2 and p95HER2 levels in primary breast cancers and matched brain 
+metastases.
+
+Duchnowska R(1), Sperinde J(1), Chenna A(1), Huang W(1), Weidler JM(1), Winslow 
+J(1), Haddad M(1), Paquet A(1), Lie Y(1), Trojanowski T(1), Mandat T(1), 
+Kowalczyk A(1), Czartoryska-Arłukowicz B(1), Radecka B(1), Jarosz B(1), 
+Staszkiewicz R(1), Kalinka-Warzocha E(1), Chudzik M(1), Biernat W(1), Jassem 
+J(1).
+
+Author information:
+(1)Military Institute of Medicine, Warsaw, Poland (R.D.); Monogram Biosciences, 
+Inc, South San Francisco, California (J.S., A.C., W.H., J.M.W., J.W., M.H., 
+A.P., Y.L.); Medical University of Lublin, Lublin, Poland (T.T., B.J.); 
+Institute of Oncology, Warsaw, Poland (T.M.); Białystok Oncology Center, 
+Białystok, Poland (B.C.-A.); Opole Oncology Center, Opole, Poland (B.R.); 
+Interior Affairs Hospital, Olsztyn, Poland (R.S.); Regional Oncology Center, 
+Łódź, Poland (E.K.-W.); Oncology Center, Warsaw, Poland (M.C.); Medical 
+University of Gdańsk, Gdańsk, Poland (A.K., W.B., J.J.).
+
+BACKGROUND: Patients with advanced breast cancer positive for human epidermal 
+growth factor receptor 2 (HER2) are at high risk for brain metastasis (BM). The 
+prevalence and significance of expression of HER2 and its truncated form p95HER2 
+(p95) in BM is unknown.
+METHODS: Seventy-five pairs of formalin-fixed paraffin-embedded samples from 
+matched primary breast cancers (PBCs) and BM were assayed for quantitative p95 
+and HER2-total (H2T) protein expression using the p95 VeraTag and HERmark 
+assays, respectively.
+RESULTS: There was a net increase in p95 and H2T expression in BM relative to 
+the matched PBC (median 1.5-fold, P = .0007 and 2.1-fold, P < .0001, 
+respectively). Cases with H2T-positive tumors were more likely to have the 
+largest (≥5-fold) increase in p95 (odds ratio = 6.3, P = .018). P95 positivity 
+in PBC correlated with progression-free survival (hazard ratio [HR] = 2.2, P = 
+.013), trended with shorter time to BM (HR = 1.8, P = .070), and correlated with 
+overall survival (HR = 2.1, P = .042). P95 positivity in BM correlated with time 
+to BM (HR = 2.0, P = .016) but did not correlate with overall survival from the 
+time of BM diagnosis (HR = 1.2, P = .61).
+CONCLUSIONS: This is the first study of quantitative p95 and HER2 expression in 
+matched PBC and BM. BM of breast cancer shows significant increases in 
+expression of both biomarkers compared with matched PBC. These data provide a 
+rationale for future correlative studies on p95 and HER2 levels in BM.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of the 
+Society for Neuro-Oncology. All rights reserved. For permissions, please e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/neuonc/nov012
+PMCID: PMC4588754
+PMID: 25681308 [Indexed for MEDLINE]
