@@ -1,0 +1,52 @@
+1. Eur J Cancer. 2024 Aug;207:114192. doi: 10.1016/j.ejca.2024.114192. Epub 2024 
+Jun 28.
+
+CDK4/6 inhibitors as adjuvant therapy in early breast cancer? Uncertain 
+benefits, guaranteed harms.
+
+Haslam A(1), Ranganathan S(2), Prasad V(1), Olivier T(3).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, University of California San 
+Francisco, 550 16th St, 2nd Fl, San Francisco, CA 94158, USA.
+(2)Department of Medicine, University of Cambridge, Cambridge, United Kingdom.
+(3)Department of Oncology, Geneva University Hospital, 4 Gabrielle-Perret-Gentil 
+Street, 1205 Geneva, Switzerland. Electronic address: timothee.olivier@hug.ch.
+
+CDK4/6 inhibitors are oral agents inhibiting key molecules of the cell cycle 
+regulation. In patients with endocrine receptor positive (ER+), human epidermal 
+growth factor receptor 2 negative (HER2-) breast cancer, the combination of 
+CDK4/6 inhibitors with endocrine therapy is an effective treatment in the 
+metastatic setting. Now, two studies in the adjuvant setting - MonarchE (2 years 
+of abemaciclib) and NATALEE (3 years of ribociclib) - report positive invasive 
+disease-free survival. Here, we re-evaluate these seminal trials. First, an 
+excess drop-out or loss-to-follow up occurred early in the control arms of both 
+studies. Since both trials are open-label, there is concern that the patients 
+who drop-out do not do so at random but based on socioeconomic factors and 
+alternative options. Is it possible that the results merely appear favorable due 
+to loss to follow up? Based on re-constructed Kaplan-Meier curves, we concluded 
+the results of these studies remain fragile, being prone to informative 
+censoring. Secondly, adverse events were notably higher in both trials, and some 
+of them, like COVID-19 related deaths in NATALEE, raise serious concerns. Third, 
+the potential costs associated with CDK4/6 inhibition given as adjuvant therapy 
+are unprecedented. The NATALEE strategy, in particular, could affect up to 35 % 
+of patients with newly diagnosed breast cancer, which is the cancer with the 
+highest incidence worldwide. Without confirmatory data based on a 
+placebo-controlled trial, or better identification of patients that would 
+benefit from the addition of CDK4/6 inhibitors in the adjuvant setting, we argue 
+against their routine use as adjuvant therapy in ER+ /HER2- early breast cancer.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ejca.2024.114192
+PMID: 38959677 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Dr Vinay 
+Prasad reported receiving research funding from Arnold Ventures LLC through a 
+grant made to UCSF; royalties for books and writing from Johns Hopkins Press, 
+MedPage, and the Free Press; and consulting fees from UnitedHealthcare and 
+OptumRX. He also reported receiving revenue from Patreon, YouTube, and Substack 
+for the podcasts Plenary Session, VPZD, and Sensible Medicine; for the 
+newsletters Sensible Medicine, The Drug Development Letter, and VP’s 
+Observations and Thoughts; and for the YouTube channel Vinay Prasad MD MPH. All 
+other authors have no conflicts of interest to declare.
