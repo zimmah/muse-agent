@@ -1,0 +1,42 @@
+1. J Biol Chem. 2018 Jun 1;293(22):8439-8448. doi: 10.1074/jbc.M117.818013. Epub 
+2018 Apr 18.
+
+Structural insights into the mechanism of action of a biparatopic anti-HER2 
+antibody.
+
+Oganesyan V(1), Peng L(2), Bee JS(3), Li J(4), Perry SR(4), Comer F(4), Xu L(2), 
+Cook K(2), Senthil K(2), Clarke L(2), Rosenthal K(2), Gao C(2), Damschroder 
+M(2), Wu H(2), Dall'Acqua W(5).
+
+Author information:
+(1)From the Departments of Antibody Discovery and Protein Engineering, 
+oganesyanv@medimmune.com.
+(2)From the Departments of Antibody Discovery and Protein Engineering.
+(3)Analytical Sciences, and.
+(4)Biosuperiors, MedImmune, Gaithersburg, Maryland 20878.
+(5)From the Departments of Antibody Discovery and Protein Engineering, 
+dallacquaw@medimmune.com.
+
+Pathways of human epidermal growth factor (EGF) receptors are activated upon 
+ligand-dependent or -independent homo- or heterodimerization and their 
+subsequent transphosphorylation. Overexpression of these receptors positively 
+correlates with transphosphorylation rates and increased tumor growth rates. 
+MEDI4276, an anti-human epidermal growth factor receptor 2 (HER2) biparatopic 
+antibody-drug conjugate, has two paratopes within each antibody arm. One, 39S, 
+is aiming at the HER2 site involved in receptor dimerization and the second, 
+single chain fragment (scFv), mimicking trastuzumab. Here we present the 
+cocrystal structure of the 39S Fab-HER2 complex and, along with biophysical and 
+functional assays, determine the corresponding epitope of MEDI4276 and its 
+underlying mechanism of action. Our results reveal that MEDI4276's uniqueness is 
+based first on the ability of its 39S paratope to block HER2 homo- or 
+heterodimerization and second on its ability to cluster the receptors on the 
+surface of receptor-overexpressing cells.
+
+© 2018 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M117.818013
+PMCID: PMC5986207
+PMID: 29669810 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest with the contents of this article
