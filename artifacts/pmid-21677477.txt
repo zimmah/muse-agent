@@ -1,0 +1,34 @@
+1. Gan To Kagaku Ryoho. 2011 Jun;38(6):892-5.
+
+[Tykerb for breast cancer].
+
+[Article in Japanese]
+
+Suzuki Y(1), Saito Y, Okamura T, Tokuda Y.
+
+Author information:
+(1)Dept. of Breast and Endocrine Surgery, Tokai University School of Medicine.
+
+There are four members of the ErbB family: the epidermal growth 
+factor(EGF)receptor(also called HER1 or EGFR), HER2, HER3 and HER4. Dimerization 
+is the process whereby two HER receptor molecules associate to form a 
+noncovalent complex. HER dimers are the active receptor forms required for 
+transmission of external stimuli to the interior of the cell. HER dimerization 
+occurs upon ligand binding and both HER homodimers and heterodimers can be 
+formed in the process. However, HER2 appears to be the preferred dimerization 
+partner of the other HER family members. Fifteen∼20% of all breast cancers are 
+HER2 positive and have a poor prognosis. Trastuzumab is an excellent, 
+rationally-designed targeted cancer treatment. It is a recombinant, humanized, 
+anti-HER2 monoclonal antibody that specifically binds to the extracellular area 
+of HER2. However, the overall trastuzumab response rate is low, and the causes 
+of trastuzumab resistance are poorly understood. Thus, there is a need for 
+alternative anti-HER2 strategies for trastuzumab-resistant disease. Lapatinib is 
+an orally administered small-molecule, reversible inhibitor of both EGFR and 
+HER2 tyrosine kinase, and its activities include subsequent inhibition of its 
+down- stream MAPK-ERK1/2, and the AKT signaling pathway. Lapatinib is more 
+active when used in combination with capecitabine. For women with trastuzumab 
+pre-treated HER2-positive breast cancer, Here, I will review the basics of EGFR 
+and HER, and the treatment strategy for HER2-positive breast cancer with 
+lapatinib.
+
+PMID: 21677477 [Indexed for MEDLINE]
