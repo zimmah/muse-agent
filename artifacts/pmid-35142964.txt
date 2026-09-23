@@ -1,0 +1,40 @@
+1. Cancer Metastasis Rev. 2022 Mar;41(1):193-209. doi:
+10.1007/s10555-022-10021-x.  Epub 2022 Feb 10.
+
+Anti-HER2 therapy in metastatic breast cancer: many choices and future 
+directions.
+
+Wynn CS(1), Tang SC(2).
+
+Author information:
+(1)Cancer Center and Research Institute, University of Mississippi Medical 
+Center, Guyton Research Building, G-651-07, 2500 North State Street, Jackson, 
+MS, 39216, USA.
+(2)Cancer Center and Research Institute, University of Mississippi Medical 
+Center, Guyton Research Building, G-651-07, 2500 North State Street, Jackson, 
+MS, 39216, USA. Stang2@umc.edu.
+
+Metastatic HER2 + breast cancer is an expanding area of drug development and 
+research, with three new drugs approved in 2020 alone. While first-line therapy 
+is well-established for metastatic HER2 + breast cancer, the standard of care 
+for second-line therapy will likely be changing soon based on the results of 
+the DESTINY-Breast03 trial. In the third-line setting, many options are 
+available. Considerations in choosing between regimens in the third-line include 
+resistance to trastuzumab, the presence of brain metastases, and tolerability. 
+High rates of resistance exist in this setting particularly due to expression of 
+p95, a truncated form of HER2 that constitutively activates downstream signaling 
+pathways. We suggest a tyrosine kinase inhibitor (TKI)-based regimen because of 
+the activity of TKIs in brain metastases and in p95-expressing tumors. Attempts 
+to overcome resistance to anti-HER2 therapies with PI3K inhibitors, mTOR 
+inhibitors, and CDK 4/6 inhibitors are an active area of research. In the 
+future, biomarkers are needed to help predict which therapies patients may 
+benefit from the most. We review the many new drugs in development, including 
+those with novel mechanisms of action.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s10555-022-10021-x
+PMCID: PMC8924093
+PMID: 35142964 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
