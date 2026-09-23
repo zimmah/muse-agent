@@ -1,0 +1,49 @@
+1. Ann Oncol. 2011 Jan;22(1):86-92. doi: 10.1093/annonc/mdq323. Epub 2010 Jul 5.
+
+Circulating tumor cells (CTCs) in metastatic breast cancer (MBC): prognosis, 
+drug resistance and phenotypic characterization.
+
+Gradilone A(1), Naso G(2), Raimondi C(2), Cortesi E(2), Gandini O(1), Vincenzi 
+B(3), Saltarelli R(4), Chiapparino E(4), Spremberg F(4), Cristofanilli M(5), 
+Frati L(6), Aglianò AM(1), Gazzaniga P(7).
+
+Author information:
+(1)Department of Experimental Medicine.
+(2)Department of Experimental Medicine, Division of Medical Oncology, 'Sapienza' 
+University of Rome.
+(3)Division of Medical Oncology, University 'Campus Biomedico', Rome.
+(4)Division of Medical Oncology, Hospital 'S. Giovanni Evangelista', Tivoli, 
+Italy.
+(5)Department of Medical Oncology, Fox Chase Cancer Center, Philadelphia, PA, 
+USA.
+(6)Department of Experimental Medicine; Department of Experimental Medicine, 
+Division of Medical Oncology, 'Sapienza' University of Rome.
+(7)Department of Experimental Medicine. Electronic address: 
+paola.gazzaniga@uniroma1.it.
+
+Comment in
+    Ann Oncol. 2011 Jan;22(1):234. doi: 10.1093/annonc/mdq611.
+
+BACKGROUND: the expression of ATP-binding cassette transporters on circulating 
+tumor cells (CTCs) is predictive of response to chemotherapy in cancer patients. 
+We tested the hypothesis that drug-resistant CTCs might have predictive value in 
+metastatic breast cancer (MBC) and possibly retain stem-like properties.
+PATIENTS AND METHODS: CTCs obtained from 42 MBC patients were evaluated for 
+multidrug-resistance-related proteins (MRPs), aldehyde dehydrogenase 1 (ALDH1), 
+estrogen receptor α (ERα) and human epidermal growth factor receptor 2 
+(HER2/neu). Primary objective was to evaluate the prognostic and predictive 
+value of CTCs profile. Secondary end points were the level of concordance in ERα 
+and HER2/neu status between primary tumors and CTCs and the correlation in CTCs 
+between ALDH1, drug resistance profile and number of MRPs.
+RESULTS: A difference in progression-free survival (PFS) was found between 
+CTCs-positive and CTCs-negative patients. PFS was shorter in patients with a 
+'drug resistance' CTCs profile and in patients whose CTCs expressed two or more 
+MRPs. No correlation was found between tumor characteristics and ALDH1. ALDH1 
+correlated to negative ERα and positive HER2/neu status in CTCs. The correlation 
+between the number of MRPs expressed in CTCs and ALDH1 was statistically 
+significant.
+CONCLUSION: in MBC, the presence of CTCs expressing MRPs and ALDH1 is predictive 
+of response to chemotherapy.
+
+DOI: 10.1093/annonc/mdq323
+PMID: 20603432 [Indexed for MEDLINE]
