@@ -1,0 +1,44 @@
+1. Breast Cancer Res Treat. 2012 Jul;134(2):583-93. doi:
+10.1007/s10549-012-2082-9.  Epub 2012 May 29.
+
+Upregulation of mucin4 in ER-positive/HER2-overexpressing breast cancer 
+xenografts with acquired resistance to endocrine and HER2-targeted therapies.
+
+Chen AC(1), Migliaccio I, Rimawi M, Lopez-Tarruella S, Creighton CJ, Massarweh 
+S, Huang C, Wang YC, Batra SK, Gutierrez MC, Osborne CK, Schiff R.
+
+Author information:
+(1)Lester & Sue Smith Breast Center, Baylor College of Medicine, Houston, TX, 
+USA.
+
+We studied resistance to endocrine and HER2-targeted therapies using a xenograft 
+model of estrogen receptor positive (ER)/HER2-overexpressing breast cancer. 
+Here, we report a novel phenotype of drug resistance in this model. MCF7/HER2-18 
+xenografts were treated with endocrine therapy alone or in combination with 
+lapatinib and trastuzumab (LT) to inhibit HER2. Archival tumor tissues were 
+stained with hematoxylin and eosin and with mucicarmine. RNA extracted from 
+tumors at early time points and late after acquired resistance were analyzed for 
+mucin4 (MUC4) expression by microarray and quantitative reverse 
+transcriptase-PCR. Protein expression of the MUC4, ER, and HER2 signaling 
+pathways was measured by immunohistochemistry and western blotting. The 
+combination of the potent anti-HER2 regimen LT with either tamoxifen (Tam + LT) 
+or estrogen deprivation (ED + LT) can cause complete eradication of 
+ER-positive/HER2-overexpressing tumors in mice. Tumors developing resistance to 
+this combination, as well as those acquiring resistance to endocrine therapy 
+alone, exhibited a distinct histological and molecular phenotype-a striking 
+increase in mucin-filled vacuoles and upregulation of several mucins including 
+MUC4. At the onset of resistance, MUC4 mRNA and protein were increased. These 
+tumors also showed upregulation and reactivation of HER2 signaling, while losing 
+ER protein and the estrogen-regulated gene progesterone receptor. Mucins are 
+upregulated in a preclinical model of ER-positive/HER2-overexpressing breast 
+cancer as resistance develops to the combination of endocrine and anti-HER2 
+therapy. These mucin-rich tumors reactivate the HER2 pathway and shift their 
+molecular phenotype to become more ER-negative/HER2-positive.
+
+DOI: 10.1007/s10549-012-2082-9
+PMCID: PMC3408244
+PMID: 22644656 [Indexed for MEDLINE]
+
+Conflict of interest statement: DISCLOSURES: The experiments described in this 
+study comply with the current laws of the country in which they were performed. 
+The authors declare that they have no relevant conflicts of interest.
