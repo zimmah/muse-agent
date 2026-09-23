@@ -1,0 +1,45 @@
+1. Int J Mol Sci. 2020 Jan 3;21(1):330. doi: 10.3390/ijms21010330.
+
+Cytoplasmic and Nuclear Forms of Thyroid Hormone Receptor β1 Are Inversely 
+Associated with Survival in Primary Breast Cancer.
+
+Shao W(1), Kuhn C(1), Mayr D(2), Ditsch N(1)(3), Kailuweit M(1), Wolf V(1), 
+Harbeck N(1), Mahner S(1), Jeschke U(1)(3), Cavaillès V(4), Sixou S(1)(5)(6).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Breast Center, University Hospital, 
+LMU Munich, 80337 Munich, Germany.
+(2)Department of Pathology, LMU Munich, 80337 Munich, Germany.
+(3)Department of Obstetrics and Gynecology, University Hospital Augsburg, 
+Stenglinstr. 2, 86156 Augsburg, Germany.
+(4)IRCM-Institut de Recherche en Cancérologie de Montpellier, INSERM U1194, 
+Université de Montpellier, Institut régional du Cancer de Montpellier, CNRS, 208 
+rue des Apothicaires, F-34298 Montpellier CEDEX 5, France.
+(5)Faculté des Sciences Pharmaceutiques, Université Paul Sabatier Toulouse III, 
+31062 Toulouse CEDEX 9, France.
+(6)Cholesterol Metabolism and Therapeutic Innovations, Cancer Research Center of 
+Toulouse (CRCT), UMR 1037, Université de Toulouse, CNRS, Inserm, UPS, 31037 
+Toulouse, France.
+
+The aim of this study was to investigate the expression of thyroid hormone 
+receptor β1 (THRβ1) by immunohistochemistry in breast cancer (BC) tissues and to 
+correlate the results with clinico-biological parameters. In a 
+well-characterized cohort of 274 primary BC patients, THRβ1 was widely expressed 
+with a predominant nuclear location, although cytoplasmic staining was also 
+frequently observed. Both nuclear and cytoplasmic THRβ1 were correlated with 
+high-risk BC markers such as human epidermal growth factor receptor 2 (HER2), 
+Ki67 (also known as MKI67), prominin-1 (CD133), and N-cadherin. Overall survival 
+analysis demonstrated that cytoplasmic THRβ1 was correlated with favourable 
+survival (p = 0.015), whereas nuclear THRβ1 had a statistically significant 
+correlation with poor outcome (p = 0.038). Interestingly, in our cohort, nuclear 
+and cytoplasmic THRβ1 appeared to be independent markers either for poor (p = 
+0.0004) or for good (p = 0.048) prognosis, respectively. Altogether, these data 
+indicate that the subcellular expression of THRβ1 may play an important role in 
+oncogenesis. Moreover, the expression of nuclear THRβ1 is a negative outcome 
+marker, which may help to identify high-risk BC subgroups.
+
+DOI: 10.3390/ijms21010330
+PMCID: PMC6981495
+PMID: 31947762 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
