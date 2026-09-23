@@ -1,0 +1,47 @@
+1. Acta Radiol. 2018 Jul;59(7):806-812. doi: 10.1177/0284185117738560. Epub 2017 
+Oct 24.
+
+Decreased background parenchymal enhancement of the contralateral breast after 
+two cycles of neoadjuvant chemotherapy is associated with tumor response in 
+HER2-positive breast cancer.
+
+You C(1), Gu Y(1), Peng W(2), Li J(3), Shen X(4), Liu G(3), Peng W(1).
+
+Author information:
+(1)1 Department of Radiology, Fudan University Cancer Center, Department of 
+Oncology, Shanghai Medical College, Fudan University, Shanghai, PR China.
+(2)2 Department of Endocrinology, Jiangsu University Affiliated People's 
+Hospital, Jiangsu University, Zhenjiang, PR China.
+(3)3 Department of Breast Surgery, Key Laboratory of Breast Cancer in Shanghai, 
+Fudan University Shanghai Cancer Center, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, PR China.
+(4)4 Department of Pathology, Fudan University Shanghai Cancer Center, 
+Department of Oncology, Shanghai Medical College, Fudan University Shanghai, PR 
+China.
+
+Background Several recent studies have focused on the association between 
+background parenchymal enhancement (BPE) and tumor response to neoadjuvant 
+chemotherapy (NAC), but early prediction of tumor response based on BPE has yet 
+not been investigated. Purpose To retrospectively investigate whether changes in 
+the BPE of the contralateral breast following NAC could help predict tumor 
+response in early stage HER2-positive breast cancer. Material and Methods Data 
+from 71 patients who were diagnosed with unilateral HER2 positive breast cancer 
+and then underwent NAC with trastuzumab before surgery were analyzed 
+retrospectively. Two experienced radiologists independently categorized the 
+patients' levels of BPE of the contralateral breast into four categories 
+(1 = minimal, 2 = mild, 3 = moderate, 4 = marked) at baseline and after the 
+second cycle of NAC. After undergoing surgery, 34 patients achieved pathologic 
+complete response (pCR) and 37 patients had residual disease (non-pCR). The 
+association between BPE and histopathologic tumor response was analyzed. Result 
+The level of BPE was higher in premenopausal than post-menopausal women both at 
+baseline and after the second cycle of NAC ( P < 0.005). A significant reduction 
+in BPE ( P < 0.001) was observed after the second NAC cycle; however, a more 
+obvious decrease in BPE was identified in premenopausal relative to 
+post-menopausal women ( P = 0.041). No significant association was identified 
+between pCR and baseline BPE ( P = 0.287). However, after the second NAC cycle, 
+decreased BPE was significantly associated with pCR ( P = 0.003). Conclusion For 
+HER2-positive patients, changes in BPE may serve as an additional imaging 
+biomarker of treatment response at an early stage.
+
+DOI: 10.1177/0284185117738560
+PMID: 29065702 [Indexed for MEDLINE]
