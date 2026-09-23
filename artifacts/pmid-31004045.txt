@@ -1,0 +1,47 @@
+1. Postgrad Med J. 2019 Mar;95(1121):155-161. doi: 
+10.1136/postgradmedj-2018-135739. Epub 2019 Apr 19.
+
+Changing pattern of recurrences in patients with early HER2-positive breast 
+cancer receiving neoadjuvant chemotherapy in the era of dual anti-HER2 therapy.
+
+Chiu JW(1), Leung R(1), Tang V(1), Cheuk WY(2), Lo J(2), Kwok GW(1), Wong H(1), 
+Suen D(2), Cheung P(3), Wong TT(3), Yau T(1), Kwong A(4)(3).
+
+Author information:
+(1)Department of Medicine, Queen Mary Hospital, Hong Kong, China.
+(2)Department of Surgery, Queen Mary Hospital, Hong Kong, China.
+(3)Department of Surgery, Hong Kong Sanatorium Hospital, Hong Kong, China.
+(4)Department of Surgery, Queen Mary Hospital, Hong Kong, China avakwong@hku.hk.
+
+BACKGROUND: Over the last 10 years, there has been a major treatment revolution 
+for early human epidermal growth factor receptor 2 (HER2)-positive breast 
+cancer. We aimed to explore the outcome of different neoadjuvant chemotherapy in 
+a tertiary breast cancer centre with early HER2-positive breast cancer as well 
+as factors associated with pathological complete response (pCR) and 
+recurrence-free survival (RFS). The pattern of recurrence was also studied.
+METHODS: This retrospective study analysed the outcome of neoadjuvant 
+chemotherapy during the period 2005 to 2016 in a tertiary referral centre in 
+Hong Kong. Patients were divided into three groups according to the neoadjuvant 
+chemotherapy they received: chemotherapy only (Chemo), chemotherapy plus 
+trastuzumab (Chemo-H) and chemotherapy plus double anti-HER2 therapy (Chemo-DH).
+RESULTS: There were 226 cases analysed during the study period. The rate of pCR 
+was 5%, 26% and 60% in Chemo, Chemo-H and Chemo-DH groups, respectively (Chemo 
+vs pooled Chemo-H/DH: p<0.0001; Chemo-H vs Chemo-DH: p<0.0001). This was 
+accompanied by a trend of increased rate of breast conservation therapy in 
+Chemo-DH cohort (p=0.046). Use of double anti-HER2 therapy, older age 
+(>50 years) and hormone receptor negativity were associated with more pCR. pCR 
+was associated with better RFS. Among those with recurrence, the proportion of 
+patients with brain as the only site of recurrence increased remarkably with 
+more efficacious anti-HER2 treatment (0% in Chemo, 8% in Chemo-H, 67% in 
+Chemo-DH).
+CONCLUSION: pCR remains an important predictive factor for improved RFS. In the 
+era of dual anti-HER2 neoadjuvant therapy, brain-only recurrence poses a 
+challenge to disease surveillance and treatment.
+
+© Author(s) (or their employer(s)) 2019. No commercial re-use. See rights and 
+permissions. Published by BMJ.
+
+DOI: 10.1136/postgradmedj-2018-135739
+PMID: 31004045 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
