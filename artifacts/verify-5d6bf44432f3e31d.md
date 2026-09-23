@@ -1,0 +1,17 @@
+# methods-audit — claim 5d6bf44432f3e31da01dba681fef63861d5aed5a62386165c715052adbca09f6
+
+Claim: Reported finding from PMID 42167437 (Datopotamab deruxtecan (Dato-DXd) in combination with durvalumab as first-line treatment for unresectable locally advanced or metastatic triple-negative breast cancer: results from arms 7 and 8 of the phase Ib/II BEGONIA study): First-line Dato-DXd plus durvalumab demonstrated substantial and durable antitumor activity in locally advanced unresectable or metastatic TNBC, regardless of PD-L1 status.
+Source: PMID 42167437 (https://pubmed.ncbi.nlm.nih.gov/42167437/)
+Checked: 2026-09-23T22:41:49.235Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Checklist audit (qwen3:8b, temp 0): design in source: not stated; design matches claim: true; endpoint matches: n/a; population matches: n/a; contradiction: false.
+3. Notes: The claim states that 'First-line Dato-DXd plus durvalumab demonstrated substantial and durable antitumor activity in locally advanced unresectable or metastatic TNBC, regardless of PD-L1 status.' This is directly supported by the source abstract, which concludes: 'First-line Dato-DXd plus durvalumab demonstrated substantial and durable antitumor activity in locally advanced unresectable or metastatic TNBC, regardless of PD-L1 status.' The claim accurately reflects the conclusion of the source text.
+4. Deterministic numeric grounding: missing tokens: none.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: 8a9e0d7bf8d5b7d434c0025a12cfdef38d1ac25e942af4ebb348b271d9f675e6
