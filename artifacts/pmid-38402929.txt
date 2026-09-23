@@ -1,0 +1,51 @@
+1. Eur J Pharmacol. 2024 Apr 15;969:176424. doi: 10.1016/j.ejphar.2024.176424.
+Epub  2024 Feb 23.
+
+Pharmacological insights on novel oral selective estrogen receptor degraders in 
+breast cancer.
+
+Guglielmi G(1), Del Re M(1), Gol LS(1), Bengala C(2), Danesi R(3), Fogli S(1).
+
+Author information:
+(1)Clinical Pharmacology and Pharmacogenetics Unit, Department of Clinical and 
+Experimental Medicine, University of Pisa, Pisa, Italy.
+(2)Clinical Oncology Unit 1, Azienda Ospedaliero-Universitaria Pisana, Pisa, 
+Italy.
+(3)Clinical Pharmacology and Pharmacogenetics Unit, Department of Clinical and 
+Experimental Medicine, University of Pisa, Pisa, Italy; Department of Oncology 
+and Hemato-Oncology, University of Milano, Milano, Italy. Electronic address: 
+romano.danesi@unimi.it.
+
+The therapeutic landscape of estrogen receptor (ER)-positive breast cancer 
+includes endocrine treatments with aromatase inhibitors (AIs), selective 
+estrogen receptor modulators (SERMs), and selective estrogen receptor degraders 
+(SERDs). Fulvestrant is the first approved SERD with proven efficacy and good 
+tolerability in clinical practice. However, drug resistance, low receptor 
+affinity, and parental administration stimulated the search for new oral SERDs 
+opening a new therapeutic era in ER + breast cancer. Elacestrant is an orally 
+bioavailable SERD that has been recently approved by the FDA for postmenopausal 
+women with ER+, human epidermal growth factor receptor 2-negative (HER2-), 
+estrogen receptor 1 (ESR1)-mutated advanced or metastatic breast cancer with 
+disease progression following at least one line of endocrine therapy. Other 
+molecules of the same class currently tested in clinical trials are 
+amcenestrant, giredestrant, camizestrant, and imlunestrant. The current review 
+article offers a detailed pharmacological perspective of this emerging drug 
+class, which may help with their possible future clinical applications.
+
+Copyright © 2024 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2024.176424
+PMID: 38402929 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Giorgio 
+Guglielmi: none; Marzia Del Re: Ipsen, Novartis, Pfizer, Sanofi Genzyme, 
+AstraZeneca, Pierre-Fabre, Janssen (scientific advisory board, consulting 
+relationship), Ipsen, AstraZeneca, Sanofi Genzyme (travel, accommodation, 
+expenses); Leila Sadeghi Gol: none; Carmelo Bengala: Astra Zeneca, Pfizer, 
+Daiichi-Sankyo, Novartis, Gilead, Pierre Fabre, Roche, GSK (scientific advisory 
+boards, travel, accommodation); Romano Danesi: Roche, Ipsen, Novartis, Pfizer, 
+Sanofi Genzyme, AstraZeneca, Janssen, Gilead, Lilly, Gilead, EUSA Pharma 
+(scientific advisory board, consulting relationship), Ipsen, Sanofi Genzyme 
+(travel, accommodation, expenses). Stefano Fogli: Pfizer, Novartis, Roche, BMS, 
+Lilly, Teva, Janssen, Celgene (scientific advisory board, consulting 
+relationship, travel expenses).
