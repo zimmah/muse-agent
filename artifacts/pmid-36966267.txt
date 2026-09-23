@@ -1,0 +1,41 @@
+1. Curr Treat Options Oncol. 2023 May;24(5):442-465. doi: 
+10.1007/s11864-023-01072-5. Epub 2023 Mar 25.
+
+Antibody-Drug Conjugate Revolution in Breast Cancer: The Road Ahead.
+
+Grinda T(1), Rassy E(1), Pistilli B(2).
+
+Author information:
+(1)Department of Cancer Medicine, Gustave Roussy, 114 Rue Edouard Vaillant, 
+94800, Villejuif, France.
+(2)Department of Cancer Medicine, Gustave Roussy, 114 Rue Edouard Vaillant, 
+94800, Villejuif, France. barbara.pistilli@gustaveroussy.fr.
+
+Erratum in
+    Curr Treat Options Oncol. 2023 May;24(5):466-467. doi: 
+10.1007/s11864-023-01092-1.
+
+Antibody drug-conjugates (ADCs) have revolutionized the treatment of many types 
+of cancer, including breast cancer. Recently, two new ADCs have been approved, 
+trastuzumab deruxtecan and sacituzumab govitecan; both have demonstrated 
+impressive improvements in overall survival, trastuzumab deruxtecan in all three 
+subtypes of metastatic breast cancer and sacituzumab govitecan in luminal and 
+triple negative metastatic breast cancer. These drugs are the results of 
+significant progress and innovation in the construction of the three components 
+of an ADC, the monoclonal antibody, the payload, and the linker, and of the 
+discovery of new target antigens. ADC engineering has profoundly changed the 
+paradigm of cancer treatment, on one side being effective on tumors considered 
+inherently resistant to the payload class of drugs and on the other side 
+demonstrating activity in tumors with very low target expression. Yet, it is 
+likely that we are just at the beginning of a new era as the identification of 
+new targets and the introduction of new ADC constructs and combinations will 
+expand the field of ADC rapidly over the coming years.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s11864-023-01072-5
+PMCID: PMC10122624
+PMID: 36966267 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Pistilli, El-Rassy and Grinda has nothing to 
+disclose.
