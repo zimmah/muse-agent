@@ -1,0 +1,57 @@
+1. Breast J. 2025 Nov 14;2025:3770655. doi: 10.1155/tbj/3770655. eCollection
+2025.
+
+Influence of HER2 Changes on Survival Outcomes After Neoadjuvant Chemotherapy in 
+Peruvian Patients With Triple-Negative Breast Cancer.
+
+Morante Z(1)(2), Ferreyra Y(3)(4), Otoya I(2), Valdiviezo N(2), Huarcaya-Chombo 
+N(5), Polo-Mendoza G(6), Calle C(2), Meza J(2), Castañeda C(2), Vidaurre T(2), 
+Valencia G(2), Rioja P(2), Fuentes H(2), Neciosup SP(2), Gomez HL(7).
+
+Author information:
+(1)Faculty of Human Medicine, Cayetano Heredia Peruvian University, Lima, Peru.
+(2)Department of Medical Oncology, National Institute of Neoplastic Diseases, 
+Lima, Peru.
+(3)Health Innovation Laboratory-Institute of Tropical Medicine "Alexander von 
+Humboldt", Cayetano Heredia Peruvian University, Lima, Peru.
+(4)Professional School of Human Medicine, San Juan Bautista Private University, 
+Lima, Peru.
+(5)Faculty of Science and Engineering, Cayetano Heredia Peruvian University, 
+Lima, Peru.
+(6)Department of Bioengineering, University of Engineering and Technology, Lima, 
+Peru.
+(7)Oncosalud, Auna Ideas, Lima, Peru.
+
+BACKGROUND: Lack of human epidermal growth factor receptor 2 (HER2) expression 
+limits targeted treatments for triple-negative breast cancer (TNBC). HER2 status 
+changes after neoadjuvant chemotherapy (NAC) have been reported, but their 
+impact on survival in Peruvian TNBC patients remains unexplored. Here, we aimed 
+to assess HER2 status before and after NAC and its association with clinical 
+characteristics, treatment response, and survival outcomes.
+METHODS: Our analysis included clinicopathological data from 159 TNBC patients 
+diagnosed between 2015 and 2019 at the Instituto Nacional de Enfermedades 
+Neoplásicas (Lima, Peru) who received NAC. Logistic regression was used to 
+assess the association between HER2 status at diagnosis and pathological 
+complete response (pCR). Cohen's Kappa analysis evaluated the agreement between 
+pre- and post-NAC HER2 status, while Kaplan-Meier analysis estimated the impact 
+of HER2 changes on overall survival (OS) and disease-free survival (DFS).
+RESULTS: Among TNBC patients, 40.3% were HER2-low at diagnosis and 14.9% 
+achieved pCR. Pretherapeutic HER2 status was not associated with pCR (OR = 1.4, 
+95% CI = 0.55-3.61, and p=0.5). HER2 status remained unchanged in 62.8% of 
+HER2-zero and 75.9% of HER2-low patients post-NAC, showing moderate concordance 
+(Cohen's kappa = 0.3418, p < 0.001). No significant OS improvements were 
+observed in patients with HER2 transitions: HER2-zero/HER2-low (HR = 0.52, 95% 
+CI = 0.22-1.24, and p=0.14), HER2-low/HER2-zero (HR = 0.9, 95% CI = 0.34-2.40, 
+and p=0.8), or HER2-low/HER2-low (HR = 0.71, 95% CI = 0.34-1.49, and p=0.4) 
+compared with HER2-zero/HER2-zero. Similar findings were reported for DFS.
+CONCLUSION: These findings suggest that HER2 status conversion may not be 
+prognostic for patients with TNBC treated with neoadjuvant therapy.
+
+Copyright © 2025 Zaida Morante et al. The Breast Journal published by John Wiley 
+& Sons Ltd.
+
+DOI: 10.1155/tbj/3770655
+PMCID: PMC12638172
+PMID: 41282047 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
