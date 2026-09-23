@@ -1,0 +1,42 @@
+1. BJS Open. 2022 May 2;6(3):zrac028. doi: 10.1093/bjsopen/zrac028.
+
+Pathological complete response as a surrogate to improved survival in human 
+epidermal growth factor receptor-2-positive breast cancer: systematic review and 
+meta-analysis.
+
+Davey MG(1)(2), Browne F(1), Miller N(2), Lowery AJ(1)(2), Kerin MJ(1)(2).
+
+Author information:
+(1)Department of Surgery, Galway University Hospitals, Galway, Ireland.
+(2)The Lambe Institute for Translational Research, National University of 
+Ireland, Galway, Ireland.
+
+BACKGROUND: Achieving a pathological complete response (pCR) is believed to 
+correlate with oncological outcomes in human epidermal growth factor 
+receptor-2-positive (HER2+) breast cancer. However, informed estimation of this 
+survival advantage is often difficult to quantify. The aim of this study was to 
+evaluate the role of pCR as a biomarker of survival in patients treated with 
+neoadjuvant therapies for HER2+ breast cancer.
+METHODS: A systematic review was performed in accordance with the PRISMA 
+checklist. Data specific to pCR and survival with respect to event-free survival 
+(EFS), recurrence-free survival (RFS) and overall survival (OS) were expressed 
+as hazard ratio (HR) and 95 per cent confidence intervals (c.i.). pCR and 
+survival at yearly intervals after resection were expressed as dichotomous 
+variables using the Mantel-Haenszel method.
+RESULTS: Overall, 78 clinical studies with 25 150 patients were included in this 
+study. pCR predicted better EFS (HR 0.67, 95 per cent c.i. 0.60 to 0.74; 41 
+studies), RFS (HR 0.69, 95 per cent c.i. 0.57 to 0.83; 18 studies) and OS (HR 
+0.63, 95 per cent c.i. 0.56 to 0.70; 29 studies) for patients with HER2+ breast 
+cancer. At 5 years, pCR predicted better EFS (HR 0.37, 95 per cent c.i. 0.30 to 
+0.48; 19 studies), RFS (HR 0.28, 95 per cent c.i. 0.21 to 0.39; 8 studies) and 
+OS (HR 0.26, 95 per cent c.i. 0.20 to 0.33; 10 studies).
+CONCLUSION: This study confirms pCR as an informative surrogate biomarker for 
+enhanced survival and suggests that it may be used as an appropriate endpoint 
+for clinical research.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of BJS 
+Society Ltd.
+
+DOI: 10.1093/bjsopen/zrac028
+PMCID: PMC9071230
+PMID: 35512244 [Indexed for MEDLINE]
