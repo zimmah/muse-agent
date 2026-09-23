@@ -1,0 +1,51 @@
+1. Cell Rep Med. 2026 Aug 18;7(8):102934. doi: 10.1016/j.xcrm.2026.102934. Epub 
+2026 Jul 24.
+
+Combine antibody-drug conjugate with cmLumiOpto for triple-negative breast 
+cancer treatment.
+
+Varadkar T(1), Zhou ZZ(1), Si Y(1), Zhang J(2), Du Z(1), Khanal AG(3), Chowdhury 
+S(1), Tsaliki C(1), Zhou L(4), Liu XM(5).
+
+Author information:
+(1)Department of Chemical and Biomolecular Engineering, The Ohio State 
+University, Columbus, OH, USA.
+(2)Department of Biomedical Engineering, The Ohio State University, Columbus, 
+OH, USA.
+(3)Comprehensive Cancer Center, The Ohio State University, Columbus, OH, USA.
+(4)Department of Biomedical Engineering, The Ohio State University, Columbus, 
+OH, USA; Department of Surgery, The Ohio State University, Columbus, OH, USA; 
+Comprehensive Cancer Center, The Ohio State University, Columbus, OH, USA.
+(5)Department of Chemical and Biomolecular Engineering, The Ohio State 
+University, Columbus, OH, USA; Comprehensive Cancer Center, The Ohio State 
+University, Columbus, OH, USA. Electronic address: liu.482@osu.edu.
+
+Triple-negative breast cancer (TNBC) is an aggressive and chemotherapy-resistant 
+subtype characterized by high metastatic potential and frequent recurrence, 
+making monotherapies largely ineffective. This study evaluates a combination 
+strategy utilizing a CD276 (B7-H3)-targeted antibody-drug conjugate (ADC) 
+alongside mitochondria-targeted gene therapy. The anti-CD276 monoclonal 
+antibody-mertansine conjugate substantially reduces tumor burden at a low dose. 
+It exhibits strong synergy with the cmLumiOpto platform, enhancing cytotoxicity 
+across three TNBC cell lines, impairing mitochondrial function, and elevating 
+the tumoral immune response. Furthermore, the ADC/cmLumiOpto combination 
+suppresses TNBC metastasis in mouse models and inhibits tumor growth by 95%-100% 
+in patient-derived xenograft models. Mechanistic investigations reveal 
+downregulated metastatic signaling, tumor microenvironment remodeling, increased 
+apoptosis, and upregulated tumoral immunity. Histological and body weight 
+analyses indicate minimal systemic toxicity. These findings highlight the 
+translational potential of combining CD276-targeted ADC with mitochondrial gene 
+therapy to treat aggressive TNBC.
+
+Copyright © 2026 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.xcrm.2026.102934
+PMCID: PMC13522777
+PMID: 42497865 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests A patent protecting the 
+cmLumiOpto gene therapy and the mAb-Exo-AAV technology has been filed by The 
+Ohio State University (PCT/US25/56581, “Mitochondrial optogenetics-based gene 
+therapies and their methods of use”). The anti-CD276 mAb (PCT/US2024/037838) was 
+licensed by BiFormyx Bio. X.M.L. serves as scientific co-founder and advisor for 
+BiFormyx Bio and owns equity in this company.
