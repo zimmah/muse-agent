@@ -1,0 +1,43 @@
+1. Histopathology. 2015 Sep;67(3):279-93. doi: 10.1111/his.12649. Epub 2015 Mar
+8.
+
+Macroscopic handling and reporting of breast cancer specimens pre- and 
+post-neoadjuvant chemotherapy treatment: review of pathological issues and 
+suggested approaches.
+
+Pinder SE(1), Rakha EA(2), Purdie CA(3), Bartlett JM(4), Francis A(5), Stein 
+RC(6), Thompson AM(7), Shaaban AM(8); Translational Subgroup of the NCRI Breast 
+Clinical Studies Group.
+
+Author information:
+(1)Research Oncology, Division of Cancer Studies, King's College London, Guy's 
+Hospital, London, UK.
+(2)Division of Cancer and Stem Cells, School of Medicine, University of 
+Nottingham, Nottingham, UK.
+(3)Department of Pathology, Ninewells Hospital and Medical School, Dundee, UK.
+(4)Ontario Institute for Cancer Research, Toronto, ON, Canada.
+(5)Queen Elizabeth Hospital Birmingham, Birmingham, UK.
+(6)University College London Hospitals and Medical School, London, UK.
+(7)Department of Surgical Oncology, University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA.
+(8)Department of Cellular Pathology, Queen Elizabeth Hospital Birmingham, 
+Birmingham, UK.
+
+Neoadjuvant chemotherapy (NACT) is used increasingly in the treatment of 
+invasive breast cancer and presents challenges for the pathologist in the 
+handling and interpretation of tissues. Potential issues include pathological 
+identification and localization of the residual tumour site; how best to assess 
+pathological response (given the diversity of scoring systems described); the 
+timing and assessment of axillary node biopsy; and the value of retesting any 
+residual tumour for dissonance between core biopsy and post-treatment residual 
+cancer cells for biomarker expression such as oestrogen and progesterone 
+receptors and human epidermal growth factor receptor 2 (HER2). The role of the 
+pathologist is critical in modern NACT approaches to breast cancer and is likely 
+to remain challenging as novel agents and newer biomarkers become available. In 
+this manuscript we review these issues and describe some practical approaches to 
+handling and reporting these samples in the routine histopathology laboratory.
+
+© 2015 John Wiley & Sons Ltd.
+
+DOI: 10.1111/his.12649
+PMID: 25585651 [Indexed for MEDLINE]
