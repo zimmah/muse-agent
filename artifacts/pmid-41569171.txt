@@ -1,0 +1,44 @@
+1. Asian Pac J Cancer Prev. 2026 Jan 1;27(1):53-60. doi: 
+10.31557/APJCP.2026.27.1.53.
+
+Evaluation of Pathological Complete Response Rate in Patients with HER2-Positive 
+Breast Cancer Undergoing Neoadjuvant Trastuzumab and Chemotherapy With or 
+Without Anthracycline.
+
+Rocha IM(1), Lustosa AB(1), Filgueira ABT(1), Barreto GAV(1)(2), Alverne 
+LM(1)(2), Barros Silva PG(1)(2), Juacaba SF(1)(2).
+
+Author information:
+(1)Hospital Haroldo Juaçaba, Ceará Cancer Institute, Fortaleza, Ceará, Brazil.
+(2)Postgraduate Program in Oncology, Ceará Cancer Institute, Fortaleza, Ceará, 
+Brazil.
+
+OBJECTIVE: This study aimed to evaluate the pathological complete response rate 
+(pCR) in HER2 breast cancer by comparing anthracycline-containing and 
+anthracycline-free regimens.
+METHODS: A retrospective cohort study was performed to obtain data from women 
+undergoing neoadjuvant chemotherapy associated with two groups: • AC-TH 
+patients: treated with trastuzumab with confirmed HER2-positive breast cancer 
+using an anthracycline-based therapy followed by taxane. • CTH patients: 
+recieved trastuzumab concurrently during taxane use in an anthracycline-free 
+regime (carboplatin plus a taxane). Clinical data, pCR, free-disease survival, 
+and overall survival were compared using chi-square, log-rank Mantel-cox, 
+multinomial logistic and Cox regression tests (p < 0.05, SPSS v20.0).
+RESULTS: There are no differences between AC-TH and CTH in terms of: • pCR 
+(p=0.745), •Disease- free survival (p=0.840), • Overall survival (p=0.642). The 
+major prognostic factor for overall survival were: • Nodal metastasis (p=0.043, 
+HR = 0.263 (CI95% = 0.072-0.959) and • Dose reduction (p=0.021, HR = 0.070 
+(CI95% = 0.007-0.667) and For disease-free survival: • Age (p=0.038, HR = 3.288, 
+CI95% 1.068-10.123) and • pCR (p=0.028, HR = 0.354, CI95% = 0.140-0.895). AC-TH 
+showed more cardiotoxicity (9.3% vs 3.4%).
+CONCLUSION: Chemotherapy regimens with or without anthracycline, when combined 
+with trastuzumab, demonstrate similar rates of pathological complete response 
+and recurrence-free survival. Pathological complete response and age are 
+independent variables associated with recurrence. However, the use of 
+anthracycline leads to increased cardiotoxicity.
+
+DOI: 10.31557/APJCP.2026.27.1.53
+PMCID: PMC13379753
+PMID: 41569171 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest
