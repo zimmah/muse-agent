@@ -1,0 +1,45 @@
+1. Tomography. 2020 Jun;6(2):216-222. doi: 10.18383/j.tom.2020.00016.
+
+Tumor Sphericity Predicts Response in Neoadjuvant Chemotherapy for Invasive 
+Breast Cancer.
+
+Li W(1), Newitt DC(1), Yun B(1)(2), Jones EF(1), Arasu V(1), Wilmes LJ(1), Gibbs 
+J(1), Nguyen AA(1), Onishi N(1), Kornak J(3), Joe BN(1), Esserman LJ(4), Hylton 
+NM(1).
+
+Author information:
+(1)Department of Radiology & Biomedical Imaging, University of California, San 
+Francisco, San Francisco, CA.
+(2)Department of Radiology, Seoul National University Bundang Hospital, Seoul.
+(3)Departments of Epidemiology and Biostatistics; and.
+(4)Surgery, University of California, San Francisco, San Francisco, CA.
+
+This retrospective study examined magnetic resonance imaging (MRI)-derived tumor 
+sphericity (SPH) as a quantitative measure of breast tumor morphology, and 
+investigated the association between SPH and reader-assessed morphological 
+pattern (MP). In addition, association of SPH with pathologic complete response 
+was evaluated in patients enrolled in an adaptively randomized clinical trial 
+designed to rapidly identify new agents for breast cancer. All patients 
+underwent MRI examinations at multiple time points during the treatment. SPH 
+values from pretreatment (T0) and early-treatment (T1) were investigated in this 
+study. MP on T0 dynamic contrast-enhanced MRI was ranked from 1 to 5 in 220 
+patients. Mean SPH values decreased with the increased order of MP. SPH was 
+higher in patients with pathologic complete response than in patients without 
+(difference at T0: 0.04, 95% confidence interval [CI]: 0.02-0.05, P < .001; 
+difference at T1: 0.03, 95% CI: 0.02-0.04, P < .001). The area under the 
+receiver operating characteristic curve was estimated as 0.61 (95% CI, 
+0.57-0.65) at T0 and 0.58 (95% CI, 0.55-0.62) at T1. When the analysis was 
+performed by cancer subtype defined by hormone receptor (HR) and human epidermal 
+growth factor receptor 2 (HER2) status, highest area under the receiver 
+operating characteristic curve were observed in HR-/HER2+: 0.67 (95% CI, 
+0.54-0.80) at T0, and 0.63 (95% CI, 0.51-0.76) at T1. Tumor SPH showed promise 
+to quantify MRI MPs and as a biomarker for predicting treatment outcome at pre- 
+or early-treatment time points.
+
+© 2020 The Authors. Published by Grapho Publications, LLC.
+
+DOI: 10.18383/j.tom.2020.00016
+PMCID: PMC7289243
+PMID: 32548299 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None reported.
