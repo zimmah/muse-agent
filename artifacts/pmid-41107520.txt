@@ -1,0 +1,74 @@
+1. Nat Biomed Eng. 2026 Jun;10(6):1235-1246. doi: 10.1038/s41551-025-01495-5.
+Epub  2025 Oct 17.
+
+Deep-learning-based HER2 status assessment from multimodal breast cancer data 
+predicts neoadjuvant therapy response.
+
+Zhang J(#)(1)(2)(3), Li Y(#)(1), Li Z(#)(4)(5), Cui Z(1), Li P(6), Li J(7), Li 
+Z(8), Xie Y(9), Chan KWY(10)(11), Zhang Q(12)(13), Li Z(14), Shen D(15)(16)(17).
+
+Author information:
+(1)School of Biomedical Engineering and State Key Laboratory of Advanced Medical 
+Materials and Devices, ShanghaiTech University, Shanghai, China.
+(2)Department of Biomedical Engineering, City University of Hong Kong, Hong 
+Kong, China.
+(3)Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, 
+China.
+(4)School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, 
+China.
+(5)Shanghai United Imaging Intelligence Co. Ltd., Shanghai, China.
+(6)Department of Radiology, The Affiliated Hospital of Southwest Medical 
+University, Luzhou, China.
+(7)Department of Radiology, The First Affiliated Hospital of Kunming Medical 
+University, Kunming, China.
+(8)Third Department of Breast Surgery, The Third Affiliated Hospital of Kunming 
+Medical University, Yunnan Cancer Hospital, Kunming, China.
+(9)Department of Radiology, The Third Affiliated Hospital of Kunming Medical 
+University, Yunnan Cancer Hospital, Kunming, China.
+(10)Department of Biomedical Engineering, City University of Hong Kong, Hong 
+Kong, China. KannieW.Y.C@cityu.edu.hk.
+(11)Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, 
+China. KannieW.Y.C@cityu.edu.hk.
+(12)Department of Biomedical Engineering, City University of Hong Kong, Hong 
+Kong, China. qzhan32@cityu.edu.hk.
+(13)Tung Biomedical Sciences Centre, City University of Hong Kong, Hong Kong, 
+China. qzhan32@cityu.edu.hk.
+(14)Department of Radiology, The Third Affiliated Hospital of Kunming Medical 
+University, Yunnan Cancer Hospital, Kunming, China. lizhenhui@kmmu.edu.cn.
+(15)School of Biomedical Engineering and State Key Laboratory of Advanced 
+Medical Materials and Devices, ShanghaiTech University, Shanghai, China. 
+dgshen@shanghaitech.edu.cn.
+(16)Shanghai United Imaging Intelligence Co. Ltd., Shanghai, China. 
+dgshen@shanghaitech.edu.cn.
+(17)Shanghai Clinical Research and Trial Center, Shanghai, China. 
+dgshen@shanghaitech.edu.cn.
+(#)Contributed equally
+
+Accurate assessment of human epidermal growth factor receptor 2 (HER2) status is 
+crucial for effective breast cancer treatment planning and improved patient 
+outcomes. Traditional needle biopsies, limited in tissue sampling, often lead to 
+inaccurate assessments due to intratumoural heterogeneity. Here, to address 
+this, we introduce the deep-learning-based HER2 multimodal alignment and 
+prediction (MAP) model, which leverages pretreatment multimodal breast cancer 
+images for a more comprehensive reflection of tumour characteristics and 
+provides more accurate HER2 status prediction. We develop patient response MAP 
+models to demonstrate the HER2 prediction performance of our model compared with 
+needle biopsies from patients receiving neoadjuvant therapy. A large-scale 
+multimodal breast cancer dataset from 4 centres, consisting of 14,472 images 
+from 6,991 cases, is adopted in this study, and the results consistently 
+demonstrate the superiority of our HER2 MAP model in predicting patient 
+response. These findings highlight the substantial advantages of our HER2 
+predictions. Our study provides physicians with a crucial tool for informed 
+clinical decisions and treatment plans, aiming to improve outcomes in patients 
+with breast cancer.
+
+© 2025. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41551-025-01495-5
+PMID: 41107520 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: D.S. and Z.L. are 
+consultant and employee of Shanghai United Imaging Intelligence Co., Ltd. The 
+company had no role in designing or performing the surveillance, nor in 
+analysing or interpreting the data. The other authors declare no competing 
+interests.
