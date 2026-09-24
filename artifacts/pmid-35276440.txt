@@ -1,0 +1,66 @@
+1. ESMO Open. 2022 Apr;7(2):100433. doi: 10.1016/j.esmoop.2022.100433. Epub 2022 
+Mar 8.
+
+Survival after neoadjuvant therapy with trastuzumab-lapatinib and chemotherapy 
+in patients with HER2-positive early breast cancer: a meta-analysis of 
+randomized trials.
+
+Guarneri V(1), Griguolo G(2), Miglietta F(3), Conte PF(2), Dieci MV(2), Girardi 
+F(4).
+
+Author information:
+(1)Department of Surgery, Oncology and Gastroenterology, University of Padua, 
+Padova, Italy; Oncology 2, Veneto Institute of Oncology - IOV - IRCCS, Padova, 
+Italy. Electronic address: valentina.guarneri@unipd.it.
+(2)Department of Surgery, Oncology and Gastroenterology, University of Padua, 
+Padova, Italy; Oncology 2, Veneto Institute of Oncology - IOV - IRCCS, Padova, 
+Italy.
+(3)Department of Surgery, Oncology and Gastroenterology, University of Padua, 
+Padova, Italy.
+(4)Oncology 2, Veneto Institute of Oncology - IOV - IRCCS, Padova, Italy.
+
+BACKGROUND: Studies testing the addition of lapatinib to neoadjuvant 
+trastuzumab + chemotherapy reported an increase in pathologic complete response 
+(pCR), with, nevertheless, discordant results in terms of survival, mainly due 
+to suboptimal power. We here leverage the meta-analytic approach to resolve 
+these inconsistencies.
+METHODS: We conducted a meta-analysis of randomized phase II/III studies testing 
+lapatinib + trastuzumab in combination with neoadjuvant chemotherapy for human 
+epidermal growth factor receptor (HER2)-positive early breast cancer (BC). 
+Recurrence-free survival (RFS) and overall survival (OS) were adopted as 
+survival endpoints. Pooled hazard ratios (HR) were obtained for the effect of 
+lapatinib + trastuzumab versus trastuzumab, pCR versus no-pCR in the whole study 
+populations and pCR versus no-pCR according to hormone receptor status.
+RESULTS: Four phase II/III randomized trials were included in the meta-analysis 
+(CALGB 40601, Cher-LOB, NSABP-B41, NeoALTTO) for an overall population of 1410 
+patients receiving neoadjuvant chemotherapy in association with either 
+trastuzumab, lapatinib or their combination. RFS was significantly improved with 
+dual HER2 blockade as compared to trastuzumab [HR 0.62, 95% confidence interval 
+(CI) 0.46-0.85]. Dual blockade also led to significantly improved OS (HR 0.65, 
+95% CI 0.43-0.98). For all treatments combined, patients achieving pCR had 
+better RFS and OS than those with residual disease (HR 0.45, 95% CI 0.34-0.60, 
+and HR 0.32, 95% CI 0.22-0.48, for RFS and OS, respectively). In patients with 
+hormone receptor-negative tumors, pCR was associated with 65% and 73% relative 
+reduction of risk of relapse and death, respectively. Patients with hormone 
+receptor-positive tumors also experienced improved RFS if they achieved pCR; 
+however, the benefit was smaller than that in hormone receptor-negative disease.
+CONCLUSION: Findings from this meta-analysis further validate the role of pCR as 
+a strong predictor of outcome in patients with HER2-positive BC, especially in 
+hormone receptor-negative disease. Moreover, we provide robust evidence that 
+dual blockade with lapatinib + trastuzumab in combination with neoadjuvant 
+chemotherapy prolongs OS, suggesting that the role of lapatinib could be 
+reconsidered in the early setting.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.esmoop.2022.100433
+PMCID: PMC8917305
+PMID: 35276440 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure VG reports personal fees from Roche, 
+Novartis, Eli Lilly, MSD, GSK and Gilead, all outside the submitted work. GG 
+reports personal fees from Novartis and Eli Lilly all outside the submitted 
+work. MVD reports personal fees from Lilly, Genomic Health, Novartis and 
+Celgene, all outside the submitted work. PFC reports personal fees from 
+Novartis, Eli Lilly, AstraZeneca, Tesaro, BMS and Roche, all outside the 
+submitted work.All other authors have declared no conflicts of interest.
