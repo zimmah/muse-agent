@@ -1,0 +1,120 @@
+1. Clin Cancer Res. 2026 Mar 2;32(5):850-858. doi: 10.1158/1078-0432.CCR-25-2435.
+
+Neoadjuvant Abemaciclib plus Letrozole Versus Chemotherapy in Patients with 
+HR+/HER2- Highly Proliferative Breast Cancer.
+
+Martín M(#)(1)(2)(3), Guerrero-Zotano ÁL(#)(3)(4), Pérez-López ME(3)(5), 
+Ruiz-Borrego M(3)(6), Martínez Jáñez N(3)(7), Chacón JI(3)(8), Gil-Gil M(3)(9), 
+Andrés R(3)(10), Bermejo B(2)(3)(11), Sánchez-Rovira P(3)(12), Del Barco 
+S(3)(13), Ponce JJ(3)(14), Fernández I(3)(15), Martínez de Dueñas E(3)(16), 
+Hinojo-González C(3)(17), González M(3)(18), García-Garre E(3)(19)(20), Hernando 
+B(3)(21), de la Haba-Rodriguez J(3)(22), Álvarez IM(3)(23), González-Santiago 
+S(3)(24), García-Sáenz JÁ(3)(25), Santaballa A(3)(26), Casas M(3), Bezares S(3), 
+Caballero R(3), Rojo F(2)(3)(27), Alba E(2)(3)(28)(29).
+
+Author information:
+(1)Instituto de Investigación Sanitaria Gregorio Marañón, Madrid, Spain.
+(2)Centro de Investigación Biomédica en Red de Oncología, CIBERONC-ISCIII, 
+Madrid, Spain.
+(3)GEICAM Spanish Breast Cancer Group, Madrid, Spain.
+(4)Instituto Valenciano de Oncología (IVO), Valencia, Spain.
+(5)Complejo Hospitalario Universitario A Coruña, A Coruña, Spain.
+(6)Hospital Universitario Virgen del Rocío, Sevilla, Spain.
+(7)Hospital Universitario Ramón y Cajal, Madrid, Spain.
+(8)Hospital Universitario de Toledo, Toledo, Spain.
+(9)Institut Català d'Oncología (ICO) & IDIBELL, L'Hospitalet, Barcelona, Spain.
+(10)Hospital Clínico de Zaragoza Lozano Blesa, Zaragoza, Spain.
+(11)Hospital Clínico Universitario de Valencia, Instituto de Investigación 
+Sanitaria-INCLIVA Valencia, Facultad de Medicina Universidad de Valencia, 
+Valencia, Spain.
+(12)Hospital Universitario de Jaén, Jaén, Spain.
+(13)Instituto Catalán de Oncología de Girona, Girona, Spain.
+(14)Hospital General Universitario Dr. Balmis, ISABIAL, Alicante, Spain.
+(15)Hospital Álvaro Cunqueiro, Vigo, Spain.
+(16)Consorcio Hospitalario Provincial de Castellón, Castellón, Spain.
+(17)Hospital Universitario Marqués de Valdecilla, Instituto de Investigación 
+Valdecilla (IDIVAL), Santander, Spain.
+(18)Hospital Universitario de Badajoz, Badajoz, Spain.
+(19)Hospital General Universitario Morales Meseguer, Murcia, Spain.
+(20)Instituto Murciano de Investigaciones Biosanitarias de Murcia (IMIB), 
+Murcia, Spain.
+(21)Hospital Universitario de Burgos, Burgos, Spain.
+(22)Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), 
+Hospital Universitario Reina Sofía, Universidad de Córdoba, Córdoba, Spain.
+(23)Hospital Universitario Donostia-Biodonostia, San Sebastián, Spain.
+(24)Hospital Universitario San Pedro de Alcántara, Cáceres, Spain.
+(25)Hospital Clínico Universitario San Carlos, Madrid, Spain.
+(26)Hospital Universitario La Fe, Valencia, Spain.
+(27)Hospital Universitario Fundación Jiménez Díaz, Madrid, Spain.
+(28)Hospital Clínico Universitario Virgen de la Victoria, Málaga, Spain.
+(29)Instituto de Investigación Biomédica de Málaga, IBIMA, Málaga, Spain.
+(#)Contributed equally
+
+PURPOSE: Neoadjuvant chemotherapy is standard for high-risk hormone 
+receptor-positive and human epidermal growth factor receptor 2-negative 
+(HR+/HER2-) breast cancer. This study evaluates whether 12 months of letrozole 
+plus abemaciclib could be an alternative.
+PATIENTS AND METHODS: The phase II, open-label CARABELA trial randomized 
+patients with HR+/HER2- stage II to III breast cancer with Ki-67 ≥20% to receive 
+letrozole/abemaciclib for 12 months or chemotherapy for 6 months. Patients were 
+stratified by menopausal status, tumor-node-metastasis, and Ki-67 index (<30% 
+vs. ≥30%). The primary endpoint was the rate of residual cancer burden (RCB) 0 
+to I. Secondary endpoints included clinical response rate (CRR) and correlations 
+of Ki-67 and recurrence score (RS) with tumor response. A Bayesian design aimed 
+to assess treatment similarity.
+RESULTS: A total of 200 patients (median age 53 years, 57% postmenopausal, 79% 
+stage II, 77% Ki-67 ≥30%, 58% RS ≥26) were randomized. RCB 0 to I was achieved 
+in 13% [letrozole/abemaciclib; 95% credible intervals (CrI), 7.4%-20.5%] versus 
+18% (chemotherapy; 95% CrI, 11.5%-26.4%), failing to show similarity between 
+treatment arms. The CRR were 78% (letrozole/abemaciclib) versus 71% 
+(chemotherapy; P = 0.26). Tumors with Ki-67 ≥30% and/or RS results ≥26 showed a 
+trend toward higher RCB 0 to I rates with chemotherapy (23% vs. 17%; P = 0.52). 
+RCB 0 to I rates were similar between treatments for tumors with Ki-67 <30% or 
+RS <26.
+CONCLUSIONS: CARABELA trial results suggest that 12 months of 
+letrozole/abemaciclib may not offer similar efficacy to that of chemotherapy in 
+achieving RCB 0 to I. However, in less proliferative tumors (RS <26 or Ki-67 
+<30%), outcomes were comparable, suggesting that letrozole/abemaciclib could 
+replace (neo)adjuvant chemotherapy in selected patients.
+
+©2025 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-25-2435
+PMCID: PMC13056312
+PMID: 41385615 [Indexed for MEDLINE]
+
+Conflict of interest statement: M. Martín reports personal fees and nonfinancial 
+support from Pfizer; personal fees and other support from Roche; and personal 
+fees from Lilly, MSD, and Boehringer Ingelheim outside the submitted work. A.L. 
+Guerrero-Zotano reports other support from Lilly during the conduct of the 
+study; other support from Pfizer, Gilead, Novartis, and Roche; personal fees and 
+other support from Pierre Fabré; and personal fees from AstraZeneca outside the 
+submitted work. N. Martínez Jáñez reports other support from Lilly, Roche, 
+Novartis, AstraZeneca, Daiichi Sankyo, MSD, and Pfizer during the conduct of the 
+study. M. Gil-Gil reports personal fees from Lilly, AstraZeneca, Pfizer, Roche, 
+Novartis, Menarini, and Daiichi Sankyo outside the submitted work and support 
+for attending meetings and/or travel from Gilead, Daiichi Sankyo, Pfizer, and 
+Lilly. R. Andrés reports grants from Hospital Clínico Lozano Blesa during the 
+conduct of the study and personal fees from Lilly outside the submitted work. B. 
+Bermejo reports personal fees from Roche, Novartis, Pfizer, Menarini, 
+AstraZeneca, and Lilly and nonfinancial support from Gilead and Pfizer outside 
+the submitted work. J.J. Ponce reports personal fees from Novartis, 
+AstraZeneca/Daiichi Sankyo, Lilly, MSD, Pfizer, Roche, Pierre Fabré, and Gilead 
+outside the submitted work. J. de la Haba-Rodriguez reports personal fees from 
+Novartis, Pfizer, Lilly, and Daichii Sankyo outside the submitted work. I.M. 
+Álvarez reports other support from Lilly and Exact Sciences during the conduct 
+of the study; grants and other support from Pfizer, Roche, and Lilly; and grants 
+from Novartis outside the submitted work. S. González-Santiago reports personal 
+fees from Novartis, AstraZeneca, and Pfizer outside the submitted work. J.Á. 
+García-Sáenz reports grants from Lilly, Adium, Exact Sciences, Gilead, 
+AstraZeneca, Daiichi Sankyo, Stemline Menarini, Pfizer, and Roche outside the 
+submitted work. A. Santaballa reports personal fees from MSD, AstraZeneca, 
+Lilly, Novartis, and Pfizer outside the submitted work. S. Bezares reports other 
+support from Eli Lilly Company during the conduct of the study. F. Rojo reports 
+grants, personal fees, and nonfinancial support from Pfizer, AbbVie, 
+AstraZeneca, Menarini-Stemline, Lilly, and Roche; personal fees from Merck, GSK, 
+and Novartis; personal fees and nonfinancial support from Agilent, MSD, and 
+Bristol Myers Squibb; and grants and personal fees from Astellas outside the 
+submitted work. E. Alba reports personal fees from Pfizer, Novartis, Roche, 
+Lilly, Bristol Myers Squibb, and Exact Sciences outside the submitted work. No 
+disclosures were reported by the other authors.
