@@ -1,0 +1,70 @@
+1. BMC Cancer. 2018 Apr 5;18(1):391. doi: 10.1186/s12885-018-4307-8.
+
+Adjuvant trastuzumab duration trials in HER2 positive breast cancer - what 
+results would be practice-changing? Persephone investigator questionnaire prior 
+to primary endpoint results.
+
+Hiller L(1), Dunn JA(2), Loi S(2), Vallier AL(3), Howe DL(2), Cameron DA(4), 
+Miles D(5), Wardley AM(6), Earl HM(7)(8).
+
+Author information:
+(1)Warwick Clinical Trials Unit, University of Warwick, Coventry, UK. 
+l.hiller@warwick.ac.uk.
+(2)Warwick Clinical Trials Unit, University of Warwick, Coventry, UK.
+(3)Addenbrooke's Hospital, Clinical Trials Unit, Cambridge, UK.
+(4)University of Edinburgh, Edinburgh, UK.
+(5)Mount Vernon Cancer Centre, Northwood, UK.
+(6)The Christie Hospital NHS Foundation Trust and Faculty of Biology, Medicine 
+and Health, University of Manchester, Manchester, UK.
+(7)Department of Oncology, University of Cambridge, Cambridge, UK.
+(8)NIHR Cambridge Biomedical Research Centre and Cambridge Breast Cancer 
+Research Unit, Cambridge, UK.
+
+BACKGROUND: Twelve months treatment is the current standard of care for adjuvant 
+trastuzumab in patients with HER2 positive early breast cancer however the 
+optimal duration is not known. Persephone is a non-inferiority randomised 
+controlled trial comparing 6- to 12-months of trastuzumab. In this trial there 
+will be a trade-off between a possible small decrease in disease-free survival 
+(DFS) with 6-months and reduced cardiotoxicity and cost.
+METHODS: A structured questionnaire asked clinicians who had recruited patients 
+into the Persephone trial about their prior beliefs with regards to the clinical 
+effectiveness of trastuzumab and cardiotoxicity profile, in the comparison of 6- 
+and 12-month durations.
+RESULTS: Fifty-one clinicians from 40 of the 152 Persephone sites completed the 
+questionnaire. 30/50 responders (60%) believed that 6-months trastuzumab would 
+give the same 4-year DFS rate as 12-months trastuzumab, with 21/50 (42%) holding 
+this belief across all breast cancer subsets. In addition, 46/49 responders 
+(94%) reported expecting to change their clinical practice to 6-months, with 
+their prior beliefs (most commonly 85% 4-year DFS rate with 6-months) being 
+greater than their lowest acceptable rate (most commonly 83% 4-year DFS rate 
+with 6-months). Low levels of cardiotoxicity were expected with both 6 and 
+12-months trastuzumab, with the majority expecting lower levels with 6-months. 
+With increasing hypothesised differences of cardiotoxicity rates between the two 
+durations, significantly lower levels of 4-year DFS with 6-months trastuzumab 
+were deemed acceptable (p < 0.0001).
+CONCLUSION: Most responders believe that 6-months trastuzumab is adequate, both 
+overall and within each subset of breast cancer, and plan to change their 
+clinical practice if the Persephone results support their prior belief. An 
+individual patient meta-analysis of the duration trials would give greater 
+precision to estimates of the differences in efficacy and toxicity, and adequate 
+statistical power to establish a 2% level of non-inferiority for 6-months 
+adjuvant trastuzumab.
+
+DOI: 10.1186/s12885-018-4307-8
+PMCID: PMC5887251
+PMID: 29621991 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+Persephone trial was approved by North West Multi-Research Ethics Committee 
+(07/MRE08/35) on 9th August 2007, is conducted in accordance with the 
+declaration of Helsinki and supported by the NCRN (No 4078). Permissions to 
+conduct the trial at each site were obtained from individual NHS Trusts. All 
+sites were activated between 16-Oct-07-12-Mar-15. Implied consent for this 
+survey was obtained by participation of the individual clinicians at each site. 
+CONSENT FOR PUBLICATION: Not applicable COMPETING INTERESTS: DC reports grant 
+and consultancy fees from Roche. AW received advisory and speaker fees from 
+Roche, outside the submitted work. HME received funding from Roche for trial 
+coordination for another trial, and free drug from Roche for another trial. All 
+remaining authors have declared no conflicts of interest [LH, JAD, SL, ALV, DLH, 
+DM]. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
