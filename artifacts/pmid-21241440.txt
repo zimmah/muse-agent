@@ -1,0 +1,41 @@
+1. Intern Med J. 2012 Mar;42(3):267-74. doi: 10.1111/j.1445-5994.2011.02432.x.
+
+Prevalence and management of HER2/neu-positive early breast cancer in a single 
+institution following availability of adjuvant trastuzumab.
+
+Chan A(1), McGregor SR.
+
+Author information:
+(1)Mount Hospital, Perth, Western Australia, Australia. arlene.chan@me.com
+
+AIM: To ascertain the prevalence of HER2/neu-positive early breast cancer (EBC), 
+utilisation of adjuvant trastuzumab and incidence of cardiac toxicity in a 
+community private hospital setting.
+METHODS: Prospective data collected by breast oncologist and surgeons in all 
+women diagnosed with EBC at the Mount Hospital (MH) were reviewed. Women with 
+HER2/neu-positive disease diagnosed between 1 October 2006 and 31 March 2009 
+were included in this analysis.
+RESULTS: In total, 1128 women with invasive EBC were seen in the 30-month 
+period. All tumours underwent HER2/neu testing by immunohistochemistry, with 61% 
+being evaluated by in situ hybridisation. Time to definitive HER2/neu result 
+improved over time from median of 17 to 14 days. The prevalence of HER2 
+positivity (by in situ hybridisation) in this cohort was 12%. Uptake of 
+trastuzumab-based treatment was 100% in those patients receiving their treatment 
+at the MH, compared to 52% of the 25 patients treated elsewhere. Ninety-eight 
+per cent of MH patients completed the planned 12 months of therapy, with one 
+patient developing recurrent disease and two patients experiencing significant 
+cardiac toxicity. Chemotherapy relative dose intensity was 98% in 
+HER2/neu-positive and negative patients. At a median of 25 months follow up, 
+actuarial disease-free and overall survival in the HER2/neu-positive cohort is 
+99% and 100% respectively.
+CONCLUSION: In a community private hospital setting, adjuvant trastuzumab and 
+chemotherapy was delivered optimally, in line with national and international 
+guidelines. Early efficacy and safety results in a non-clinical trial setting 
+underscore the significant benefits achieved with this targeted therapy in 
+HER2/neu-positive EBC.
+
+© 2011 The Authors. Internal Medicine Journal © 2011 Royal Australasian College 
+of Physicians.
+
+DOI: 10.1111/j.1445-5994.2011.02432.x
+PMID: 21241440 [Indexed for MEDLINE]
