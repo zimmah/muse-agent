@@ -1,0 +1,59 @@
+1. Sci Rep. 2024 Jul 23;14(1):16899. doi: 10.1038/s41598-024-67795-z.
+
+Efficacy and prognosis of HER2-Low and HER2-Zero in triple-negative breast 
+cancer after neoadjuvant chemotherapy.
+
+Shi Z(1)(2)(3)(4), Liu Y(1)(2)(3)(4), Fang X(1)(2)(3)(4), Liu X(1)(2)(3)(4), 
+Meng J(1)(2)(3)(4), Zhang J(5)(6)(7)(8).
+
+Author information:
+(1)The Third Department of Breast Cancer, Tianjin Medical University Cancer 
+Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, 
+China.
+(2)Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China.
+(3)Tianjin's Clinical Research Center for Cancer, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China.
+(4)Key Laboratory of Breast Cancer Prevention and Therapy, Tianjin Medical 
+University, Ministry of Education, Tianjin, China.
+(5)The Third Department of Breast Cancer, Tianjin Medical University Cancer 
+Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, 
+China. zhangjintjmuch1@163.com.
+(6)Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China. zhangjintjmuch1@163.com.
+(7)Tianjin's Clinical Research Center for Cancer, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China. zhangjintjmuch1@163.com.
+(8)Key Laboratory of Breast Cancer Prevention and Therapy, Tianjin Medical 
+University, Ministry of Education, Tianjin, China. zhangjintjmuch1@163.com.
+
+Mounting evidence showed that HER2-Low breast cancer patients could benefit from 
+the novel anti-HER2 antibody-drug conjugates (ADCs) treatment, which 
+pointed the way towards better therapy for HER2-Low patients. The purpose of 
+this study was to describe the clinicopathological features, along with 
+chemotherapeutic effects and survival outcomes of HER2-Low and HER2-Zero in TNBC 
+who received neoadjuvant chemotherapy (NACT). We retrospectively evaluated 638 
+triple-negative breast cancer patients who were treated with neoadjuvant 
+chemotherapy between August 2014 and August 2022. Pathologic complete response 
+(pCR) and survival outcomes were analyzed in HER2-Low cohort, HER2-Zero cohort 
+and the overall patients, respectively. In the entire cohort, 342 (53.6%) 
+patients were HER2-Low and 296 (46.4%) patients were HER2-Zero. No significant 
+difference was found between HER2-Low and HER2-Zero patients based on all the 
+clinical-pathological characteristics. 143 cases (22.4%) achieved pCR after NACT 
+in the overall TNBC patients. The pCR rate of the HER2-Low patients and the 
+HER2-Zero patients was 21.3% and 23.6%, respectively, exhibiting no statistical 
+difference (p = 0.487). The survival of pCR group after NACT significantly 
+improved compared to non-pCR group either in HER2-Low patients or in HER2-Zero 
+patients. Although we found that patients with HER2-Low had longer DFS than 
+patients with HER2-Zero, there was no considerable difference (p = 0.068). 
+However, HER2-Low patients had a dramatically longer OS than HER2-Zero patients 
+(p = 0.012). The data from present study confirmed the clinical importance of 
+HER2-Low expression in TNBC. Further effort is needed to determine whether 
+HER2-Low could be a more favorable prognostic marker for individual treatment.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-67795-z
+PMCID: PMC11266405
+PMID: 39043756 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
