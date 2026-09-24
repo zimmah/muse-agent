@@ -1,0 +1,43 @@
+1. Eur Rev Med Pharmacol Sci. 2021 Feb;25(4):1910-1915. doi: 
+10.26355/eurrev_202102_25087.
+
+Androgen receptor expression and outcome of neoadjuvant chemotherapy in 
+triple-negative breast cancer.
+
+Di Leone A(1), Fragomeni SM, Scardina L, Ionta L, Mulè A, Magno S, Terribile D, 
+Masetti R, Franceschini G.
+
+Author information:
+(1)Dipartimento Scienze della Salute della Donna e del Bambino e di Sanità 
+Pubblica, Multidisciplinary Breast Center, Fondazione Policlinico Universitario 
+A. Gemelli IRCCS, Rome, Italy. alba.dileone@policlinicogemelli.it.
+
+OBJECTIVE: Triple-negative breast cancers (TNBC) include a heterogeneous group 
+of diseases, characterized by the lack of estrogen receptor (ER), progesterone 
+receptor (PgR), and human epidermal growth factor receptor 2 (HER2) expression. 
+TNBC that shows an overexpression of the androgen receptor (AR) defines the 
+phenotype known as "luminal androgen receptor" (LAR), while the absence of the 
+AR defines a "quadruple negative breast cancer" (QNBC). Several reports have 
+associated AR positivity with a lower response to neoadjuvant chemotherapy 
+(NAC), while divergent data have been reported about the impact of AR positivity 
+on survival. The aim of this study was to retrospectively review our series of 
+patients with TNBC tested for AR and submitted to NAC and compare pathologic 
+complete response (pCR) rates in patients with a LAR phenotype or with QNBC.
+PATIENTS AND METHODS: The clinical records of all patients with TNBC tested for 
+AR that underwent NAC at our Institution from January 1, 2015 to June 30, 2019 
+were reviewed. Histopathological features as well as ER, PgR, Ki67, HER2 values, 
+clinical and pathological stage, and results of BRCA gene expression profiling 
+were registered for all patients.
+RESULTS: Of the 145 TNBC patients treated by NAC, 20 (13.8%) had a LAR 
+phenotype, while 125 (86.2%) had a QNBC. Overall, a pCR was achieved in 52 
+patients (35.8%). Patients with LAR phenotype had a lower rate of pCR as 
+compared to patients with QNBC phenotype (25% vs. 37.6%). High Ki67 values 
+(>50%) were observed less frequently in patients with a LAR phenotype (50% vs. 
+76.8% in QNBC).
+CONCLUSIONS: Our data seem to confirm that the LAR phenotype is associated to 
+lower rates of pCR after neoadjuvant chemotherapy; routine assessment of AR 
+expression in addition to classical biomarkers in patients with TNBC could help 
+to better personalize treatment.
+
+DOI: 10.26355/eurrev_202102_25087
+PMID: 33660830 [Indexed for MEDLINE]
