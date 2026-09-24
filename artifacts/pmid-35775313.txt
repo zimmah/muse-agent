@@ -1,0 +1,56 @@
+1. Jpn J Clin Oncol. 2022 Oct 6;52(10):1115-1123. doi: 10.1093/jjco/hyac107.
+
+Cost-effectiveness analysis of trastuzumab monotherapy versus adjuvant 
+chemotherapy plus trastuzumab in elderly patients with HER2-positive early 
+breast cancer.
+
+Konishi T(1)(2), Fujiogi M(2)(3), Michihata N(4), Ohbe H(2), Matsui H(2), 
+Fushimi K(5), Tanabe M(1), Seto Y(1), Yasunaga H(2).
+
+Author information:
+(1)Department of Breast and Endocrine Surgery, Graduate School of Medicine, The 
+University of Tokyo, Tokyo, Japan.
+(2)Department of Clinical Epidemiology and Health Economics, School of Public 
+Health, The University of Tokyo, Tokyo, Japan.
+(3)Department of Emergency Medicine, Massachusetts General Hospital, Harvard 
+Medical School, Boston, MA.
+(4)Department of Health Services Research, Graduate School of Medicine, The 
+University of Tokyo, Tokyo, Japan.
+(5)Department of Health Policy and Informatics, Tokyo Medical and Dental 
+University Graduate School, Tokyo, Japan.
+
+BACKGROUND: In elderly patients with human epidermal growth factor 2-positive 
+breast cancer, adjuvant chemotherapy was associated with decreased quality of 
+life, with relatively small benefits for prognosis. We examined the 
+cost-effectiveness of trastuzumab monotherapy versus adjuvant chemotherapy plus 
+trastuzumab in elderly patients with human epidermal growth factor 2-positive 
+breast cancer.
+METHODS: A Markov model was developed to evaluate the costs and benefits of 
+trastuzumab monotherapy over adjuvant chemotherapy plus trastuzumab for elderly 
+patients with human epidermal growth factor 2-positive breast cancer. We built 
+the model with a yearly cycle over a 20-year time horizon and five health 
+states: disease-free, relapse, post-relapse, metastasis and death. The 
+parameters in the model were based on a previous randomized controlled trial and 
+a nationwide administrative database in Japan. The incremental 
+cost-effectiveness ratio, expressed as Japanese yen per the quality-adjusted 
+life-years, was estimated from the perspective of health care payers. One-way 
+deterministic sensitivity analysis and probabilistic sensitivity analysis with 
+Monte-Carlo simulations of 10 000 samples were conducted.
+RESULTS: The incremental cost-effectiveness ratio of trastuzumab monotherapy 
+over adjuvant chemotherapy plus trastuzumab was $\sim$1.8 million Japanese yen 
+/quality-adjusted life-year. The one-way deterministic sensitivity analysis 
+showed that transition probability from disease-free to metastasis status and 
+cost of metastasis status had the greatest influence on the incremental 
+cost-effectiveness ratio. More than half the estimates in the probabilistic 
+sensitivity analysis were located below a threshold of willingness-to-pay of 5 
+million Japanese yen /quality-adjusted life-year.
+CONCLUSION: In this first comparative cost-effectiveness analysis of adjuvant 
+chemotherapy plus trastuzumab versus trastuzumab monotherapy in the elderly, the 
+latter was found favorable for elderly patients with human epidermal growth 
+factor 2-positive breast cancer.
+
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/jjco/hyac107
+PMID: 35775313 [Indexed for MEDLINE]
