@@ -1,0 +1,50 @@
+1. Mod Pathol. 2025 Aug;38(8):100778. doi: 10.1016/j.modpat.2025.100778. Epub
+2025  Apr 15.
+
+Impact of Hormone Receptor Status and HER2 Expression on Neoadjuvant Targeted 
+Therapy Response in HER2-Positive Breast Cancer: A Multicenter Retrospective 
+Study.
+
+Jiao D(1), Dai H(1), Fei J(2), Wang D(3), Zhang J(1), Zhang J(1), Wang J(1), Guo 
+X(1), Zhao Y(1), Liu Z(4).
+
+Author information:
+(1)Department of Breast Disease, Henan Breast Cancer Centre, The Affiliated 
+Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou, 
+China.
+(2)Department of Health Services Administration and Policy, College of Public 
+Health, Temple University, Philadelphia, Pennsylvania.
+(3)Department of Anesthesiology, The Affiliated Cancer Hospital of Zhengzhou 
+University & Henan Cancer Hospital, Zhengzhou, China.
+(4)Department of Breast Disease, Henan Breast Cancer Centre, The Affiliated 
+Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, Zhengzhou, 
+China. Electronic address: zlyyliuzhenzhen0800@zzu.edu.cn.
+
+Previous studies indicate that HER2 protein expression and hormone receptor 
+(HoR) status affect the sensitivity of HER2-positive breast cancer to 
+neoadjuvant therapy, but it is unclear if sensitivity varies among subgroups 
+defined by HER2 and HoR status. We examined 2 cohorts of patients, aged 18 to 80 
+years, with HER2-positive early breast cancer who underwent neoadjuvant therapy 
+followed by surgery between January 1, 2009, and December 31, 2022: cohort 1 
+included 2648 patients, and cohort 2 had 141 patients with RNA expression data. 
+Patients were divided into 4 groups based on immunohistochemical HER2 and HoR 
+status: HER2(3+)/HoR-, HER2(3+)/HoR+, HER2(2+)/HoR-, and HER2(2+)/HoR+. We 
+evaluated total pathological complete response (TpCR, defined as ypT0/is ypN0) 
+rates, disease-free survival (DFS), and variations in PAM50 intrinsic subtypes 
+across different subgroups. In cohort 1, HER2(3+)/HoR- had a higher TpCR rate 
+(44.5%) than HER2(3+)/HoR+ (33.8%) (P < .001), HER2(2+)/HoR- (31.7%) (P = .013), 
+and HER2(2+)/HoR+ (13.8%) (P < .001). DFS was similar across groups (P = .445). 
+Trastuzumab or trastuzumab plus pertuzumab significantly improved TpCR rates and 
+DFS in HER2(3+)/HoR- and HER2(3+)/HoR+ but not in HER2(2+)/HoR- and 
+HER2(2+)/HoR+. Cohort 2 showed significant PAM50 subtype differences across 
+these groups (P < .001). In conclusion, the responsiveness of HER2-positive 
+breast cancer to neoadjuvant targeted therapy is significantly influenced by 
+HER2 expression levels and HoR status, emphasizing the necessity of precision 
+medicine approaches to tailor therapeutic strategies for improved clinical 
+outcomes.
+
+Copyright © 2025 United States & Canadian Academy of Pathology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.modpat.2025.100778
+PMID: 40246081 [Indexed for MEDLINE]
