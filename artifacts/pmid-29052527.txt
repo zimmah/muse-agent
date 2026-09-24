@@ -1,0 +1,56 @@
+1. World J Surg Oncol. 2017 Oct 19;15(1):189. doi: 10.1186/s12957-017-1255-8.
+
+Negative genic switch of HER-2 in the primary tumor instead of the synchronous 
+metastatic nodal lesions after neoadjuvant chemotherapy in a patient with 
+primary HER2-positive breast cancer.
+
+Chen HR(1), Wu YT(1), Yu QB(2), Yang YY(3), Wei YX(1), Li HY(1), Wu KN(1), Kong 
+LQ(4).
+
+Author information:
+(1)Department of Endocrine & Breast Surgery, The First Affiliated Hospital of 
+Chongqing Medical University, No.1, Youyi Road, Yuanjiagang, Yuzhong District, 
+Chongqing, 400016, China.
+(2)Center for Molecular Medicine Testing, Chongqing Medical University, No.1, 
+Yixueyuan Road, Yuanjiagang, Yuzhong District, Chongqing, 400016, China.
+(3)Clinical Diagnostic Pathology Center, Chongqing Medical University, No.1, 
+Yixueyuan Road, Yuanjiagang, Yuzhong District, Chongqing, 400016, China.
+(4)Department of Endocrine & Breast Surgery, The First Affiliated Hospital of 
+Chongqing Medical University, No.1, Youyi Road, Yuanjiagang, Yuzhong District, 
+Chongqing, 400016, China. huihuikp@163.com.
+
+BACKGROUND: A few retrospective studies have indicated that neoadjuvant 
+chemotherapy (NAC) in breast cancer may change biomarker profiles of the primary 
+tumor. Little is known about the status of HER-2 gene of the synchronous nodal 
+metastases when that of the residual tumor undergoes negative conversion in a 
+neoadjuvant setting.
+CASE PRESENTATION: We describe a female patient with left breast cancer (T2N2M0) 
+who underwent negative conversion of HER-2 in the primary tumor instead of the 
+synchronous nodal lesions after NAC. Core needle biopsy showed invasive ductal 
+carcinoma with HER2 immunohistochemistry (IHC) (2+) and amplified HER-2 gene 
+determined by fluorescence in situ hybridization (FISH). Then, the patient 
+underwent 4 cycles of anthracycline- and taxane-based NAC and subsequent left 
+modified radical mastectomy. Postoperative pathology showed invasive ductal 
+carcinoma involving 4 of 12 surgically excised axillary lymph nodes with HER2 
+IHC (1+) and FISH negative (HER2 gene not amplified) in the residual tumor of 
+the breast specimen. Due to the negative genic switch of HER2 after NAC, the 
+patient rejected to accept trastuzumab. Under the patient's consent, the 
+synchronous nodal lesions were further investigated and showed HER2 IHC(-) but 
+FISH positive (HER-2 gene amplified). Therefore, the patient agreed to accept 
+adjuvant trastuzumab treatment every 3 weeks for 1 year.
+CONCLUSIONS: We propose further assessment of HER2 gene in the synchronous nodal 
+metastases, especially when negative genic switch of HER-2 occurs in the primary 
+tumor after NAC in order to tailor the systemic regimens for breast cancer 
+patients.
+
+DOI: 10.1186/s12957-017-1255-8
+PMCID: PMC5649047
+PMID: 29052527 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+analysis was performed in accordance with the ethical standards of the First 
+Affiliated Hospital of Chongqing Medical University. CONSENT FOR PUBLICATION: 
+Not applicable COMPETING INTERESTS: The authors declare that they have no 
+competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with 
+regard to jurisdictional claims in published maps and institutional 
+affiliations.
