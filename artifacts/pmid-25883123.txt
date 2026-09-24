@@ -1,0 +1,54 @@
+1. J Nucl Med. 2015 Jun;56(6):824-31. doi: 10.2967/jnumed.115.154138. Epub 2015
+Apr  16.
+
+Baseline Tumor 18F-FDG Uptake and Modifications After 2 Cycles of Neoadjuvant 
+Chemotherapy Are Prognostic of Outcome in ER+/HER2- Breast Cancer.
+
+Groheux D(1), Sanna A(2), Majdoub M(3), de Cremoux P(4), Giacchetti S(5), 
+Teixeira L(5), Espié M(5), Merlet P(6), de Roquancourt A(7), Visvikis D(3), Hatt 
+M(3), Resche-Rigon M(2), Hindié E(8).
+
+Author information:
+(1)Department of Nuclear Medicine, Saint-Louis Hospital, Paris, France 
+dgroheux@yahoo.fr.
+(2)Department of Statistical Sciences, Saint-Louis Hospital, Paris, France.
+(3)INSERM, UMR 1101 LaTIM, Brest, France.
+(4)Department of Biochemistry, Saint-Louis Hospital, Paris, France.
+(5)Breast Diseases Unit, Department of Medical Oncology, Saint-Louis Hospital, 
+Paris, France.
+(6)Department of Nuclear Medicine, Saint-Louis Hospital, Paris, France.
+(7)Department of Pathology, Saint-Louis Hospital, Paris, France.
+(8)Department of Nuclear Medicine, CHU Bordeaux, University of Bordeaux, 
+Bordeaux, France.
+
+This study investigated whether (18)F-FDG PET/CT performed at baseline and 
+during neoadjuvant chemotherapy (NAC) was able to early depict estrogen 
+receptor-positive/human epidermal growth factor receptor 2-negative (ER+/HER2-) 
+breast cancer patients with poor clinical outcome.
+METHODS: The NAC regimen consisted of 4 cycles of epirubicin plus 
+cyclophosphamide, followed by 4 courses of docetaxel. The patients underwent 
+(18)F-FDG PET/CT at baseline and after 2 cycles of chemotherapy. After 
+completion of NAC, all patients had breast surgery with axillary lymph node 
+dissection. We assessed the impact of 2 PET parameters, maximum standardized 
+uptake values (SUVmax) and total lesion glycolysis, on event-free survival 
+(EFS).
+RESULTS: Ninety-eight consecutive patients with clinical stage II or III 
+ER+/HER2- breast cancer were included. (18)F-FDG PET/CT revealed distant 
+metastases in 14 patients (14%). Overall survival was significantly shorter in 
+these patients than in the 84 patients classified as M0 at baseline (18)F-FDG 
+PET/CT (P < 0.001). In M0 patients, a high SUVmax at baseline was associated 
+with shorter EFS (P < 0.001). Twelve patients had a tumor SUVmax of 10 or 
+greater and a 3-y EFS of 49% (vs. 92% in patients with baseline SUVmax < 10). A 
+low change in SUVmax between (18)F-FDG PET/CT examination before starting NAC 
+and after the second cycle of chemotherapy was also associated with recurrence 
+(P = 0.033), as was a low change in total lesion glycolysis (P < 0.001). 
+Contrarily to PET-based prediction, the extent of pathologic response after 
+completion of NAC (partial/complete vs. nonresponders) was poorly correlated to 
+the risk of relapse.
+CONCLUSION: Baseline tumor (18)F-FDG uptake and modifications after 2 cycles of 
+NAC are prognostic of outcome in patients with ER+/HER2- breast cancer.
+
+© 2015 by the Society of Nuclear Medicine and Molecular Imaging, Inc.
+
+DOI: 10.2967/jnumed.115.154138
+PMID: 25883123 [Indexed for MEDLINE]
