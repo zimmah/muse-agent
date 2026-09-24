@@ -1,0 +1,69 @@
+1. Adv Ther. 2025 Jun;42(6):2767-2781. doi: 10.1007/s12325-025-03164-0. Epub 2025
+ Apr 8.
+
+A Cost-Effectiveness Analysis of Abemaciclib in Combination with Adjuvant 
+Endocrine Therapy for HR+, HER2-, Node-Positive, High-Risk Early Breast Cancer.
+
+Davie A(1), Traoré S(2), Badreldin W(3), Torstensson A(4), Cakar E(5), 
+McCullough AC(6), Tempelaar S(7), Fenwick E(8), Hall PS(9).
+
+Author information:
+(1)Eli Lilly and Company Limited, Bracknell, UK. DAVIE_ALISON@LILLY.COM.
+(2)Eli Lilly and Company Limited, Bracknell, UK.
+(3)Eli Lilly and Company Limited, Basingstoke, UK.
+(4)Eli Lilly Sweden AB, Solna, Sweden.
+(5)Formerly OPEN Health, Rotterdam, Netherlands.
+(6)Formerly OPEN Health, York, UK.
+(7)OPEN Health, Rotterdam, Netherlands.
+(8)OPEN Health, Oxford, UK.
+(9)MRC Institute of Genetics & Molecular Medicine, Edinburgh, UK.
+
+INTRODUCTION: The monarchE trial demonstrated that the addition of 2 years of 
+abemaciclib to adjuvant endocrine therapy (ET) significantly reduced the risk of 
+disease recurrence in patients with hormone receptor positive (HR+), and human 
+epidermal growth factor receptor 2-negative (HER2-), node-positive early breast 
+cancer (EBC) at high risk of disease recurrence. Abemaciclib meets a critical 
+unmet need for more effective adjuvant therapy for this patient population. This 
+study evaluates the cost-effectiveness (CE) of abemaciclib plus ET compared to 
+ET alone.
+METHODS: A five-state cohort transition model, which presents a United Kingdom 
+(UK) perspective, is parameterized using data from the monarchE trial and 
+literature. Cost-effectiveness results are presented in terms of 
+cost/quality-adjusted life year (QALY) over a lifetime time horizon. Various 
+assumptions were tested through sensitivity and scenario analyses and 
+uncertainty was assessed through probabilistic analysis.
+RESULTS: Patients receiving abemaciclib plus ET were predicted to experience 
+higher QALYs (11.16 compared to 10.42) at an increased cost (£87,541 compared to 
+£48,625), leading to an incremental cost-effectiveness ratio (ICER) of £52,317 
+per QALY gain compared to ET alone. The increased costs associated with the 
+addition of abemaciclib were partially offset by a reduction in distant disease 
+recurrence and associated costs. The scenario and sensitivity analyses supported 
+robust base case results.
+CONCLUSION: Despite the ICER exceeding usual willingness-to-pay (WTP) levels in 
+the UK, a consequence of using list prices, the CE model utilizing the latest 
+data cut from the monarchE trial, demonstrated that the upfront cost of 
+abemaciclib reduces the risk of a terminal breast cancer prognosis and its 
+associated cost and quality of life impact. The addition of 2 years of 
+abemaciclib provides an option for the treatment of HR+, HER2-, node-positive, 
+high-risk EBC.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s12325-025-03164-0
+PMCID: PMC12085336
+PMID: 40198522 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of Interest: Alison 
+Davie, Sory Traoré, Waleed Badreldin and Astrid Torstensson are all employees of 
+Eli Lilly and Company. Peter S Hall has disclosed an advisory role with Eli 
+Lilly and Company Ltd.; for which an honorarium was received for consultancy in 
+the development of this study. Esra Cakar and Anuja C. McCullough were employees 
+of OPEN Health HEOR & Market Access at the time that the work was undertaken. 
+Esra Cakar is now an employee of Pfizer. Anuja C. McCullough is now an employee 
+of the National Institute for Health and Care Excellence. Susan Tempelaar and 
+Elisabeth Fenwick are employees of OPEN Health HEOR & Market Access. OPEN Health 
+HEOR & Market Access received funding from Eli Lilly and Company Ltd. for 
+consultancy and study development. Ethical Approval: This study was based on a 
+previously conducted randomized, open-label phase 3 study and does not contain 
+any new data evaluating human participants or animals. Eli Lilly and Company 
+Ltd. approve the use of these data.
