@@ -1,0 +1,16 @@
+# source-check — claim cedbf9ceb15ee5a4d7dfb68873f05e5138d72ff29a201525497e65b11ca99140
+
+Claim: Reported finding from PMID 42431135 (Antibody-drug conjugates in selected solid tumours: a position statement update based on findings from the third workshop held by the ETOP IBCSG Partners Foundation): The European Thoracic Oncology Platform (ETOP) International Breast Cancer Study Group (IBCSG) Partners Foundation initiated a series of workshops for experts to review current evidence and offer recommendations to guide future antibody-drug conjugate (ADC) research. Here, we summarise key findings from the third workshop, which included experts in various solid tumours, basic/translational resear
+Source: PMID 42431135 (https://pubmed.ncbi.nlm.nih.gov/42431135/)
+Checked: 2026-09-24T11:42:01.230Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Deterministic numeric grounding: missing tokens: none.
+3. Semantic check (qwen3:8b, temp 0): supports — The source text explicitly states that the European Thoracic Oncology Platform (ETOP) International Breast Cancer Study Group (IBCSG) Partners Foundation initiated a series of workshops for experts to review current evidence and offer recommendations to guide future antibody-drug conjugate (ADC) research. It also mentions that the third workshop included experts in various solid tumours, basic/translational research scientists, and pharmaceutical industry representatives, which directly supports the claim.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: c4ba1da37f3c5b876b84d8e3ad691a822d4a66d3e6c8d4dbfe83104c2ec5b2be
