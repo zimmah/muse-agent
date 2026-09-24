@@ -1,0 +1,16 @@
+# source-check — claim fa53bf76b4a743f8f9d02c7f887acc5ffa08f20cff863bd6165e0e1e7b5a4616
+
+Claim: Reported finding from PMID 42582778 (Progress of Trop-2-targeted antibody-drug conjugates in HER-2-negative breast cancer: a mini-review): Breast cancer (BC) persists as a major cause of deaths associated with cancer among women globally, emphasizing the urgent need for innovative therapies. Trophoblast cell surface antigen 2 (Trop-2), a transmembrane glycoprotein involved in tumor growth, proliferation, and metastasis, has emerged as a promising therapeutic target. Trop-2-targeted antibody-drug conjugates (ADCs) improve the efficacy
+Source: PMID 42582778 (https://pubmed.ncbi.nlm.nih.gov/42582778/)
+Checked: 2026-09-24T10:11:45.292Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Deterministic numeric grounding: missing tokens: none.
+3. Semantic check (qwen3:8b, temp 0): supports — The source text directly supports the claim by stating that 'Breast cancer (BC) persists as a major cause of deaths associated with cancer among women globally, emphasizing the urgent need for innovative therapies.' It also mentions that 'Trophoblast cell surface antigen 2 (Trop-2)... has emerged as a promising therapeutic target' and that 'Trop-2-targeted antibody-drug conjugates (ADCs) improve the efficacy and reduce the safety concerns while compared to traditional chemotherapy by selectively delivering cytotoxic agents to tumor cells that express Trop-2.' These statements align with the claim provided.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: 1d467015155a24dfe8ed628935cd0e24759840b7360569b9284557c6dcef1f34
