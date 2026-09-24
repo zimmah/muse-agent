@@ -1,0 +1,79 @@
+1. Nanomedicine. 2023 Apr;49:102666. doi: 10.1016/j.nano.2023.102666. Epub 2023
+Mar  6.
+
+Nanoparticle albumin-bound paclitaxel-based neoadjuvant regimen: A promising 
+treatment option for HER2-low-positive breast cancer.
+
+Shi W(1), Wan X(2), Wang Y(3), He J(4), Huang X(5), Xu Y(6), Zhang W(7), Chen 
+R(8), Wang L(9), Zheng R(10), Ma L(11), Li X(12), Xu L(13), Zha X(14), Wang 
+J(15).
+
+Author information:
+(1)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: shiwenjie61@163.com.
+(2)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 269523263@qq.com.
+(3)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 941068499@qq.com.
+(4)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 13952174709@163.com.
+(5)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: hxfeng_a@163.com.
+(6)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 15651781716@163.com.
+(7)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 229785951@qq.com.
+(8)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 15951756315@163.com.
+(9)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: lexin_wang0312@163.com.
+(10)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: 15705227155@163.com.
+(11)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: malingjun0130@126.com.
+(12)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: lilixuannn@163.com.
+(13)Department of Clinical Nutrition, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: lulu-x-u@163.com.
+(14)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: njzhaxm@njmu.edu.cn.
+(15)Department of Breast Disease, the First Affiliated Hospital of Nanjing 
+Medical University, No.300 Guangzhou Road, Nanjing 210000, China. Electronic 
+address: wangjue200011@njmu.edu.cn.
+
+This study aimed to compare the efficacy of neoadjuvant systemic therapy (NST) 
+with solvent-based paclitaxel (Sb-P), liposomal paclitaxel (Lps-P), nanoparticle 
+albumin-bound paclitaxel (Nab-P), and docetaxel in human epidermal growth factor 
+receptor 2 (HER2)-low-positive and HER2-zero breast cancers. A total of 430 
+patients receiving 2-weekly dose-dense epirubicin and cyclophosphamide (EC) 
+followed by 2-weekly paclitaxel (Sb-P, Lps-P, or Nab-P), or 3-weekly EC followed 
+by 3-weekly docetaxel for NST were enrolled in the study. In HER2-low-positive 
+patients, the pathological complete response (pCR) rate in Nab-P group was 
+significantly higher than that in the other three paclitaxel groups (2.8 % in 
+Sb-P group, 4.7 % in Lps-P group, 23.2 % in Nab-P group and 3.2 % in docetaxel 
+group, p < 0.001). In HER2-zero patients, the pCR rate did not differ 
+significantly among the four paclitaxel groups (p = 0.278). The NST regimen 
+containing Nab-P could be considered a promising treatment option in 
+HER2-low-positive breast cancer.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.nano.2023.102666
+PMID: 36889422 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+have no relevant financial or non-financial interests to disclose.
