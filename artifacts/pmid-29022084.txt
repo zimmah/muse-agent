@@ -1,0 +1,51 @@
+1. Cancer Chemother Pharmacol. 2017 Dec;80(6):1079-1090. doi: 
+10.1007/s00280-017-3440-4. Epub 2017 Oct 11.
+
+Exposure-response analyses of trastuzumab emtansine in patients with 
+HER2-positive advanced breast cancer previously treated with trastuzumab and a 
+taxane.
+
+Li C(1), Wang B(2), Chen SC(2), Wada R(3), Lu D(2), Wang X(2), Polhamus D(4), 
+French J(4), Vadhavkar S(2), Strasak A(5), Smitt M(6), Joshi A(2), Samant M(7), 
+Quartino A(2), Jin J(2), Girish S(2).
+
+Author information:
+(1)Department of Clinical Pharmacology, Genentech, Inc., 1 DNA Way, South San 
+Francisco, CA, 94080, USA. li.chunze@gene.com.
+(2)Department of Clinical Pharmacology, Genentech, Inc., 1 DNA Way, South San 
+Francisco, CA, 94080, USA.
+(3)Certara Strategic Consulting, Certara, Menlo Park, CA, USA.
+(4)Stastical Modeling and Simulation, Metrum Research Group, Tariffville, CT, 
+USA.
+(5)Biostatistics, F. Hoffmann-La Roche, Basel, Switzerland.
+(6)Clinical Sciences, Genentech, Inc., South San Francisco, CA, USA.
+(7)Biostatistics, Genentech, Inc., South San Francisco, CA, USA.
+
+PURPOSE: In the phase III EMILIA study, trastuzumab emtansine (T-DM1) 
+significantly improved progression-free survival (PFS) and overall survival (OS) 
+versus capecitabine plus lapatinib (control) in previously treated human 
+epidermal growth factor receptor 2-positive advanced breast cancer. Using EMILIA 
+data, we evaluated the T-DM1 exposure-response relationship.
+METHODS: Exposure-response relationships were examined with four exposure 
+metrics [model-predicted and observed minimum concentration (C min) and area 
+under the concentration-time curve from time zero to day 21 of T-DM1 at cycle 1] 
+and multiple efficacy (OS, PFS, objective response rate) and safety (grade ≥ 3 
+adverse events, grade ≥ 3 thrombocytopenia, grade ≥ 3 hepatotoxicity) endpoints.
+RESULTS: An apparent exposure-response trend was observed between 
+model-predicted exposure metrics and efficacy; trends for observed exposure 
+metrics were shallower and often not significant. Although median OS and PFS 
+were numerically longer in patients with higher versus lower model-predicted 
+cycle 1 C min, OS and PFS hazard ratios for T-DM1-treated patients in the lowest 
+exposure quartile (Q1) versus control were < 1 after adjusting for baseline risk 
+factors (e.g., ECOG status, tumor burden, measurable disease, and number of 
+disease sites). No meaningful exposure-response relationship was observed for 
+any safety endpoints.
+CONCLUSION: Exposure-response relationships for efficacy were inconsistent 
+across exposure metrics; model-predicted cycle 1 C min showed the strongest 
+exposure-response trend. The Q1 subgroup based on model-predicted cycle 1 C min 
+had numerically similar or better OS and PFS versus control following covariate 
+adjustment. The approved T-DM1 dose (3.6 mg/kg every 3 weeks) has a positive 
+benefit-risk ratio versus control, even for the T-DM1 Q1 subgroup.
+
+DOI: 10.1007/s00280-017-3440-4
+PMID: 29022084 [Indexed for MEDLINE]
