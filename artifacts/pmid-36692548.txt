@@ -1,0 +1,47 @@
+1. J Cancer Res Clin Oncol. 2023 Aug;149(9):6711-6718. doi: 
+10.1007/s00432-023-04574-9. Epub 2023 Jan 24.
+
+HER2/neu-based vaccination with li-Key hybrid, GM-CSF immunoadjuvant and 
+trastuzumab as a potent triple-negative breast cancer treatment.
+
+Zhou Y(1).
+
+Author information:
+(1)Department of Oncology, Medical Sciences Division, University of Oxford, 
+Oxford, UK. yihan.zhou@oncology.ox.ac.uk.
+
+PURPOSE: Constituting 15 to 20% of breast cancer cases, the triple-negative 
+subtype lacks effective treatments as being less responsive to 
+hormone-associated therapies. Alternatively, a more powerful immunotherapeutic 
+vaccination can trigger immune recognition and destruction against breast cancer 
+by incorporating oncological antigens such as human epidermal growth factor 
+receptor 2 (HER2/neu). Currently, HER2/neu-based vaccines have finished three 
+phases with breast cancer patients, in conjunction with granulocyte-macrophage 
+colony-stimulating factor (GM-CSF) that was proven to be a promising vaccine 
+adjuvant in other cancer trials previously.
+METHODS: Completed HER2/neu-based vaccine trials with GM-CSF immunoadjuvants for 
+breast cancer were summarised, and additionally, the article discussed prominent 
+findings of vaccine effectiveness in triple-negative breast cancer, regarding 
+li-Key hybrid in vaccine design and co-administration of anti-HER2/neu 
+trastuzumab.
+RESULTS: Nine clinical trials of three HER2/neu epitopes, one with li-Key 
+hybrid, were analysed with or without the presence of trastuzumab. Immunological 
+responses and minimal toxicities were observed in these epitopes, and 
+disease-free survival was especially improved in the triple-negative population.
+CONCLUSION: HER2/neu-based peptide vaccine is a safe and effective approach 
+against breast cancer, and its benefits can be potentially furthered by 
+combining the li-Key hybrid vaccine with targeted drugs and adjuvants selected 
+to enhance cross-presentation for exogenous vaccine antigens. Graphical abstract 
+was created with Biorender.com (license number: HA24UHRBV4 and FP24UHRGDD).
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00432-023-04574-9
+PMCID: PMC10356871
+PMID: 36692548 [Indexed for MEDLINE]
+
+Conflict of interest statement: Yihan Zhou is the primary and only author who is 
+responsible for conceptualism, literature search, interpretation, drafting and 
+revision. The author declares that no grants, funds or other kinds of financial 
+support were received when this manuscript was under preparation. The author 
+declares that there are no competing financial or personal interests.
