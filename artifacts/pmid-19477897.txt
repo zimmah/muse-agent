@@ -1,0 +1,43 @@
+1. Jpn J Clin Oncol. 2009 Aug;39(8):484-90. doi: 10.1093/jjco/hyp052. Epub 2009
+May  28.
+
+Long-term outcome and pattern of relapse after neoadjuvant chemotherapy in 
+patients with human epidermal growth factor receptor 2-positive primary breast 
+cancer.
+
+Shimizu C(1), Masuda N, Yoshimura K, Tsuda H, Mano M, Ando M, Tamura K, Fujiwara 
+Y.
+
+Author information:
+(1)Division of Breast and Medical Oncology, National Cancer Center Hospital, 
+5-1-1 Tsukiji, Chuo-ku, Tokyo 104-0045, Japan. cshimizu@ncc.go.jp
+
+OBJECTIVE: Determinants of long-term outcome of patients with human epidermal 
+growth factor receptor 2 (HER2)-positive breast cancer who received neoadjuvant 
+chemotherapy (NAC) are not clear. The purpose of this study was to explore the 
+prognostic factors of HER2-positive breast cancer patients administered NAC.
+METHODS: A retrospective analysis of 125 HER2-positive breast cancer patients 
+treated by NAC using an anthracycline plus taxane with (HCN group, n = 54) or 
+without trastuzumab (non-HCN group, n = 71) was performed. The clinical 
+parameters, including the pathological complete remission (pCR) rate, 
+disease-free survival (DFS) and organ-specific recurrence-free survival, were 
+measured.
+RESULTS: According to the results of the univariate analyses, age, clinical 
+stage, pCR and axillary lymph node status were the factors significantly 
+associated with the DFS. The inclusion of trastuzumab in the NAC regimen did not 
+yield a significant difference in the DFS. Only the axillary lymph node status 
+and age were found to be the significant factors affecting the DFS in a 
+multivariate model. There were no significant differences in the patient/tumor 
+characteristics between the HCN and non-HCN groups except for the pCR rate (50% 
+in the HCN group vs. 24% in the non-HCN group) and the median follow-up time 
+(738 days in the HCN group vs. 1579 days in the non-HCN group). Within the first 
+2 years from the initiation of NAC treatment, the central nervous system (CNS) 
+was the most common site of first recurrence in the HCN group, whereas no cases 
+of CNS metastasis were observed in the non-HCN group.
+CONCLUSIONS: The pathological axillary node status and age were found to be the 
+significant prognostic factors in HER2-positive breast cancer patients who 
+received NAC. The pattern of recurrence may be different between HCN-treated and 
+non-HCN-treated patients.
+
+DOI: 10.1093/jjco/hyp052
+PMID: 19477897 [Indexed for MEDLINE]
