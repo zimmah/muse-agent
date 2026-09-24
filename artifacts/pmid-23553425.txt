@@ -1,0 +1,63 @@
+1. Clin Pharmacokinet. 2013 Aug;52(8):657-72. doi: 10.1007/s40262-013-0060-y.
+
+An integrated multiple-analyte pharmacokinetic model to characterize trastuzumab 
+emtansine (T-DM1) clearance pathways and to evaluate reduced pharmacokinetic 
+sampling in patients with HER2-positive metastatic breast cancer.
+
+Lu D(1), Joshi A, Wang B, Olsen S, Yi JH, Krop IE, Burris HA, Girish S.
+
+Author information:
+(1)Genentech Inc., 1 DNA Way, South San Francisco, CA 94080, USA. 
+lu.dan@gene.com
+
+BACKGROUND AND OBJECTIVE: Trastuzumab emtansine (T-DM1) is an antibody-drug 
+conjugate recently approved by the US Food and Drug Administration for the 
+treatment of human epidermal growth factor receptor 2 (HER2)-positive metastatic 
+breast cancer previously treated with trastuzumab and taxane chemotherapy. It 
+comprises the microtubule inhibitory cytotoxic agent DM1 conjugated to the 
+HER2-targeted humanized monoclonal antibody trastuzumab via a stable linker. To 
+characterize the pharmacokinetics of T-DM1 in patients with metastatic breast 
+cancer, concentrations of multiple analytes were quantified, including serum 
+concentrations of T-DM1 conjugate and total trastuzumab (the sum of conjugated 
+and unconjugated trastuzumab), as well as plasma concentrations of DM1. The 
+clearance of T-DM1 conjugate is approximately 2 to 3 times faster than its 
+parent antibody, trastuzumab. However, the clearance pathways accounting for 
+this faster clearance rate are unclear. An integrated population pharmacokinetic 
+model that simultaneously fits the pharmacokinetics of T-DM1 conjugate and total 
+trastuzumab can help to elucidate the clearance pathways of T-DM1. The model can 
+also be used to predict total trastuzumab pharmacokinetic profiles based on 
+T-DM1 conjugate pharmacokinetic data and sparse total trastuzumab 
+pharmacokinetic data, thereby reducing the frequency of pharmacokinetic 
+sampling.
+METHODS: T-DM1 conjugate and total trastuzumab serum concentration data, 
+including baseline trastuzumab concentrations prior to T-DM1 treatment, from 
+phase I and II studies were used to develop this integrated population 
+pharmacokinetic model. Based on a hypothetical T-DM1 catabolism scheme, 
+two-compartment models for T-DM1 conjugate and trastuzumab were integrated by 
+assuming a one-step deconjugation clearance from T-DM1 conjugate to trastuzumab. 
+The ability of the model to predict the total trastuzumab pharmacokinetic 
+profile based on T-DM1 conjugate pharmacokinetics and various sampling schemes 
+of total trastuzumab pharmacokinetics was assessed to evaluate total trastuzumab 
+sampling schemes.
+RESULTS: The final model reflects a simplified catabolism scheme of T-DM1, 
+suggesting that T-DM1 clearance pathways include both deconjugation and 
+proteolytic degradation. The model fits T-DM1 conjugate and total trastuzumab 
+pharmacokinetic data simultaneously. The deconjugation clearance of T-DM1 was 
+estimated to be ~0.4 L/day. Proteolytic degradation clearances for T-DM1 and 
+trastuzumab were similar (~0.3 L/day). This model accurately predicts total 
+trastuzumab pharmacokinetic profiles based on T-DM1 conjugate pharmacokinetic 
+data and sparse total trastuzumab pharmacokinetic data sampled at preinfusion 
+and end of infusion in cycle 1, and in one additional steady state cycle.
+CONCLUSIONS: This semi-mechanistic integrated model links T-DM1 conjugate and 
+total trastuzumab pharmacokinetic data, and supports the inclusion of both 
+proteolytic degradation and deconjugation as clearance pathways in the 
+hypothetical T-DM1 catabolism scheme. The model attributes a faster T-DM1 
+conjugate clearance versus that of trastuzumab to the presence of a 
+deconjugation process and suggests a similar proteolytic clearance of T-DM1 and 
+trastuzumab. Based on the model and T-DM1 conjugate pharmacokinetic data, a 
+sparse pharmacokinetic sampling scheme for total trastuzumab provides an entire 
+pharmacokinetic profile with similar predictive accuracy to that of a dense 
+pharmacokinetic sampling scheme.
+
+DOI: 10.1007/s40262-013-0060-y
+PMID: 23553425 [Indexed for MEDLINE]
