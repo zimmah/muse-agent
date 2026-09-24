@@ -1,0 +1,43 @@
+1. Br J Cancer. 2020 Sep;123(6):1000-1011. doi: 10.1038/s41416-020-0952-1. Epub 
+2020 Jun 23.
+
+YES1 amplification confers trastuzumab-emtansine (T-DM1) resistance in 
+HER2-positive cancer.
+
+Wang L(1), Wang Q(1), Xu P(1), Fu L(1), Li Y(1), Fu H(1), Quan H(2), Lou L(3).
+
+Author information:
+(1)Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203, 
+Shanghai, China.
+(2)Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203, 
+Shanghai, China. haitianquan@simm.ac.cn.
+(3)Shanghai Institute of Materia Medica, Chinese Academy of Sciences, 201203, 
+Shanghai, China. lglou@mail.shcnc.ac.cn.
+
+BACKGROUND: Trastuzumab-emtansine (T-DM1), one of the most potent HER2-targeted 
+drugs, shows impressive efficacy in patients with HER2-positive breast cancers. 
+However, resistance inevitably occurs and becomes a critical clinical problem.
+METHODS: We modelled the development of acquired resistance by exposing 
+HER2-positive cells to escalating concentrations of T-DM1. Signalling pathways 
+activation was detected by western blotting, gene expression was analysed by 
+qRT-PCR and gene copy numbers were determined by qPCR. The role of Yes on 
+resistance was confirmed by siRNA-mediated knockdown and stable 
+transfection-mediated overexpression. The in vivo effects were tested in 
+xenograft model.
+RESULTS: We found that Yes is overexpressed in T-DM1-resistant cells owing to 
+amplification of chromosome region 18p11.32, where the YES1 gene resides. Yes 
+activated multiple proliferation-related signalling pathways, including EGFR, 
+PI3K and MAPK, and led to cross-resistance to all types of HER2-targeted drugs, 
+including antibody-drug conjugate, antibody and small molecule inhibitor. The 
+outcome of this cross-resistance may be a clinically incurable condition. 
+Importantly, we found that inhibiting Yes with dasatinib sensitised resistant 
+cells in vitro and in vivo.
+CONCLUSIONS: Our study revealed that YES1 amplification conferred resistance to 
+HER2-targeted drugs and suggested the potential application of the strategy of 
+combining HER2 and Yes inhibition in the clinic.
+
+DOI: 10.1038/s41416-020-0952-1
+PMCID: PMC7494777
+PMID: 32572172 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
