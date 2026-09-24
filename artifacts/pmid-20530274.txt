@@ -1,0 +1,41 @@
+1. J Clin Oncol. 2010 Jul 10;28(20):3248-55. doi: 10.1200/JCO.2009.21.8594. Epub 
+2010 Jun 7.
+
+Phase II study to evaluate the efficacy and safety of neoadjuvant lapatinib plus 
+paclitaxel in patients with inflammatory breast cancer.
+
+Boussen H(1), Cristofanilli M, Zaks T, DeSilvio M, Salazar V, Spector N.
+
+Author information:
+(1)Department of Medical Oncology, Institut Salah Azaiz, Tunis, Tunisia. 
+sarroura2000@yahoo.fr
+
+PURPOSE: We conducted a phase II, open-label, multicenter study to evaluate the 
+efficacy, safety, and tolerability of daily lapatinib plus weekly paclitaxel in 
+treatment-naïve patients with inflammatory breast cancer (IBC).
+PATIENTS AND METHODS: The primary end point was pathologic complete response 
+(pCR). Secondary end points included combined clinical response rate (based on 
+Response Evaluation Criteria in Solid Tumors (RECIST) criteria and clinically 
+evaluable skin disease criteria). Patients were assigned to either cohort A 
+(human epidermal growth factor receptor 2 [HER2] 2+ or 3+ by 
+immunohistochemistry [IHC] or fluorescent in situ hybridization [FISH] 
+-amplified +/- epidermal growth factor receptor [EGFR] expression) or cohort B 
+(HER2-negative/EGFR-positive). A subpopulation of cohort A considered 
+HER2-positive by the current definition of overexpression (3+ by IHC or 
+FISH-amplified) was also analyzed. Patients received lapatinib at 1,500 mg/d for 
+14 days, then lapatinib at 1,500 mg/d plus weekly paclitaxel (80 mg/m(2)) for 12 
+weeks, followed by surgical resection or additional chemotherapy.
+RESULTS: Forty-nine women were enrolled (cohort A, n = 42; cohort B, n = 7). 
+Cohort B was terminated because of slow accrual and lack of efficacy observed in 
+IBC patients with HER2-negative/EGFR-positive tumors enrolled onto the parallel 
+study, EGF103009. pCR occurred in 18.2% (95% CI, 5.2% to 40.3%) of cohort A 
+patients. Combined clinical response rate was 78.6% (95% CI, 63.2% to 89.7%) in 
+all cohort A patients and 78.1% (95% CI, 60.0% to 90.7%) in the HER2-positive 
+subset. Common adverse events included diarrhea, rash, alopecia, and nausea (> 
+50% of patients in both cohorts). The incidence of grade 3 diarrhea was 55%.
+CONCLUSION: Lapatinib monotherapy for 14 days followed by lapatinib plus 
+paclitaxel for 12 weeks provided clinical benefit in IBC patients with 
+HER2-overexpressing tumors without unexpected toxicity.
+
+DOI: 10.1200/JCO.2009.21.8594
+PMID: 20530274 [Indexed for MEDLINE]
