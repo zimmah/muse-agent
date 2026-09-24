@@ -1,0 +1,290 @@
+1. Lancet. 2023 Jan 14;401(10371):105-117. doi: 10.1016/S0140-6736(22)02420-5.
+Epub  2022 Dec 7.
+
+Trastuzumab deruxtecan versus trastuzumab emtansine in patients with 
+HER2-positive metastatic breast cancer: updated results from DESTINY-Breast03, a 
+randomised, open-label, phase 3 trial.
+
+Hurvitz SA(1), Hegg R(2), Chung WP(3), Im SA(4), Jacot W(5), Ganju V(6), Chiu 
+JWY(7), Xu B(8), Hamilton E(9), Madhusudan S(10), Iwata H(11), Altintas S(12), 
+Henning JW(13), Curigliano G(14), Perez-Garcia JM(15), Kim SB(16), Petry V(17), 
+Huang CS(18), Li W(19), Frenel JS(20), Antolin S(21), Yeo W(22), Bianchini 
+G(23), Loi S(24), Tsurutani J(25), Egorov A(26), Liu Y(26), Cathcart J(26), 
+Ashfaque S(26), Cortés J(27).
+
+Author information:
+(1)Department of Medicine, Division of Hematology-Oncology, David Geffen School 
+of Medicine, University of California, Los Angeles, CA, USA; Jonsson 
+Comprehensive Cancer Center, Los Angeles, CA, USA. Electronic address: 
+shurvitz@mednet.ucla.edu.
+(2)Clinica de Pesquisas e Centro de Estudos em Oncologia Ginecologica e Mamaria 
+Ltda, Sao Paolo, Brazil.
+(3)Department of Oncology, National Cheng Kung University Hospital, Tainan, 
+Taiwan; College of Medicine, National Cheng Kung University, Tainan, Taiwan.
+(4)Seoul National University Hospital, Cancer Research Institute, Seoul National 
+University College of Medicine, Seoul National University, Seoul, South Korea.
+(5)Institut du Cancer de Montpellier, Montpellier University, INSERM U1194, 
+Montpellier, France.
+(6)Peninsula and South Eastern Haematology and Oncology Group, Frankston, VIC, 
+Australia.
+(7)Department of Medicine, University of Hong Kong, Queen Mary Hospital, Hong 
+Kong, China.
+(8)Cancer Hospital Chinese Academy of Medical Sciences and Peking Union Medical 
+College, Beijing, China.
+(9)Sarah Cannon Research Institute/Tennessee Oncology, Nashville, TN, USA.
+(10)School of Medicine, University of Nottingham, Nottingham University 
+Hospital, Nottingham, UK.
+(11)Department of Breast Oncology, Aichi Cancer Center Hospital, Aichi, Japan.
+(12)Department of Medical Oncology, Antwerp University Hospital, Edegem, 
+Belgium.
+(13)Tom Baker Cancer Centre, Calgary, AB, Canada.
+(14)Division of Early Drug Development for Innovative Therapy, European 
+Institute of Oncology, IRCCS, Milan, Italy; Department of Oncology and 
+Hemato-Oncology, University of Milano, Milan, Italy.
+(15)International Breast Cancer Center, Pangaea Oncology, Quironsalud Group, 
+Barcelona, Spain; Medica Scientia Innovation Research, Barcelona, Spain; Medica 
+Scientia Innovation Research, Ridgewood, NJ, USA.
+(16)Asan Medical Center, University of Ulsan College of Medicine, Seoul, South 
+Korea.
+(17)ICESP-Instituto do Cancer do Estado de Sao Paulo Octavio Frias de Oliveria, 
+Sao Paulo, Brazil.
+(18)Department of Surgery, National Taiwan University Hospital, Taipei, Taiwan.
+(19)The First Hospital of Jilin University, Changchun, China.
+(20)Institut de Cancerologie de l'Ouest, Site Rene Gauducheau, Saint-Herblain, 
+France.
+(21)Complejo Hospitalario Universitario A Coruna, La Coruna, Spain.
+(22)Chinese University of Hong Kong, Ma Liu Shui, Hong Kong Special 
+Administrative Region, China.
+(23)IRCCS Ospedale San Raffaele, Milan, Italy.
+(24)Peter MacCallum Cancer, Melbourne, VIC, Australia.
+(25)Advanced Cancer Translational Research Institute, Showa University Hospital, 
+Advanced Cancer Research Center, Showa University Hospital, Tokyo, Japan.
+(26)Daiichi Sankyo, Basking Ridge, NJ, USA.
+(27)International Breast Cancer Center, Pangaea Oncology, Quironsalud Group, 
+Barcelona, Spain; Universidad Europea de Madrid, Faculty of Biomedical and 
+Health Sciences, Department of Medicine, Madrid, Spain.
+
+Erratum in
+    Lancet. 2023 Feb 18;401(10376):556. doi: 10.1016/S0140-6736(22)00045-9.
+
+Comment in
+    Lancet. 2023 Jan 14;401(10371):80-81. doi: 10.1016/S0140-6736(22)02534-X.
+    Lancet. 2023 May 20;401(10389):1652. doi: 10.1016/S0140-6736(23)00679-7.
+    Lancet. 2023 May 20;401(10389):1652-1653. doi: 
+10.1016/S0140-6736(23)00680-3.
+    Lancet. 2023 May 20;401(10389):1653. doi: 10.1016/S0140-6736(23)00685-2.
+
+BACKGROUND: An improvement in progression-free survival was shown with 
+trastuzumab deruxtecan versus trastuzumab emtansine in patients with 
+HER2-positive metastatic breast cancer in the progression-free survival interim 
+analysis of the DESTINY-Breast03 trial. The aim of DESTINY-Breast03 was to 
+compare the efficacy and safety of trastuzumab deruxtecan versus trastuzumab 
+emtansine.
+METHODS: This open-label, randomised, multicentre, phase 3 trial was done in 169 
+study centres in North America, Asia, Europe, Australia, and South America. 
+Eligible patients were aged 18 or older, had HER2-positive unresectable or 
+metastatic breast cancer previously treated with trastuzumab and a taxane, had 
+an Eastern Cooperative Oncology Group performance status 0-1, and at least one 
+measurable lesion per Response Evaluation Criteria in Solid Tumours version 1.1. 
+Patients were randomly assigned (1:1) to receive trastuzumab deruxtecan 5·4 
+mg/kg or trastuzumab emtansine 3·6 mg/kg, both administered by intravenous 
+infusion every 3 weeks. Randomisation was stratified by hormone receptor status, 
+previous treatment with pertuzumab, and history of visceral disease, and was 
+managed through an interactive web-based system. Within each stratum, balanced 
+block randomisation was used with a block size of four. Patients and 
+investigators were not masked to the treatment received. The primary endpoint 
+was progression-free survival by blinded independent central review. The key 
+secondary endpoint was overall survival and this prespecified second overall 
+survival interim analysis reports updated overall survival, efficacy, and safety 
+results. Efficacy analyses were performed using the full analysis set. Safety 
+analyses included all randomly assigned patients who received at least one dose 
+of study treatment. This study is registered with ClinicalTrials.gov, 
+NCT03529110.
+FINDINGS: Between July 20, 2018, and June 23, 2020, 699 patients were screened 
+for eligibility, 524 of whom were enrolled and randomly assigned to receive 
+trastuzumab deruxtecan (n=261) or trastuzumab emtansine (n=263). Median duration 
+of study follow-up was 28·4 months (IQR 22·1-32·9) with trastuzumab deruxtecan 
+and 26·5 months (14·5-31·3) with trastuzumab emtansine. Median progression-free 
+survival by blinded independent central review was 28·8 months (95% CI 
+22·4-37·9) with trastuzumab deruxtecan and 6·8 months (5·6-8·2) with trastuzumab 
+emtansine (hazard ratio [HR] 0·33 [95% CI 0·26-0·43]; nominal p<0·0001). Median 
+overall survival was not reached (95% CI 40·5 months-not estimable), with 72 
+(28%) overall survival events, in the trastuzumab deruxtecan group and was not 
+reached (34·0 months-not estimable), with 97 (37%) overall survival events, in 
+the trastuzumab emtansine group (HR 0·64; 95% CI 0·47-0·87]; p=0·0037). The 
+number of grade 3 or worse treatment-emergent adverse events was similar in 
+patients who received trastuzumab deruxtecan versus trastuzumab emtansine (145 
+[56%] patients versus 135 [52%] patients). Adjudicated drug-related interstitial 
+lung disease or pneumonitis occurred in 39 (15%) patients treated with 
+trastuzumab deruxtecan and eight (3%) patients treated with trastuzumab 
+emtansine, with no grade 4 or 5 events in either group.
+INTERPRETATION: Trastuzumab deruxtecan showed a significant improvement in 
+overall survival versus trastuzumab emtansine in patients with HER2-positive 
+metastatic breast cancer, as well as the longest reported median 
+progression-free survival, reaffirming trastuzumab deruxtecan as the standard of 
+care in the second-line setting. A manageable safety profile of trastuzumab 
+deruxtecan was confirmed with longer treatment duration.
+FUNDING: Daiichi Sankyo and AstraZeneca.
+
+Copyright © 2023 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. 
+All rights reserved.
+
+DOI: 10.1016/S0140-6736(22)02420-5
+PMID: 36495879 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests SAH has received 
+support for the present manuscript from Daiichi Sankyo and AstraZeneca; has 
+received grants or contracts from Ambrx, Amgen, Arvinas, Bayer, Cytomx, Dantar, 
+Dignitana, Genentech/Roche, G1-Therapeutics, Gilead, GSK, Immunomedics, Eli 
+Lilly, Macrogenics, Novartis, OBI, Pharma, Orinove, Pfizer, Phoenix Molecular 
+Designs, Pieris, PUMA, Radius, Samumed, Sanofi, Seattle Genetics/Seagen, and 
+Zymeworks; has received payment or honoraria for lectures, presentations, 
+speaker bureaus, manuscript writing, or educational events from Daiichi Sankyo 
+and continuing medical education (CME) companies (PER, Clinical Care Options, 
+Research to Practice, etc); has received support for attending meetings or 
+travel from San Antonio Breast Cancer Symposium, American Society of Clinical 
+Oncology, National Comprehensive Cancer Network, and CME companies (PER, 
+Clinical Care Options, and Research to Practice); has participated as a data 
+safety monitoring board member for the I-SPY trial (unpaid); and has served a 
+leadership or fiduciary role in another board for TRIO-US (unpaid chief medical 
+officer of site management organisation). W-PC has received payment or honoraria 
+for lectures and presentations from Amgen, AstraZeneca, Daiichi Sankyo, Eli 
+Lilly, Everest Medicine, Foundation Medicine, Kyowa Kirin, MSD, Novartis, 
+Pfizer, Roche, and Sanofi; has received support for attending meetings from 
+Amgen, AstraZeneca, Pfizer, and Roche; has participated in advisory boards for 
+Amgen, AstraZeneca, Daiichi Sankyo, Eli Lilly, Everest Medicine, MSD, Novartis, 
+and Roche; and has participated in a data safety monitoring board for 
+AstraZeneca. S-AI has received grants or contracts from AstraZeneca, Eisai, 
+Daewoong Pharm, Daiichi Sankyo, Pfizer, Roche, and Boryung Pharm; and has 
+received consulting fees from AstraZeneca, Hanmi, Eisai, Lilly, MSD, Idience, 
+Novartis, Pfizer, Roche, GSK, Daiichi Sankyo, and Bertis. WJ has received grants 
+or contracts from AstraZeneca and Daiichi Sankyo; has received support for 
+attending meetings or travel from AstraZeneca, Eisai, Lilly France, Pfizer, 
+Roche, Chugai Pharma, GlaxoSmithKline, Novartis, Pierre Fabre, and Sanofi 
+Aventis; and has participated on a data safety monitoring board or advisory 
+board for AstraZeneca, Eisai, Lilly France, Pfizer, Roche, BMS, Daiichi Sankyo, 
+Novartis, MSD, and Seagen. JWYC has received honoraria for manuscript writing 
+from Daiichi Sankyo. BX has received payment or honoraria for lectures and 
+presentations from AstraZeneca, Pfizer Inc, Roche, and Eisai. EH has received 
+institutional support for the present manuscript from Daiichi Sankyo and 
+AstraZeneca; has received institutional grants or contracts from AbbVie, Acerta 
+Pharma, Accutar Biotechnology, ADC Therapeutics, AKESOBIO Australia, Amgen, 
+Aravive, ArQule, Artios, Arvinas, AtlasMedx, Black Diamond, Bliss 
+BioPharmaceuticals, Boehringer Ingelheim, Cascadian Therapeutics, Clovis, 
+Compugen, Cullen-Florentine, Curis, CytomX, Dana Farber Cancer Institute, 
+Dantari, Deciphera, Duality Biologics, eFFECTOR Therapeutics, Ellipses Pharma, 
+Elucida Oncology, EMD Serono, Fochon, FujiFilm, G1 Therapeutics, H3 Biomedicine, 
+Harpoon, Hutchinson MediPharma, Immunogen, Immunomedics, Incyte, Infinity 
+Pharmaceuticals, InvestisBio, Jacobio, Karyopharm, Leap Therapeutics, Lilly, 
+Lycera, Mabspace Biosciences, Macrogenics, MedImmune, Merck, Mersana, Merus, 
+Millenium, Molecular Templates, Myriad Genetic Laboratories, Novartis, Nucana, 
+Olema, OncoMed, Onconova Therapeutics, ORIC Pharmaceuticals, Orinove, Pfizer, 
+PharmaMar, Pieris Pharmaceuticals, Pionyr Immunotherapeutics, Plexxikon, Radius 
+Health, Regeneron, Relay Therapeutics, Repertoire Immune Medicine, Rgenix, 
+Roche/Genentech, Seagen, Sermonix Pharmaceuticals, Shattuck Labs, Silverback, 
+StemCentRx, Sutro, Syndax, Syros, Taiho, TapImmune, Tesaro, Tolmar, Torque 
+Therapeutics, Treadwell Therapeutics, Verastem, Vincerx Pharma, Zenith 
+Epigenetics, and Zymeworks; and has received consulting fees paid to the 
+institution from Arcus, Eisai, Greenwich Lifesciences, H3 Biomedicine, iTeos, 
+Janssen, Loxo, Orum Therapeutics, Propella Therapeutics, Puma Biotechnology, 
+Arvinas, Black Diamond, Boehringer Ingelheim, CytomX, Dantari, Deciphera, Lilly, 
+Merck, Mersana, Novartis, Pfizer, Relay Therapeutics, Roche/Genentech, Seagen, 
+and Silverback. SM received consulting fees, support for attending meetings or 
+travel, and participated in an advisory board for Daiichi Sankyo. HI has 
+received consulting fees from Daicihi Sankyo, Chugai, AstraZeneca, Sanofi, 
+Lilly, MSD, Pfizer, and Novartis; and payment or honoraria from Daiichi Sankyo, 
+Chugai, AstraZeneca, Lilly, MSD, and Pfizer. SAl has received institutional 
+payment for advisory boards from Eli Lilly, Pfizer, MSD, AstraZeneca, Novartis, 
+and Bayer; institutional grants from Roche and Sanofi; and received travel and 
+accommodations from Pfizer, Roche, PharmaMar, Novartis, AstraZeneca, Bayer, and 
+Gilead. J-WH has received support for the present manuscript from AstraZeneca 
+and Daiichi Sankyo; has received consulting fees from Novartis, Pfizer, Eli 
+Lilly, Roche, AstraZeneca, Gilead Science, Knight Therapeutic; and has received 
+payment or honoraria for lectures, presentations, speaker bureaus, manuscript 
+writing, or educational events from Novartis and AstraZeneca. GC has received 
+support for the present manuscript from AstraZeneca and Daiichi Sankyo; has 
+received grants or contracts from Merck and AstraZeneca; has received consulting 
+fees from Roche, BMS, Novartis, Lilly, Pfizer, Seagen, AstraZeneca, Ellipsis, 
+Gilead, Merck, Celcuity, Sanofi, Exact Sciences, and Daiichi Sankyo; has 
+received payment or honoraria for presentations, lectures, speaker bureaus, 
+manuscript writing, or educational events from Novartis, Lilly, Pfizer, Seagen, 
+and Daiichi Sankyo; has received support for attending meetings or travel from 
+AstraZeneca and Daiichi Sankyo; and has participated on a data safety monitoring 
+board or advisory board for Roche, BMS, Novartis, Lilly, Pfizer, Seagen, 
+Ellipsis, Gilead, Merck, Celcuity, AstraZeneca, and Daiichi Sankyo. JMP-G has 
+received consulting fees from Roche/AstraZeneca, Daiichi Sankyo, Lilly/Eisai, 
+and Seattle Genetics and has received support for attending meetings or travel 
+from Roche. S-BK has received institutional grants or contracts from Novartis, 
+Sanofi Aventis, and DongKook Pharmaceutical; has received consulting fees from 
+Novartis, AstraZeneca, Lilly, DaeHwa Pharmaceutical, ISU Abxis, Beigene, OBI 
+Pharma, and Daiichi Sankyo; has received payment or honoraria for lectures, 
+presentations, speaker bureaus, manuscript writing, or educational events from 
+Novartis, Pfizer, OBI Pharma, and Legochem Bioscience; has participated on a 
+data safety monitoring board or advisory board for Novartis, AstraZeneca, MSD, 
+Lilly, and Daiichi Sankyo; and has purchased stock or stock options from 
+Genopeaks and NeoGene TC. VP has received consulting fees for advisory boards 
+from Daiichi Sankyo; has received fees for non-CME services received directly 
+from commercial interests or their agents for speakers' bureaus from 
+AstraZeneca, Novartis, Daiichi Sankyo, and Pfizer; and has received travel 
+support for congresses from Roche and Daiichi Sankyo. C-SH has received research 
+grants to his institution for the present manuscript from Daiichi Sankyo; has 
+received institutional grants or contracts from Daiichi Sankyo, AstraZeneca, 
+EirGenix, Eli Lilly, MSD, OBI Pharma, Pfizer, Roche, Novartis; has received 
+payment or honoraria for speakers bureaus from Daiichi Sankyo, AstraZeneca, 
+Pfizer, Novartis, Roche; has received support for travel from AstraZeneca, 
+Pfizer, Roche, and Novartis; and has participated on advisory boards for Daiichi 
+Sankyo, AstraZeneca, Eli Lilly, Pfizer, Novartis, and Roche. J-SF has received 
+consulting fees from Pfizer, Lilly, Novartis, AstraZeneca, Clovis Oncology, GSK, 
+Gilead, Daiichi Sankyo, and Seagen; has received payment or honoraria for 
+lectures, presentations, speaker bureaus, manuscript writing, or educational 
+events from Lilly, Novartis, AstraZeneca, Gilead, Daiichi Sankyo, and Seagen; 
+and has received support for attending meetings or travel from Pfizer, Lilly, 
+Novartis, AstraZeneca, Clovis Oncology, GSK, Gilead, Daiichi Sankyo, and Seagen. 
+SAn has received consulting fees for advisory boards from Roche, Daiichi Sankyo, 
+Pierre Fabre, and Lilly; and has received fees for non-CME services received 
+directly from commercial interest or their agents (eg, speakers' bureaus) from 
+Roche, Pierre Fabre, and Pfizer. WY has received payment or honoraria for 
+lectures, presentations, advisory boards or educational events from Roche, 
+AstraZeneca, Daiichi Sankyo, Lilly, MSD, Mundipharma, Eisai, and Novartis. GB 
+has received consulting fees from Roche, AstraZeneca, MSD, Daiichi Sankyo, 
+Gilead, Sanofi, and Seagen; has received payment or honoraria for lectures, 
+presentations, speakers bureaus, manuscript writing, or educational events from 
+Roche, AstraZeneca, Daiichi Sankyo, Lilly, MSD, Chugai, Eisai, Gilead, and 
+Seagen; has received support for attending meetings or travel from Roche, 
+Pfizer, MSD, Chugai, Novartis, and AstraZeneca; and has participated on a data 
+safety monitoring board or advisory board for Roche, Pfizer, AstraZeneca, Lilly, 
+Novartis, Amgen, MSD, Chugai, Daiichi Sankyo, Eisai, Gilead, Seagen, Exact 
+Science, and Agendia. SL has received institutional grants or contracts from 
+Novartis, Bristol Myers Squibb, Merck, Puma Biotechnology, Eli Lilly, Nektar 
+Therapeutics, AstraZeneca, Roche-Genentech, and Seattle Genetics; has received 
+consulting fees paid to her institution from Aduro Biotech, Novartis, 
+GlaxoSmithKline, Roche-Genentech, AstraZeneca, Silverback Therapeutics, G1 
+Therapeutics, PUMA Biotechnologies, Pfizer, Gilead Therapeutics, Seattle 
+Genetics, Daiichi Sankyo, Merck, Amunix, Tallac Therapeutics, Eli Lilly, and 
+Bristol Myers Squibb; and serves as a consultant (not paid) for Seattle 
+Genetics, Novartis, Bristol Myers Squibb, Merck, AstraZeneca, Eli Lilly, Pfizer, 
+Gilead Therapeutics, and Roche-Genentech. JT has received support for the 
+present manuscript in the form of grants, contracts, or consulting fees from 
+Daiichi Sankyo and AstraZeneca; has received payment or honoraria for lectures 
+from Daiichi Sankyo and AstraZeneca; has received payment for expert testimony 
+from Daiichi Sankyo and Taiho; has received support for attending meetings or 
+travel from Daiichi Sankyo and Chugai; and has served as an advisor for West 
+Japan Oncology Group. AE, YL, JCa, and SAs are employees of Daiichi Sankyo and 
+AE and YL have stock in Daiichi Sankyo. JCo has received support for the present 
+manuscript from Daiichi Sankyo and AstraZeneca; has received institutional 
+grants or contracts from Roche, Ariad Pharmaceuticals, AstraZeneca, Baxalta 
+GMBH/Servier Affaires, Bayer Healthcare, Eisai, F Hoffman-La Roche, Guardant 
+Health, Merck Sharp & Dohme, Pfizer, Piqur Therapeutics, Puma C, and Queen Mary 
+University of London; has received consulting fees from Roche, Celgene, 
+Cellestia, AstraZeneca, Seattle Genetics, Daiichi Sankyo, Erytech, Athenex, 
+Polyphor, Lilly, Merck Sharp & Dohme, GSK, Leuko, Bioasis, Clovis Oncology, 
+Boehringer Ingelheim, Ellipses, Hibercell, BioInvent, Gemoab, Gilead, Menarini, 
+Zymeworks, and Reveal Genomics; has received payment or honoraria for lectures, 
+presentations, speaker bureaus, manuscript writing, or educational events from 
+Roche, Novartis, Celgene, Eisai, Pfizer, Samsung Bioepis, Lilly, Merck Sharp & 
+Dohme, and Daiichi Sankyo; has received support for attending meetings or travel 
+from Roche, Novartis, Eisai, Pfizer, Daiichi Sankyo, AstraZeneca, and Gilead; 
+has patents planned, issued, or pending (WO 2014/199294 A; US 2019/ 0338368 A1); 
+and has stock or stock options with MedSIR, Nektar Pharmaceuticals, and Leuko. 
+All other authors declare no completing interests.
