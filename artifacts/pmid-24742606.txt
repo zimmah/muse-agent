@@ -1,0 +1,65 @@
+1. Breast. 2014 Aug;23(4):466-72. doi: 10.1016/j.breast.2014.03.008. Epub 2014
+Apr  16.
+
+Pathologic complete response after neoadjuvant chemotherapy in 
+HER2-overexpressing breast cancer according to hormonal receptor status.
+
+Tanioka M(1), Sasaki M(2), Shimomura A(3), Fujishima M(4), Doi M(5), Matsuura 
+K(6), Sakuma T(7), Yoshimura K(8), Saeki T(6), Ohara M(9), Tsurutani J(10), 
+Watatani M(11), Takano T(3), Kawabata H(12), Mukai H(2), Naito Y(2), Hirokaga 
+K(13), Takao S(13), Minami H(14).
+
+Author information:
+(1)Medical Oncology, Hyogo Cancer Center, Hyogo, Japan; Medical 
+Oncology/Hematology, Kobe University Graduate School of Medicine, Kobe, Japan. 
+Electronic address: tanioka@hp.pref.hyogo.jp.
+(2)Division of Breast and Medical Oncology, National Cancer Center Hospital 
+East, Chiba, Japan.
+(3)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
+(4)Division of Breast and Endocrine Surgery, Kinki University School of 
+Medicine, Osaka, Japan.
+(5)Department of Medical Oncology, Hiroshima Prefectual Hospital, Hiroshima, 
+Japan.
+(6)Department of Breast Oncology, Saitama Medical University International 
+Medical Center, Hidaka, Japan.
+(7)Pathology Division, Hyogo Cancer Center, Hyogo, Japan.
+(8)Division of Clinical Trial Design and Management, Translational Research 
+Center, Kyoto University Hosipital, Kyoto, Japan.
+(9)Breast Surgery, Hiroshima Prefectual Hospital, Hiroshima, Japan.
+(10)Medical Oncology, Kinki University School of Medicine, Osaka, Japan.
+(11)Department of Surgery, Nara Hospital, Kinki University Faculty of Medicine, 
+Nara, Japan.
+(12)Breast and Endocrine Surgery, Toranomon Hospital, Tokyo, Japan.
+(13)Breast Surgery, Hyogo Cancer Center, Hyogo, Japan.
+(14)Medical Oncology/Hematology, Kobe University Graduate School of Medicine, 
+Kobe, Japan.
+
+OBJECTIVE: For patients with HER2-positive breast cancer, the prognostic impact 
+of pathologic complete response (pCR) after neoadjuvant chemotherapy (NAC) is 
+unclear when stratified by hormonal receptor (HR) status; however, the impact of 
+pCR on survival when stratified by hormonal receptor (HR) status is uncertain.
+PATIENTS AND METHODS: This multicenter retrospective study investigated the 
+predictors of pCR and its prognostic value in Japanese patients 366 
+HER2-positive breast cancer who received NAC. pCR was defined as no invasive 
+residual tumor in the breast or axilla.
+RESULTS: Median follow-up was 55 months. Multivariate analysis revealed that HR 
+status (OR, 0.37; p < 0.001) was one of the independent predictors of pCR. 
+Five-year recurrence-free survival was higher in HR-negative patients with pCR 
+(93%) than in those without pCR (68%), and pCR was independently prognostic 
+(hazard ratio, 0.32; p = 0.005). However, 5-year recurrence-free survival was 
+not different between HR-positive patients with pCR (94%) and those without pCR 
+(84%), and pCR was not significantly prognostic (hazard ratio, 0.53; p = 0.39). 
+In addition, 5-year overall survivals were high and similar (97% in pCR, 94% in 
+non-pCR). Among 204 patients treated with neoadjuvant trastuzumab, pCR was not 
+significantly prognostic in the HR-positive group (hazard ratio, 0.63; p = 
+0.56).
+CONCLUSION: Our study suggested that the HER2-positive HR-positive patients had 
+a good prognosis despite the lower achievement rate of pCR, whose prognostic 
+impact was smaller than that in the HER2-positive HR-negative patients. The 
+treatment strategy for HER2-positive breast cancer can be stratified by HR 
+status.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.breast.2014.03.008
+PMID: 24742606 [Indexed for MEDLINE]
