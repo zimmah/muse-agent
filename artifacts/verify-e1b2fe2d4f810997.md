@@ -1,0 +1,16 @@
+# source-check — claim e1b2fe2d4f8109976e018b414bc92157ff45f21da18dac173eec8e281b4763ce
+
+Claim: Reported finding from PMID 42372579 (Tucatinib in patients with HER2-positive advanced/metastatic breast cancer: A systematic literature review of real-world evidence): Of 468 unique references identified, 12 publications met the inclusion criteria, 3 of which were manuscripts and 9 of which were congress abstracts. Included studies were heterogeneous in sample size, the lines of therapy assessed, and outcomes reported. Tucatinib-based treatment outcomes in the post-trastuzumab deruxtecan (T-DXd) setting and for patients with brain metastases were also reported. Despite variability among studies, outcomes were broadly consistent with clinical trial findings.
+Source: PMID 42372579 (https://pubmed.ncbi.nlm.nih.gov/42372579/)
+Checked: 2026-09-24T00:11:55.208Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Deterministic numeric grounding: missing tokens: none.
+3. Semantic check (qwen3:8b, temp 0): supports — The source text directly supports the claim. It states: 'Of 468 unique references identified, 12 publications met the inclusion criteria, 3 of which were manuscripts and 9 of which were congress abstracts. Included studies were heterogeneous in sample size, the lines of therapy assessed, and outcomes reported. Tucatinib-based treatment outcomes in the post-trastuzumab deruxtecan (T-DXd) setting and for patients with brain metastases were also reported. Despite variability among studies, outcomes were broadly consistent with clinical trial findings.'
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: e5048f4d52de978c35ce313e6a508e3f5a79f2b679ff0ee9f08a155875537f99
