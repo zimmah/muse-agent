@@ -1,0 +1,71 @@
+1. Ann Oncol. 2018 Mar 1;29(3):646-653. doi: 10.1093/annonc/mdx773.
+
+Pertuzumab, trastuzumab, and standard anthracycline- and taxane-based 
+chemotherapy for the neoadjuvant treatment of patients with HER2-positive 
+localized breast cancer (BERENICE): a phase II, open-label, multicenter, 
+multinational cardiac safety study.
+
+Swain SM(1), Ewer MS(2), Viale G(3), Delaloge S(4), Ferrero JM(5), Verrill M(6), 
+Colomer R(7), Vieira C(8), Werner TL(9), Douthwaite H(10), Bradley D(11), 
+Waldron-Lynch M(11), Kiermaier A(12), Eng-Wong J(13), Dang C(14); BERENICE Study 
+Group.
+
+Author information:
+(1)Georgetown University Medical Center, Lombardi Comprehensive Cancer Center, 
+Washington, USA. Electronic address: sandra.swain@georgetown.edu.
+(2)Department of Cardiology, The University of Texas MD Anderson Cancer Center, 
+Houston, USA.
+(3)Department of Pathology, European Institute of Oncology, University of Milan, 
+Milan, Italy.
+(4)Department of Medical Oncology, Institut Gustave Roussy, Villejuif.
+(5)Clinical Research Department, Centre Antoine Lacassagne, Nice, France.
+(6)Medical Oncology Department, Northern Centre for Cancer Care, Newcastle upon 
+Tyne, UK.
+(7)Medical Oncology Department, Hospital Universitario La Princesa, Madrid, 
+Spain.
+(8)Medical Oncology, Instituto Português de Oncologia Francisco Gentil (IPOFG) 
+Porto, Porto, Portugal.
+(9)Huntsman Cancer Institute, University of Utah, Salt Lake City, USA.
+(10)Biostatistics, Product Development, Roche Products Ltd, Welwyn Garden City, 
+UK.
+(11)Clinical Science, Global Product Development, Roche Products Ltd, Welwyn 
+Garden City, UK.
+(12)Oncology Biomarker Development (OBD), F. Hoffmann-La Roche Ltd, Basel, 
+Switzerland.
+(13)Product Development - Oncology, Genentech, Inc., South San Francisco.
+(14)Department of Medicine, Breast Medicine Service, Memorial Sloan Kettering 
+Cancer Center, New York, USA.
+
+BACKGROUND: Anti-HER2 therapies are associated with a risk of increased cardiac 
+toxicity, particularly when part of anthracycline-containing regimens. We report 
+cardiac safety of pertuzumab, trastuzumab, and chemotherapy in the neoadjuvant 
+treatment of HER2-positive early breast cancer.
+PATIENTS AND METHODS: BERENICE (NCT02132949) is a nonrandomized, phase II, 
+open-label, multicenter, multinational study in patients with normal cardiac 
+function. In the neoadjuvant period, cohort A patients received four cycles of 
+dose-dense doxorubicin and cyclophosphamide, then 12 doses of standard 
+paclitaxel plus four standard trastuzumab and pertuzumab cycles. Cohort B 
+patients received four standard fluorouracil/epirubicin/cyclophosphamide cycles, 
+then four docetaxel cycles with four standard trastuzumab and pertuzumab cycles. 
+The primary end point was cardiac safety during neoadjuvant treatment, assessed 
+by the incidence of New York Heart Association class III/IV heart failure and of 
+left ventricular ejection fraction declines (≥10 percentage-points from baseline 
+and to a value of <50%). The main efficacy end point was pathologic complete 
+response (pCR, ypT0/is ypN0). Results are descriptive.
+RESULTS: Safety populations were 199 and 198 patients in cohorts A and B, 
+respectively. Three patients [1.5%; 95% confidence interval (CI) 0.31% to 4.34%] 
+in cohort A experienced four New York Heart Association class III/IV heart 
+failure events. Thirteen patients (6.5%; 95% CI 3.5% to 10.9%) in cohort A and 
+four (2.0%; 95% CI 0.6% to 5.1%) in cohort B experienced at least one left 
+ventricular ejection fraction decline. No new safety signals were identified. 
+pCR rates were 61.8% and 60.7% in cohorts A and B, respectively. The highest pCR 
+rates were in the HER2-enriched PAM50 subtype (75.0% and 73.7%, respectively).
+CONCLUSION: Treatment with pertuzumab, trastuzumab, and common 
+anthracycline-containing regimens for the neoadjuvant treatment of early breast 
+cancer resulted in cardiac and general safety profiles, and pCR rates, 
+consistent with prior studies with pertuzumab.
+CLINICAL TRIAL INFORMATION: NCT02132949.
+
+DOI: 10.1093/annonc/mdx773
+PMCID: PMC5888999
+PMID: 29253081 [Indexed for MEDLINE]
