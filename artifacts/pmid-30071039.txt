@@ -1,0 +1,60 @@
+1. PLoS One. 2018 Aug 2;13(8):e0200996. doi: 10.1371/journal.pone.0200996. 
+eCollection 2018.
+
+Germline single nucleotide polymorphisms in ERBB3 and BARD1 genes result in a 
+worse relapse free survival response for HER2-positive breast cancer patients 
+treated with adjuvant based docetaxel, carboplatin and trastuzumab (TCH).
+
+Coté D(1), Eustace A(2), Toomey S(3), Cremona M(3), Milewska M(3), Furney S(4), 
+Carr A(3), Fay J(5), Kay E(5), Kennedy S(6), Crown J(2)(6), Hennessy B(3)(7), 
+Madden S(1).
+
+Author information:
+(1)Royal College of Surgeons in Ireland, Data Science Centre, Dublin, Ireland.
+(2)Dublin City University, National Institute for Cellular Biotechnology, 
+Molecular Therapeutics for Cancer in Ireland, Dublin, Ireland.
+(3)Royal College of Surgeons in Ireland, Department of Molecular Medicine, 
+Medical Oncology Group, Dublin, Ireland.
+(4)Royal College of Surgeons in Ireland, Department of Physiology and Medical 
+Physics, Dublin, Ireland.
+(5)Royal College of Surgeons in Ireland, Department of Pathology, Dublin, 
+Ireland.
+(6)St Vincent's University Hospital, Medical Oncology, Dublin, Ireland.
+(7)Beaumont Hospital, Department of Medical Oncology, Dublin, Ireland.
+
+Breast cancer is the leading cause of cancer related deaths in women worldwide 
+and is classified into subtypes based on the cancer's receptor status. Of these 
+subtypes, those expressing the human epidermal growth factor receptor 2 (HER2) 
+receptor were traditionally associated with poor prognosis. Several advances 
+have been made in the treatment of HER2-positive breast cancer, yet issues of 
+resistance and poor response to therapy remains prevalent. In this study we 
+explored the impact of HER-family and homologous recombination deficiency SNPs 
+on response to patients who received TCH-based (docetaxel (T), carboplatin (C), 
+and trastuzumab (H)) treatment versus those who received other treatment 
+regimens. Using Cox regression analysis, we identified 6 SNPs that correlate 
+with recurrence free survival in our patients and supported our findings using 
+support vector machines. We also used reverse phase protein array analysis to 
+examine the impact ERBB3 SNPs may have on both the PI3K/AKT and MAPK/ERK 
+signaling pathways. Finally, using cell line models, we correlated SNP status 
+with sensitivity to platinum based drugs and docetaxel. We found that patients 
+on a TCH based regimen with the minor allele of the ERBB3 (rs2229046 and 
+rs773123) and BARD1 (rs2070096) SNPs, were significantly more likely to relapse 
+than those women who were not. Additionally, we observed that patients with 
+these ERBB3 SNPs had shown elevated protein expression/phosphorylation of Src 
+kinase, c-MET (Y1234/1235), GSK-3β (S9) and p27, indicating that these SNPs are 
+associated with non-PI3K/AKT signaling. Finally, using cell line models, we 
+demonstrate that the BARD1 SNP (rs2229571) is associated with greater 
+sensitivity to both carboplatin and cisplatin. The BARD1 and ERBB3 SNPs can 
+potentially be used to determine those patients that will have a worse response 
+to TCH based treatment, an effect that may arise from the SNPs impact on altered 
+cellular signaling.
+
+DOI: 10.1371/journal.pone.0200996
+PMCID: PMC6071997
+PMID: 30071039 [Indexed for MEDLINE]
+
+Conflict of interest statement: The TCHL clinical study was sponsored by Cancer 
+Trials Ireland (formerly known as the Irish Clinical Oncology Research Group 
+[ICORG]), which received funding from GlaxoSmithKline. There are no patents, 
+products in development or marketed products to declare. This does not alter our 
+adherence to all the PLOS ONE policies on sharing data and materials.
