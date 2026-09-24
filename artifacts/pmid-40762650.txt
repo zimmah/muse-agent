@@ -1,0 +1,75 @@
+1. Virchows Arch. 2025 Nov;487(5):1015-1024. doi: 10.1007/s00428-025-04203-5.
+Epub  2025 Aug 5.
+
+HER2/CEP17 ratio predicts residual cancer burden after neoadjuvant dual HER2 
+blockade: real-world data in patients with primary HER2-amplified breast cancer.
+
+Stolz M(1), Farr A(1), Tendl-Schulz KA(2), Frommlet F(3), Reckendorfer H(4), 
+Koperek O(5), Neudert B(2), Marhold M(6), Heber U(2), Exner R(7), Singer CF(1), 
+Bartsch R(6), Bago-Horvath Z(8).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Comprehensive Cancer Center, Medical 
+University of Vienna, Vienna, Austria.
+(2)Department of Pathology, Comprehensive Cancer Center, Medical University of 
+Vienna, Waehringer Guertel 18-20, 1090, Vienna, Austria.
+(3)Institute of Medical Statistics, Informatics and Intelligent Systems 
+(CeMSIIS), Medical University of Vienna, Vienna, Austria.
+(4)Institute of Clinical Pathology, Cytology and Microbiology Ltd. Vienna, Dr. 
+Kosak Und Partner - Fachärzte Für Pathologie GmbH, Vienna, Austria.
+(5)Laboratory Kaserer, Koperek and Beer Ltd., Vienna, Austria.
+(6)Department of Medicine I, Division of Oncology, Comprehensive Cancer Center, 
+Medical University of Vienna, Vienna, Austria.
+(7)Department of General and Visceral Surgery, Division of Oncology, 
+Comprehensive Cancer Center, Medical University of Vienna, Vienna, Austria.
+(8)Department of Pathology, Comprehensive Cancer Center, Medical University of 
+Vienna, Waehringer Guertel 18-20, 1090, Vienna, Austria. 
+zsuzsanna.horvath@meduniwien.ac.at.
+
+Novel human epidermal growth factor receptor 2 (HER2)-directed therapies have 
+significantly improved outcomes for patients with HER2-positive early-stage 
+breast cancer. Our study assessed the impact of HER2/chromosome enumeration 
+probe 17 (CEP17) ratio on residual cancer burden (RCB) and long-term prognosis 
+following neoadjuvant chemotherapy with dual HER2-targeted therapy using 
+trastuzumab and pertuzumab to identify candidates for chemotherapy 
+de-escalation. Our study included 169 patients with primary invasive 
+HER2-positive breast cancer who received neoadjuvant chemotherapy with 
+trastuzumab and pertuzumab at the Medical University of Vienna from 2014 to 
+2020. HER2 (ERBB2) gene copy number and HER2/CEP17 ratio were assessed by in 
+situ hybridization. RCB and pathologic complete remission (pCR) served as 
+primary and secondary endpoints, respectively. Univariate and multivariate 
+logistic regression models were applied to analyze associations between outcomes 
+and predictor variables, focusing on the predictive role of HER2/CEP17 ratio, 
+with cutoff values estimated. Progression-free survival (PFS) and overall 
+survival (OS) were estimated by the Kaplan-Meier method. HER2/CEP17 ratio was 
+significantly associated with response to dual-targeted neoadjuvant chemotherapy 
+in primary HER2-positive breast cancer. Optimal HER2/CEP17 cutoff for predicting 
+RCB 0/I was identified at 5.19. HER2/CEP17 ratio was also significantly 
+associated with PFS as a continuous predictor. Multivariate analysis showed that 
+hormone receptor status and the presence of an in situ tumor component 
+significantly influenced therapy response. HER2/CEP17 ratio predicts therapy 
+response and therefore might aid patient stratification for therapy 
+de-escalation with respect to dual neoadjuvant HER2 blockade. Further 
+investigations are warranted to confirm its relevance with other HER2-targeted 
+agents.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s00428-025-04203-5
+PMCID: PMC12647246
+PMID: 40762650 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This single-center retrospective study was approved by the 
+Institutional Review Board of the Medical University of Vienna (protocol number: 
+1723/2019). Informed consent was obtained from all the patients. Conflict of 
+interest: AF has received honoraria for lectures or advisory board 
+participations from Schuelke, Pierre Fabre, BioNTech, Avodes, Exeltis, Dr. Kade, 
+Medinova, as well as copyright claims from Medinova and a non-restricted grant 
+from Roche Diagnostics GmbH; KTS has received honoraria for lectures or advisory 
+board participation from Roche as well as travel support from Roche, Novartis, 
+and Merck Sharp & Dohme GmbH (MSD); CFS reports grants, travel grants, speaker 
+honoraria, and unrestricted grants from Amgen, AstraZeneca, Novartis, Gilead, 
+Seagen, and MSD; ZBH reports lecture honoraria and advisory boards from MSD, 
+AstraZeneca, Gilead, Stemline, and Daiichi Sankyo; all other authors declare 
+that there are no financial or non-financial competing interests to declare.
