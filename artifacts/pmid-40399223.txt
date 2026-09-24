@@ -1,0 +1,53 @@
+1. Clin Breast Cancer. 2025 Aug;25(6):e750-e755. doi: 10.1016/j.clbc.2025.04.017.
+ Epub 2025 Apr 28.
+
+Safety and Effectiveness of Adriamycin and Cyclophosphamide Followed by Dose 
+Dense (Every 2 Weeks) Paclitaxel Given With Trastuzumab as Neoadjuvant Treatment 
+in HER2-Positive Early-Stage Breast Cancer.
+
+Berner-Wygoda Y(1), Li M(2), Perlon C(3), Malon D(2), Pathak N(2), Di Iorio 
+M(4), Savill J(2), Aljuhani A(2), Nadler MB(2), Amir E(2).
+
+Author information:
+(1)Department of Medicine, Division of Medical Oncology & Hematology, Princess 
+Margaret Cancer Centre and the University of Toronto, Toronto, Ontario, Canada. 
+Electronic address: yael.berner-wygoda@uhn.ca.
+(2)Department of Medicine, Division of Medical Oncology & Hematology, Princess 
+Margaret Cancer Centre and the University of Toronto, Toronto, Ontario, Canada.
+(3)Department of Kinesiology and Physical activity, Faculty of education, McGill 
+University, Quebec, Canada.
+(4)Gerald Bronfman Department of Oncology, St. Mary's Hospital Center, McGill 
+University, Montréal, Quebec, Canada.
+
+BACKGROUND: Traditionally, in neoadjuvant anthracycline-based chemotherapy for 
+early-stage HER2+ breast cancer, paclitaxel is administered weekly for 12 doses 
+combined with trastuzumab every 3 weeks (ACTH-W). In Ontario Canada, an 
+alternative protocol consists of administering paclitaxel every 2 weeks 
+concurrently with trastuzumab every 2 weeks for 4 doses (ACTH-O).
+METHODS: We conducted a retrospective, single-institution chart review of 
+sequential patients treated between 2014 and 2023 to evaluate the efficacy, 
+safety, and resource utilization of ACTH-O compared with FEC-DH, TCH, and 
+ACTH-W.
+RESULTS: A total of 300 patients were included in this analysis. There was no 
+statistically significant difference in pCR rates between ACTH-O (37.1%), FEC-DH 
+(33.6%), and TCH (48.0%). Although the odds of achieving pCR was higher with 
+ACTH-W than ACTH-O, disease-free survival at 3 years did not differ between any 
+of the regimens (93.4% for ACTH-O, 90% for ACTH-W, 87.9% for 93.3 FEC-DH). 
+Discontinuation was less frequent with ACTH-O, with similar rare cardiotoxicity 
+events across all regimens. The minimum number of planned healthcare in-person 
+visits for ACTH-O was half that of ACTH-W. The estimated cost of treatment 
+administration was reduced by approximately one third, an important 
+consideration in a resource-constrained healthcare system.
+CONCLUSION: ACTH-O regimen is a viable alternative to standard 
+anthracycline-based regimens in HER2+ early breast cancer. It offers similar 
+long-term outcomes while reducing time toxicity and healthcare costs. Given 
+these advantages, ACTH-O warrants consideration for broader clinical adoption.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2025.04.017
+PMID: 40399223 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Y.B-W declares honorarium from Eli 
+Lilly. E.A. declares honoraria from Gilead, Novartis and Pfizer. The other 
+authors have no conflicts of interest to declare.
