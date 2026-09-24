@@ -1,0 +1,28 @@
+1. Zhonghua Wai Ke Za Zhi. 2015 Dec 1;53(12):901-4.
+
+[Neoadjuvant treatment in human epidermal growth factor receptor 2-positive 
+breast cancer].
+
+[Article in Chinese]
+
+Liu Y(1), Liu S(2), Zhang H(1), Xu L(1), Li T(1), Duan X(1).
+
+Author information:
+(1)Breast Disease Center, Peking University First Hospital, Beijing 100034, 
+China.
+(2)Breast Disease Center, Peking University First Hospital, Beijing 100034, 
+China; Email: congzhongfeixiang@163.com.
+
+Breast cancer is the most prevalent malignancy among females worldwide. Human 
+epidermal growth factor receptor 2 (HER2)-positive breast cancer represents a 
+subtype with aggressive behavior, poor response to treatment and unfavorable 
+prognosis. Anti-HER2-based neoadjuvant treatment has improved clinical outcomes 
+of patients with HER2-positive disease. Pathological complete response (pCR) 
+after neoadjuvant treatment indicates a favorable prognosis. With the 
+development of HER2-targeted therapy and neoadjuvant treatment, numerous studies 
+focus on the predictive factors of pCR or therapeutic resistance of anti-HER2 
+therapy. Identification of novel predictive factors in HER2-positive breast 
+cancer, such as tumor-infiltrating lymphocytes, will be helpful for clinical 
+decision.
+
+PMID: 26850663 [Indexed for MEDLINE]
