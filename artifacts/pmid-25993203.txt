@@ -1,0 +1,29 @@
+1. Am Soc Clin Oncol Educ Book. 2015:e41-8. doi: 10.14694/EdBook_AM.2015.35.e41.
+
+Neoadjuvant and Adjuvant Therapy for HER2 Positive Disease.
+
+Chia SK(1).
+
+Author information:
+(1)From the BC Cancer Agency, Vancouver, Canada.
+
+Since the initial description of the HER2 proto-oncogene as a poor prognostic 
+factor in breast cancer in 1987, to the first randomized trial of a monoclonal 
+antibody directed against HER2 in combination with chemotherapy for the 
+treatment of metastatic HER2-positive breast cancer published in 2001, to the 
+American Society of Clinical Oncology (ASCO) 2005 Annual Meeting in which we saw 
+the unprecedented collective presentations demonstrating the dramatic benefit of 
+trastuzumab in the adjuvant setting-the clinical landscape of 
+HER2-overexpressing breast cancer has forever changed. More recently, there has 
+been increasing use of preoperative chemotherapy and anti-HER2 targeted 
+therapies in primary operable HER2 disease in the research domain and in 
+clinical practice. In the next few years, we will see if dual adjuvant anti-HER2 
+antibody inhibition produces clinically significant improvements in outcome; 
+understand if there is a role of small molecule inhibitors of the HER family of 
+receptors either in combination or sequential to trastuzumab; further refine the 
+relationship between pathologic complete response (pCR) and long-term clinical 
+outcomes; and find predictive biomarkers to identify cohorts of patients that 
+may need differential combinations and/or durations of anti-HER2 therapies.
+
+DOI: 10.14694/EdBook_AM.2015.35.e41
+PMID: 25993203 [Indexed for MEDLINE]
