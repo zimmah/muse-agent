@@ -1,0 +1,46 @@
+1. Int J Mol Sci. 2025 Dec 6;26(24):11809. doi: 10.3390/ijms262411809.
+
+The HER2MtGx Metagene Score as a Reliable Tool to Select HER2 Breast Cancer 
+Patients for Neoadjuvant Targeted Therapy.
+
+Tiezzi DG(1), Buzatto IPC(1), da Silveira WA(2), Monti AC(3), Buono FO(1), Meola 
+J(1), Poli-Neto OB(1), Pagnotta SM(4).
+
+Author information:
+(1)Laboratory for Translational Data Science, Breast Disease Division, 
+Department of Gynecology and Obstetrics, Ribeirão Preto Medical School, 
+University of São Paulo, Ribeirão Preto 14048-900, Brazil.
+(2)School of Science, Engineering and Environment, University of Salford, 
+Salford M5 4WT, UK.
+(3)Dipartimento di Diritto, Economia, Management e Metodi Quantitativi, 
+Università degli Studi del Sannio, 82100 Benevento, Italy.
+(4)Dipartimento di Scienze e Tecnologie, Università degli Studi del Sannio, 
+82100 Benevento, Italy.
+
+The cHER2+ breast cancer subtype is characterized by the overexpression of the 
+HER2 oncoprotein based on immunohistochemistry (IHC)/or by ERBB2 gene 
+amplification using in situ hybridization (ISH) techniques. Targeted therapies 
+are significantly changing cancer treatment outcomes. However, not all patients 
+benefit from it due to misclassification or intrinsic mechanisms of resistance. 
+Identifying predictive factors of response to therapy is thus crucial for 
+optimizing treatment protocol. In addition, with the development of effective 
+antibody-drug conjugates for targeting HER2-low subtypes, enhancing the HER2 
+molecular classification is crucial. In this study, a comprehensive analysis of 
+publicly available datasets (TCGA, METABRIC, I-SPY, NOAH and CHER-LOB trials) 
+has been considered. We present a metagene expression score (HER2MtGx 31-gene 
+assay) based on the most informative genes associated with each molecular 
+profile. HER2MtGx scores represent three linear subspaces associated with the 
+HER2, Luminal and Basal-like profiles (STAT). In the METABRIC cohort, the scores 
+are useful to discriminate against the HER2-enriched phenotype and this 
+classification is significantly associated with long-term survival in cHER2+ 
+patients (HR = 1.76; 95%CI = 1.09-2.86). In terms of response to neoadjuvant 
+chemo/target therapy including I-SPY, NOAH, and CHER-LOB trials, the metagene 
+scores are associated with the pathological response to therapy (OR = 2.26; 
+95%CI = 1.74-2.98). The HER2MtGx assay is a reliable tool for selecting patients 
+for HER2-targeted therapy.
+
+DOI: 10.3390/ijms262411809
+PMCID: PMC12732813
+PMID: 41465240 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
