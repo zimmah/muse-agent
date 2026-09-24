@@ -1,0 +1,56 @@
+1. Breast Cancer. 2017 Jan;24(1):92-97. doi: 10.1007/s12282-016-0677-4. Epub 2016
+ Feb 13.
+
+Docetaxel, cyclophosphamide, and trastuzumab as neoadjuvant chemotherapy for 
+HER2-positive primary breast cancer.
+
+Nakatsukasa K(1), Koyama H(2), Oouchi Y(2), Imanishi S(2), Mizuta N(3), 
+Sakaguchi K(3), Fujita Y(3), Imai A(3), Okamoto A(3), Hamaoka A(3), Soushi M(3), 
+Fujiwara I(4), Kotani T(5), Matsuda T(5), Fukuda K(6), Morita M(6), Kawakami 
+S(7), Kadotani Y(8), Konishi E(9), Yanagisawa A(9), Goto M(10), Yamada K(10), 
+Taguchi T(3).
+
+Author information:
+(1)Department of Endocrine and Breast Surgery, Kyoto Prefectural University of 
+Medicine, 465 Kajii-cho, Kawaramachi-Hirokoji, Kamigyo-ku, Kyoto, 602-8566, 
+Japan. kacchan@koto.kpu-m.ac.jp.
+(2)Nara City Hospital, Nara, Japan.
+(3)Department of Endocrine and Breast Surgery, Kyoto Prefectural University of 
+Medicine, 465 Kajii-cho, Kawaramachi-Hirokoji, Kamigyo-ku, Kyoto, 602-8566, 
+Japan.
+(4)Ayabe City Hospital, Ayabe, Japan.
+(5)Saiseikai Kyoto Hospital, Kyoto, Japan.
+(6)Saiseikai Shiga Hospital, Ritto, Shiga, Japan.
+(7)Fukuchiyama City Hospital, Kyoto, Japan.
+(8)Aiseikai Yamashina Hospital, Kyoto, Japan.
+(9)Department of Surgical Pathology, Kyoto Prefectural University of Medicine, 
+Kyoto, Japan.
+(10)Department of Radiology, Kyoto Prefectural University of Medicine, Kyoto, 
+Japan.
+
+BACKGROUND: The standard primary systemic therapy for human epidermal growth 
+factor receptor 2-positive (HER2+) breast cancer is anthracyclines and/or 
+taxanes combined with trastuzumab, which demonstrates a high pathological 
+complete response (pCR). A pCR is a predictive marker of prognosis. However, 
+results slightly differ, depending on the hormone receptor status. The efficacy 
+and tolerability of docetaxel, cyclophosphamide, and trastuzumab (HER-TC) as 
+neoadjuvant chemotherapy (NAC) remain unclear. We performed a prospective 
+multicenter study of HER-TC NAC for HER2+ primary breast cancer.
+METHODS: Eligible patients had a clinical diagnosis of HER2+ invasive breast 
+cancer greater than 1 cm but less than 7 cm and a tumor stage of N0 or N1. T hey 
+were diagnosed between July 2011 and February 2014. For NAC, four cycles of 
+HER-TC (6 mg/kg loading dose, 8 mg/kg, 75, and 600 mg/m2) were administered 
+intravenously every 3 weeks. We investigated the pCR of the primary breast 
+tumors. A pCR was defined as no histological evidence of invasive carcinoma or 
+the appearance of only ductal carcinoma in situ.
+RESULTS: We enrolled 42 patients. The completion rate for four cycles of HER-TC 
+was 97.6 % (41/42 patients). The overall pCR rate was 43.9 % (18/41 patients). 
+The pCR rate for patients with the luminal HER2 subtype [estrogen receptor 
+(ER)-positive+, HER2+] and the HER2-enriched subtype (ER-, HER2+) was 40.0 % 
+(8/20 patients) and 47.6 % (10/21 patients), respectively. A pCR was achieved 
+with nearly the same probability for each subtype.
+CONCLUSIONS: Four cycles of HER-TC may be a NAC option for HER2-positive breast 
+cancer.
+
+DOI: 10.1007/s12282-016-0677-4
+PMID: 26874836 [Indexed for MEDLINE]
