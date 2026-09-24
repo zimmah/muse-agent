@@ -1,0 +1,45 @@
+1. Breast Cancer Res Treat. 2022 Jun;193(3):695-705. doi: 
+10.1007/s10549-022-06604-5. Epub 2022 Apr 21.
+
+Neoadjuvant chemotherapy use trends among older women with breast cancer: 
+2010-2017.
+
+Zhang H(1), Barner JC(2), Moczygemba LR(1), Rascati KL(1), Park C(1), Kodali 
+D(3).
+
+Author information:
+(1)College of Pharmacy, The University of Texas at Austin, 2409 University Ave, 
+Austin, TX, 78712, USA.
+(2)College of Pharmacy, The University of Texas at Austin, 2409 University Ave, 
+Austin, TX, 78712, USA. jbarner@austin.utexas.edu.
+(3)Texas Oncology, Deke Slayton Cancer Center, Webster, TX, USA.
+
+PURPOSE: This study assessed chemotherapy use trends before (neoadjuvant 
+chemotherapy [NAC]) or after surgery (adjuvant chemotherapy [AdC]) among older 
+women with breast cancer and examined factors related to NAC receipt.
+METHODS: Women (> 65 years) diagnosed with stage I-III breast cancer during 
+2010-2017 who received NAC or AdC were identified from the Surveillance, 
+Epidemiology, and End Results (SEER)-Medicare database. All patients were 
+stratified into six strata based on subtype (hormone receptor-positive/human 
+epidermal growth factor receptor 2-negative [HR + /HER2-], HER2 + , and 
+triple-negative breast cancer [TNBC]) and stage (I-II and III). Cochran-Armitage 
+tests were performed to test temporal trends of NAC use in each stratum. 
+Multivariable logistic regression analyses were performed to identify factors 
+(sociodemographic and clinical) related to NAC use.
+RESULTS: Among included older (mean ± standard deviation: 72.3 ± 5.2 years) 
+women (N = 8,495) with stage I-III breast cancer, NAC use increased from 11.7% 
+(2010) to 32.6% (2017). Significant increases in NAC were found in all strata 
+(p < .0001) with more substantial increases in HER2 + disease and TNBC compared 
+to HR + /HER2- disease. Multivariable logistic regressions identified the 
+youngest age category (66-69 years) and later stage as significant (p < 0.05) 
+predictors of NAC receipt in most strata, in addition to diagnosis year.
+CONCLUSION: Similar to the overall breast cancer population, NAC use increased 
+among a population of older women. NAC was received by most patients with stage 
+III HER2 + disease or TNBC in more recent years and was more common among 
+younger elderly women and those in stage III.
+
+© 2022. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10549-022-06604-5
+PMID: 35449473 [Indexed for MEDLINE]
