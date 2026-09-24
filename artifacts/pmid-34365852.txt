@@ -1,0 +1,61 @@
+1. Tumori. 2022 Feb;108(1):19-25. doi: 10.1177/03008916211037739. Epub 2021 Aug
+7.
+
+Efficacy and safety of trastuzumab emtansine in older patients with 
+HER2-positive advanced breast cancer: a real-world study.
+
+Cil I(1), Kucukarda A(2), Atcı MM(3), Secmeler S(3), Paksoy N(4), Ferhatoglu 
+F(4), Ak N(5), Ayhan M(6), Tataroglu Ozyukseler D(6), Onder AH(7), Avci O(8), 
+Oyman A(1), Okten IN(9), Gulturk I(10), Akagunduz B(11), Basoglu T(12), Cakir 
+E(13), Hacibekiroglu I(13), Ozcelik M(1), Aydiner A(4).
+
+Author information:
+(1)Department of Medical Oncology, Umraniye Training and Research Hospital, 
+University of Health Sciences, Istanbul, Turkey.
+(2)Department of Medical Oncology, Trakya University School of Medicine, Edirne, 
+Turkey.
+(3)Department of Medical Oncology, İstanbul Professor Doctor Cemil Tasçıoğlu 
+City Hospital, İstanbul, Turkey.
+(4)Department of Medical Oncology, İstanbul University Oncology Institute, 
+İstanbul, Turkey.
+(5)Medical Oncology, Yozgat City Hospital, Yozgat, Turkey.
+(6)Department of Medical Oncology, Istanbul Kartal Dr. Lutfi Kirdar City 
+Hospital, Istanbul, Turkey.
+(7)Department of Medical Oncology, Antalya Training and Research Hospital, 
+University of Health Sciences, Antalya, Turkey.
+(8)Department of Medical Oncology, Namık Kemal University, Tekirdağ, Turkey.
+(9)Department of Medical Oncology, Medeniyet University Goztepe Training and 
+Research Hospital, Istanbul, Turkey.
+(10)Department of Medical Oncology, Bakirkoy Dr. Sadi Konuk Training and 
+Research Hospital, University of Health Sciences, Istanbul, Turkey.
+(11)Medical Oncology, Erzincan Binali Yıldırım University, Mengücek Gazi 
+Hospital, Erzincan, Turkey.
+(12)Department of Medical Oncology, Marmara University Pendik Education and 
+Research Hospital, Marmara University School of Medicine, Istanbul, Turkey.
+(13)Department of Medical Oncology, Sakarya University Faculty of Medicine, 
+Sakarya, Turkey.
+
+INTRODUCTION: Ado-trastuzumab emtansine (T-DM1) is an antibody-drug conjugate 
+and its survival advantage has been shown in advanced human epidermal growth 
+factor receptor 2 (HER2)-positive breast cancer. However, clinical trials 
+underrepresent patients ⩾65 years of age, leading to a lack of information in 
+this population. We analyzed the real-world outcomes of older women who were 
+treated with T-DM1 therapy.
+METHODS: We performed a multicenter, observational, retrospective analysis of 
+patients aged ⩾65 years treated with T-DM1. A total of 93 patients from 10 
+cancer centers were involved in the study. Our goal was to determine the 
+survival, response rates, and toxicity profile in T-DM1-treated patients, as 
+well as the factors that influence survival.
+RESULTS: Median follow-up was 12.2 months. Objective response rate was 29%. 
+Median progression-free survival (PFS) and overall survival (OS) were 8.47 and 
+15.0 months, respectively. In multivariate analysis, Eastern Cooperative 
+Oncology Group Performance Score 2 was found to be an independent prognostic 
+factor for worse PFS (hazard ratio [HR] 1.81, p = 0.032) and OS (HR 2.33, p = 
+0.006). Any adverse event (AE) was seen in 92.5% of patients; grade 3 or 4 AEs 
+were seen in 30.1%. Dose reduction or treatment discontinuation rates were 11.8% 
+and 6.5%, respectively.
+CONCLUSION: The efficacy of T-DM1 was acceptable and it was generally 
+well-tolerated among older patients with advanced HER2-positive breast cancer.
+
+DOI: 10.1177/03008916211037739
+PMID: 34365852 [Indexed for MEDLINE]
