@@ -1,0 +1,47 @@
+1. Ann Surg Oncol. 2021 Feb;28(2):968-974. doi: 10.1245/s10434-020-08863-2. Epub 
+2020 Aug 19.
+
+Axillary Downstaging in Occult Primary Breast Cancer After Neoadjuvant 
+Chemotherapy.
+
+Botty Van den Bruele A(1), Lavery J(2), Plitas G(1), Pilewskie ML(3).
+
+Author information:
+(1)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA.
+(2)Biostatistics Service, Department of Epidemiology and Biostatistics, Memorial 
+Sloan Kettering Cancer Center, New York, NY, USA.
+(3)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA. pilewskm@mskcc.org.
+
+BACKGROUND: Neoadjuvant chemotherapy (NAC) is increasingly used for clinically 
+node-positive (cN+) tumors with intact primary breast cancer (IPBC) to downstage 
+the axilla, and those who convert to cN0 may be eligible for sentinel lymph node 
+biopsy (SLNB). Rates of axillary downstaging in occult primary breast cancer 
+(OPBC) are unknown.
+OBJECTIVE: The aim of this study was to determine the frequency of nodal 
+pathologic complete response (pCR) following NAC in a cohort of patients with 
+OPBC.
+METHODS: Twenty-eight patients with stage II/III OPBC treated between January 
+2008 and December 2019 were identified. Twenty patients had cN1-3 OPBC, 
+pretreatment lymph node needle biopsy, and received NAC; these constituted the 
+study population. Treatment factors and nodal pCR rates were summarized by tumor 
+subtype.
+RESULTS: Median age at diagnosis was 54 years. Most patients presented with cN1 
+disease (75%) and ductal histology (80%). Nodal pCR was seen in 16/20 (80%) 
+patients. Eight (40%) patients were triple negative, 6 (30%) were estrogen 
+receptor-positive/human epidermal growth factor receptor 2-negative 
+(ER +/HER2 -), and 6 (30%) were HER2 positive, with pCR rates of 88%, 50%, and 
+100%, respectively. Among the 15 patients who presented as cN1, 14 (93%) 
+converted to cN0 following NAC. Of these, nine underwent SLNB and all achieved 
+nodal pCR (100%).
+CONCLUSION: In this small series, 80% of OPBC patients achieved nodal pCR 
+following NAC. pCR rates varied by receptor profile, being lowest in the ER 
+positive/HER2 negative group and highest in the HER2 positive group (50-100%); 
+however, these rates are excellent and numerically exceed those in the 
+literature for IPBC. Given the pCR rate, SLNB may be an option in select OPBC 
+patients who downstage following NAC.
+
+DOI: 10.1245/s10434-020-08863-2
+PMCID: PMC7855271
+PMID: 32813202 [Indexed for MEDLINE]
