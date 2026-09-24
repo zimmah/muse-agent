@@ -1,0 +1,52 @@
+1. J Clin Oncol. 2016 Oct 10;34(29):3511-3517. doi: 10.1200/JCO.2016.67.3624.
+
+T-DM1 Activity in Metastatic Human Epidermal Growth Factor Receptor 2-Positive 
+Breast Cancers That Received Prior Therapy With Trastuzumab and Pertuzumab.
+
+Dzimitrowicz H(1), Berger M(1), Vargo C(1), Hood A(1), Abdelghany O(1), 
+Raghavendra AS(1), Tripathy D(1), Valero V(1), Hatzis C(1), Pusztai L(1), Murthy 
+R(1).
+
+Author information:
+(1)Hannah Dzimitrowicz, Annette Hood, Osama Abdelghany, Christos Hatzis, and 
+Lajos Pusztai, Yale University School of Medicine, New Haven, CT; Michael Berger 
+and Craig Vargo, The James Cancer Hospital and Solove Research Institute at The 
+Ohio State University, Columbus, OH; and Akshara Singareeka Raghavendra, Debu 
+Tripathy, Vicente Valero, and Rashmi Murthy, MD Anderson Cancer Center, Houston, 
+TX.
+
+Comment in
+    J Clin Oncol. 2016 Oct 10;34(29):3492-3494. doi: 10.1200/JCO.2016.68.4241.
+
+Purpose Ado-trastuzumab emtansine (T-DM1) is currently approved for treatment in 
+patients with human epidermal growth factor receptor 2 (HER2)-positive, 
+metastatic breast cancer (MBC) who previously received trastuzumab and a taxane. 
+However, there are no data on the activity of T-DM1 in patients who received 
+prior pertuzumab, which is now included as standard first-line therapy. The goal 
+of this study was to assess the efficacy of T-DM1 in routine clinical practice 
+in a contemporary patient population that received both prior trastuzumab and 
+pertuzumab. Patients and Methods We identified all patients with HER2-positive 
+MBC who received T-DM1 after trastuzumab and pertuzumab between March 1, 2013, 
+and July 15, 2015, via electronic pharmacy records and departmental databases at 
+three institutions: MD Anderson Cancer Center, Smilow Cancer Hospital at Yale, 
+and The James Cancer Hospital at the Ohio State University. We reviewed medical 
+records of each case to confirm treatment sequencing and outcome. Results Of 
+patients, 82 were identified and 78 were available for outcome analysis; 32% 
+received T-DM1 as first- and second-line line therapy, and 48% received it as 
+fourth-line treatment or later. Rate of prolonged duration on therapy, defined 
+as duration on therapy ≥ 6 months, was 30.8% (95% CI, 20.6% to 41.1%), and tumor 
+response rate was 17.9% (95% CI, 9.4% to 26.4%). Median duration on therapy was 
+4.0 months (95% CI, 2.7 to 5.1; range, 0 to 22.5 months). T-DM1 was discontinued 
+for disease progression in 84% of patients and for toxicity in 10%. Conclusion 
+Tumor response rates were lower than in prior reports of trastuzumab-resistant, 
+HER2-positive MBC, but one third of patients received therapy with T-DM1 for ≥ 6 
+months, which suggests a clinically relevant benefit in patients who received 
+prior pertuzumab.
+
+DOI: 10.1200/JCO.2016.67.3624
+PMCID: PMC6075965
+PMID: 27298406 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors’ disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.
