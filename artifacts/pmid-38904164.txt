@@ -1,0 +1,90 @@
+1. J Chemother. 2025 Jul;37(4):334-340. doi: 10.1080/1120009X.2024.2366683. Epub 
+2024 Jun 21.
+
+Real-world data on the efficacy and safety of trastuzumab emtansine in patients 
+with metastatic breast cancer previously treated with pertuzumab: Turkish 
+oncology group multicenter study.
+
+Dülgar Ö(1), Türker S(2), Başaran G(3), Araz M(4), Sümbül AT(5), Çağlayan D(4), 
+Gümüşay Ö(3), Biter S(6), Konca A(7), Özen M(8), Demir H(9), Özdemir M(10), 
+Karataş F(11), Şahin E(12), Çavdar E(13), Yasin Aİ(14), Yaşar A(15), Derin 
+S(16), Pehlivan M(17), Üyetürk Ü(18), Özdemir Ö(19), Kayıkçıoğlu E(20), Ak 
+N(21), Şakalar T(22), Sakin A(23), Büyükşimşek M(24), Ay S(25), Ertürk İ(26), 
+Akbaş S(27), Bir Yücel K(28), Gümüş M(29).
+
+Author information:
+(1)Department of Medical Oncology, Health Science University, Umraniye Training 
+and Research Hospital, Istanbul, Turkey.
+(2)Department of Internal Medicine, Bahcesehir University, Istanbul, Turkey.
+(3)Department of Medical Oncology, Acıbadem University, Istanbul, Turkey.
+(4)Department of Medical Oncology, Necmettin Erbakan University Faculty of 
+Medicine, Konya, Turkey.
+(5)Department of Medical Oncology, Medical Park Hospital Groups, Adana, Turkey.
+(6)Department of Medical Oncology, Cukurova University, Faculty of Medicine, 
+Adana, Turkey.
+(7)Department of Medical Oncology, Gaziantep Univesity, Sahinbey Training and 
+Research Hospital, Gaziantep, Turkey.
+(8)Department of Medical Oncology, Sakarya University, Sakarya, Turkey.
+(9)Department of Medical Oncology, Afyonkarahisar Health Sciences University, 
+Afyonkarahisar, Turkey.
+(10)Department of Medical Oncology, Pamukkale University, Denizli, Turkey.
+(11)Department of Medical Oncology, Karabuk University, Karabuk, Turkey.
+(12)Department of Medical Oncology, Kocaeli University, İzmit, Turkey.
+(13)Department of Medical Oncology, Tekirdag Namık Kemal University, Tekirdag, 
+Turkey.
+(14)Department of Medical Oncology, Bezmi Alem Vakıf University, Istanbul, 
+Turkey.
+(15)Department of Medical Oncology, Marmara University School of Medicine, 
+Istanbul, Turkey.
+(16)Department of Medical Oncology, Istanbul University Cerrahpasa, Cerrahpasa 
+Faculty of Medicine, Istanbul, Turkey.
+(17)Department of Medical Oncology, Zonguldak Ataturk State Hospital, Zonguldak, 
+Turkey.
+(18)Department of Medical Oncology, Okan University, Istanbul, Turkey.
+(19)Department of Medical Oncology, Bozyaka Research and Training Hospital, 
+İzmir, Turkey.
+(20)Department of Medical Oncology, Süleyman Demirel University, Isparta, 
+Turkey.
+(21)Department of Medical Oncology, Yozgat City Hospital, Yozgat, Turkey.
+(22)Department of Medical Oncology, Necip Fazıl City Hospital, Kahramanmaraş, 
+Turkey.
+(23)Department of Medical Oncology, Medipol University, Istanbul, Turkey.
+(24)Department of Medical Oncology, University of Health Sciences-Adana City 
+Training and Research Hospital, Adana, Turkey.
+(25)Department of Medical Oncology, Balıkesir Atatürk City Hospital, Balıkesir, 
+Turkey.
+(26)Department of Medical Oncology, Ankara Gulhane Training and Research 
+Hospital, Ankara, Turkey.
+(27)Department of Medical Oncology, Koc University, Faculty of Medicine, 
+Istanbul, Turkey.
+(28)Department of Medical Oncology, Gazi University School of Medicine, Ankara, 
+Turkey.
+(29)Department of Medical Oncology, Medeniyet University, Faculty of Medicine, 
+Istanbul, Turkey.
+
+We aimed to evaluate the efficacy and safety of trastuzumab emtansine in 
+patients with metastatic breast cancer previously treated with pertuzumab plus 
+trastuzumab and taxane. We reviewed the medical records of patients who were 
+diagnosed with Human Epidermal Growth Factor Receptor 2 (HER-2) positive 
+metastatic breast cancer and received pertuzumab and then TDM-1 between January 
+2014 and January 2021 from twenty- five cancer centers. The Kaplan- Meier method 
+estimated progression-free survival (PFS) and overall survival (OS). 
+Additionally, objective response rate (ORR), clinical benefit rate (CBR), and 
+safety were evaluated. One hundred fifty-three patients were included,79.1% of 
+the patients received TDM-1 in the second line, 90.8% had visceral metastasis, 
+and 30.7% had central nervous system involvement. The PFS and OS of TDM-1 were 
+evaluated according to the number of previous lines (on the 2nd line or more 
+than two lines) metastatic sites (visceral and non-visceral) and the presence of 
+central nervous metastasis. In TDM-1 therapy, PFS in second line therapy was ten 
+months (95% CI: 7.7 - 12.2); this was statistically higher than later-line PFS, 
+which was six months (95% CI: 3.3 to 8.6) (p = 0.004). The median OS time was 
+25 months (95% CI: 21.0 to 28.9) in patients treated with TDM-1 in the second 
+line and 19 months (95% CI: 12.3 to 25.6) in patients who received later than 
+the second line(p = 0.175). There were no significant differences in PFS time of 
+patients with and without visceral and central nervous metastases. Our study 
+showed that TDM-1 was also effective in patients using pertuzumab, contributes 
+significantly to PFS when used in the second line compared to its use in the 
+later line, and does not make any difference in OS.
+
+DOI: 10.1080/1120009X.2024.2366683
+PMID: 38904164 [Indexed for MEDLINE]
