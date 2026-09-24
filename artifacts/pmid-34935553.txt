@@ -1,0 +1,41 @@
+1. J Oncol Pharm Pract. 2022 Apr;28(3):740-745. doi: 10.1177/10781552211066073. 
+Epub 2021 Dec 22.
+
+Pneumonitis associated with Trastuzumab emtansine in a patient with metastatic 
+breast cancer.
+
+Uğraklı M(1), Araz M(1), Demirkıran A(1), Çelik AF(2), Karakurt Eryılmaz M(1), 
+Karaağaç M(1), Artaç M(1).
+
+Author information:
+(1)Department of Medical Oncology, 64222Necmettin Erbakan University School of 
+Medicine, Konya, Turkey.
+(2)Department of Internal Medicine, 427826Necmettin Erbakan University School of 
+Medicine, Konya, Turkey.
+
+INTRODUCTION: Trastuzumab emtansine (TDM-1) is an antibody-drug conjugate 
+effective in human epidermal growth factor receptor-2 - expressing advanced 
+breast cancer. Pulmonary complications of TDM-1 are rarely reported. 
+TDM-1-associated interstitial lung disease is referred to as pneumonitis.
+CASE REPORT: A 47-year-old female patient who underwent modified radical 
+mastectomy and axillary lymph node dissection operations due to a palpable mass 
+in the right breast and axillary region. The patient who had received multiple 
+chemotherapy was last receiving TDM-1 treatment. Fatigue, dyspnea, and tachypnea 
+were detected for the first time on 20 days after the 6th treatment.
+MENAGEMENT AND OUTCOME: In our case, we first considered metastasis, pneumonia 
+and fungal infection based on radiological findings, but the lack of response to 
+the treatments and the results of the investigations suggested drug-induced 
+pneumonia and steroid treatment was started. Our case had a complete 
+radiological recovery and complete response to sterod therapy. In such cases, it 
+is important to first exclude infections and metastasis. In cases of 
+drug-induced pneumonia, the first treatment option is systemic corticosteroids 
+and generally responded well.
+DISCUSSION: Unlike other cases of interstitial pneumonia, lung imaging of our 
+case was resembling a metastasis, pneumonia and fungal infection. With 
+increasing use of TDM-1, we will have more experience in both efficacy and 
+complications of TDM-1. Although TDM-1 is a well-tolerated drug, clinicians 
+should be aware of rare pulmonary complications and prepared to respond 
+appropriately.
+
+DOI: 10.1177/10781552211066073
+PMID: 34935553 [Indexed for MEDLINE]
