@@ -1,0 +1,66 @@
+1. J Clin Oncol. 2025 Jun 10;43(17):1948-1960. doi: 10.1200/JCO-24-01739. Epub
+2025  Apr 11.
+
+Novel Postneoadjuvant Prognostic Breast Cancer Staging System.
+
+Winchester DJ(1), Singh L(2), Edge SB(3), Allison KH(4), Barlow WE(5), Bossuyt 
+V(6), Chavez-MacGregor M(7), Conant EF(8), Connolly JL(9), De Los Santos JF(10), 
+Hayes DF(11), Hylton NM(12), Mittendorf EA(13), Plichta JK(14), Provenzano 
+E(15), Salerno KE(16), Sharma P(17), Symmans WF(7), Weaver D(18), Hortobagyi 
+GN(7); Member of the Ninth Edition AJCC Neoadjuvant Breast Expert Panel.
+
+Collaborators: Winchester DJ, Edge SB, Allison KH, Barlow WE, Bossuyt V, 
+Chavez-MacGregor M, Conant EF, Connolly JL, De Los Santos JF, Hayes DF, Hylton 
+NM, Mittendorf EA, Provenzano E, Salerno KE, Sharma P, Symmans WF, Weaver D, 
+Hortobagyi GN.
+
+Author information:
+(1)City of Hope Chicago, Zion, IL.
+(2)Northshore University Healthcare, Evanston, IL.
+(3)Roswell Park Comprehensive Cancer Center, Buffalo, NY.
+(4)Stanford University School of Medicine, Stanford, CA.
+(5)SWOG Statistical and Data Management Center, Seattle, WA.
+(6)Harvard Medical School, Boston, MA.
+(7)The University of Texas MD Anderson Cancer Center, Houston, TX.
+(8)Hospital of the University of Pennsylvania, Philadelphia, PA.
+(9)Beth Israel Deaconess Medical Center, Boston, MA.
+(10)Washington University, St Louis, MO.
+(11)University of Michigan Rogel Cancer Center, Ann Arbor, MI.
+(12)University of California San Francisco, San Francisco, CA.
+(13)Dana Farber Cancer Institute, Boston, MA.
+(14)Department of Surgery, Duke University Medical Center, Durham, NC.
+(15)NIHR Cambridge Biomedical Research Centre, Cambridge, United Kingdom.
+(16)National Cancer Institute, Bethesda, MD.
+(17)University of Kansas Medical Center, Kansas City, KS.
+(18)University of Vermont, Burlington, VT.
+
+PURPOSE: Prognostic staging after neoadjuvant chemotherapy (NACT) is not 
+included in American Joint Commission on Cancer (AJCC) staging. This study 
+addressed this deficiency by including responses to therapy with standardized 
+staging variables in a validated prognostic staging system for patients treated 
+with NACT.
+METHODS: The National Cancer Database was queried to identify 140,605 patients 
+treated with NACT between 2010 and 2018. Three response categories (no response, 
+partial response, and complete response [pCR]) were created on the basis of 
+comparison of clinical and post-NACT pathologic staging. Univariate and 
+multivariate analyses of clinical stage, estrogen receptor, progesterone 
+receptor, human epidermal growth factor receptor 2 (HER2), and grade were 
+analyzed for each category. Predictive models for each response category were 
+validated using the bootstrap technique. Calibration plots compared predicted 
+and observed 3-year survival probabilities in the training and validation data 
+sets.
+RESULTS: Each validated model demonstrated statistically significant survival 
+differences in the postneoadjuvant prognostic stage assignment. Of all patients 
+with a pCR, 94.2% were assigned to postneoadjuvant ypStage I compared with 35.5% 
+of patients with no response. Advancing clinical stage had a progressive but 
+small impact on overall survival (OS) with pCR (high-grade, triple-negative 
+breast cancer [TNBC]: cStage I, 97% v cStage IIIB/IIIC, 91%; grade 2 luminal A: 
+97% v 91%) but was associated with a profound decrease in OS with no response 
+for TNBC or HER2+ disease (high-grade TNBC 89% v 50%) and less profound for 
+grade 2 luminal A disease with no response (97% v 81%).
+CONCLUSION: We present a novel, validated prognostic staging system that 
+predicts OS according to the response to NACT. These data will provide AJCC 
+stage assignments for a growing proportion of patients treated with NACT.
+
+DOI: 10.1200/JCO-24-01739
+PMID: 40215445 [Indexed for MEDLINE]
