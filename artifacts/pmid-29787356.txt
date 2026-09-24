@@ -1,0 +1,52 @@
+1. J Clin Oncol. 2018 Aug 10;36(23):2433-2443. doi: 10.1200/JCO.2018.78.8604.
+Epub  2018 May 22.
+
+Selection of Optimal Adjuvant Chemotherapy and Targeted Therapy for Early Breast 
+Cancer: ASCO Clinical Practice Guideline Focused Update.
+
+Denduluri N(1), Chavez-MacGregor M(1), Telli ML(1), Eisen A(1), Graff SL(1), 
+Hassett MJ(1), Holloway JN(1), Hurria A(1), King TA(1), Lyman GH(1), Partridge 
+AH(1), Somerfield MR(1), Trudeau ME(1), Wolff AC(1), Giordano SH(1).
+
+Author information:
+(1)Neelima Denduluri, The US Oncology Network, Virginia Cancer Specialists; 
+Jamie N. Holloway, Georgetown Breast Cancer Advocates, Arlington; Mark R. 
+Somerfield, American Society of Clinical Oncology, Alexandria, VA; Mariana 
+Chavez-MacGregor and Sharon H. Giordano, University of Texas MD Anderson Cancer 
+Center, Houston, TX; Melinda L. Telli, Stanford University School of Medicine, 
+Stanford; Arti Hurria, City of Hope, Duarte, CA; Andrea Eisen and Maureen E. 
+Trudeau, Sunnybrook Odette Cancer Centre; Andrea Eisen and Maureen E. Trudeau, 
+Cancer Care Ontario, Toronto, Ontario, Canada; Stephanie L. Graff, Sarah Cannon 
+Cancer Institute HCA Midwest Health, Kansas City, MO; Michael J. Hassett, Tari 
+A. King, and Ann H. Partridge, Dana-Farber Cancer Institute; Tari A. King, 
+Brigham & Women's Cancer Center, Boston, MA; Gary H. Lyman, Fred Hutchinson 
+Cancer Research Center, Seattle, WA; Antonio C. Wolff, Johns Hopkins Kimmel 
+Cancer Center, Baltimore, MD.
+
+Purpose To update key recommendations of the ASCO guideline adaptation of the 
+Cancer Care Ontario guideline on the selection of optimal adjuvant chemotherapy 
+regimens for early breast cancer and adjuvant targeted therapy for breast 
+cancer. Methods An Expert Panel conducted targeted systematic literature reviews 
+guided by a signals approach to identify new, potentially practice-changing data 
+that might translate to revised practice recommendations. Results The Expert 
+Panel reviewed phase III trials that evaluated adjuvant capecitabine after 
+completion of standard preoperative anthracycline- and taxane-based combination 
+chemotherapy by patients with early-stage breast cancer HER2-negative breast 
+cancer with residual invasive disease at surgery; the addition of 1 year of 
+adjuvant pertuzumab to combination chemotherapy and trastuzumab for patients 
+with early-stage, HER2-positive breast cancer; and the use of neratinib as 
+extended adjuvant therapy for patients after combination chemotherapy and 
+trastuzumab-based adjuvant therapy with early-stage, HER2-positive breast 
+cancer. Recommendations Patients with early-stage HER2-negative breast cancer 
+with pathologic, invasive residual disease at surgery following standard 
+anthracycline- and taxane-based preoperative therapy may be offered up to six to 
+eight cycles of adjuvant capecitabine. Clinicians may add 1 year of adjuvant 
+pertuzumab to trastuzumab-based combination chemotherapy in patients with 
+high-risk, early-stage, HER2-positive breast cancer. Clinicians may use extended 
+adjuvant therapy with neratinib to follow trastuzumab in patients with 
+early-stage, HER2-positive breast cancer. Neratinib causes substantial diarrhea, 
+and diarrhea prophylaxis must be used. Additional information can be found at 
+www.asco.org/breast-cancer-guidelines .
+
+DOI: 10.1200/JCO.2018.78.8604
+PMID: 29787356 [Indexed for MEDLINE]
