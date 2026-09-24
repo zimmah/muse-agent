@@ -1,0 +1,66 @@
+1. Breast Cancer Res. 2025 Oct 28;27(1):190. doi: 10.1186/s13058-025-02137-z.
+
+Pathological response and metabolites' prognostic role in HER2-positive breast 
+cancer treated with neoadjuvant pyrotinib, trastuzumab, nab-paclitaxel, and 
+carboplatin: a single-arm phase II trial.
+
+Liu M(#)(1), Zou L(#)(1), Zhang N(1), Zhou W(1), Pan X(1), Deng Y(1), Yue Y(1), 
+Wu J(1), Liang X(1), Chen M(2), Zeng X(3)(4).
+
+Author information:
+(1)Department of Breast Cancer Center, Chongqing University Cancer Hospital, No. 
+181 Hanyu Road, Shapingba District, Chongqing, 400030, China.
+(2)Department of Breast and Thyroid Surgery, Suining Central Hospital, NO.127 
+Desheng West Road, Chuanshan District, Suining City, 629000, Sichuan Province, 
+China.
+(3)Department of Breast Cancer Center, Chongqing University Cancer Hospital, No. 
+181 Hanyu Road, Shapingba District, Chongqing, 400030, China. 
+zxiaohuacqu@126.com.
+(4)Chongqing Key Laboratory for Intelligent Oncology in Breast Cancer (iCQBC), 
+Chongqing University Cancer Hospital, No. 181 Hanyu Road, Shapingba District, 
+Chongqing, 400030, China. zxiaohuacqu@126.com.
+(#)Contributed equally
+
+BACKGROUND: The trial aimed to evaluate the efficacy and safety of pyrotinib in 
+combination with trastuzumab, nab-paclitaxel, and carboplatin (TCbHPy) in the 
+neoadjuvant setting (ChiCTR2100043523), as well as the role of metabolites in 
+predicting the efficacy of neoadjuvant therapy (NAT). METHODS: In this study, 
+treatment-naive women with HER2-positive early or locally advanced breast cancer 
+(II–III) were enrolled and received six neoadjuvant cycles of pyrotinib (400 mg) 
+once daily, plus trastuzumab (8 mg/kg loading dose, followed by 6 mg/kg), 
+nab-paclitaxel (260 mg/m2), and carboplatin (area under the curve [AUC] = 6) 
+every 3 weeks. Plasma samples from 26 patients were collected at baseline, and 
+serum metabolites were analyzed based on liquid chromatography–mass spectrometry 
+data. The primary endpoint was the total pathological complete response (tpCR; 
+ypT0/is and ypN0) rate. Secondary endpoints include objective response rate 
+(ORR), disease control rate (DCR), breast pCR (bpCR; ypT0/is) rate, safety, and 
+the predictive effect of metabolites on NAT. RESULTS: Among the 35 patients 
+enrolled, the tpCR rate was 55.9% (19/34). For women with hormone 
+receptor–negative and–positive tumors, the tpCR rates were 64.7% and 47.1% 
+(P = 0.5034). The bpCR, ORR, and DCR were 61.8%, 91.2%, and 100.0%, 
+respectively. The most common grade 3–4 adverse events were diarrhea (17.6%), 
+vomiting (17.6%), and alopecia (11.8%), with 2 patients experiencing neutropenic 
+fever. There were significant differences in plasma metabolic profiles between 
+tpCR patients and non-tpCR patients at baseline. These differentially expressed 
+metabolites were markedly enriched in the ABC transporter pathway. The area 
+under the curve values for discriminating the tpCR and non-tPCR groups from the 
+NAT of the single potential metabolite [spermidine and l-isoleucine] or combined 
+panel of the two metabolites were greater than 0.875, implying that spermidine 
+and l-isoleucine could be useful biomarkers for distinguishing between 
+non-sensitive and sensitive individuals. CONCLUSIONS: Neoadjuvant TCbHPy is an 
+effective and safe treatment option for HER2-positive breast cancer. 
+Serum-metabolomics could be a powerful tool for exploring informative biomarkers 
+for predicting efficacy, and facilitate the development of new treatment targets 
+for insensitive patients. A randomized controlled trial is necessary to validate 
+our findings.
+
+DOI: 10.1186/s13058-025-02137-z
+PMCID: PMC12570423
+PMID: 41152909 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study protocol received approval from the Institutional Ethics 
+Committee of Chongqing University Cancer Hospital (CZLS2021022-C). Written 
+informed consent was obtained from all participants prior to inclusion in the 
+study. Consent for publication: All the authors have reviewed and approved the 
+final draft. Competing interests: The authors declare no competing interests.
