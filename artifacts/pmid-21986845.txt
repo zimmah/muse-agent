@@ -1,0 +1,33 @@
+1. Curr Opin Oncol. 2011 Nov;23(6):594-600. doi: 10.1097/CCO.0b013e32834b895c.
+
+Trastuzumab emtansine in human epidermal growth factor receptor 2-positive 
+breast cancer: a review.
+
+Mathew J(1), Perez EA.
+
+Author information:
+(1)Mayo Clinic, Jacksonville, Florida 32224, USA.
+
+PURPOSE OF REVIEW: In this review, we aim to update the clinical data of 
+trastuzumab-DM1 (T-DM1) in terms of safety and efficacy, and describe ongoing 
+and future trials evaluating its potential role in the management of patients 
+with human epidermal growth factor receptor 2 (HER2)-positive breast cancer.
+RECENT FINDINGS: Trastuzumab emtansine (T-DM1) is an antibody drug conjugate 
+that optimizes delivery of chemotherapy with an anti-HER2 monoclonal antibody. 
+As a conjugate, T-DM1's systemic side effects are significantly minimized due to 
+its targeted delivery by trastuzumab to HER2-positive cells. Phase I and II 
+studies show that the maximum tolerated dose, and thus the recommended dose for 
+T-DM1, is 3.6  mg/kg given intravenously every 3 weeks. Single arm phase Ib/II, 
+II and a randomized phase II first-line study of T-DM1 versus the combination of 
+trastuzumab + docetaxel all showed improved tolerability, and at least 
+equivalent efficacy, compared with our current standard of care. Two randomized 
+phase III registration studies are now active, evaluating this agent in the 
+refractory and first-line HER2-positive settings.
+SUMMARY: T-DM1 has been shown to be a very promising agent for the targeted 
+delivery of chemotherapy and anti-HER2 monoclonal antibody therapy for patients 
+with metastatic, HER2-positive breast cancer. T-DM1 will likely play a role in 
+the management of patients with advanced and early stage HER2-positive breast 
+cancer, but this awaits further study.
+
+DOI: 10.1097/CCO.0b013e32834b895c
+PMID: 21986845 [Indexed for MEDLINE]
