@@ -1,0 +1,33 @@
+1. Anticancer Res. 2012 Apr;32(4):1429-33.
+
+Elevated HER2 extracellular domain level in primary breast cancer with HER2 
+overexpression predicts early failure of adjuvant trastuzumab.
+
+Thureau S(1), Clatot F, Laberge-Le-Couteulx S, Baron M, Basuyau JP, Blot E.
+
+Author information:
+(1)Department of Radiotherapy, Henri Becquerel Center, Rouen, France. 
+sebastien.thureau@chb.unicancer.fr
+
+AIM: To investigate in a prospective study the prognostic value of serum HER2 
+extracellular domain (ECD) level in patients with primary breast cancer 
+overexpressing HER2 treated with adjuvant chemotherapy and trastuzumab.
+PATIENTS AND METHODS: All the patients treated for primary breast cancer with 
+chemotherapy and adjuvant trastuzumab from April 1, 2005 to December 31, 2006 at 
+the Centre de Lutte Contre le Cancer de Haute Normandie were enrolled in this 
+prospective study. HER2 ECD was measured in frozen serum by a commercial kit 
+with a cut-off value of 15 ng/ml.
+RESULTS: Sixty-five patients were enrolled. Seven patients (11%) had an elevated 
+serum HER2 ECD level (mean=25.1 ng/ml, range 15.1-38.9 ng/ml). During follow-up, 
+13 patients (20%) developed metastases and seven patients (11%) died. Death was 
+related to breast cancer metastases in six patients (9%). Out of the seven 
+patient with elevated serum HER2 ECD level, five (71%) developed metastases and 
+three (43%) died of metastases during follow-up. Multivariate analysis showed 
+that elevated serum HER2 ECD level was the unique factor for both disease-free 
+survival (p<0.0006) and overall survival (p=0.008) in this series.
+CONCLUSION: Elevated serum HER2 ECD level is a strong prognostic factor in 
+primary breast cancer overexpressing HER2 treated with adjuvant therapy of 
+trastuzumab. In addition, our results suggest that it could predict failure of 
+adjuvant therapy of trastuzumab.
+
+PMID: 22493381 [Indexed for MEDLINE]
