@@ -1,0 +1,55 @@
+1. PeerJ. 2024 May 29;12:e17492. doi: 10.7717/peerj.17492. eCollection 2024.
+
+Neoadjuvant chemotherapy efficacy and prognosis in HER2-low and HER2-zero breast 
+cancer patients by HR status: a retrospective study in China.
+
+Zhao S(#)(1)(2)(3)(4), Wang Y(#)(1)(2)(3)(4), Zhou A(1)(2)(3)(4), Liu 
+X(1)(2)(3)(4), Zhang Y(1)(2)(3)(4), Zhang J(1)(2)(3)(4).
+
+Author information:
+(1)The Third Department of Breast Cancer, Tianjin Medical University Cancer 
+Institute and Hospital, National Clinical Research Center for Cancer, Tianjin, 
+China.
+(2)Tianjin's Clinical Research Center for Cancer, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China.
+(3)Key Laboratory of Breast Cancer Prevention and Therapy, Tianjin Medical 
+University, Ministry of Education, Tianjin, China.
+(4)Key Laboratory of Cancer Prevention and Therapy, Tianjin Medical University 
+Cancer Institute and Hospital, Tianjin, China.
+(#)Contributed equally
+
+BACKGROUND: The promising efficacy of novel anti-HER2 antibody-drug conjugates 
+(ADC) in HER2-low breast cancer has made HER2-low a research hotspot. However, 
+controversy remains regarding the neoadjuvant chemotherapy (NAC) efficacy, 
+prognosis, and the relationship with hormone receptor (HR) status of HER2-low.
+METHODS: A retrospective analysis was conducted on 975 patients with 
+HER2-negative breast cancer undergoing NAC at Tianjin Medical University Cancer 
+Institute and Hospital, evaluating pathological complete response (pCR) rate and 
+prognosis between HER2-low and HER2-zero in the overall cohort and subgroups.
+RESULTS: Overall, 579 (59.4%) and 396 (40.6%) patients were HER2-low and 
+HER2-zero disease, respectively. Compared with HER2-zero, the HER2-low cohort 
+consists of more postmenopausal patients, with lower histological grade and 
+higher HR positivity. In the HR-positive subgroup, HER2-low cases remain to 
+exhibit lower histological grade, while in the HR-negative subgroup, they show 
+higher grade. The HER2-low group had lower pCR rates than the HER2-zero group 
+(16.4% vs. 24.0%). In the HR-positive subgroup, HER2-low consistently showed 
+lower pCR rate (8.1% vs. 15.5%), and served as an independent suppressive factor 
+for the pCR rate. However, no significant difference was observed in the pCR 
+rates between HER2-low and HER2-zero in the HR-negative breast cancer. In the 
+entire cohort and in stratified subgroups based on HR and pCR statuses, no 
+difference in disease-free survival were observed between HER2-low and 
+HER2-zero.
+CONCLUSIONS: In the Chinese population, HER2-low breast cancer exhibits distinct 
+characteristics and efficacy of NAC in different HR subgroups. Its reduced pCR 
+rate in HR-positive subgroup is particularly important for clinical decisions. 
+However, HER2-low is not a reliable factor for assessing long-term survival 
+outcomes.
+
+© 2024 Zhao et al.
+
+DOI: 10.7717/peerj.17492
+PMCID: PMC11143972
+PMID: 38827304 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
