@@ -1,0 +1,63 @@
+1. Breast Cancer. 2023 Sep;30(5):703-713. doi: 10.1007/s12282-023-01462-5. Epub 
+2023 Apr 28.
+
+An increase in tumor-infiltrating lymphocytes after treatment is significantly 
+associated with a poor response to neoadjuvant endocrine therapy for estrogen 
+receptor-positive/HER2-negative breast cancers.
+
+Fukui R(1), Watanabe T(2), Morimoto K(3), Fujimoto Y(1), Nagahashi M(1), 
+Ishikawa E(4), Hirota S(4), Miyoshi Y(5).
+
+Author information:
+(1)Department of Surgery, Division of Breast and Endocrine Surgery, School of 
+Medicine, Hyogo Medical University, Mukogawa-Cho 1-1, Nishinomiya City, Hyogo, 
+663-8501, Japan.
+(2)Department of Clinical Pathology, Chibune General Hospital, Osaka, Japan.
+(3)Department of Nutrition, College of Nutrition, Koshien University, 
+Takarazuka, Hyogo, Japan.
+(4)Department of Surgical Pathology, School of Medicine, Hyogo Medical 
+University, Nishinomiya, Hyogo, Japan.
+(5)Department of Surgery, Division of Breast and Endocrine Surgery, School of 
+Medicine, Hyogo Medical University, Mukogawa-Cho 1-1, Nishinomiya City, Hyogo, 
+663-8501, Japan. ymiyoshi@hyo-med.ac.jp.
+
+Comment in
+    Breast Cancer. 2024 Jan;31(1):154. doi: 10.1007/s12282-023-01527-5.
+
+BACKGROUND: The reason for the poor prognosis of estrogen receptor (ER) + /human 
+epidermal growth factor receptor 2 (HER2)- breast cancer patients with high 
+levels of tumor-infiltrating lymphocytes (TILs) is poorly understood. The 
+association between TILs and response to neoadjuvant endocrine therapy (NET) was 
+examined.
+METHODS: We recruited 170 patients with ER + /HER2- breast cancer who were 
+treated with preoperative endocrine monotherapy. TILs were evaluated before and 
+after NET, and their changes were noted. Furthermore, T cell subtypes were 
+examined using CD8 and FOXP3 immunohistochemical analyses. Neutrophil and 
+lymphocyte counts in the peripheral blood were analyzed with reference to TIL 
+levels or changes. Responders were defined as Ki67 expression levels ≤ 2.7% 
+after treatment.
+RESULTS: Post-treatment (p = 0.016), but not pre-treatment (p = 0.464), TIL 
+levels were significantly associated with the response to NET. TIL levels 
+increased significantly after treatment among non-responders (p = 0.001). 
+FOXP3 + T cell counts increased significantly after treatment in patients with 
+increased TILs (p = 0.035), but not in those without increased TILs (p = 0.281). 
+Neutrophil counts decreased significantly after treatment in patients without 
+increased TILs (p = 0.026), but not in patients with increased TILs (p = 0.312).
+CONCLUSION: An increase in TILs after NET was significantly associated with a 
+poor response to NET. Given that FOXP3 + T-cell counts increased, and neutrophil 
+counts did not decrease in patients with increased TILs after NET, the induction 
+of an immunosuppressive microenvironment was speculated to play a role in the 
+inferior efficacy. These data might partially indicate the involvement of the 
+immune response in the efficacy of endocrine therapy.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12282-023-01462-5
+PMCID: PMC10404203
+PMID: 37115435 [Indexed for MEDLINE]
+
+Conflict of interest statement: YM received research funding and honoraria from 
+Chugai, AstraZeneca, Eli Lilly, Pfizer, MSD, Daiichi-Sankyo, Kyowa-Kirin, Taiho, 
+and Esai. MN received research funding and honoraria from Chugai, AstraZeneca, 
+Eli Lilly, Pfizer, Daiichi-Sankyo, Kyowa-Kirin, Taiho, Esai, Novartis, and 
+Denka. The other authors declare that they have no conflicts of interest.
