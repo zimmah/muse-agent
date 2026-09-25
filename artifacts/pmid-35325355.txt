@@ -1,0 +1,51 @@
+1. Target Oncol. 2022 Mar;17(2):167-175. doi: 10.1007/s11523-022-00874-1. Epub
+2022  Mar 24.
+
+Impact of Dose Intensity on Pathologic Complete Response Rate in HER2-Positive 
+Breast Cancer Patients Receiving Neoadjuvant Docetaxel, Carboplatin, Trastuzumab 
+and Pertuzumab (TCHP).
+
+Le D(1), Vargo C(2), Collins S(2), Williams N(3), Palettas M(4), Berger M(2).
+
+Author information:
+(1)Department of Pharmacy, The Arthur G. James Cancer Hospital and Richard J, 
+Solove Institute at The Ohio State University, 460 W 10th Ave, Columbus, OH, 
+43210, USA. Dat.Le@osumc.edu.
+(2)Pharmacy Department, The Stefanie Spielman Comprehensive Breast Center, The 
+James Cancer Hospital and Solove Research Institute at the Ohio State 
+University, Columbus, OH, USA.
+(3)Division of Medical Oncology, The Ohio State University Wexner Medical 
+Center, The Stefanie Spielman Comprehensive Breast Center, Columbus, OH, USA.
+(4)Center for Biostatistics, The Ohio State University, Columbus, OH, USA.
+
+BACKGROUND: Neoadjuvant chemotherapy is the cornerstone treatment for locally 
+advanced breast cancer. Balancing toxicity and efficacy are a common concern of 
+patients treated with chemotherapy.
+OBJECTIVE: The objective of this study was to determine the impact of dose 
+intensity on pathologic complete response (pCR) at the time of surgery in 
+patients with human epidermal growth factor receptor 2-positive (HER2+) breast 
+cancer.
+PATIENTS AND METHODS: A retrospective, single-center review was conducted on 
+patients with HER2+ breast cancer who received neoadjuvant docetaxel, 
+carboplatin, trastuzumab and pertuzumab (TCHP) followed by definitive surgery.
+RESULTS: A total of 159 patients were included in the analysis; pCR was obtained 
+in 66 patients (42%). There was no statistically significant difference between 
+the mean dose intensity of each of the individual agents in TCHP and pCR rates. 
+The mean overall dose intensity of docetaxel, carboplatin, trastuzumab and 
+pertuzumab was 90.5%, 90.9%, 97.5%, and 93.9%, respectively. Although higher 
+chemotherapy dose intensity (> 85%) was associated with higher pCR rates, no 
+statistically significant difference was found compared with chemotherapy dose 
+intensity < 85%. The TCHP regimen was difficult to tolerate; 104 patients (65%) 
+required a dose reduction or dose delay during treatment due to toxicity.
+CONCLUSION: The TCHP regimen, which combines chemotherapy and HER2-directed 
+therapy is effective at obtaining pCR in patients with locally advanced HER2+ 
+breast cancer. These results suggest that the dose intensity of the individual 
+agents did not have a significant impact on pCR rates. Given these findings, 
+providers may be more comfortable allowing dose reductions for greater patient 
+tolerability without sacrificing efficacy.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s11523-022-00874-1
+PMID: 35325355 [Indexed for MEDLINE]
