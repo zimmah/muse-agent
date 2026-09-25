@@ -1,0 +1,85 @@
+1. PLoS Genet. 2023 Jan 3;19(1):e1010563. doi: 10.1371/journal.pgen.1010563. 
+eCollection 2023 Jan.
+
+ESR1 gene amplification and MAP3K mutations are selected during adjuvant 
+endocrine therapies in relapsing Hormone Receptor-positive, HER2-negative breast 
+cancer (HR+ HER2- BC).
+
+Ferrando L(1), Vingiani A(2)(3), Garuti A(1), Vernieri C(4)(5), Belfiore A(2), 
+Agnelli L(2), Dagrada G(2), Ivanoiu D(6), Bonizzi G(7), Munzone E(8), Lippolis 
+L(9), Dameri M(10), Ravera F(10), Colleoni M(8), Viale G(3)(7), Magnani L(6), 
+Ballestrero A(1)(10), Zoppoli G(1)(10), Pruneri G(2)(3).
+
+Author information:
+(1)IRCCS Ospedale Policlinico San Martino, Genova, Italy.
+(2)Department of Pathology and Laboratory Medicine, Fondazione IRCCS Istituto 
+Nazionale dei Tumori, Milan, Italy.
+(3)Department of Oncology and Hemato-Oncology, University of Milan, Milan, 
+Italy.
+(4)Department of Oncology and Hematology, Fondazione IRCCS Istituto Nazionale 
+dei Tumori, Milan, Italy.
+(5)IFOM, The FIRC Institute of Molecular Oncology, Milan, Italy.
+(6)Department of Surgery and Cancer, Imperial College London, London, United 
+Kingdom.
+(7)Department of Pathology, IEO European Institute of Oncology IRCCS, Milan, 
+Italy.
+(8)Division of Medical Senology, IEO European Institute of Oncology IRCCS, 
+Milan, Italy.
+(9)Division of Pathology, Fondazione IRCCS Cà Granda, Ospedale Maggiore 
+Policlinico, Milan, Italy.
+(10)Department of Internal Medicine (DiMI), University of Genoa, Genova, Italy.
+
+BACKGROUND: Previous studies have provided a comprehensive picture of genomic 
+alterations in primary and metastatic Hormone Receptor (HR)-positive, Human 
+Epidermal growth factor Receptor 2 (HER2)-negative breast cancer (HR+ HER2- BC). 
+However, the evolution of the genomic landscape of HR+ HER2- BC during adjuvant 
+endocrine therapies (ETs) remains poorly investigated.
+METHODS AND FINDINGS: We performed a genomic characterization of surgically 
+resected HR+ HER2- BC patients relapsing during or at the completion of adjuvant 
+ET. Using a customized panel, we comprehensively evaluated gene mutations and 
+copy number variation (CNV) in paired primary and metastatic specimens. After 
+retrieval and quality/quantity check of tumor specimens from an original cohort 
+of 204 cases, 74 matched tumor samples were successfully evaluated for DNA 
+mutations and CNV analysis. Along with previously reported genomic alterations, 
+including PIK3CA, TP53, CDH1, GATA3 and ESR1 mutations/deletions, we found that 
+ESR1 gene amplification (confirmed by FISH) and MAP3K mutations were enriched in 
+metastatic lesions as compared to matched primary tumors. These alterations were 
+exclusively found in patients treated with adjuvant aromatase inhibitors or LHRH 
+analogs plus tamoxifen, but not in patients treated with tamoxifen alone. 
+Patients with tumors bearing MAP3K mutations in metastatic lesions had 
+significantly worse distant relapse-free survival (hazard ratio [HR] 3.4, 95% CI 
+1.52-7.70, p value 0.003) and worse overall survival (HR 5.2, 95% CI 2.10-12.8, 
+p-value < 0.001) independently of other clinically relevant patient- and 
+tumor-related variables.
+CONCLUSIONS: ESR1 amplification and activating MAP3K mutations are potential 
+drivers of acquired resistance to adjuvant ETs employing estrogen deprivation in 
+HR+ HER2- BC. MAP3K mutations are associated with worse prognosis in patients 
+with metastatic disease.
+
+Copyright: © 2023 Ferrando et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pgen.1010563
+PMCID: PMC9839248
+PMID: 36595552 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: Giancarlo Pruneri 
+reports honoraria from Novartis, Roche, Lilly and Exact Science. Gabriele 
+Zoppoli reports travel grants from Novartis and Pfizer, and reagents for 
+research from Citiva and ThermoFisher Scientific. Andrea Vingiani reports 
+honoraria from Roche and Lilly. Marco Colleoni reports Research Grant from 
+Roche. Elisabtta Munzone reports travel grants from Roche, Pfizer, Lilly and 
+Novartis and reports receiving consultancy fees from Eisai, Exact Sciences, MSD 
+Oncology, Daiichi Sankyo/Astra Zeneca, Pfizer and Seagen. Giuseppe Viale has 
+received grants from Roche/Genentech and Astra Zeneca for his institution; 
+consulting fees from Roche/Genentech, Astra Zeneca, MDS Oncology and Daiichi 
+Sanyko; honoraria for lectures from Roche/Genentech, Astra Zeneca and Daiichi 
+Sanyko; support for attending meetings from Roche/Genentech; and has served on 
+Advisory Boards for Roche/Genentech, Astra Zeneca, Pfizer, MDS Oncology and 
+Novartis. Lorenzo Ferrando, Anna Garuti, Claudio Vernieri, Antonino Belfiore, 
+Luca Agnelli, Gianpaolo Dagrada, Diana Ivanoiu, Giuseppina Bonizzi, Luana 
+Lippolis, Martina Dameri, Francesco Ravera, Luca Magnani and Alberto Ballestrero 
+have no conflict of interest to disclose.
