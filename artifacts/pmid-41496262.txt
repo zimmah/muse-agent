@@ -1,0 +1,53 @@
+1. Cancer Treat Res Commun. 2026;46:101078. doi: 10.1016/j.ctarc.2025.101078.
+Epub  2025 Dec 16.
+
+Favourable long-term outcomes in selected HER2-Positive early breast cancer 
+patients without pathological complete response after neoadjuvant chemotherapy 
+and trastuzumab: A pre-T-DM1 era cohort study.
+
+Doucet L(1), Moreau-Bachelard C(1), Mathiot L(1), Kerdraon O(2), Robert M(1), 
+Quintin J(1), Bocquet F(3), Zenatri M(1), Campone M(4), Frenel JS(5).
+
+Author information:
+(1)Department of Medical Oncology, Institut de Cancérologie de l'Ouest, 
+Saint-Herblain, France.
+(2)Department of Pathology, Institut de Cancérologie de l'Ouest, Saint-Herblain, 
+France.
+(3)Data Factory and Analytics Department, Institut de Cancérologie de l'Ouest, 
+Saint-Herblain, France.
+(4)Department of Medical Oncology, Institut de Cancérologie de l'Ouest, 
+Saint-Herblain, France; CRCI2NA.
+(5)Department of Medical Oncology, Institut de Cancérologie de l'Ouest, 
+Saint-Herblain, France; CRCI2NA. Electronic address: 
+jean-sebastien.frenel@ico.unicancer.fr.
+
+BACKGROUND: Adjuvant trastuzumab emtansine (T-DM1) is the standard treatment for 
+HER2-positive early breast cancer (EBC) patients who do not achieve a pathologic 
+complete response (pCR) after neoadjuvant chemotherapy (NAC). Given the 
+heterogeneity within this population, we analyzed long-term outcomes in non-pCR 
+HER2-positive EBC patients who received adjuvant trastuzumab prior to the 
+availability of the KATHERINE trial results METHODS: This single-center cohort 
+study included all HER2-positive EBC patients treated with neoadjuvant 
+chemotherapy at our hospital between 2006 and 2017. Kaplan-Meier and 
+multivariable Cox regression models were employed to assess long-term invasive 
+disease-free survival (iDFS) and overall survival (OS).
+RESULTS: This study included 103 patients, of which 67.0 % had a residual tumor 
+size of ypT1, and 57.3 % had no residual tumor in the lymph nodes. The median 
+follow-up was 9.3 years. At 3, 5, and 7 years, the iDFS rates were 78.3 %, 72.2 
+%, and 69.7 %, and the overall survival rates were 90.2 %, 83.3 %, and 79.8 %, 
+respectively. Multivariate analysis identified ypT<2, ypN0, and estrogen 
+receptor positivity as independent predictors of improved iDFS. Among patients 
+with ypT<2, ypN0, and estrogen receptor-positive disease (34 out of 72 with 
+estrogen receptor positivity), iDFS rates were notably high: 97 % (95 % CI: 
+91.3-100) at 3 years, and 90.9 % (95 % CI: 81.6-100) at both 5 and 7 years.
+CONCLUSION: Patients without a pathologic complete response after neoadjuvant 
+chemotherapy plus trastuzumab represent a heterogeneous group. Those with ypT<2, 
+ypN0, and ER-positive residual disease may still achieve excellent iDFS and OS 
+despite absence of adjuvant T-DM1.
+
+Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctarc.2025.101078
+PMID: 41496262 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest None.
