@@ -1,0 +1,48 @@
+1. Ann Surg Oncol. 2020 Nov;27(12):4678-4686. doi: 10.1245/s10434-020-08885-w.
+Epub  2020 Jul 29.
+
+Performance and Clinical Utility of Models Predicting Eradication of Nodal 
+Disease in Patients with Clinically Node-Positive Breast Cancer Treated with 
+Neoadjuvant Chemotherapy by Tumor Biology.
+
+Davis J Jr(1), Hoskin TL(2), Day CN(2), Wickre M(3), Piltin MA(1), Caudle AS(4), 
+Boughey JC(5).
+
+Author information:
+(1)Department of Surgery, Mayo Clinic, Rochester, MN, USA.
+(2)Department of Health Science Research and Clinical Statistics, Mayo Clinic, 
+Rochester, MN, USA.
+(3)Department of Radiology, Mayo Clinic, Rochester, MN, USA.
+(4)Department of Breast Surgical Oncology, University of Texas MD Anderson 
+Cancer Center, Houston, TX, USA.
+(5)Department of Surgery, Mayo Clinic, Rochester, MN, USA. 
+Boughey.judy@mayo.edu.
+
+INTRODUCTION: Prediction models are useful to guide decision making. Our goal 
+was to compare three published nomograms predicting axillary response to 
+neoadjuvant chemotherapy (NAC), clinically node-positive breast cancer.
+METHODS: Patients with cT1-T4, cN1-N3 breast cancer treated with NAC and surgery 
+from 2008 to 2019 were reviewed. The predicted probability of pathologic 
+node-negative (ypN0) status was estimated for each nomogram. Area under the 
+curve (AUC) was compared across models, overall and by biologic subtype.
+RESULTS: Of 581 patients, 253 (43.5%) were ypN0. ypN0 status varied by subtype: 
+23.9% for estrogen receptor-positive (ER+)/human epidermal growth factor 
+receptor 2-negative (HER2-), 68.9% for HER2-positive (HER2+), and 47.2% for 
+ER-negative (ER-)/HER2-. The three nomograms had similar AUC values 
+(0.761-0.769; p = 0.80). The Mayo model-predicted probability was significantly 
+lower (p < 0.001) than the observed probability of ypN0 status, while the MD 
+Anderson Cancer Center (MDACC) 1- and 2-predicted probabilities were similar to 
+the observed probability. At a predicted probability threshold of 50%, the Mayo 
+model had the highest sensitivity (89.6%) for detecting ypN+ patients compared 
+with MDACC models 1 and 2 (76.5%; p < 0.001). However, both MDACC models had 
+higher specificity in identifying ypN0 status among HER2+ (81.7%) and ER-/HER2- 
+(75.9-77.6%) patients compared with the Mayo model (59.5% and 43.1%; each 
+p < 0.001). None of the models identified the ER+/HER2- patients with ypN0 
+status well at the ≥ 50% threshold (specificity 0-9.4%).
+CONCLUSION: All three models predicting nodal response to NAC performed well 
+overall with respect to discrimination, but differed with respect to calibration 
+and performance at a 50% probability threshold. However, none of the models 
+performed well at the 50% threshold for ER+/HER2- patients.
+
+DOI: 10.1245/s10434-020-08885-w
+PMID: 32729046 [Indexed for MEDLINE]
