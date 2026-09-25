@@ -1,0 +1,40 @@
+1. Int J Mol Sci. 2021 Nov 26;22(23):12809. doi: 10.3390/ijms222312809.
+
+YES1 as a Therapeutic Target for HER2-Positive Breast Cancer after Trastuzumab 
+and Trastuzumab-Emtansine (T-DM1) Resistance Development.
+
+Fujihara M(1), Shien T(1), Shien K(1), Suzawa K(1), Takeda T(2), Zhu Y(1), 
+Mamori T(1), Otani Y(1), Yoshioka R(1), Uno M(1), Suzuki Y(1), Abe Y(1), Hatono 
+M(1), Tsukioki T(1), Takahashi Y(1), Kochi M(1), Iwamoto T(1), Taira N(1), 
+Doihara H(1), Toyooka S(1).
+
+Author information:
+(1)Department of General Thoracic Surgery and Breast and Endocrinological 
+Surgery, Graduate School of Medicine Dentistry and Pharmaceutical Sciences, 
+Okayama University, Okayama 700-8558, Japan.
+(2)Departments of Pharmacy, Okayama University Hospital, Okayama 700-8558, 
+Japan.
+
+Trastuzumab-emtansine (T-DM1) is a therapeutic agent molecularly targeting human 
+epidermal growth factor receptor 2 (HER2)-positive metastatic breast cancer 
+(MBC), and it is especially effective for MBC with resistance to trastuzumab. 
+Although several reports have described T-DM1 resistance, few have examined the 
+mechanism underlying T-DM1 resistance after the development of acquired 
+resistance to trastuzumab. We previously reported that YES1, a member of the Src 
+family, plays an important role in acquired resistance to trastuzumab in 
+HER2-amplified breast cancer cells. We newly established a 
+trastuzumab/T-DM1-dual-resistant cell line and analyzed the resistance 
+mechanisms in this cell line. At first, the T-DM1 effectively inhibited the 
+YES1-amplified trastuzumab-resistant cell line, but resistance to T-DM1 
+gradually developed. YES1 amplification was further enhanced after acquired 
+resistance to T-DM1 became apparent, and the knockdown of the YES1 or the 
+administration of the Src inhibitor dasatinib restored sensitivity to T-DM1. Our 
+results indicate that YES1 is also strongly associated with T-DM1 resistance 
+after the development of acquired resistance to trastuzumab, and the continuous 
+inhibition of YES1 is important for overcoming resistance to T-DM1.
+
+DOI: 10.3390/ijms222312809
+PMCID: PMC8657782
+PMID: 34884609 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
