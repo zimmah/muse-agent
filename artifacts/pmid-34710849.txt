@@ -1,0 +1,61 @@
+1. Cancer Treat Res Commun. 2021;29:100483. doi: 10.1016/j.ctarc.2021.100483.
+Epub  2021 Oct 21.
+
+Neoadjuvant pertuzumab plus trastuzumab in combination with anthracycline- free 
+chemotherapy regimen in patients with HER2 positive breast cancer-Real-world 
+data from a single center in India.
+
+Arora S(1), Gogia DA(2), Deo S(3), Sharma D(4), Mathur SR(5).
+
+Author information:
+(1)DR BRA-IRCH, Department of Medical Oncology, All India Institute of Medical 
+Sciences, New Delhi, India.
+(2)DR BRA-IRCH, Department of Medical Oncology, All India Institute of Medical 
+Sciences, New Delhi, India. Electronic address: ajaygogia@gmail.com.
+(3)DR BRA-IRCH, Department of Surgical Oncology, All India Institute of Medical 
+Sciences, New Delhi, India.
+(4)DR BRA-IRCH, Department of Radiation Oncology, All India Institute of Medical 
+Sciences, New Delhi, India.
+(5)Department of Pathology, All India Institute of Medical Sciences, New Delhi, 
+India.
+
+Comment in
+    Cancer Treat Res Commun. 2021;29:100487. doi: 10.1016/j.ctarc.2021.100487.
+
+BACKGROUND: Dual targeted therapy with chemotherapy is one of the therapeutic 
+approaches as neoadjuvant treatment in HER2/neu positive breast cancer (BC). 
+However, the safety and efficacy data of dual-targeted, chemotherapy regimen 
+(docetaxel, carboplatin, trastuzumab, & pertuzumab [TCH-P] is limited from the 
+Indian subcontinent.
+METHODS: This retrospective study aims to evaluate the efficacy and toxicity of 
+neoadjuvant TCH-P regimen in early, locally advanced, and oligometastatic (OM) 
+HER2-positive BC, at All India Institute of Medical Sciences, New Delhi, India, 
+in between the period 2015-2020. Total 6 cycles of 3-weekly neoadjuvant 
+chemotherapy (NACT) protocol containing docetaxel (75 mg/m2), carboplatin 
+(AUC = 6), trastuzumab (8 mg/kg loading followed by 6 mg/kg) and pertuzumab 
+(840 mg loading followed by 420 mg) were planned. Subcutaneous peg-filgrastim 
+was prophylactically administered on day 2 of each cycle. The primary outcome 
+was the pathological complete response (pCR), and secondary outcomes were 
+clinical overall response rate (ORR), rate of breast conservation surgery (BCS) 
+for patients for whom modified radical mastectomy (MRM) was planned and 
+toxicity.
+RESULTS: Forty-five patients with a median age of 48 years (31-65) were included 
+in this study. The TNM (AJCC-7th edition) stage distribution was stage II, 14 
+(31.1%); stage III, 29 (64.5%); and stage IV (OM), 2 (4.4%). Clinical node 
+positivity disease was found in 26 (57.8%) cases. Nineteen (42.2%) patients had 
+hormone-positive and 26 (57.8%) cases were premenopausal. The clinical ORR and 
+CR were seen in 100% and 60% respectively. Overall pCR rate was observed in 25 
+(55.6%) patients (70% in stage II). BCS was performed in 23 (51.1%) cases. In 12 
+(26.6%) cases, planned MRM was changed to BCS following NACT. Grade 3 and 4 
+toxicities were diarrhea 7 cases, thrombocytopenia in 6, neutropenia in 4, 
+febrile neutropenia in 1, and anaemia in 2 cases. Ten patients required dose 
+modification. No patient had congestive heart failure or induction death.
+CONCLUSIONS: This is the first study of the non-anthracycline-based neoadjuvant 
+protocol in HER2 positive BC from India. The TCH-P is an effective, safe, and 
+well tolerated protocol with a pCR rate of 55.6% and 26.6% BCS conversion rate 
+from planned MRM.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ctarc.2021.100483
+PMID: 34710849 [Indexed for MEDLINE]
