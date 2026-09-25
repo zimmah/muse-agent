@@ -1,0 +1,42 @@
+1. Mod Pathol. 2011 Mar;24(3):367-74. doi: 10.1038/modpathol.2010.209. Epub 2010 
+Nov 19.
+
+Semiquantitative hormone receptor level influences response to 
+trastuzumab-containing neoadjuvant chemotherapy in HER2-positive breast cancer.
+
+Bhargava R(1), Dabbs DJ, Beriwal S, Yildiz IA, Badve P, Soran A, Johnson RR, 
+Brufsky AM, Lembersky BC, McGuire KP, Ahrendt GM.
+
+Author information:
+(1)Department of Pathology, Magee-Womens Hospital, University of Pittsburgh 
+Medical Center, Pittsburgh, PA 15213, USA. rbhargava@mail.magee.edu
+
+Pathologic complete response to neoadjuvant chemotherapy without trastuzumab in 
+hormone receptor-negative/HER2+ tumors is seen in 27-45% of cases. In contrast, 
+estrogen receptor (ER)+/HER2+ tumors demonstrate pathologic complete response in 
+∼ 8% of cases and is generally limited to weak-to-moderate ER+/HER2+ tumors. It 
+is speculated that addition of trastuzumab to neoadjuvant chemotherapy regimen 
+will increase the pathologic complete response rates in all HER2+ tumors. A list 
+of HER2+ patients who received neoadjuvant chemotherapy (with trastuzumab) in 
+the years 2007-2010 was obtained from our hospital database. The 104 HER2+ 
+tumors were classified into three groups based on semiquantitative hormone 
+receptor and HER2 results as follows: ERBB2 (ER-/PR-[H-score ≤10]/HER2+), 
+Luminal B-HER2 Hybrid (LBHH; weak to moderate ER+ [H-score 11-199]/HER2+), and 
+Luminal A-HER2 Hybrid (LAHH; strong ER+[H-score ≥200]/HER2+). Pathologic 
+complete response was defined as absence of invasive carcinoma in the resection 
+specimen and in the lymph nodes. Percentage tumor volume reduction was also 
+calculated based on pretherapy size and detailed evaluation of the resection 
+specimen. In all, 52% (25 of 48 cases) of ERBB2 tumors showed pathologic 
+complete response, which was significantly higher than the pathologic complete 
+response rate in LBHH (33%; 10 of 30) and LAHH (8%; 2 of 26) tumors. Average 
+percentage tumor volume reduction was also highest in ERBB2 tumors (86%), 
+followed by LBHH (74%) and LAHH (64%) tumors. We conclude that addition of 
+trastuzumab to neoadjuvant chemotherapy regimen significantly increases the 
+pathologic complete response rates in all HER2+ tumors. However, the benefit of 
+trastuzumab is highest in ER-negative tumors and progressively decreases with 
+increase in tumor ER expression. This information can be utilized to counsel 
+patients considered for neoadjuvant chemotherapy and the same principle could be 
+applied in the adjuvant setting.
+
+DOI: 10.1038/modpathol.2010.209
+PMID: 21102420 [Indexed for MEDLINE]
