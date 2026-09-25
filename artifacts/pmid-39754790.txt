@@ -1,0 +1,65 @@
+1. Breast. 2025 Feb;79:103871. doi: 10.1016/j.breast.2024.103871. Epub 2024 Dec
+31.
+
+Impact of adjuvant trastuzumab therapy and its discontinuation on cardiac 
+function and mortality in patients with early-stage breast cancer: An analysis 
+based on the Japanese Receipt Claim Database.
+
+Miyazato K(1), Ohtsu H(2), Shimomura A(3), Yonemoto N(4), Shimizu C(3), Sase 
+K(5), Ueda S(6).
+
+Author information:
+(1)Department of Clinical Research and Management, Graduate School of Medicine, 
+University of Ryukyus, Japan; Department of Breast Surgery, Urasoe General 
+Hospital, Japan.
+(2)Faculty of Health Data Science, Juntendo University, Japan; Clinical 
+Pharmacology and Regulatory Science, Graduate School of Medicine, Juntendo 
+University, Japan; Institute for Medical Regulatory Science, Organization for 
+University Research Initiatives, Waseda University, Japan.
+(3)Department of Breast and Medical Oncology, National Center for Global Health 
+and Medicine, Japan.
+(4)Department of Public Health, Graduate School of Medicine, Juntendo 
+University, Japan; Department of Biostatistics, Faculty of Medicine, University 
+of Toyama, Japan.
+(5)Clinical Pharmacology and Regulatory Science, Graduate School of Medicine, 
+Juntendo University, Japan; Institute for Medical Regulatory Science, 
+Organization for University Research Initiatives, Waseda University, Japan.
+(6)Department of Clinical Research and Management, Graduate School of Medicine, 
+University of Ryukyus, Japan; Department of Clinical Pharmacology, Faculty of 
+Medicine, University of the Ryukyus, Japan. Electronic address: 
+blessyou@med.u-ryukyu.ac.jp.
+
+Erratum in
+    Breast. 2025 Apr;80:103894. doi: 10.1016/j.breast.2025.103894.
+
+Standard trastuzumab therapy can reduce the risk of early recurrence of 
+HER2-positive breast cancer. However, trastuzumab-induced cardiac dysfunction 
+may force the discontinuation of adjuvant trastuzumab therapy. Incidentally, 
+there are still unclear whether or not trastuzumab treatment should be continued 
+in the setting of reduced cardiac function. We aimed to investigate the 
+association between trastuzumab discontinuation, the development of cardiac 
+dysfunction during trastuzumab treatment, and all-cause mortality using the JMDC 
+as the Japanese claims database. Between 2010 and 2019, 1779 women with 
+early-stage breast cancer underwent surgery with adjuvant trastuzumab therapy 
+(TZ). A 1:1 propensity score (PS) matching was conducted for patients who 
+completed or discontinued TZ. The rates of cancer therapy-related-cardiovascular 
+toxicity (CTR-CVT) and mortality in the TZ completion and discontinuation groups 
+were compared. After PS matching, the TZ completion group (CMP_PSM: n = 83) and 
+discontinuation group (INT_PSM: n = 83) were included in the study. TZ was 
+administered for 12 and 5 months in CMP_PSM and INT_PSM, respectively. The 
+cumulative incidence of CTR-CVT was significantly higher in CMP_PSM than INT_PSM 
+(log-rank test, P = .0096). The mortality rate was significantly higher in 
+INT_PSM than in CMP_PSM. The all-cause mortality in INT_PSM tended to increase 
+at a constant rate after treatment, even after discontinuation. Our findings 
+suggest that discontinuation of trastuzumab treatment worsens patient prognosis 
+due to insufficient treatment of breast cancer rather than due to the 
+cardiovascular toxicity of the drug.
+
+Copyright © 2024. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.breast.2024.103871
+PMCID: PMC11755018
+PMID: 39754790 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no conflict of interest.
