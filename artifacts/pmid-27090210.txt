@@ -1,0 +1,67 @@
+1. BMC Cancer. 2016 Apr 18;16:274. doi: 10.1186/s12885-016-2302-5.
+
+Identification of stromal ColXα1 and tumor-infiltrating lymphocytes as putative 
+predictive markers of neoadjuvant therapy in estrogen 
+receptor-positive/HER2-positive breast cancer.
+
+Brodsky AS(1)(2), Xiong J(3), Yang D(4), Schorl C(5), Fenton MA(6), Graves 
+TA(7), Sikov WM(8), Resnick MB(4), Wang Y(9)(10).
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, Rhode Island Hospital and 
+Lifespan Medical Center, Warren Alpert Medical School of Brown University, 
+Providence, USA. alex_brodsky@brown.edu.
+(2)Department of Pathology, Rhode Island Hospital and Lifespan Medical Center, 
+Providence, RI, 02903, USA. alex_brodsky@brown.edu.
+(3)Department of Pathology, Women and Infants Hospital, Warren Alpert Medical 
+School of Brown University, Providence, USA.
+(4)Department of Pathology and Laboratory Medicine, Rhode Island Hospital and 
+Lifespan Medical Center, Warren Alpert Medical School of Brown University, 
+Providence, USA.
+(5)Molecular Biology, Cell Biology, & Biochemistry, Brown University, 
+Providence, USA.
+(6)Department of Medicine, Rhode Island Hospital and Lifespan Medical Center, 
+Warren Alpert Medical School of Brown University, Providence, USA.
+(7)Department of Surgery, Rhode Island Hospital and Lifespan Medical Center, 
+Warren Alpert Medical School of Brown University, Providence, USA.
+(8)Program in Women's Oncology, Women and Infants Hospital, Warren Alpert 
+Medical School of Brown University, Providence, USA.
+(9)Department of Pathology and Laboratory Medicine, Rhode Island Hospital and 
+Lifespan Medical Center, Warren Alpert Medical School of Brown University, 
+Providence, USA. ywang6@lifespan.org.
+(10)Department of Pathology, Rhode Island Hospital and Lifespan Medical Center, 
+Providence, RI, 02903, USA. ywang6@lifespan.org.
+
+BACKGROUND: The influence of the tumor microenvironment and tumor-stromal 
+interactions on the heterogeneity of response within breast cancer subtypes have 
+just begun to be explored. This study focuses on patients with estrogen 
+receptor-positive/human epidermal growth factor receptor 2-positive (ER+/HER2+) 
+breast cancer receiving neoadjuvant chemotherapy and HER2-targeted therapy 
+(NAC+H), and was designed to identify novel predictive biomarkers by combining 
+gene expression analysis and immunohistochemistry with pathologic response.
+METHODS: We performed gene expression profiling on pre-NAC+H tumor samples from 
+responding (no or minimal residual disease at surgery) and non-responding 
+patients. Gene set enrichment analysis identified potentially relevant pathways, 
+and immunohistochemical staining of pre-treatment biopsies was used to measure 
+protein levels of those pathways, which were correlated with pathologic response 
+in both univariate and multivariate analysis.
+RESULTS: Increased expression of genes encoding for stromal collagens, including 
+Col10A1, and reduced expression of immune-associated genes, reflecting lower 
+levels of total tumor-infiltrating lymphocytes (TILs), were strongly associated 
+with poor pathologic response. Lower TILs in tumor biopsies correlated with 
+reduced likelihood of achieving an optimal pathologic response, but increased 
+expression of the Col10A1 gene product, colXα1, had greater predictive value 
+than stromal abundance for poor response (OR = 18.9, p = 0.003), and the 
+combination of increased colXα1 expression and low TILs was significantly 
+associated with poor response in multivariate analysis. ROC analysis suggests 
+strong specificity and sensitivity for this combination in predicting treatment 
+response.
+CONCLUSIONS: Increased expression of stromal colXα1 and low TILs correlate with 
+poor pathologic response in ER+/HER2+ breast tumors. Further studies are needed 
+to confirm their predictive value and impact on long-term outcomes, and to 
+determine whether this collagen exerts a protective effect on the cancer cells 
+or simply reflects other factors within the tumor microenvironment.
+
+DOI: 10.1186/s12885-016-2302-5
+PMCID: PMC4835834
+PMID: 27090210 [Indexed for MEDLINE]
