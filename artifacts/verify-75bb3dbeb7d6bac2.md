@@ -1,0 +1,17 @@
+# methods-audit — claim 75bb3dbeb7d6bac2b4d3d3f41b551ebd82281639f69f771aa8f3b077e90f7ba0
+
+Claim: Reported finding from PMID 34490125 (Efficacy and Safety of Anti-HER2 Agents in Combination With Chemotherapy for Metastatic HER2-Positive Breast Cancer Patient: A Network Meta-Analysis): THP was still the optimal first-line treatment for metastatic HER2+ BC. T-DM1 and XHTuC were recommended for second-line treatments.
+Source: PMID 34490125 (https://pubmed.ncbi.nlm.nih.gov/34490125/)
+Checked: 2026-09-25T01:11:37.861Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Checklist audit (qwen3:8b, temp 0): design in source: not stated; design matches claim: true; endpoint matches: n/a; population matches: n/a; contradiction: false.
+3. Notes: The claim that 'THP was still the optimal first-line treatment for metastatic HER2+ BC. T-DM1 and XHTuC were recommended for second-line treatments.' is fully supported by the source abstract. The abstract explicitly states that THP was the optimal first-line treatment and that T-DM1 and XHTuC were recommended for second-line treatments.
+4. Deterministic numeric grounding: missing tokens: none.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: dd73112e50b3876859fa5950eb5670b7acf90cd9799127a55e9300f134c0fd8b
