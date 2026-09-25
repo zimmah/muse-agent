@@ -1,0 +1,43 @@
+1. Ann Surg Oncol. 2016 Oct;23(10):3317-23. doi: 10.1245/s10434-016-5329-6. Epub 
+2016 Jul 6.
+
+Genomic Impact of Neoadjuvant Therapy on Breast Cancer: Incomplete Response is 
+Associated with Altered Diagnostic Gene Signatures.
+
+Beitsch P(1), Whitworth P(2), Baron P(3), Pellicane J(4), Treece T(5), Yoder 
+E(5), Gittleman M(6); NBRST Investigators Group.
+
+Author information:
+(1)Dallas Surgical Group, Dallas, TX, USA. beitsch@aol.com.
+(2)Nashville Breast Center, Nashville, TN, USA.
+(3)Breast & Melanoma Specialist of Charleston, Charleston, SC, USA.
+(4)Bon Secours Virginia Breast Center, Midlothian, VA, USA.
+(5)Agendia, Inc., Irvine, CA, USA.
+(6)Breast Care Specialists, Allentown, PA, USA.
+
+PURPOSE: Neoadjuvant therapy (NAT) has been shown to clinically downstage 
+locally advanced breast cancers. This study aimed to determine whether a 
+meaningful change in gene signatures occurs between pre- and post-NAT breast 
+cancers for patients who do not achieve a pathologic complete response.
+METHODS: The current analysis included women from the prospective Neoadjuvant 
+Breast Registry Symphony Trial who had breast cancer and awaited NAT. MammaPrint 
+and BluePrint (Agendia, Inc., Irvine, CA) assays were performed on pre- and 
+post-NAT breast tumor samples.
+RESULTS: At the completion of NAT, 93 patients with residual disease had their 
+remaining tumor analyzed for MammaPrint and BluePrint. Of 93 patients, 21 
+switched tumor classification: 16 from high risk (HR) to low risk (LR) and 1 
+from LR to HR (p < 0.001). Four additional patients switched molecular subtype 
+but remained HR. Although only 17 patients switched in their MammaPrint risk 
+classification, the underlying MPIndex was significantly altered after treatment 
+across all patients (p < 0.001). Additionally, the three BluePrint indices for 
+luminal, human epidermal growth factor receptor 2 (HER2), and basal type also 
+were significantly altered after treatment, in a subtype-dependent manner.
+CONCLUSION: This substudy showed that NAT significantly altered the genomic 
+signature of the patient's breast cancer compared with the patient's 
+pretreatment genomic profile. These alterations occurred in a subtype-dependent 
+manner, suggesting that NAT may have either eliminated the most susceptible 
+tumor subclone, leaving the treatment resistant clone with a different genetic 
+signature, or altered molecular characteristics of the original cancer.
+
+DOI: 10.1245/s10434-016-5329-6
+PMID: 27384749 [Indexed for MEDLINE]
