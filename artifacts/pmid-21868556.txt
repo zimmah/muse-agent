@@ -1,0 +1,44 @@
+1. Anticancer Res. 2011 Sep;31(9):3041-6.
+
+Pathological complete response and prognosis in patients receiving neoadjuvant 
+paclitaxel and trastuzumab with and without anthracyclines for stage II and III, 
+HER2-positive operable breast cancer: a single-institute experience.
+
+Horiguchi J(1), Oyama T, Takata D, Rokutanda N, Nagaoka R, Odawara H, Tokiniwa 
+H, Tozuka K, Kikuchi M, Sato A, Takeyoshi I.
+
+Author information:
+(1)Breast and Endocrine Surgery, Gunma University Hospital, 3-39-15 Showa-machi, 
+Maebashi, Gunma 371-8511, Japan. junhorig@showa.gunma-u.ac.jp
+
+BACKGROUND: Trastuzumab and various chemotherapy combinations have shown 
+superior results in patients with primary and metastatic breast cancer. However, 
+cardiotoxicity becomes a major adverse event when trastuzumab is used with 
+anthracycline-containing regimens. The purpose of this study was to determine 
+the clinical and pathological efficacy of neoadjuvant chemotherapy (NAC), using 
+trastuzumab and chemotherapy, with or without anthracyclines, for patients with 
+primary breast cancer and human epidermal growth factor receptor 2 
+(HER2-)-positive tumors.
+PATIENTS AND METHODS: A retrospective analysis of 41 patients with stage II and 
+III primary breast cancer and HER2-positive tumors treated with NAC was 
+performed. NAC consisted of weekly paclitaxel plus trastuzumab with (PTA group, 
+n=21) or without anthracycline (PT group, n=20). Patients in the PTA group 
+received four courses of 5-fluorouracil, epirubicin, and cyclophosphamide every 
+3 weeks followed by concomitant 80 mg/m² paclitaxel and trastuzumab weekly for 
+12 weeks, and those in the PT group received four courses of 80 mg/m² paclitaxel 
+weekly (days 1, 8, and 15) followed by a 1-week break and trastuzumab weekly 
+(days 1, 8, 15, and 29).
+RESULTS: The median age of the patients was 50 years. Of 41 patients, 21 (51%) 
+had a pathological complete response (pCR). Patients with clinical stage II 
+cancer had a higher pCR rate compared with those with clinical stage III. 
+Patients with estrogen receptor (ER)-negative tumors showed a trend toward a 
+higher pCR rate. No significant difference was observed according age, clinical 
+stage, ER status, clinical response, or pathological response between the PTA 
+and the PT groups. The pCR rate of the PTA and the PT groups was 47.6% and 
+55.0%, respectively. No significant difference in disease-free survival was 
+observed between the two groups at a median follow-up of 32 months.
+CONCLUSION: Trastuzumab-containing NAC is effective irrespective of 
+anthracycline use for treating patients with primary breast cancer and 
+HER2-positive tumors.
+
+PMID: 21868556 [Indexed for MEDLINE]
