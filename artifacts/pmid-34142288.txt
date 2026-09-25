@@ -1,0 +1,54 @@
+1. Ann Surg Oncol. 2021 Dec;28(13):8636-8642. doi: 10.1245/s10434-021-10195-8.
+Epub  2021 Jun 17.
+
+Association of Tumor Molecular Subtype and Stage with Breast and Axillary 
+Pathologic Complete Response After Neoadjuvant Chemotherapy for Breast Cancer.
+
+Myers SP(1), Ahrendt GM(2), Lee JS(3), Steiman JG(3), Soran A(3), Johnson RR(3), 
+McAuliffe PF(3), Diego EJ(3).
+
+Author information:
+(1)Department of Surgery, University of Pittsburgh School of Medicine, 
+Pittsburgh, PA, USA. myerssp@upmc.edu.
+(2)Department of Surgery, University of Pittsburgh School of Medicine, 
+Pittsburgh, PA, USA.
+(3)Division of Surgical Oncology, Department of Surgery, University of 
+Pittsburgh College of Medicine, Magee Women's Hospital of UPMC, Pittsburgh, PA, 
+USA.
+
+BACKGROUND: Axillary pathologic complete response (pCR) confers higher overall 
+and recurrence-free survival than residual axillary disease. Although breast pCR 
+(ypT0) is associated with a pathologically negative axilla (ypN0) in human 
+epidermal growth factor receptor 2-positive (HER2+) and triple-negative breast 
+cancer (TNBC), how clinical T (cT) and N (cN) staging are associated with ypN0 
+in other tumor subtypes is incompletely understood.
+METHODS: A single-institution cancer registry was retrospectively reviewed for 
+patients receiving neoadjuvant chemotherapy (NAC) followed by surgery from 2010 
+to 2018. Fisher's exact tests compared proportion of breast and axillary pCR by 
+tumor subtype (hormone receptor [HR]-positive 
+/HER2-,HR+/HER2+,HR-/HER2+,HR-/HER2-). Logistic regression determined factors 
+associated with ypN0. Sensitivity analyses determined how cN status affected ypN 
+status by tumor subtype.
+RESULTS: The study enrolled 1348 patients. The median age was 54 years 
+(interquartile range [IQR], 44-63 years), and 55% of the patients (n = 736) were 
+postmenopausal. The tumor subtypes were HR+/HER2- (12%, n = 155), HR+/HER2+ 
+(48%, n = 653), HR-/HER2+ (25%, n = 343), and TNBC (15%, n = 197). In the study, 
+cT included T0 (1%, n = 18), T1 (20%, n = 272), T2 (53%, n = 713), T3 (17%, 
+n = 230), and T4 (9%, n = 111), and cN included cN0 (51%, n = 687), cN1 (41%, 
+n = 549), cN2 (5%, n = 61), and cN3 (3%, n = 43). Breast pCR and ypN0 occurred 
+most in the HER2+ and TNBC subtypes. A negative association was found between 
+ypN0 and age at diagnosis (odds ratio [OR], 0.98; 95% confidence interval [CI], 
+0.97-0.99; p < 0.001), cT4 stage (OR, 0.29; 95% CI, 0.09-0.91; p = 0.034), and 
+HR+ subtypes (HR+/HER2-: OR, 0.54; 95% CI, 0.31-0.94; p = 0.028; HR+/HER2+: OR, 
+0.60; 95% CI, 0.39-0.93; p = 0.024). The HR-/HER2+ subtype was associated with 
+ypN0 (OR, 1.70; 95% CI, 1.05-2.73; p = 0.030), and cN2/cN3 was negatively 
+associated with ypN0 in HR+/HER2+ disease (OR, 0.26; 95% CI, 0.11-0.61; 
+p = 0.002), HR-/HER2+ disease (OR, 0.42; 95% CI, 0.22-0.77; p = 0.005), and TNBC 
+(OR, 0.11; 95% CI, 0.03-0.40; p = 0.001).
+CONCLUSION: Tumor subtype, clinical stage, and age at diagnosis may be important 
+in consideration of de-escalation of axillary staging.
+
+© 2021. Society of Surgical Oncology.
+
+DOI: 10.1245/s10434-021-10195-8
+PMID: 34142288 [Indexed for MEDLINE]
