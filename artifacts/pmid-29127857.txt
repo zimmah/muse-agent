@@ -1,0 +1,46 @@
+1. Cancer Treat Rev. 2018 Jan;62:9-17. doi: 10.1016/j.ctrv.2017.10.009. Epub 2017
+ Oct 31.
+
+The updated network meta-analysis of neoadjuvant therapy for HER2-positive 
+breast cancer.
+
+Nakashoji A(1), Hayashida T(2), Yokoe T(1), Maeda H(1), Toyota T(1), Kikuchi 
+M(1), Watanuki R(1), Nagayama A(1), Seki T(1), Takahashi M(1), Abe T(3), 
+Kitagawa Y(1).
+
+Author information:
+(1)Department of Surgery, Keio University School of Medicine, Shinanomachi 35, 
+Shinjuku-ku, 160-8582 Tokyo, Japan.
+(2)Department of Surgery, Keio University School of Medicine, Shinanomachi 35, 
+Shinjuku-ku, 160-8582 Tokyo, Japan. Electronic address: tetsu@keio.jp.
+(3)Department of Preventive Medicine and Public Health, Keio University School 
+of Medicine, Shinanomachi 35, Shinjuku-ku, 160-8582 Tokyo, Japan.
+
+BACKGROUND: We previously described a systematic assessment of the neoadjuvant 
+therapies for human epidermal growth factor receptor-2 (HER2) positive breast 
+cancer, using network meta-analysis. Accumulation of new clinical data has 
+compelled us to update the analysis.
+METHODS: Randomized trials comparing different anti-HER2 regimens in the 
+neoadjuvant setting were included, and odds ratio for pathologic complete 
+response (pCR) in seven treatment arms were assessed by pooling effect sizes. 
+Direct and indirect comparisons using a Bayesian statistical model were 
+performed. All statistical tests were two-sided.
+RESULTS: A database search identified 993 articles with 13 studies meeting the 
+eligibility criteria, including three new studies with lapatinib (lpnb). In an 
+indirect comparison, dual anti-HER2 agents with CT achieved a better pCR rate 
+than other arms. The credibility intervals of CT + tzmb + lpnb arm were largely 
+reduced compared to our former report, which we added sufficient clinical 
+evidence by this update. Values of surface under the cumulative ranking (SUCRA) 
+suggested that CT + tzmb + pzmb had the highest probability of being the best 
+treatment arm for pCR, widening the difference between the top two dual-HER2 
+blockade arms compared to our former report. The overall consistency with our 
+first report enhanced the credibility of the results.
+CONCLUSION: Network meta-analysis using new clinical data firmly establish that 
+combining two anti-HER2 agents with CT is most effective against HER2-positive 
+breast cancer in the neoadjuvant setting. New pzmb related trials are required 
+to fully determine the best neoadjuvant dual-HER2 blockade regimen.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2017.10.009
+PMID: 29127857 [Indexed for MEDLINE]
