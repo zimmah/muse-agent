@@ -1,0 +1,94 @@
+1. Breast Cancer. 2021 Sep;28(5):1023-1037. doi: 10.1007/s12282-021-01238-9. Epub
+ 2021 Apr 3.
+
+Meta-analysis of nanoparticle albumin-bound paclitaxel used as neoadjuvant 
+chemotherapy for operable breast cancer based on individual patient data 
+(JBCRG-S01 study).
+
+Futamura M(1), Oba M(2), Masuda N(3), Bando H(4), Okada M(5), Yamamoto Y(6), Kin 
+T(7), Saeki T(8), Nagashima T(9), Kuwayama T(10), Toh U(11), Hirano A(12), 
+Inokuchi M(13), Yamagami K(14), Mizuno Y(15), Kojima Y(16), Nakayama T(17), 
+Yasojima H(3), Ohno S(18).
+
+Author information:
+(1)Department of Surgical Oncology, Gifu University Graduate School of Medicine, 
+Gifu, 501-1194, Japan. mfutamur@gifu-u.ac.jp.
+(2)Department of Medical Statistics, Toho University, Tokyo, 143-8540, Japan.
+(3)Department of Surgery, Breast Oncology, National Hospital Organization Osaka 
+National Hospital, Osaka, 540-0006, Japan.
+(4)Department of Breast-Thyroid-Endocrine Surgery, Tsukuba University, Tsukuba, 
+305-8576, Japan.
+(5)Research Institute for Radiation Biology and Medicine, Hiroshima University, 
+Hiroshima, 734-8553, Japan.
+(6)Department of Breast and Endocrine Surgery, Graduate School of Medical 
+Sciences, Kumamoto University, Kumamoto, 860-8556, Japan.
+(7)Department of Breast Surgery, Hiroshima City Hiroshima Citizens Hospital, 
+Hiroshima, 730-8518, Japan.
+(8)Department of Breast Oncology, Saitama Medical University International 
+Medical Center, Saitama, 350-1298, Japan.
+(9)Department of General Surgery, Graduate School of Medicine, Chiba University, 
+Chiba, 260-8677, Japan.
+(10)Division of Breast Surgical Oncology, Showa University, Tokyo, 142-8666, 
+Japan.
+(11)Department of Surgery, Kurume University School of Medicine, Kurume, 
+830-0011, Japan.
+(12)Department of Breast Surgery, Medical Center East, Tokyo Women's Medical 
+University, Tokyo, 116-8567, Japan.
+(13)Department of Breast and Endocrine Surgery, Kanazawa Medical University, 
+Ishikawa, 920-0293, Japan.
+(14)Department of Breast Surgery and Oncology, Shinko Hospital, Kobe, 651-0072, 
+Japan.
+(15)Department of Breast Surgery, Yokkaichi Municipal Hospital, Yokkaichi, 
+510-8567, Japan.
+(16)Division of Breast and Endocrine Surgery, Department of Surgery, St. 
+Marianna University School of Medicine, Kawasaki, 216-8511, Japan.
+(17)Department of Breast and Endocrine Surgery, Osaka International Cancer 
+Institute, Osaka, 541-8567, Japan.
+(18)Breast Oncology Center, Cancer Institute Hospital, Tokyo, 135-0063, Japan.
+
+BACKGROUND: Nanoparticle albumin-bound paclitaxel (nab-PTX), a novel taxane 
+formulation, was developed to avoid cremophor/ethanol-associated toxicities 
+including peripheral neuropathy and hypersensitivity. At least 35 phase II 
+studies using combined nab-PTX and anthracycline in neoadjuvant settings are 
+registered in Japan. We analyzed the efficacy and safety of nab-PTX based on 
+patient characteristics in these studies.
+METHODS: We conducted a meta-analysis using individual patient data (IPD) to 
+investigate the average efficacy of nab-PTX-containing regimens as neoadjuvant 
+chemotherapy for operable breast cancer. IPD were provided by principal 
+investigators who agreed to participate. The primary endpoint was pathological 
+complete response (pCR) rate of each breast cancer subtype.
+RESULTS: We analyzed the data of 16 studies involving 753 patients. The overall 
+crude frequencies of pCR (ypT0 ypN0, ypT0/is ypN0, and ypT0/is ypNX) were 18.1, 
+26.0, and 28.6%, respectively. Specifically, the frequencies were 6.7, 10.2, and 
+13.4% for luminal (n = 343); 40.5, 63.5, and 68.9% for human epidermal growth 
+factor receptor 2 (HER2)-rich, (n = 74); 21.9, 40.6, and 42.7% for luminal/HER2 
+(n = 96); and 26.3, 31.5, and 32.3% for triple-negative breast cancers (TNBC) 
+(n = 232). The multivariate analyses indicated that HER2 positivity, TNBC, high 
+Ki-67, high nuclear grade, and weekly nab-PTX administration were significantly 
+associated with the pCR. The proportion of hematological toxicities (neutropenia 
+(39.7%) and leukopenia (22.5%)), peripheral sensory neuropathy (9.7%), myalgia 
+(5.7%), and arthralgia (4.7%) was higher than grade 3 adverse events, but most 
+patients recovered.
+CONCLUSIONS: Nab-PTX is a safe and acceptable chemotherapeutic agent in 
+neoadjuvant settings, particularly for aggressive cancers. UMIN-CTR#: 
+UMIN000028774.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s12282-021-01238-9
+PMCID: PMC8354972
+PMID: 33811599 [Indexed for MEDLINE]
+
+Conflict of interest statement: MF-Remuneration: Chugai, Taiho, Takeda, 
+Novartis, and Eisai. NM-Remuneration: Chugai, AstraZeneca, Pfizer, Eli-Lilly, 
+Eisai, Takeda, Kyowa-Kirin, MSD, Novartis, Nippon-Kayaku, and Daiichi-Sankyo. 
+Funding: Chugai. HB-Remuneration: AstraZeneca, Eisai, Kyowa-Kirin, Taiho, 
+Chugai, Nippon-Kayaku, Pfizer, and Novartis. YY-Remuneration and Funds: 
+Novartis, Nippon-Kayaku, Kyowa-Kirin, Taiho, and Chugai. TS-Remuneration: Ono, 
+Kyowa-Kirin. Funding: Taiho, AstraZeneca, Chugai, and Eisai. UT-Remuneration: 
+Chugai, Eisai, and Kyowa-Kirin. Grant: Chugai, Eisai, Taiho, Daichi-Sankyo, 
+Nippon-Kayaku, and Kyowa-Kirin. YK-Remuneration: Chugai, Novartis, 
+Daiichi-Sankyo, Pfizer, Eli-Lilly, AstraZeneca, Kyowa-Kirin, and Eisai. 
+TN-Remuneration: Chugai, Eli Lilly, Novartis, AstraZeneca, and Daiichi-Sankyo. 
+SO-Remuneration: Chugai, Eisai, Eli-Lilly, Pfizer, Taiho, and AstraZeneca. 
+Funding: Taiho and Eisai.
