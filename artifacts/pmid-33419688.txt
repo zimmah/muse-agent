@@ -1,0 +1,54 @@
+1. Clin Breast Cancer. 2021 Aug;21(4):e362-e367. doi: 10.1016/j.clbc.2020.11.015.
+ Epub 2020 Dec 3.
+
+Prognostic Significance of HER2 Expression Changes Following Neoadjuvant 
+Chemotherapy in Saudi Patients With Locally Advanced Breast Cancer.
+
+Al-Saleh K(1), Aldiab A(2), Salah T(3), Arafah M(4), Husain S(4), Al-Rikabi 
+A(4), El-Aziz NA(5).
+
+Author information:
+(1)Department of Medicine, College of Medicine, King Saud University, Riyadh, 
+Kingdom of Saudi Arabia.
+(2)Division of Hematology-Oncology, Oncology Center, King Saud University 
+Medical City, Riyadh, Kingdom of Saudi Arabia.
+(3)Division of Radiation Oncology, Oncology Center, King Saud University, 
+Riyadh, Kingdom of Saudi Arabia; Clinical Oncology, Nuclear Medicine Department, 
+Faculty of Medicine, Assiut University, Assiut, Egypt.
+(4)Department of Pathology, College of Medicine, King Saud University, Riyadh, 
+Kingdom of Saudi Arabia.
+(5)Division of Hematology-Oncology, Oncology Center, King Saud University 
+Medical City, Riyadh, Kingdom of Saudi Arabia; Department of Medical Oncology, 
+South Egypt Cancer Institute, Assiut University, Assiut, Egypt. Electronic 
+address: nashwa.abdelaziz888@gmail.com.
+
+BACKGROUND: Progesterone receptor (PR), estrogen receptor (ER), and human 
+epidermal growth factor receptor 2 (HER2) significantly influence disease 
+prognosis and therapeutic response in patients with breast cancer. Neoadjuvant 
+chemotherapy (NACT) can change the receptor status, affecting the disease 
+characteristics.
+PATIENTS AND METHODS: A retrospective chart review was carried out at a single 
+tertiary care hospital in Riyadh, Kingdom of Saudi Arabia, from December 2008 to 
+December 2014, where 91 adult female patients diagnosed with locally advanced 
+breast cancer planning to receive NACT were included. Original pathology and 
+surgical histopathology reports were assessed, and patients were followed up to 
+recurrence, death, or until December 2019. An expression for the ER, PR, and 
+HER2 was carried out in pre and post NACT specimens by an experienced 
+pathologist, and all HER2 with 2+ immunohistochemistry was sent for fluorescence 
+in situ hybridization as per American Society of Clinical Oncology guidelines.
+RESULTS: ER pre- and postoperatively changed from positive to negative in 17.6% 
+of patients and from negative to positive in 1.1% of patients (P < .001). ER 
+status remained stable in 81.3% of patients. PR changed from positive to 
+negative in 13.2% of patients, and from negative to positive in 3.3% of patients 
+(P < .001), whereas it remained stable in 83.5% of patients. HER2 changed from 
+positive to negative in 11% of patients, and from negative to positive in 5.5% 
+of patients (P < .001), and it remained stable in 83.5% of patients. No 
+significant association was found between overall survival and 
+disease-free-survival with HER2 expression change.
+CONCLUSION: NACT can induce changes in the ER, PR, and HER2 status, which should 
+be evaluated post-NACT to choose the optimal treatment regimens.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2020.11.015
+PMID: 33419688 [Indexed for MEDLINE]
