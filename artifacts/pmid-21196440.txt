@@ -1,0 +1,40 @@
+1. Ann Oncol. 2011 Jun;22(6):1326-1331. doi: 10.1093/annonc/mdq612. Epub 2010 Dec
+ 31.
+
+HER2 and response to anthracycline-based neoadjuvant chemotherapy in breast 
+cancer.
+
+Yao L(1), Liu Y(2), Li Z(1), Ouyang T(1), Li J(1), Wang T(1), Fan Z(1), Fan 
+T(1), Lin B(1), Xie Y(3).
+
+Author information:
+(1)Breast Center.
+(2)Department of Pathology, Key Laboratory of Carcinogenesis and Translational 
+Research (Ministry of Education), Beijing Cancer Hospital and Institute, Peking 
+University Cancer Hospital, Beijing, China.
+(3)Breast Center. Electronic address: zlxyt2@bjmu.edu.cn.
+
+BACKGROUND: The predictive role of human epidermal growth factor receptor 2 
+(HER2) to adjuvant anthracycline-based chemotherapy remains controversial. Here, 
+we investigated the association between HER2 status and pathological response in 
+breast cancer patients who received neoadjuvant anthracycline-based regimens.
+PATIENTS AND METHODS: Women (n = 538) with operable primary breast cancer 
+received neoadjuvant anthracycline-based chemotherapy. Pathological complete 
+response (pCR) was defined as no invasive breast tumor cells in breast after 
+completion of neoadjuvant chemotherapy. HER2 status was determined by 
+immunohistochemistry and/or by fluorescence in situ hybridization in core biopsy 
+breast cancer tissue obtained before initiation of neoadjuvant chemotherapy.
+RESULTS: In this cohort of 538 patients, 23.9% of patients achieved a pCR in 
+their breast. HER2-positive tumors had a lower rate of pCR than did 
+HER2-negative tumors (14.7% versus 25.7%, P = 0.013); negative HER2 status 
+remained as an independent favorable predictor of pCR after adjusted for age, 
+estrogen receptor, progesterone receptor, tumor size, chemotherapy cycles, and 
+tumor grade in a multivariate analysis (odds ratio = 3.14; 95% confidence 
+interval = 1.60-6.16, P = 0.001). Furthermore, patients with a pCR had a higher 
+3-year disease-free survival (DFS) rate than did patients without a pCR (P = 
+0.007).
+CONCLUSION: Women with HER2-negative breast cancers rather than HER2-positive 
+tumors benefit from anthracycline-based neoadjuvant chemotherapy.
+
+DOI: 10.1093/annonc/mdq612
+PMID: 21196440 [Indexed for MEDLINE]
