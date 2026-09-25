@@ -1,0 +1,68 @@
+1. Tomography. 2025 Feb 27;11(3):26. doi: 10.3390/tomography11030026.
+
+MRI-Based Model for Personalizing Neoadjuvant Treatment in Breast Cancer.
+
+Li W(1), Onishi N(1), Gibbs JE(1), Wilmes LJ(1), Le NN(1), Metanat P(1), Price 
+ER(1), Joe BN(1), Kornak J(2), Yau C(3), Wolf DM(4), Magbanua MJM(4), LeStage 
+B(5), van 't Veer LJ(4), DeMichele AM(6), Esserman LJ(3), Hylton NM(1).
+
+Author information:
+(1)Department of Radiology and Biomedical Imaging, University of California, San 
+Francisco, CA 94158, USA.
+(2)Department of Epidemiology and Biostatistics, University of California, San 
+Francisco, CA 94158, USA.
+(3)Department of Surgery, University of California, San Francisco, CA 94158, 
+USA.
+(4)Department of Laboratory Medicine, University of California, San Francisco, 
+CA 94158, USA.
+(5)I-SPY 2 Advocacy Group, San Francisco, CA 94158, USA.
+(6)Department of Medicine, University of Pennsylvania, Philadelphia, PA 19104, 
+USA.
+
+BACKGROUND: Functional tumor volume (FTV), measured from dynamic 
+contrast-enhanced MRI, is an imaging biomarker that can predict treatment 
+response in breast cancer patients undergoing neoadjuvant chemotherapy (NAC). 
+The FTV-based predictive model, combined with core biopsy, informed treatment 
+decisions of recommending patients with excellent responses to proceed to 
+surgery early in a large NAC clinical trial.
+METHODS: In this retrospective study, we constructed models using FTV 
+measurements. We analyzed performance tradeoffs when a probability threshold was 
+used to identify excellent responders through the prediction of pathology 
+complete response (pCR). Individual models were developed within cohorts defined 
+by the hormone receptor and human epidermal growth factor receptor 2 (HR/HER2) 
+subtype.
+RESULTS: A total of 814 patients enrolled in the I-SPY 2 trial between 2010 and 
+2016 were included with a mean age of 49 years (range: 24 to 77). Among these 
+patients, 289 (36%) achieved pCR. The area under the ROC curve (AUC) ranged from 
+0.68 to 0.74 for individual HR/HER2 subtypes. When probability thresholds were 
+chosen based on minimum positive predictive value (PPV) levels of 50%, 70%, and 
+90%, the PPV-sensitivity tradeoff varied among subtypes. The highest 
+sensitivities (100%, 87%, 45%) were found in the HR-/HER2+ sub-cohort for 
+probability thresholds of 0, 0.62, and 0.72; followed by the triple-negative 
+sub-cohort (98%, 52%, 4%) at thresholds of 0.13, 0.58, and 0.67; and HR+/HER2+ 
+(78%, 16%, 8%) at thresholds of 0.34, 0.57, and 0.60. The lowest sensitivities 
+(20%, 0%, 0%) occurred in the HR+/HER2- sub-cohort.
+CONCLUSIONS: Predictive models developed using imaging biomarkers, alongside 
+clinically validated probability thresholds, can be incorporated into 
+decision-making for precision oncology.
+
+DOI: 10.3390/tomography11030026
+PMCID: PMC11946387
+PMID: 40137566 [Indexed for MEDLINE]
+
+Conflict of interest statement: L.J.E. is on the Blue Cross Medical Advisory 
+Panel, is an uncompensated board member of Quantum Leap Healthcare 
+Collaborative, and is involved in an investigator-initiated trial for high-risk 
+DCIS funded by Moderna for a phase 1 study of DCIS. C.Y. receives institutional 
+research grants from NCI/NIH and salary support and travel reimbursement from 
+Quantum Leap Healthcare Collaborative, has a US patent titled, “Breast cancer 
+response prediction subtypes”, (No. 18/174,491), and received a University of 
+California Inventor Share but declares no non-financial competing interests. 
+L.J.v.’t.V. is a part-time employee of and has stock in Agendia NV and serves as 
+an advisor and receives stock options from Exai, Inc., but declares no 
+non-financial competing interests. A.M.D. receives institutional research 
+funding from Novartis, Pfizer, Genentech, and Neogenomics, and serves as a 
+Program Chair on the Scientific Advisory Committee of ASCO, but declares no 
+non-financial competing interests. N.M.H. receives institutional research 
+funding from NIH but declares no non-financial competing interests. All authors 
+declare no conflicts of interest regarding this study.
