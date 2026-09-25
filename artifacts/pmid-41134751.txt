@@ -1,0 +1,43 @@
+1. Am J Case Rep. 2025 Oct 24;26:e949828. doi: 10.12659/AJCR.949828.
+
+Medical Management of an Infusion Site Extravasation Injury After Peripheral 
+Intravenous Infusion of Ado-Trastuzumab Emtansine in a 38-Year-Old Woman with 
+Breast Cancer: A Case Report.
+
+Gamvroulas EM(1), Jeppson P(1), Wei M(2).
+
+Author information:
+(1)Department of Pharmacy, Huntsman Cancer Institute at the University of Utah, 
+Salt Lake City, UT, USA.
+(2)Division of Oncology, Department of Internal Medicine, Huntsman Cancer 
+Institute at the University of Utah, Salt Lake City, UT, USA.
+
+BACKGROUND Ado-trastuzumab emtansine (T-DM1) is indicated for use in both 
+early-stage and metastatic breast cancer. This antibody-drug conjugate uses a 
+toxic payload, emtansine, which is delivered directly to the malignant cells via 
+the covalently linked trastuzumab antibody. Emtansine is a microtubule inhibitor 
+and this targeted therapy is used to decrease adverse events. While the package 
+insert acknowledges that it is an irritant with infusion site extravasation 
+injury as a known adverse event, it does not give clear guidance on 
+extravasation treatment. This case report describes the case of a 38-year-old 
+woman with breast cancer being treated with T-DM1 who experienced extravasation 
+and soft-tissue injury, and the medical management she received. CASE REPORT A 
+38-year-old woman with no previous medical history was diagnosed with hormone 
+receptor-negative and human epidermal growth receptor 2 breast cancer. After 
+refusing port placement, she was treated with T-DM1 via peripheral intravenous 
+injection. She experienced infiltration of T-DM1 and developed widespread 
+erythema, blistering, and pain. She was treated with a topical steroid 
+(clobetasol), topical calcineurin inhibitor (tacrolimus), oral antibiotic 
+(cefadroxil), high-dose vitamin D (ergocalciferol), and pain management 
+(gabapentin) with almost complete resolution in 4 weeks. CONCLUSIONS This case 
+report describes a T-DM1 skin extravasation treated with multimodal medical 
+measures as opposed to a more conservative approach. We reaffirm that the use of 
+port access when administering T-DM1 is critical to prevent extravasation, and 
+we recommend multimodal management, including antibiotics and topical therapies, 
+to prevent infection and expedite wound healing if extravasation occurs.
+
+DOI: 10.12659/AJCR.949828
+PMCID: PMC12560665
+PMID: 41134751 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared
