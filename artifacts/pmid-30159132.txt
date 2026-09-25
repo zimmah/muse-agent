@@ -1,0 +1,35 @@
+1. Oncotarget. 2018 Aug 7;9(61):31915-31919. doi: 10.18632/oncotarget.25739. 
+eCollection 2018 Aug 7.
+
+Dual targeting of HER2-positive breast cancer with trastuzumab emtansine and 
+pertuzumab: understanding clinical trial results.
+
+Ocaña A(1), Amir E(2), Pandiella A(3).
+
+Author information:
+(1)Translational Research Unit, Albacete University Hospital, and CIBERONC, 
+Albacete, Spain.
+(2)Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, 
+University of Toronto, Toronto, Canada.
+(3)Cancer Research Center, CSIC-IBSAL and CIBERONC, Salamanca, Spain.
+
+Targeting of HER2-positive tumors with trastuzumab has shown to improve survival 
+in early stage and advanced breast cancer. The addition of pertuzumab, another 
+anti-HER2 antibody, to trastuzumab-containing regimens has demonstrated a modest 
+increase in disease-free survival in the adjuvant setting. Unexpectedly, when 
+pertuzumab was explored in combination with the antibody-drug conjugate TDM1 in 
+the metastatic setting, no additional benefit was observed compared with dual 
+targeting of HER2 with pertuzumab and trastuzumab, together with chemotherapy. 
+Similar results were observed when exploring pathologic complete response in the 
+neoadjuvant setting. In this article, we discuss basic science and translational 
+data that may explain the limited efficacy observed with the combination of TDM1 
+and pertuzumab, including tumor heterogeneity, clonal selection, bystander 
+effect or downregulation of the receptor by competitive binding. In addition, we 
+review ongoing studies that could help to understand these findings.
+
+DOI: 10.18632/oncotarget.25739
+PMCID: PMC6112749
+PMID: 30159132
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare no 
+conflicts of interest.
