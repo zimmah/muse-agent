@@ -1,0 +1,27 @@
+1. Gan To Kagaku Ryoho. 2016 May;43(5):579-82.
+
+[Efficacy and Safety of Neoadjuvant Chemotherapy Containing Nanoparticle 
+Albumin-Bound Paclitaxel (NabPTX) in Operable Human Epidermal Growth Factor 
+Receptor 2-Positive Breast Cancer].
+
+[Article in Japanese]
+
+Yoshioka S(1), Ota C, Moriguchi Y.
+
+Author information:
+(1)Dept. of Breast Surgery, Kyoto City Hospital.
+
+The efficacy and safety of nanoparticle albumin-bound paclitaxel 
+(nabPTX)-containing neoadjuvant chemotherapy (NAC) were investigated in patients 
+with human epidermal growth factor receptor 2 (HER2)-positive breast cancers. 
+Thirteen HER2-positive patients received NAC containing nabPTX or paclitaxel 
+between June 2008 and December 2014. Of 13 HER2-positive patients, those who 
+received nabPTX-containing NAC showed an 85.7% (6/7) pathological complete 
+response (pCR) rate, whereas those who received paclitaxel-containing NAC showed 
+a pCR rate of 50.0% (3/6). While 5 of 7 patients who received nabPTX-containing 
+NAC developed Grade 3/4 neutropenia, none of them developed febrile neutropenia. 
+Grade 1/2 peripheral neuropathy developed in all 7 patients who received 
+nabPTX-containing NAC. This therapy may be a safe and effective treatment for 
+HER2-positive breast cancer patients.
+
+PMID: 27210086 [Indexed for MEDLINE]
