@@ -1,0 +1,49 @@
+1. Breast Cancer Res Treat. 2016 May;157(1):145-56. doi:
+10.1007/s10549-016-3790-3.  Epub 2016 Apr 23.
+
+Delay in initiation of adjuvant trastuzumab therapy leads to decreased overall 
+survival and relapse-free survival in patients with HER2-positive non-metastatic 
+breast cancer.
+
+Gallagher CM(1), More K(2), Kamath T(3), Masaquel A(3), Guerin A(4), 
+Ionescu-Ittu R(4), Gauthier-Loiselle M(4), Nitulescu R(4), Sicignano N(5)(6), 
+Butts E(6), Wu EQ(7), Barnett B(3).
+
+Author information:
+(1)Washington Cancer Institute, MedStar Washington Hospital Center, 110 Irving 
+Street, NW, Room C-2149, Washington, DC, 20010-2975, USA. 
+Christopher.Gallagher@medstar.net.
+(2)Virginia Oncology Associates, Virginia Beach, VA, USA.
+(3)Genentech, Inc., South San Francisco, CA, USA.
+(4)Analysis Group, Inc., Montreal, QC, Canada.
+(5)Health ResearchTx LLC, Trevose, VA, USA.
+(6)Navy and Marine Corps Public Health Center, Portsmouth, VA, USA.
+(7)Analysis Group, Inc., Boston, MA, USA.
+
+Trastuzumab reduces the risk of relapse in women with HER2-positive 
+non-metastatic breast cancer, but little information exists on the timing of 
+trastuzumab initiation. The study investigated the impact of delaying the 
+initiation of adjuvant trastuzumab therapy for >6 months after the breast cancer 
+diagnosis on time to relapse, overall survival (OS), and relapse-free survival 
+(RFS) among patients with non-metastatic breast cancer. Adult women with 
+non-metastatic breast cancer who initiated trastuzumab adjuvant therapy without 
+receiving any neoadjuvant therapy were selected from the US Department of 
+Defense health claims database from 01/2003 to 12/2012. Two study cohorts were 
+defined based on the time from breast cancer diagnosis to trastuzumab 
+initiation: >6 months and ≤6 months. The impact of delaying trastuzumab 
+initiation on time to relapse, OS, and RFS was estimated using Cox regression 
+models adjusted for potential confounders. Of 2749 women in the study sample, 
+79.9 % initiated adjuvant trastuzumab within ≤6 months of diagnosis and 20.1 % 
+initiated adjuvant trastuzumab >6 months after diagnosis. After adjusting for 
+confounders, patients who initiated trastuzumab >6 months after the breast 
+cancer diagnosis had a higher risk of relapse, death, or relapse/death than 
+those who initiated trastuzumab within ≤6 months of diagnosis (hazard ratios 
+[95 % CIs]: 1.51 [1.22-1.87], 1.54 [1.12-2.12], and 1.43 [1.16-1.75]; 
+respectively). The results of this population-based study suggest that delays of 
+>6 months in the initiation of trastuzumab among HER2-positive non-metastatic 
+breast cancer patients are associated with a higher risk of relapse and shorter 
+OS and RFS.
+
+DOI: 10.1007/s10549-016-3790-3
+PMCID: PMC4869764
+PMID: 27107569 [Indexed for MEDLINE]
