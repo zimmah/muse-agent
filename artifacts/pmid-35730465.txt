@@ -1,0 +1,59 @@
+1. Future Oncol. 2022 Aug;18(25):2817-2825. doi: 10.2217/fon-2022-0326. Epub 2022
+ Jun 22.
+
+Potential value of tumor stiffness and sE-cadherin in predicting the response to 
+neoadjuvant therapy in HER2-positive breast cancers.
+
+Zhou W(1), Wu M(1), Lin H(1), Chen W(1), Lu G(2), Yang F(2), Chen Y(3), Chen 
+G(4).
+
+Author information:
+(1)Department of Ultrasound, The Affiliated People's Hospital of Ningbo 
+University, Ningbo, Zhejiang Province, China.
+(2)Department of Breast & Thyroid Surgery, The Affiliated People's Hospital of 
+Ningbo University, Ningbo, Zhejiang Province, China.
+(3)Department of Ultrasound, Fudan University Shanghai Cancer Center, Shanghai, 
+China.
+(4)Department of Pathology, The Affiliated People's Hospital of Ningbo 
+University, Ningbo, Zhejiang Province, China.
+
+Background: This prospective study compared the diagnostic value of tumor 
+stiffness and serum soluble E-cadherin (sE-cadherin) expression for predicting 
+response to neoadjuvant therapy in HER2-positive breast cancers. Methods: 112 
+patients with early or locally advanced HER2-positive breast cancer were 
+enrolled. Maximum stiffness (Emax), mean stiffness (Emean) and their relative 
+changes were assessed at t0 and t2. sE-cadherin levels were analyzed using 
+ELISA. Pathological complete response was defined as no invasive disease in the 
+breast and axilla (ypT0/is, ypN0) after surgery. The ability of tumor stiffness, 
+sE-cadherin and the combination of ΔEmean (the relative change in Emean after 
+the second cycle of neoadjuvant therapy) and sE-cadherin in predicting tumor 
+responses was assessed using receiver operating characteristic curves and the 
+Z-test. Results: Tumor stiffness and sE-cadherin decreased during neoadjuvant 
+therapy. ΔEmean and sE-cadherin revealed the best predictive performance, with 
+areas under the curve (AUCs) of 0.843 and 0.857, respectively. No significant 
+differences in AUCs were reported between ΔEmean and sE-cadherin (p = 0.795). 
+The combined use of ΔEmean and sE-cadherin showed the highest sensitivity and 
+specificity (93.22 and 90.57%, respectively), with an AUC of 0.937. Conclusion: 
+The combination of ΔEmean and sE-cadherin may improve the predictive power of 
+each single factor. Although further verification is required, this study may 
+promote noninvasive prediction of neoadjuvant therapy responses and help 
+personalize the treatment regimen.
+
+Plain Language Summary: HER2 positivity in breast cancer is associated with a 
+poor prognosis and shortened overall survival. For patients with HER2-positive 
+early breast cancer, the standard neoadjuvant treatment consists of trastuzumab 
+and pertuzumab plus docetaxel, and produces high response rates. In spite of the 
+success of neoadjuvant therapy, some patients show no response due to drug 
+resistance. An accurate prediction of the response of early HER2-positive breast 
+cancer to neoadjuvant therapy would allow the modification of treatment with a 
+response-guided strategy, thereby improving overall survival. Shear wave 
+elastography and serum soluble E-cadherin may provide useful data on 
+responsiveness to neoadjuvant therapy in breast cancers. This study was 
+conducted to compare the diagnostic value of tumor stiffness and soluble 
+E-cadherin expression for predicting the response to neoadjuvant therapy in 
+HER2-positive breast cancers. Although these results will require further 
+verification with larger studies, this study may promote noninvasive prediction 
+of neoadjuvant therapy responses and help personalize the treatment regimen.
+
+DOI: 10.2217/fon-2022-0326
+PMID: 35730465 [Indexed for MEDLINE]
