@@ -1,0 +1,29 @@
+1. Int J Fertil Womens Med. 2005 Sep-Oct;50(5 Pt 1):227-9.
+
+Current status of taxanes as adjuvant therapy for early-stage breast cancer.
+
+Wolff AC(1).
+
+Author information:
+(1)The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Baltimore, 
+Maryland 21231-1000, USA.
+
+Several factors explain the significant improvement in outcome among patients 
+diagnosed with breast cancer over the last 20 years. Chief among them are the 
+greater adoption of screening strategies and an improved understanding of the 
+benefit offered by adjuvant systemic therapy in reducing the risk of cancer 
+recurrence and death. Predictive markers of response like the estrogen receptor 
+(ER) and the human epidermal growth factor receptor 2 (HER2) help identify those 
+most likely to derive a survival benefit from adjuvant therapy with 
+anti-estrogens and trastuzumab therapy, respectively. However, despite the lack 
+of robust predictive markers of clinical benefit, adjuvant systemic chemotherapy 
+is an effective tool to improve the survival odds of breast cancer patients, 
+especially those with ER-negative breast cancer. The Oxford Overview confirmed 
+the incremental benefit offered by the use of anthracycline-containing regimens 
+in the adjuvant setting. After being approved in the early 1990's for the 
+treatment of advanced breast cancer, the taxanes gradually established 
+themselves as useful drugs in the adjuvant setting. In this commentary, we 
+review much of the current data that support the use of taxanes in early-stage 
+breast cancer.
+
+PMID: 16468473 [Indexed for MEDLINE]
