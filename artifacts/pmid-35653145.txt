@@ -1,0 +1,127 @@
+1. JAMA Oncol. 2022 Aug 1;8(8):1190-1194. doi: 10.1001/jamaoncol.2022.1488.
+
+Treatment With Adjuvant Abemaciclib Plus Endocrine Therapy in Patients With 
+High-risk Early Breast Cancer Who Received Neoadjuvant Chemotherapy: A 
+Prespecified Analysis of the monarchE Randomized Clinical Trial.
+
+Martin M(1), Hegg R(2), Kim SB(3), Schenker M(4), Grecea D(5), Garcia-Saenz 
+JA(6), Papazisis K(7), Ouyang Q(8), Lacko A(9), Oksuzoglu B(10), Reeves J(11), 
+Okera M(12), Testa L(13), Shimizu C(14), Denduluri N(15), Adamchuk H(16), Dakhil 
+S(17), Wei R(18), Forrester T(18), Fernandez MM(18), Zimmermann A(18), Headley 
+D(18), Johnston SRD(19).
+
+Author information:
+(1)Medical Oncology Service, Hospital General Universitario Gregorio Marañon, 
+Universidad Complutense, Centro de Investigación Biomédica en Red-Cáncer, Grupo 
+Español de Investigación en Cáncer de Mama, Madrid, Spain.
+(2)Clinica de Pesquisa e Centro São Paulo, São Paulo, Brazil.
+(3)Asan Medical Center, University of Ulsan College of Medicine, Seoul, Korea.
+(4)Centrul de Oncologie Sf Nectarie SRL, University of Medicine and Pharmacy 
+Craiova, Craiova, Romania.
+(5)Institutul Oncologic "Prof.Dr. Ion Chiricuta" Cluj-Napoca, Cluj-Napoca, 
+Romania.
+(6)Medical Oncology Service, Hospital Clinico San Carlos, GEICAM, Madrid, Spain.
+(7)Euromedica, General Clinic of Thessaloniki, Thessaloniki, Greece.
+(8)Hunan Cancer Hospital, Changsha, China.
+(9)Dolnoslaskie Centrum Onkologii, Uniwersytet Medyczny we Wroclawiu, Wroclaw, 
+Poland.
+(10)Dr. Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital, 
+Ankara, Turkey.
+(11)Florida Cancer Specialists/Sarah Cannon Research Institute, Fort Myers.
+(12)Adelaide Cancer Centre, Kurralta Park, Australia.
+(13)Instituto D'Or de Pesquisa e Ensino, São Paulo, Brazil.
+(14)National Center for Global Health and Medicine, Tokyo, Japan.
+(15)Virginia Cancer Specialists, US Oncology Network, Arlington, Virginia.
+(16)Communal Enterprise "Kryvyi Rih oncology dispensary" Dnipr region, Kryvyi 
+Rih, Ukraine.
+(17)Cancer Center of Kansas, Wichita, Kansas.
+(18)Eli Lilly and Company, Indianapolis, Indiana.
+(19)Royal Marsden National Health Service Foundation Trust, London, England.
+
+Comment in
+    JAMA Oncol. 2022 Nov 1;8(11):1701. doi: 10.1001/jamaoncol.2022.4528.
+
+IMPORTANCE: Patients selected to receive neoadjuvant chemotherapy (NAC) are 
+usually those at higher risk of relapse, and there is a need to find better 
+therapeutic options for these patients.
+OBJECTIVE: To determine the efficacy and safety outcomes for patients with 
+hormone receptor (HR)-positive, ERBB2 (formerly HER2)-, high-risk early breast 
+cancer enrolled in the randomized clinical trial monarchE who received NAC.
+DESIGN, SETTING, AND PARTICIPANTS: The monarchE randomized clinical trial was a 
+multicenter, phase 3, open-label study that evaluated adjuvant treatment with 
+abemaciclib plus endocrine therapy (ET) compared with ET alone in patients with 
+HR+, ERBB2-, and node-positive early breast cancer who were at high risk of 
+recurrence. Patients were recruited between July 2017 and August 2019 from 603 
+sites in 38 countries. This subgroup analysis was performed with primary outcome 
+data, with a cutoff date of July 8, 2020.
+INTERVENTION: Enrolled patients were randomized (1:1) to receive standard of 
+care ET for at least 5 years with or without treatment with abemaciclib (150 mg, 
+twice daily) for 2 years (treatment period) or until criteria were met for 
+discontinuation.
+MAIN OUTCOMES AND MEASURES: Prior chemotherapy (NAC vs adjuvant vs none) was a 
+stratification factor in monarchE, and and a prespecified exploratory analysis 
+included outcomes in patients who received NAC. The data presented in this 
+article are from the primary outcome analysis (395 invasive disease-free 
+survival [IDFS] events; cutoff date, July 8, 2020; median follow-up 19 months 
+[IQR, 15.6-23.9 months]). Invasive disease-free survival (the primary end point 
+of monarchE) and distant relapse-free survival (DRFS) were evaluated using the 
+Cox proportional hazard model and Kaplan-Meier method.
+RESULTS: Of the 5637 patients (mean [SD] age, 49.9 [10.6] years; 2046 women 
+[99.5%]; 462 Asian [22.8%], 54 Black [2.7%], and 1473 White participants 
+[70.8%]) enrolled in monarchE, 2056 (37%) received treatment with NAC. In this 
+subgroup, treatment with abemaciclib and ET demonstrated clinically meaningful 
+benefit in IDFS (hazard ratio, 0.61; 95% CI, 0.47-0.80) and DRFS (hazard ratio, 
+0.61; 95% CI, 0.46-0.81), which corresponded with an absolute improvement of 
+6.6% in 2-year IDFS rates and 6.7% in 2-year DRFS rates. A consistent treatment 
+benefit was observed across subgroups of pathological breast tumor size or 
+number of positive lymph nodes at surgery.
+CONCLUSIONS AND RELEVANCE: In the randomized clinical trial monarchE, treatment 
+with adjuvant abemaciclib combined with ET demonstrated a clinically meaningful 
+improvement in IDFS and DRFS for patients with HR+, ERBB2-, node-positive, 
+high-risk early breast cancer who received NAC before trial enrollment.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03155997.
+
+DOI: 10.1001/jamaoncol.2022.1488
+PMCID: PMC9164117
+PMID: 35653145 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Drs Wei and 
+Munoz-Fernandez and Mses Forrester, Headley, and Zimmermann reported being 
+full-time employees of Eli Lilly and Company at the time of the study and 
+shareholders of Eli Lilly and Company. Dr Martin reported grants from Roche, 
+Novartis, and Puma and personal fees from Novartis, Pfizer, Daiichi Sankyo, Eli 
+Lilly and Company, SeaGen, and AstraZeneca outside the submitted work. Dr Kim 
+reported grants from Novartis, Sanofi-Aventis, and Dongkook Pharm Co outside the 
+submitted work as well as consulting fees from Novartis, AstraZeneca, Lilly, Dae 
+Hwa Pharmaceutical Co, ISU Abxis, Daiichi-Sankyo, Beigene, Genopeaks, and 
+NeoGene TC. Dr Schenker reported grants from Eli Lilly and Company, BMS, MSD, 
+Roche, Novartis, Regeneron, Sanofi, Merck Serono, AstraZeneca, GlaxoSmithKline, 
+Amgen, Astellas, AbbVie, Bioven, BeiGene, Bayer, Clovis, Gilead, Mylan, Pfizer, 
+PharmaMar, Samsung Pharmaceuticals, and Tesaro outside the submitted work. Dr 
+García-Sáenz reported grants from SeaGen, Gilead, Eli Lilly and Company, 
+AstraZeneca, and Daiichi Sankyo and personal fees from Novartis, Eisai, and MSD 
+outside the submitted work. Dr Papazisis reported honoraria from Novartis, 
+Roche, GSK, MSD, AstraZeneca, Gilead, and Eli Lilly and Company outside the 
+submitted work. Dr Lacko reported personal fees from Eli Lilly and Company, 
+Roche, Pfizer, Egis, Novartis, Mylan, AstraZeneca, MSD, GlaxoSmithKline, 
+Alvogen, the European School of Oncology, Exact Sciences, Teva, and Gilead 
+outside the submitted work. Dr Reeves reported grants from Eli Lilly and 
+Company, the Sarah Cannon Research Institute, Tesaro, TG Therapeutics, 
+Genentech, Celgene, Merck, Bristol Myers Squibb, Boston Biomedical, AstraZeneca, 
+Novocure, Calithera Biosciences, Novartis, Guardant, Acerta Pharma, Rhizen 
+Pharmaceuticals, Takeda, Onconova, Sanofi, CTI Biopharma, Eisai, Janssen, Roche, 
+Myriad Genetics, G1 Therapeutics, Daiichi Sankyo, Arvinas, Cytomix, Sermonix, 
+SeaGen, Taiho, Boehringer Ingelheim, Hutchinson, Macrogenics, Ipsen, Loxo 
+Oncology, Beigene, Acerta, Verastem, Pharmacyclics, AbbVie, Medimmune, Razor 
+Oncology, BioAtla, GlaxoSmithKline, Jiangsu Hengrei, Arcus Biosciences, Amgen, 
+Mirati, Array, Pfizer, Aravive, Ellipses, Immunogen, Karyopharm, Moderna, 
+Thrive, Incyte, Astellas, Ideaya Bio, Appollomics, Tarveda, Ascentage, and 
+Clovis outside the submitted work. Dr Testa reported personal fees from Lilly, 
+Novartis, MSD, Roche, Amgen, Pfizer, and Daiichi-Sankyo and nonfinancial support 
+from United Medical outside the submitted work. Dr Shimizu reported grants from 
+Eli Lilly during the conduct of the study. Dr Denduluri reported research 
+support from the US Oncology Network and being an employee of AstraZeneca 
+outside the submitted work. Dr Johnston reported personal fees from Eli Lilly 
+and Company during the conduct of the study and personal fees from Novartis and 
+AstraZeneca and grants from Pfizer outside the submitted work. No other 
+disclosures were reported.
