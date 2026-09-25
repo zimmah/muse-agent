@@ -1,0 +1,64 @@
+1. Rev Bras Ginecol Obstet. 2016 Dec;38(12):615-622. doi: 10.1055/s-0036-1597579.
+ Epub 2016 Dec 21.
+
+Multidisciplinary Approach to Neoadjuvant Endocrine Therapy in Breast Cancer: A 
+Comprehensive Review.
+
+Reinert T(1), Ramalho S(2), Gonçalves R(3), Barrios CH(4), Graudenz MS(5), Bines 
+J(6).
+
+Author information:
+(1)Department of Medical Oncology, Hospital do Câncer Mãe de Deus, Porto Alegre, 
+RS, Brazil.
+(2)Department of Obstetrics and Gynecology, School of Medicine, Universidade 
+Estadual de Campinas, Campinas, SP, Brazil.
+(3)Department of Obstetrics and Gynecology, School of Medicine, Universidade de 
+São Paulo, SP, Brazil.
+(4)School of Medicine, Pontifícia Universidade Católica do Rio Grande do Sul, 
+Porto Alegre, RS, Brazil.
+(5)Pathology Department, Universidade Federal do Rio Grande do Sul, Porto 
+Alegre, RS, Brazil.
+(6)Department of Medical Oncology, Instituto Nacional de Câncer, Rio de Janeiro, 
+RJ, Brazil.
+
+Breast cancer is the most common type of cancer and the leading cause of 
+cancer-related death among women worldwide. Hormone receptor-positive (HR+) 
+tumors represent the most common form of this disease, with more than 70% of 
+breast cancers expressing these receptors. Response and benefit to neoadjuvant 
+chemotherapy (NCT) varies according to HR expression, with lower responses in 
+luminal tumors as compared with hormone receptor-negative (HR-) and human 
+epidermal growth factor receptor 2-positive (HER2+) tumors. Neoadjuvant 
+endocrine therapy (NET) is an option for selected patients with HR+ locally 
+advanced breast cancer. Neoadjuvant endocrine therapy has a favorable toxicity 
+profile, and is associated with benefits such as having low cost and being more 
+easily available even for cancer care professionals outside major urban areas or 
+tertiary centers. These factors are particularly relevant, as 70% of breast 
+cancer deaths occur in women from low-income and middle-income countries. 
+Additionally, NET is being increasingly explored, not simply to allow for less 
+extensive surgery, but also as a scientific tool, with the use of biomarkers to 
+predict outcomes in adjuvant trials and for the individual patient. This review 
+details the current and most relevant evidence about NET for breast cancer as 
+well as the future directions of this field.
+
+O câncer de mama é o mais comum, e a principal causa de mortalidade por câncer 
+em mulheres de todo o mundo. Os tumores com receptor hormonal (RH) positivo 
+representam o tipo mais comum desta doença. O benefício e as taxas de resposta à 
+quimioterapia neoadjuvante variam de acordo com a expressão de RH, sendo mais 
+baixa nos tumores luminais em comparação com tumores HER2 positivos ou 
+triplo-negativos. A hormonioterapia neoadjuvante, uma opção para pacientes 
+selecionados com tumores RH positivo localmente avançados, apresenta melhor 
+perfil de tolerabilidade e segurança, e está associada com benefícios 
+adicionais, como baixo custo e fácil acesso. Estes fatores são relevantes, uma 
+vez que 70% das mortes por câncer de mama acontecem em mulheres de países pobres 
+ou em desenvolvimento. Além disso, a hormonioterapia neoadjuvante vem sendo 
+explorada como uma ferramenta científica, ao possibilitar o estudo de 
+biomarcadores que podem predizer desfechos tanto para pacientes individuais 
+quanto para ensaios clínicos em adjuvância. Este artigo de revisão detalha o 
+conhecimento atual e as evidências mais relevantes sobre hormonioterapia 
+neoadjuvante em câncer de mama, assim como perspectivas futuras nesta área.
+
+Thieme-Revinter Publicações Ltda Rio de Janeiro, Brazil.
+
+DOI: 10.1055/s-0036-1597579
+PMCID: PMC10309433
+PMID: 28002848 [Indexed for MEDLINE]
