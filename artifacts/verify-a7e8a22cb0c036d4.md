@@ -1,0 +1,17 @@
+# methods-audit — claim a7e8a22cb0c036d4c3d76273bae6883991268f3fcb5963648796d5845f8fb59d
+
+Claim: Reported finding from PMID 42593586 (The impact of menopausal status on the efficacy of adjuvant CDK4/6 inhibitors in hormone receptor-positive early breast cancer: a systematic review and meta-analysis of phase III clinical trials): Efficacy of adjuvant CDK4/6 inhibition in HR+/HER2-negative early breast cancer does not appear to be influenced by menopausal status as defined in individual trials. Greater heterogeneity among pre-/peri-menopausal patients may reflect differences in endocrine therapy backbone, tumor characteristics and patient risk.
+Source: PMID 42593586 (https://pubmed.ncbi.nlm.nih.gov/42593586/)
+Checked: 2026-09-25T20:11:46.300Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Checklist audit (qwen3:8b, temp 0): design in source: not stated; design matches claim: true; endpoint matches: n/a; population matches: n/a; contradiction: false.
+3. Notes: The claim is fully supported by the source abstract. The abstract states that the efficacy of adjuvant CDK4/6 inhibition in HR+/HER2-negative early breast cancer does not appear to be influenced by menopausal status as defined in individual trials. It also notes that greater heterogeneity among pre-/peri-menopausal patients may reflect differences in endocrine therapy backbone, tumor characteristics, and patient risk, which aligns with the claim.
+4. Deterministic numeric grounding: missing tokens: none.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: e966a4471cb09d88079dcfe73e0eaa45990cc6179c37ed1d32c1b5ccb58d061a
