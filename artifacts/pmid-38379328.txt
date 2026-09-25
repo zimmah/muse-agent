@@ -1,0 +1,53 @@
+1. Cancer Med. 2024 Jan;13(2):e6955. doi: 10.1002/cam4.6955.
+
+Somatic mutations in a multigene panel and impact on prognosis based on TP53 
+status in Chinese HER2-positive patients undergoing neoadjuvant therapy: A 
+single-institution retrospective cohort.
+
+Xiong M(1), Wang X(1), Liu D(1), Xiu B(1), Zhang Q(1), Chi W(1), Goh CW(1), 
+Zhang L(1), Chen M(1), Ren H(1), Shao ZM(1), Yang B(1), Wu J(1)(2).
+
+Author information:
+(1)Department of Breast Surgery, Key Laboratory of Breast Cancer in Shanghai, 
+Fudan University Shanghai Cancer Center, Shanghai, China.
+(2)Collaborative Innovation Center for Cancer Medicine, Shanghai, China.
+
+BACKGROUND: Gene mutations play a crucial role in the occurrence and development 
+of tumors, particularly in breast cancer (BC). Neoadjuvant therapy (NAT) has 
+shown greater clinical benefit in HER2-positive breast cancer. However, further 
+clinical investigation is needed to fully understand the correlation between 
+genetic mutations and NAT efficacy and the long-term prognosis in HER2-positive 
+BC.
+METHODS: This was a retrospective cohort study of 222 patients receiving NAT 
+between 2017 and 2021 in the Department of Breast Surgery of Fudan University 
+Shanghai Cancer Center. Tumor samples from these patients were subjected to Next 
+Generation Sequencing (NGS) to analyze mutations in 513 cancer-related genes. 
+This study aimed to investigate the association between these genetic mutations 
+and postoperative pathological complete response (pCR), as well as their impact 
+on disease-free survival (DFS).
+RESULTS: In total, 48.65% patients reached pCR, ER-negative status (p < 0.001), 
+PR-negative status (p < 0.001), Ki67 ≥ 20 (p = 0.011), and dual-targeted therapy 
+(p < 0.001) were all associated with enhanced pCR rates. The frequency of 
+somatic alterations in TP53 (60%), PIK3CA (15%), and ERBB2 (11%) was highest. In 
+the HER2+/HR- cohort, patients who achieved pCR had a significant benefit in 
+prognosis (HR = 3.049, p = 0.0498). KMT2C (p = 0.036) and TP53 (p = 0.037) 
+mutations were significantly increased in patients with DFS events. Moreover, 
+TP53 mutations had prognostic significance in HER2-positive BC patients with 
+HR-negative (HR = 3.712, p = 0.027) and pCR (HR = 6.253, p = 0.027) status and 
+who received herceptin-only targeted therapy (HR = 4.145, p = 0.011).
+CONCLUSIONS: The genetic mutation profiles of Chinese HER2+ patients who 
+received NAT were discrepant with respect to HR status or DFS events. TP53 
+mutations have significant prognostic value in patients with NAT for 
+HER2-positive BC and patients benefit differently depending on HR status, the 
+neoadjuvant regimen and response, which highlights the significance of genetic 
+factors in treatment customization based on individual genetic and clinical 
+characteristics.
+
+© 2024 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.6955
+PMCID: PMC10832311
+PMID: 38379328 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
