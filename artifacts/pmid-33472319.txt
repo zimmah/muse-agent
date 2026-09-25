@@ -1,0 +1,29 @@
+1. Zhonghua Zhong Liu Za Zhi. 2021 Jan 23;43(1):92-97. doi: 
+10.3760/cma.j.cn112152-20201112-00980.
+
+[Clinical research progress of T-DM1 in breast cancer].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Li LX(1), Ma F(1).
+
+Author information:
+(1)Department of Medical Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing 100021, China.
+
+Ado-trastuzumab emtansine (T-DM1) is an antibody-drug conjugate (ADC) composed 
+of trastuzumab, a linker, and a microtubule inhibitor. T-DM1 combines the highly 
+effective targeting of antibody with the high anti-tumor activity of cytotoxic 
+drugs, while reduces the off-target toxic side effects of cytotoxic drugs. T-DM1 
+has been applied in neoadjuvant therapy of HER2-positive breast cancer and 
+rescue treatment of advanced breast cancer, greatly improves the prognosis of 
+breast cancer patients. More and more clinical trials of T-DM1 for HER2 breast 
+cancer and other solid tumors are ongoing, and more positive results are 
+expected.
+
+Publisher: 
+恩美曲妥珠单抗(T-DM1)是曲妥珠单抗、连接头和微管抑制剂组成的抗体偶合物。T-DM1结合了抗体的高效靶向性与细胞毒性药物的高抗肿瘤活性优势，降低了细胞毒性药物的脱靶不良反应。T-DM1应用于人表皮生长因子受体2(HER-2)阳性乳腺癌的新辅助治疗和晚期乳腺癌的解救治疗，极大地改善了乳腺癌患者的预后。越来越多有关T-DM1治疗HER-2阳性乳腺癌及其他实体瘤的临床试验正在开展，期待有更多的阳性结果。.
+
+DOI: 10.3760/cma.j.cn112152-20201112-00980
+PMID: 33472319 [Indexed for MEDLINE]
