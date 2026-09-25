@@ -1,0 +1,86 @@
+1. Breast Cancer Res Treat. 2022 Nov;196(2):311-321. doi: 
+10.1007/s10549-022-06710-4. Epub 2022 Sep 12.
+
+Dual HER2 blockade with pertuzumab (P) and trastuzumab (T) in patients with 
+HER2-positive metastatic breast cancer (mBC) relapsing after adjuvant treatment 
+with T: results from a German non-interventional study (NIS) HELENA 
+(NCT01777958).
+
+Thill M(1), Wimberger P(2)(3)(4)(5), Grafe A(6), Klare P(7), Luedtke-Heckenkamp 
+K(8), Reichert D(9), Zaiss M(10), Ziegler-Löhr K(11), Eckl T(12), Schneeweiss 
+A(13).
+
+Author information:
+(1)Department of Gynecology and Gynecological Oncology, Agaplesion Markus 
+Hospital, Frankfurt A. M, Germany. marc.thill@agaplesion.de.
+(2)Department of Gynecology and Obstetrics, TU Dresden and National Center for 
+Tumor Diseases (NCT/UCC), Dresden, Germany.
+(3)German Cancer Research Center (DKFZ), Heidelberg, Germany.
+(4)Faculty of Medicine and University Hospital Carl Gustav Carus, Technische 
+Universität Dresden, Dresden, Germany.
+(5)Helmholtz-Zentrum Dresden - Rossendorf (HZDR), Dresden, Germany.
+(6)Medical Center Nordhausen gGmbH, Nordhausen, Germany.
+(7)Gynecological Out-Patient Clinic, Berlin, Germany.
+(8)Center for Oncology and Hematology, Niels-Stensen-Clinics, 
+Franziskus-Hospital Harderberg, Georgsmarienhütte, Germany.
+(9)Center for Oncology, Westerstede, Germany.
+(10)Practice for Interdisciplinary Oncology & Hematology, Freiburg, Germany.
+(11)Practice for Gynecological Oncology, Cologne, Germany.
+(12)Roche Pharma AG, Grenzach-Wyhlen, Germany.
+(13)National Center for Tumor Diseases (NCT), Heidelberg University Hospital and 
+German Cancer Research Center, Heidelberg, Germany.
+
+PURPOSE: NIS HELENA documented outcomes in clinical routine practice of 
+first-line therapy with P plus T and docetaxel (D) of patients with advanced 
+HER2-positive BC and prior (neo)adjuvant T.
+METHODS: Between 06/2013 through 07/2016, 126 patients (in-label use of P at 
+study start = full analysis set, FAS) in 81 German study sites were included. 
+Intense documentation period was limited to 28 treatment cycles. Maximum 
+follow-up (FU) was 24 months (mos). Safety was assessed in the safety set 
+(SAF = eligible patients with at least one dose of P, n = 132). Median 
+progression-free survival (PFS) was the main parameter of interest.
+RESULTS: Mean age of FAS patients was 55.1 [30.7-80.2] years, 81.7% (95.2%) 
+were < 65 (75) years of age. 51.6% of the FAS patients were hormone 
+receptor-positive (HR+), 91.3% had distant, 73.0% visceral, and 18.3% 
+non-visceral metastases. Median disease-free interval was 40.2 [6.6-95.9] mos. 
+Effectiveness (FAS): Median PFS was 18.8 [15.1; 24.2] mos. Overall response rate 
+was 64.3% (55.6; 72.1). Median overall survival was 55.9 mos [41.2, not 
+reached]. Safety (SAF): 93.9% of patients had an adverse event (AE), 32.6% a 
+serious AE (SAE). AEs related to P occurred in 53.8% of SAF, SAEs related to P 
+in 13.6%. Diarrhea was the most frequently reported related (S)AE. There were 8 
+(6.1%) patients with a fatal AE.
+CONCLUSION: Based on the outcomes from NIS HELENA, results of dual blockade with 
+P+T in patients relapsing after (neo)adjuvant T as reported from the CLEOPATRA 
+study (NCT01777958) can be transferred to routine clinical practice. No new 
+safety signals were detected.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s10549-022-06710-4
+PMCID: PMC9581869
+PMID: 36094611 [Indexed for MEDLINE]
+
+Conflict of interest statement: Prof. M. Thill reports personal fees from Amgen, 
+AstraZeneca, Celgene (inc. non-financial), Clearcut, Clovis, Daiichi Sankyo, 
+Gilead Science, Eisai, Exact Science (including non-financial and grants 
+(trialfunding)), Lilly, MSD, Hexal, Neodynamics, Novartis, Pfizer, pfm medical 
+(including non-financial, writing assistance), Roche (including non-financial 
+writing assistance), Pierre Fabre, Tesaro, Clovis, Seagen, Servier, Clearcut, 
+Organon, Viatris, Becton Dickinson, Symex, Vifor and a grant from Endomag, Prof. 
+P Wimberger reports honoraria and contracted research from Amgen, AstraZeneca, 
+MSD, Novartis, Pfizer, Lilly, Roche, Teva, Eisai, Clovis and GSK, Prof. A. 
+Schneeweiss reports research grants from Celgene, Roche and Abbvie, personal 
+fees from Roche (travel expenses, expert testimony, honoraria, medical writing), 
+personal fees from AstraZeneca personal fees (travel expenses, honoraria and 
+expert testimony), personal fees from Celgene (travel expenses and expert 
+testimony), personal fees from Pfizer (travel expenses and expert testimony), 
+honoraria from Novartis, MSD, Tesaro, Lilly and Seagen, Dr. T. Eckl holds stocks 
+and is an employee of Roche Pharma Germany, Dr. K. Luedtke-Heckenkamp receives 
+consulting fees from AstraZeneca, Eisai, Novartis, Pfizer, Roche and Seagen, Dr. 
+M. Zaiss receives consulting fees from Roche, Abbvie, AstraZeneca, Lilly, 
+Janssen, Celgene, Pfizer, Novartis, Vifor, Gilead, fees from non-CME-services 
+from Pfizer, Vifor, AstraZeneca and contracted research from Roche, Novartis and 
+AstraZeneca; Dr. K. Ziegler-Löhr receives consulting fees from Roche, Novartis, 
+Tesaro, from contracted research with Roche, Novartis, Tesaro and has ownership 
+interests in Daiichi Sankyo. Dr. A. Grafe, Dr. P. Klare, and Dr. D. Reichert 
+reported to not have received personal fees.
