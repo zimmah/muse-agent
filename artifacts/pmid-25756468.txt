@@ -1,0 +1,26 @@
+1. Am J Ther. 2016 Mar-Apr;23(2):e572-4. doi: 10.1097/MJT.0000000000000179.
+
+Acute Pancreatitis Associated With Ado-Trastuzumab Emtansine.
+
+Muzaffar M(1), Jia J, Liles D, Naveed M, Kumari A.
+
+Author information:
+(1)Departments of 1Hematology/Oncology and 2Internal Medicine, Brody School of 
+Medicine, East Carolina University, Greenville, NC.
+
+Ado-trastuzumab emtansine (T-DM1) is a novel antibody-drug conjugate with 
+current FDA recommendation for second-line treatment of HER-2-positive 
+metastatic breast cancer. It is a human epidermal growth factor receptor 
+(HER-2)-targeted antibody-drug conjugate composed of trastuzumab, a stable 
+thioether linker, and the potent cytotoxic agent DM1 (derivative of maytansine). 
+Ado-trastuzumab emtansine improved both progression-free and overall survival as 
+reported in EMILIA trial. With ongoing clinical trials in adjuvant and 
+first-line setting for HER-2-positive early and metastatic breast cancer, it is 
+prudent to recognize, report, and treat any adverse events related to T-DM1. We 
+report a case of acute pancreatitis in a 54-year-old woman with metastatic 
+breast cancer after she received her first dose of ado-trastuzumab emtansine. To 
+the best of our knowledge, this is the first reported case of acute pancreatitis 
+with probable association with ado-trastuzumab emtansine.
+
+DOI: 10.1097/MJT.0000000000000179
+PMID: 25756468 [Indexed for MEDLINE]
