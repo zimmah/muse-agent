@@ -1,0 +1,37 @@
+1. Int J Clin Exp Pathol. 2015 Jan 1;8(1):914-21. eCollection 2015.
+
+Evaluation of biomarker changes after administration of various neoadjuvant 
+chemotherapies in breast cancer.
+
+Jin G(1), Han Y(2), Liu C(3), Chen L(1), Ding B(4), Xuan S(1), Liu X(1), Ma 
+G(1), Gao J(1), Tian X(5).
+
+Author information:
+(1)Department of Breast Surgery, Jinan Central Hospital, Shandong University 
+Jinan 250021, P.R. China.
+(2)Intensive Care Unit, Shan Dong Province Hospital, Shandong University Jinan 
+250012, P.R. China.
+(3)Department of Ultrasound, Jinan Central Hospital, Shandong University Jinan 
+250012, P.R. China.
+(4)Department of Pathology, Jinan Central Hospital, Shandong University Jinan 
+250012, P.R. China.
+(5)Department of Breast Surgery, Shan Dong Province Hospital, Shandong 
+University Jinan 250012, P.R. China.
+
+To assess the changes in estrogen receptor (ER), progesterone receptor (PR), 
+human epidermal growth factor receptor 2 (HER2) and Ki-67 expression in breast 
+cancer patients after various neoadjuvant chemotherapies. Data from 138 locally 
+advanced breast cancer patients with histological diagnoses were reviewed. 
+Seventy patients (group 1) were given 4 cycles of 500 mg/m(2) cyclophosphamide 
+and 50 mg/m(2) pirarubicin every 21 days. Sixty-eight patients (group 2) were 
+given 4 cycles of 500 mg/m(2) cyclophosphamide and 75 mg/m(2) docetaxel every 21 
+days. The biomarker changes of the operated tumor tissues were compared with the 
+initial core biopsies. ER, PR, HER2 and Ki-67 expression changed by 28.6%, 
+22.9%, 17.1% and 54.3%, respectively, after neoadjuvant chemotherapy in group 1 
+and 16.2%, 22.1%, 13.2% and 70.6%, respectively, after neoadjuvant chemotherapy 
+in group 2. There were significant differences between the groups regarding ER 
+and Ki-67 status changes, and these changes can be used to inform treatment 
+strategies.
+
+PMCID: PMC4348938
+PMID: 25755795 [Indexed for MEDLINE]
