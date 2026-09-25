@@ -1,0 +1,59 @@
+1. J Natl Cancer Inst. 2023 Mar 9;115(3):332-336. doi: 10.1093/jnci/djac227.
+
+HER2DX ERBB2 mRNA expression in advanced HER2-positive breast cancer treated 
+with T-DM1.
+
+Brasó-Maristany F(1), Griguolo G(2)(3), Chic N(1)(4), Pascual T(4)(5), Paré 
+L(6), Maues J(7), Galván P(1), Dieci MV(2)(3), Miglietta F(2)(3), Giarratano 
+T(2)(3), Martínez-Sáez O(1)(4)(8), Marín-Aguilera M(6), Schettini F(1)(4), Conte 
+B(1)(4), Angelats L(1)(4), Vidal M(1)(4)(5)(8)(9), Adamo B(1)(4)(7), Muñoz 
+M(1)(4)(5)(8), Sanfeliu E(10), González B(10), Vivancos A(11), Villagrasa P(6), 
+Parker JS(12), Perou CM(13), Conte P(2)(3), Prat A(1)(4)(5)(6)(8)(9), Guarneri 
+V(2)(3).
+
+Author information:
+(1)Translational Genomics and Targeted Therapies in Solid Tumors group, August 
+Pi i Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, Spain.
+(2)Department of Surgery, Oncology and Gastroenterology, University of Padova, 
+Padova, Italy.
+(3)Division of Oncology 2, Istituto Oncologico Veneto, IRCCS, Padova, Italy.
+(4)Department of Medical Oncology, Hospital Clinic of Barcelona, Spain.
+(5)SOLTI Cooperative Group, Barcelona, Spain.
+(6)Reveal Genomics, Barcelona, Spain.
+(7)GRASP, Baltimore, MD, USA.
+(8)Department of Medicine, University of Barcelona, Barcelona, Spain.
+(9)Institute of Oncology (IOB)-Hospital Quirónsalud, Barcelona, Spain.
+(10)Department of Pathology, Hospital Clinic de Barcelona, Barcelona, Spain.
+(11)Vall d'Hebron Institute of Oncology (VHIO), Cancer Genomics Group, 
+Barcelona, Spain.
+(12)Department of Genetics, University of North Carolina, Chapel Hill, NC, USA.
+(13)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel 
+Hill, NC, USA.
+
+Comment in
+    J Natl Cancer Inst. 2023 Mar 9;115(3):242-245. doi: 10.1093/jnci/djac228.
+    J Natl Cancer Inst. 2023 Jun 8;115(6):762-763. doi: 10.1093/jnci/djad060.
+
+In advanced HER2-positive (HER2+) breast cancer, the new antibody-drug conjugate 
+trastuzumab deruxtecan is more effective compared with trastuzumab emtansine 
+(T-DM1). However, trastuzumab deruxtecan can have considerable toxicities, and 
+the right treatment sequence is unknown. Biomarkers to guide the use of 
+anti-HER2 therapies beyond HER2 status are needed. Here, we evaluated if 
+preestablished levels of ERBB2 mRNA expression according to the HER2DX 
+standardized assay are associated with response and survival following T-DM1. In 
+ERBB2 low, medium, and high groups, the overall response rate was 0%, 29%, and 
+56%, respectively (P < .001). ERBB2 mRNA was statistically significantly 
+associated with better progression-free survival (P = .002) and overall survival 
+(OS; P = .02). These findings were independent of HER2 immunohistochemistry 
+(IHC) levels, hormone receptor, age, brain metastasis, and line of therapy. The 
+HER2DX risk score (P = .04) and immunoglobulin signature (P = .04) were 
+statistically significantly associated with overall survival since diagnosis. 
+HER2DX provides prognostic and predictive information following T-DM1 in 
+advanced HER2+ breast cancer.
+
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. 
+For permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jnci/djac227
+PMCID: PMC9996199
+PMID: 36576009 [Indexed for MEDLINE]
