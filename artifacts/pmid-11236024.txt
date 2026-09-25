@@ -1,0 +1,25 @@
+1. Semin Oncol. 2000 Dec;27(6 Suppl 11):26-32; discussion 92-100.
+
+Ongoing and planned adjuvant trials with trastuzumab.
+
+Perez EA(1), Hortobagyi GN.
+
+Author information:
+(1)Division of Hematology/Oncology, Mayo Foundation and Mayo Clinic, 
+Jacksonville, FL, USA.
+
+HER-2 (c-erbB-2, neu) is an important prognostic and predictive factor in breast 
+cancer. Clinical trials utilizing a humanized version of the anti-HER-2 murine 
+monoclonal antibody 4DS, trastuzumab (Herceptin; Genentech Inc, South San 
+Francisco, CA), have shown antitumor activity in patients with HER-2-positive 
+metastatic breast cancer. Improved response and survival rates have been shown 
+when trastuzumab was added to first-line combination chemotherapy with 
+anthracycline/cyclophosphamide or paclitaxel, compared to the same chemotherapy 
+alone. The Breast Cancer Intergroup has recently completed several trials 
+evaluating new chemotherapy treatment approaches for patients with node-positive 
+breast cancer, which form the basis for several ongoing and planned clinical 
+trials incorporating trastuzumab. These clinical trials and the evolving role of 
+trastuzumab-containing adjuvant systemic therapy for breast cancer will be 
+reviewed.
+
+PMID: 11236024 [Indexed for MEDLINE]
