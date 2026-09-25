@@ -1,0 +1,73 @@
+1. Breast Cancer Res. 2023 Jun 19;25(1):71. doi: 10.1186/s13058-023-01664-x.
+
+BluePrint molecular subtypes predict response to neoadjuvant pertuzumab in 
+HER2-positive breast cancer.
+
+Liefaard MC(1)(2), van der Voort A(2), van Ramshorst MS(2), Sanders J(3), Vonk 
+S(1)(4), Horlings HM(3), Siesling S(5)(6), de Munck L(5), van Leeuwen AE(7), 
+Kleijn M(8), Mittempergher L(8), Kuilman MM(8), Glas AM(8), Wesseling 
+J(1)(3)(9), Lips EH(1), Sonke GS(10).
+
+Author information:
+(1)Division of Molecular Pathology, The Netherlands Cancer Institute, Amsterdam, 
+The Netherlands.
+(2)Department of Medical Oncology, The Netherlands Cancer Institute, Amsterdam, 
+The Netherlands.
+(3)Department of Pathology, The Netherlands Cancer Institute, Amsterdam, The 
+Netherlands.
+(4)Core Facility Molecular Pathology and Biobanking, The Netherlands Cancer 
+Institute, Amsterdam, The Netherlands.
+(5)Department of Research and Development, Netherlands Comprehensive Cancer 
+Organization (IKNL), Utrecht, The Netherlands.
+(6)Department of Health Technology and Services Research, Technical Medical 
+Centre, University of Twente, Enschede, The Netherlands.
+(7)Dutch Breast Cancer Research Group, BOOG Study Center, Amsterdam, The 
+Netherlands.
+(8)Department of Research and Development, Agendia NV, Amsterdam, The 
+Netherlands.
+(9)Department of Pathology, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(10)Department of Medical Oncology, The Netherlands Cancer Institute, Amsterdam, 
+The Netherlands. g.sonke@nki.nl.
+
+BACKGROUND: The introduction of pertuzumab has greatly improved pathological 
+complete response (pCR) rates in HER2-positive breast cancer, yet effects on 
+long-term survival have been limited and it is uncertain which patients derive 
+most benefit. In this study, we determine the prognostic value of BluePrint 
+subtyping in HER2-positive breast cancer. Additionally, we evaluate its use as a 
+biomarker for predicting response to trastuzumab-containing neoadjuvant 
+chemotherapy with or without pertuzumab.
+METHODS: From a cohort of patients with stage II-III HER2-positive breast cancer 
+who were treated with neoadjuvant chemotherapy and trastuzumab with or without 
+pertuzumab, 836 patients were selected for microarray gene expression analysis, 
+followed by readout of BluePrint standard (HER2, Basal and Luminal) and dual 
+subtypes (HER2-single, Basal-single, Luminal-single, HER2-Basal, Luminal-HER2, 
+Luminal-HER2-Basal). The associations between subtypes and pathological complete 
+response (pCR), overall survival (OS) and breast cancer-specific survival (BCSS) 
+were assessed, and pertuzumab benefit was evaluated within the BluePrint 
+subgroups.
+RESULTS: BluePrint results were available for 719 patients. In patients with 
+HER2-type tumors, the pCR rate was 71.9% in patients who received pertuzumab 
+versus 43.5% in patients who did not (adjusted Odds Ratio 3.43, 95% CI 
+2.36-4.96). Additionally, a significantly decreased hazard was observed for both 
+OS (adjusted hazard ratio [aHR] 0.45, 95% CI 0.25-0.80) and BCSS (aHR 0.46, 95% 
+CI 0.24-0.86) with pertuzumab treatment. Findings were similar in the 
+HER2-single subgroup. No significant benefit of pertuzumab was seen in other 
+subtypes.
+CONCLUSIONS: In patients with HER2-type or HER2-single-type tumors, pertuzumab 
+significantly improved the pCR rate and decreased the risk of breast cancer 
+mortality, which was not observed in other subtypes. BluePrint subtyping may be 
+valuable in future studies to identify patients that are likely to be highly 
+sensitive to HER2-targeting agents.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13058-023-01664-x
+PMCID: PMC10280902
+PMID: 37337299 [Indexed for MEDLINE]
+
+Conflict of interest statement: G.S.S. reports institutional research support 
+from Agendia, AstraZeneca, Merck, Novartis, Roche and Seagen and consultancy 
+fees paid to the institute from Biovica and Seagen. H.M.H. reports institutional 
+research support from Roche. M.K., L.M, M.M.K. and A.M.G. are employees of 
+Agendia NV. All other authors have no conflicts of interest to declare.
