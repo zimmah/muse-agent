@@ -1,0 +1,42 @@
+1. J Clin Oncol. 2004 Sep 15;22(18):3700-4. doi: 10.1200/JCO.2004.03.516.
+
+Effect of doxorubicin plus cyclophosphamide on left ventricular ejection 
+fraction in patients with breast cancer in the North Central Cancer Treatment 
+Group N9831 Intergroup Adjuvant Trial.
+
+Perez EA(1), Suman VJ, Davidson NE, Kaufman PA, Martino S, Dakhil SR, Ingle JN, 
+Rodeheffer RJ, Gersh BJ, Jaffe AS.
+
+Author information:
+(1)North Central Cancer Treatment Group, Division of Hematology/Oncology, Mayo 
+Clinic, Jacksonville, FL 32224, USA. perez.edith@mayo.edu
+
+Erratum in
+    J Clin Oncol. 2005 Mar 1;23(7):1594.
+
+PURPOSE: To evaluate changes in left ventricular ejection fraction (LVEF) after 
+four cycles of adjuvant doxorubicin plus cyclophosphamide (AC) in women with 
+human epidermal growth factor receptor 2-positive (node-positive or 
+node-negative) breast cancer enrolled onto the North Central Cancer Treatment 
+Group N9831 Intergroup Adjuvant Trial.
+PATIENTS AND METHODS: Patients were randomly assigned to receive standard 
+doxorubicin (60 mg/m2) plus cyclophosphamide (600 mg/m2) every 3 weeks for four 
+cycles followed by (1) weekly paclitaxel for 12 weeks; (2) weekly paclitaxel for 
+12 weeks, then weekly trastuzumab for 52 weeks; or (3) weekly paclitaxel plus 
+trastuzumab for 12 weeks, then weekly trastuzumab for 40 weeks. LVEF was 
+monitored before and after AC.
+RESULTS: Of the 1,576 eligible patients who completed AC, 1,458 had pre- and 
+post-AC LVEF measurements taken using the same methodology (multiple-gated 
+acquisition in 1,153 patients and echocardiogram in 305 patients). Among these 
+1,458 patients, 745 (51.1%) had < or = 15% decrease in LVEF and LVEF that 
+remained at or above the radiologic lower limit of normal (LLN); 42 patients 
+(2.9%) had < or = 15% decrease in LVEF and LVEF that decreased to or below the 
+LLN; and 37 patients (2.5%) had an LVEF decrease of more than 15%. There was 
+grade 2 LVEF toxicity in 96 (6.6%) of the 1,458 patients.
+CONCLUSION: Standard AC chemotherapy is associated with frequent decreases in 
+LVEF, which are noted when measured 3 weeks after completion of the fourth 
+cycle. Patients are being observed to determine the long-term significance of 
+this and the potential impact on subsequent treatment options.
+
+DOI: 10.1200/JCO.2004.03.516
+PMID: 15365066 [Indexed for MEDLINE]
