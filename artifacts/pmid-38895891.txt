@@ -1,0 +1,58 @@
+1. Cancer Med. 2024 Jun;13(12):e7317. doi: 10.1002/cam4.7317.
+
+Real-world treatment patterns of adjuvant endocrine therapy and ovarian 
+suppression in premenopausal HR+/HER2+ breast cancer.
+
+Sukumar JS(1), Sardesai S(2), Ni A(3), Williams N(2), Johnson K(2), Quiroga 
+D(2), Ramaswamy B(2), Wesolowski R(2), Cherian M(2), Stover DG(2), Gatti-Mays 
+M(2), Pariser A(2), Sudheendra P(2), George MA(4), Lustberg M(5).
+
+Author information:
+(1)Department of Breast Medical Oncology, The University of Texas MD Anderson 
+Cancer Center, Houston, Texas, USA.
+(2)Division of Medical Oncology, The Ohio State University Comprehensive Cancer 
+Center, Columbus, Ohio, USA.
+(3)The Ohio State University, College of Public Health, Columbus, Ohio, USA.
+(4)Division of Medical Oncology, Rutgers Cancer Institute of New Jersey, New 
+Brunswick, New Jersey, USA.
+(5)Yale Cancer Center, New Haven, Connecticut, USA.
+
+BACKGROUND: The optimal adjuvant endocrine therapy (ET) in hormone receptor 
+positive (HR+) and human epidermal growth factor receptor 2 positive (HER2+) 
+premenopausal breast cancer (BC) remains unclear. Moreover, the benefit and 
+clinical indications of ovarian suppression (OS) is poorly elucidated. We 
+described real-world patterns surrounding choice of ET and clinicopathologic 
+features which predicted treatment with OS in a contemporary cohort of 
+premenopausal women with HR+/HER2+ BC.
+METHODS: This retrospective analysis included premenopausal patients with 
+nonmetastatic HR+/HER2+ BC from the CancerLinQ Discovery database from January 
+2010 to May 2020. Women were less than 50 years and received chemotherapy, 
+anti-HER2 therapy, and ET. They were categorized into 1 of 4 groups based on 
+type of ET prescribed at initiation: aromatase inhibitor (AI) + OS, OS, 
+tamoxifen + OS, or tamoxifen. Multivariable logistic regression assessed 
+associations between clinicopathologic features and OS use.
+RESULTS: Out of 360,540 patients with BC, 937 were included. The majority 
+(n = 818, 87%) were prescribed tamoxifen, whereas 4 (0.4%), 50 (5.3%), and 65 
+(6.9%) received OS, tamoxifen + OS and AI + OS, respectively. No 
+clinicopathologic features predicted OS use apart from age; patients <35 years 
+were more likely to receive OS compared with those ≥35 years (odds ratio 2.33, 
+p < 0.001).
+CONCLUSIONS: This is the first real-world study evaluating ET treatment patterns 
+in HR+/HER2+ premenopausal BC. OS use was uncommon and the majority received 
+tamoxifen as the preferred ET regardless of most clinicopathologic risk factors. 
+Additional research is needed to optimize ET decisions in young women with this 
+distinct BC subtype.
+
+© 2024 The Author(s). Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.7317
+PMCID: PMC11185945
+PMID: 38895891 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jasmine Sukumar, Andy Ni, Kai Johnson, Dionisia 
+Quiroga, Bhuvana Ramaswamy, Robert Wesolowski, Daniel Stover, Mathew Cherian, 
+Margaret Gatti‐Mays, Ashley Pariser, Preeti Sudheendra, and Nicole Williams have 
+no competing interests to declare. Mridula George reports research funding from 
+Incyte and Oncolytics. Maryam Lustberg reports consulting fees from AstraZeneca, 
+Lily, Pfizer, Gilead, and Novartis. Sagar Sardesai reports consulting fees 
+and/or research funding from Gilead, Stemline, and AstraZeneca.
