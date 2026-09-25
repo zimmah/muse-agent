@@ -1,0 +1,46 @@
+1. J Clin Oncol. 2009 Jun 20;27(18):2962-9. doi: 10.1200/JCO.2008.19.7939. Epub 
+2009 Apr 13.
+
+Disease-free survival according to degree of HER2 amplification for patients 
+treated with adjuvant chemotherapy with or without 1 year of trastuzumab: the 
+HERA Trial.
+
+Dowsett M(1), Procter M, McCaskill-Stevens W, de Azambuja E, Dafni U, Rueschoff 
+J, Jordan B, Dolci S, Abramovitz M, Stoss O, Viale G, Gelber RD, Piccart-Gebhart 
+M, Leyland-Jones B.
+
+Author information:
+(1)Department of Academic Biochemistry, Royal Marsden Hospital, London, UK. 
+mitch.dowsett@icr.ac.uk
+
+PURPOSE: To determine whether (1) immunohistochemical (IHC) HER2 status (ie, 2+ 
+or 3+), (2) degree of fluorescence in situ hybridization (FISH) amplification 
+according to (2a) HER2/CEP17 ratio or (2b) HER2 gene copy number, or (3) 
+polysomy significantly influenced clinical outcome for patients with human 
+epidermal growth factor receptor 2 (HER2) -positive breast cancer enrolled in 
+the Herceptin Adjuvant trial of trastuzumab versus no trastuzumab administered 
+after completion of chemotherapy.
+PATIENTS AND METHODS: IHC and/or FISH analyses were performed locally and 
+required central confirmation as indicating HER2 positivity for trial entry. 
+FISH data from the central HER2 analysis on patients in the 1-year trastuzumab 
+and no trastuzumab arms were assessed in relation to disease-free survival (DFS) 
+after a median 2 years of follow-up.
+RESULTS: Central FISH results were available for 2,071 (61%) of the 3,401 
+patients randomized to the 2 arms. Among patients with FISH-positive disease, 
+(1) the hazard ratios for trastuzumab versus no trastuzumab were 0.56 (95% CI, 
+0.32 to 0.99) for locally IHC2+ cases (n = 340) and 0.80 (95% CI, 0.40 to 1.61) 
+for centrally IHC2+ cases (n = 299). There was no significant prognostic 
+relationship between (2a) HER2 FISH ratio, (2b) HER2 copy number, or (3) 
+polysomy and DFS in the control arm or predictive relationship defining 
+differential benefit from trastuzumab.
+CONCLUSION: There was no evidence for reduced benefit of trastuzumab in HER2 
+IHC2+FISH+ cases. The degree of HER2 amplification does not influence prognosis 
+or benefit from adjuvant trastuzumab in patients treated with prior adjuvant 
+chemotherapy.
+
+DOI: 10.1200/JCO.2008.19.7939
+PMCID: PMC2701645
+PMID: 19364966 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.
