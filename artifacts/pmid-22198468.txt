@@ -1,0 +1,41 @@
+1. Breast Cancer Res Treat. 2012 Apr;132(3):1049-62. doi: 
+10.1007/s10549-011-1895-2. Epub 2011 Dec 25.
+
+Chemotherapy response and recurrence-free survival in neoadjuvant breast cancer 
+depends on biomarker profiles: results from the I-SPY 1 TRIAL (CALGB 
+150007/150012; ACRIN 6657).
+
+Esserman LJ(1), Berry DA, Cheang MC, Yau C, Perou CM, Carey L, DeMichele A, Gray 
+JW, Conway-Dorsey K, Lenburg ME, Buxton MB, Davis SE, van't Veer LJ, Hudis C, 
+Chin K, Wolf D, Krontiras H, Montgomery L, Tripathy D, Lehman C, Liu MC, Olopade 
+OI, Rugo HS, Carpenter JT, Livasy C, Dressler L, Chhieng D, Singh B, Mies C, 
+Rabban J, Chen YY, Giri D, Au A, Hylton N; I-SPY 1 TRIAL Investigators.
+
+Author information:
+(1)University of California San Francisco, 1600 Divisadero Street, Box 1710, San 
+Francisco, CA 94115, USA. Laura.esserman@ucsfmedctr.org
+
+Neoadjuvant chemotherapy for breast cancer allows individual tumor response to 
+be assessed depending on molecular subtype, and to judge the impact of response 
+to therapy on recurrence-free survival (RFS). The multicenter I-SPY 1 TRIAL 
+evaluated patients with ≥ 3 cm tumors by using early imaging and molecular 
+signatures, with outcomes of pathologic complete response (pCR) and RFS. The 
+current analysis was performed using data from patients who had molecular 
+profiles and did not receive trastuzumab. The various molecular classifiers 
+tested were highly correlated. Categorization of breast cancer by molecular 
+signatures enhanced the ability of pCR to predict improvement in RFS compared to 
+the population as a whole. In multivariate analysis, the molecular signatures 
+that added to the ability of HR and HER2 receptors, clinical stage, and pCR in 
+predicting RFS included 70-gene signature, wound healing signature, p53 mutation 
+signature, and PAM50 risk of recurrence. The low risk signatures were associated 
+with significantly better prognosis, and also identified additional patients 
+with a good prognosis within the no pCR group, primarily in the hormone receptor 
+positive, HER-2 negative subgroup. The I-SPY 1 population is enriched for tumors 
+with a poor prognosis but is still heterogeneous in terms of rates of pCR and 
+RFS. The ability of pCR to predict RFS is better by subset than it is for the 
+whole group. Molecular markers improve prediction of RFS by identifying 
+additional patients with excellent prognosis within the no pCR group.
+
+DOI: 10.1007/s10549-011-1895-2
+PMCID: PMC3332388
+PMID: 22198468 [Indexed for MEDLINE]
