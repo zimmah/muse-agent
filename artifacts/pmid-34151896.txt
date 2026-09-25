@@ -1,0 +1,50 @@
+1. Am J Clin Oncol. 2021 Jul 1;44(7):340-349. doi: 10.1097/COC.0000000000000816.
+
+Cost-effectiveness Analysis of Ado-trastuzumab Emtansine (T-DM1) for the 
+Adjuvant Treatment of Patients With Residual Invasive HER2+ Early Breast Cancer 
+in the United States.
+
+Sussell J(1), Singh Jhuti G(1), Antao V(1), Herrera-Restrepo O(2), Wehler E(3), 
+Bilir SP(4).
+
+Author information:
+(1)Genentech Inc., South San Francisco.
+(2)US HEOR and Real World Evidence Solutions, IQVIA, Falls Church, VA.
+(3)US HEOR and Real World Evidence Solutions, IQVIA, Plymouth Meeting, PA.
+(4)US HEOR and Real World Evidence Solutions, IQVIA, San Francisco, CA.
+
+OBJECTIVE: Ado-trastuzumab emtansine (T-DM1) was recently approved for patients 
+with human epidermal growth factor receptor 2 positive (HER2+) early breast 
+cancer (eBC) with residual invasive disease after neoadjuvant taxane and 
+trastuzumab-based treatment. Cost-effectiveness analysis was conducted to 
+compare T-DM1 versus trastuzumab in the United States.
+MATERIALS AND METHODS: A Markov cohort-based model tracked clinical and economic 
+outcomes over a lifetime horizon from a US payer perspective. The model included 
+6 health states: invasive disease-free, nonmetastatic (locoregional) recurrence, 
+remission, first-line and second-line metastatic BC and death. Model state 
+transitions were based on statistical extrapolation of the head-to-head 
+KATHERINE study and published sources. Dosing and treatment duration reflected 
+prescribing information and trials. Costs (2019 US dollars) associated with 
+pharmaceutical treatment (wholesale acquisition costs), health state specific 
+care, adverse events, and end-of-life care were included. Health state utilities 
+were obtained from KATHERINE and published literature.
+RESULTS: T-DM1 dominated trastuzumab, yielding lower lifetime costs (-$40,271), 
+and higher life-years (2.980) and quality-adjusted life-years (2.336). Results 
+were driven by patients receiving T-DM1 spending less time in more costly 
+downstream health states, as these patients are less likely to experience a 
+recurrence overall, despite having a higher likelihood of metastatic disease 
+(distant recurrence) in the subset of patients who experience recurrence. 
+Probabilistic sensitivity analysis indicated robust results, with 96.7% of 5000 
+stochastic simulations producing dominance for T-DM1. The most influential 
+variables were related to treatment costs, off treatment utilities, and health 
+state costs. Additional scenario analyses tested a range of model inputs and 
+assumptions, and produced consistent results.
+CONCLUSION: Relative to trastuzumab, T-DM1 treatment for patients with HER2+ eBC 
+who have residual invasive disease after neoadjuvant taxane and 
+trastuzumab-based treatment is likely to reduce the overall financial burden of 
+cancer, while simultaneously improving patient outcomes.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/COC.0000000000000816
+PMID: 34151896 [Indexed for MEDLINE]
