@@ -1,0 +1,55 @@
+1. Ann Surg. 2014 Oct;260(4):608-14; discussion 614-6. doi: 
+10.1097/SLA.0000000000000924.
+
+Tumor biology correlates with rates of breast-conserving surgery and pathologic 
+complete response after neoadjuvant chemotherapy for breast cancer: findings 
+from the ACOSOG Z1071 (Alliance) Prospective Multicenter Clinical Trial.
+
+Boughey JC(1), McCall LM, Ballman KV, Mittendorf EA, Ahrendt GM, Wilke LG, 
+Taback B, Leitch AM, Flippo-Morton T, Hunt KK.
+
+Author information:
+(1)*Department of Surgery, Mayo Clinic, Rochester, MN †Alliance Statistics and 
+Data Center, Duke University, Durham, NC ‡Alliance Statistics and Data Center, 
+Mayo Clinic, Rochester, MN §Department of Surgical Oncology, The University of 
+Texas MD Anderson Cancer Center, Houston ¶Department of Surgery, Magee-Women's 
+Hospital of University of Pittsburgh Medical Center, Pittsburgh, PA ‖Department 
+of Surgery, University of Wisconsin-Madison, Madison **Department of Surgery, 
+Columbia University Medical Center, NY ††Department of Surgery, University of 
+Texas Southwestern Medical Center, Dallas; and ‡‡Department of Surgery, 
+Carolinas Medical Center, Charlotte, NC.
+
+OBJECTIVE: To determine the impact of tumor biology on rates of 
+breast-conserving surgery and pathologic complete response (pCR) after 
+neoadjuvant chemotherapy.
+BACKGROUND: The impact of tumor biology on the rate of breast-conserving surgery 
+after neoadjuvant chemotherapy has not been well studied.
+METHODS: We used data from ACOSOG Z1071, a prospective, multicenter study 
+assessing sentinel lymph node surgery after neoadjuvant chemotherapy in patients 
+presenting with node-positive breast cancer from 2009 through 2011, to determine 
+rates of breast-conserving surgery and pCR after chemotherapy by approximated 
+biologic subtype.
+RESULTS: Of the 756 patients enrolled on Z1071, 694 had findings available from 
+pathologic review of breast and axillary specimens from surgery after 
+chemotherapy. Approximated subtype was triple-negative in 170 (24.5%), human 
+epidermal growth factor receptor 2 (HER2)-positive in 207 (29.8%), and 
+hormone-receptor-positive, HER2-negative in 317 (45.7%) patients. Patient age, 
+clinical tumor and nodal stage at presentation did not differ across subtypes. 
+Rates of breast-conserving surgery were significantly higher in patients with 
+triple-negative (46.8%) and HER2-positive tumors (43.0%) than in those with 
+hormone-receptor-positive, HER2-negative tumors (34.5%) (P = 0.019). Rates of 
+pCR in both the breast and axilla were 38.2% in triple-negative, 45.4% in 
+HER2-positive, and 11.4% in hormone-receptor-positive, HER2-negative disease (P 
+< 0.0001). Rates of pCR in the breast only and the axilla only exhibited similar 
+differences across tumor subtypes.
+CONCLUSIONS: Patients with triple-negative and HER2-positive breast cancers have 
+the highest rates of breast-conserving surgery and pCR after neoadjuvant 
+chemotherapy. Patients with these subtypes are most likely to be candidates for 
+less invasive surgical approaches after chemotherapy.
+
+DOI: 10.1097/SLA.0000000000000924
+PMCID: PMC4159769
+PMID: 25203877 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: No other 
+disclosures were reported.
