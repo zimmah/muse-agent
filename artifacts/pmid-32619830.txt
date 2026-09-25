@@ -1,0 +1,50 @@
+1. Cancer Treat Res Commun. 2020;24:100188. doi: 10.1016/j.ctarc.2020.100188.
+Epub  2020 Jun 27.
+
+Safety and efficacy of T-DM1 in patients with advanced HER2-positive breast 
+cancer The Royal Marsden experience.
+
+Battisti NML(1), Rogerson F(1), Lee K(1), Shepherd S(1), Mohammed K(1), Turner 
+N(1), McGrath S(1), Okines A(1), Parton M(1), Johnston S(1), Allen M(1), Ring 
+A(2).
+
+Author information:
+(1)Medical Oncology, Royal Marsden Hospital, Royal Marsden Hospital, Downs Road, 
+Sutton SM25PT, United Kingdom.
+(2)Medical Oncology, Royal Marsden Hospital, Royal Marsden Hospital, Downs Road, 
+Sutton SM25PT, United Kingdom. Electronic address: alistair.ring@rmh.nhs.uk.
+
+BACKGROUND: Ado-trastuzumab emtansine (T-DM1) is standard of care for patients 
+with advanced HER2+ breast cancer who relapse within 6 months of adjuvant 
+trastuzumab or progress on first-line anti-HER2 therapy. We evaluated its safety 
+and efficacy in our real-world population.
+METHODS: We identified patients on T-DM1 from 01/01/2014 to 12/03/2018 from our 
+electronic records. Patients', tumour characteristics, safety and efficacy 
+outcomes were recorded. Chi-squared/Fishers exact test and Kaplan-Meier methods 
+were utilised.
+RESULTS: 128 patients receiving T-DM1 were included in the analysis with a 
+median age of 55 years (26-85). 89.8% of patients had ECOG PS 0-1 and 21.1% had 
+presented with de novo metastatic disease. 57.8% had ER-positive disease and 
+38.3% central nervous system involvement. 88.3% of patients had received 
+trastuzumab for advanced disease (with pertuzumab in 28.9%) and 11.7% had only 
+received trastuzumab in the adjuvant setting. Grade ≥3 adverse events occurred 
+in 35.9% of patients. These were liver toxicity (19.5%), anaemia (6.2%) and 
+thrombocytopenia (4.7%). Peripheral neuropathy of any grade was reported in 
+21.9% of cases, bleeding in 9.4% and ejection fraction decline in 5 patients. 
+Median progression-free survival was 8.7 months and overall survival 20.4 
+months. Prior pertuzumab did not influence survival outcomes.
+CONCLUSIONS: The safety of T-DM1 in our population is similar to available 
+literature, although we observed higher rates of peripheral neuropathy and 
+deranged liver function. These findings are relevant for the potential role of 
+TDM-1 in the curative setting.
+
+Crown Copyright © 2020. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctarc.2020.100188
+PMID: 32619830 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Dr Battisti 
+has received travel grants from Pfizer and Genomic Health and speaker fees from 
+Pfizer. Dr Ring has received honoraria for ad hoc advisory boards and for ad hoc 
+presentations from Lilly, Pfizer, Novartis, Roche and MSD. The other authors 
+have no conflict of interest to declare.
