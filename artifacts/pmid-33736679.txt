@@ -1,0 +1,135 @@
+1. Breast Cancer Res. 2021 Mar 18;23(1):36. doi: 10.1186/s13058-021-01413-y.
+
+Magnetic resonance imaging and ultrasound for prediction of residual tumor size 
+in early breast cancer within the ADAPT subtrials.
+
+Graeser M(#)(1)(2)(3), Schrading S(#)(4), Gluz O(5)(6)(7), Strobel K(4), Herzog 
+C(8), Umutlu L(9), Frydrychowicz A(10), Rjosk-Dendorfer D(11), Würstlein 
+R(5)(12), Culemann R(13), Eulenburg C(5), Adams J(14), Nitzsche H(6), Prange 
+A(15), Kümmel S(5)(16)(17), Grischke EM(18), Forstbauer H(19), Braun M(20), 
+Potenberg J(21), von Schumann R(6), Aktas B(22)(23), Kolberg-Liedtke C(17)(22), 
+Harbeck N(5)(12), Kuhl CK(4), Nitz U(5)(6).
+
+Author information:
+(1)West German Study Group, Ludwig-Weber-Strasse 15, 41061, Moenchengladbach, 
+Germany. monika.graeser@wsg-online.com.
+(2)Ev. Hospital Bethesda, Breast Center Niederrhein, Ludwig-Weber-Strasse 15, 
+41061, Moenchengladbach, Germany. monika.graeser@wsg-online.com.
+(3)Department of Gynecology, University Medical Center Hamburg, Martinistrasse 
+52, 20251, Hamburg, Germany. monika.graeser@wsg-online.com.
+(4)Department of Diagnostic and Interventional Radiology, Hospital of the 
+University of Aachen, RWTH, Pauwelsstrasse 30, 52074, Aachen, Germany.
+(5)West German Study Group, Ludwig-Weber-Strasse 15, 41061, Moenchengladbach, 
+Germany.
+(6)Ev. Hospital Bethesda, Breast Center Niederrhein, Ludwig-Weber-Strasse 15, 
+41061, Moenchengladbach, Germany.
+(7)University Hospital Cologne, Kerpener Strasse 62, 50937, Cologne, Germany.
+(8)Radiology, Burgstrasse 7, 80331, Munich, Germany.
+(9)Department of Diagnostic and Interventional Radiology and Neuroradiology, 
+University Hospital Essen, University Duisburg-Essen, Hufelandstrasse 55, 45147, 
+Essen, Germany.
+(10)Department of Radiology and Nuclear Medicine, Schleswig-Holstein University 
+Hospital, Campus Lübeck, Ratzeburger Allee 160, 23562, Lübeck, Germany.
+(11)Department of Radiology, University Hospital, LMU Munich, 
+Marchioninistrasse. 15, 81377, Munich, Germany.
+(12)Department of Gynecology and Obstetrics, Breast Center, University of Munich 
+(LMU) and CCCLMU, Marchioninistrasse 15, 81377, Munich, Germany.
+(13)Medizinisches Versorgungszentrum Radiologie Rhein-Sieg, GFO Kliniken 
+Troisdorf, Hospitalstrasse 45, 53840, Troisdorf, Germany.
+(14)Alcedis GmbH, Winchesterstrasse 3, 35394, Giessen, Germany.
+(15)Department of Radiology, Clinics Essen-Mitte, Breast Centre, Henricistrasse 
+92, 45136, Essen, Germany.
+(16)Clinics Essen-Mitte, Breast Centre, Henricistrasse 92, 45136, Essen, 
+Germany.
+(17)University Hospital Charité, Women's Clinic, Berlin, Charitéplatz 1, 10117, 
+Berlin, Germany.
+(18)University Clinic Tuebingen, Women's Clinic, Calwerstrasse 7, 72076, 
+Tuebingen, Germany.
+(19)Practice Network Troisdorf, Schlossstrasse 18, 53840, Troisdorf, Germany.
+(20)Red Cross Women's Hospital, Nymphenburger Strasse 163, 80634, Munich, 
+Germany.
+(21)Ev. Waldkrankenhaus Berlin, Stadtrandstrasse 555, 13589, Berlin, Germany.
+(22)Department of Gynecology and Obstetrics, University Hospital Essen, 
+Hufelandstrasse 55, 45147, Essen, Germany.
+(23)Department of Gynecology, University Hospital Leipzig, Liebeigstrasse 20A, 
+04103, Leipzig, Germany.
+(#)Contributed equally
+
+BACKGROUND: Prediction of histological tumor size by post-neoadjuvant therapy 
+(NAT) ultrasound and magnetic resonance imaging (MRI) was evaluated in different 
+breast cancer subtypes.
+METHODS: Imaging was performed after 12-week NAT in patients enrolled into three 
+neoadjuvant WSG ADAPT subtrials. Imaging performance was analyzed for prediction 
+of residual tumor measuring ≤10 mm and summarized using positive (PPV) and 
+negative (NPV) predictive values.
+RESULTS: A total of 248 and 588 patients had MRI and ultrasound, respectively. 
+Tumor size was over- or underestimated by < 10 mm in 4.4% and 21.8% of patients 
+by MRI and in 10.2% and 15.8% by ultrasound. Overall, NPV (proportion of 
+correctly predicted tumor size ≤10 mm) of MRI and ultrasound was 0.92 and 0.83; 
+PPV (correctly predicted tumor size > 10 mm) was 0.52 and 0.61. MRI demonstrated 
+a higher NPV and lower PPV than ultrasound in hormone receptor 
+(HR)-positive/human epidermal growth factor receptor 2 (HER2)-positive and in 
+HR-/HER2+ tumors. Both methods had a comparable NPV and PPV in HR-/HER2- tumors.
+CONCLUSIONS: In HR+/HER2+ and HR-/HER2+ breast cancer, MRI is less likely than 
+ultrasound to underestimate while ultrasound is associated with a lower risk to 
+overestimate tumor size. These findings may help to select the most optimal 
+imaging approach for planning surgery after NAT.
+TRIAL REGISTRATION: Clinicaltrials.gov , NCT01815242 (registered on March 21, 
+2013), NCT01817452 (registered on March 25, 2013), and NCT01779206 (registered 
+on January 30, 2013).
+
+DOI: 10.1186/s13058-021-01413-y
+PMCID: PMC7977310
+PMID: 33736679 [Indexed for MEDLINE]
+
+Conflict of interest statement: MG received honoraria from AstraZeneca and 
+travel support from Daiichi Sanyko. OG has an ownership interest in WSG GmbH; 
+received honoraria from Genomic Health, Roche, Celgene, Pfizer, Novartis, 
+NanoString Technologies, and AstraZeneca; served in consulting/advisory role for 
+Celgene, Exact Sciences, Lilly, MSD Brazil, Novartis pharma SAS, Pfizer 
+Pharmaceuticals Israel, and Roche; and received travel support from Roche. LU 
+received honoraria, travel support and served in consulting/advisory role for 
+Siemens Healthcare, Bayer Healthcare, and received research funding from Siemens 
+Healthcare. RW served in consulting/advisory role and received travel support 
+from Agendia, Amgen, Aristo, AstraZeneca, Boeringer Ingelheim, Carl Zeiss, 
+Celgene, Clinsol, Daiichi-Sankyo, Esai, Genomic Health, Glaxo Smith Kline, 
+Hexal, Lilly, Medstrom Medical, MSD, Mundipharma, Nanostring, Novartis, Odonate, 
+Paxman, Palleos, Pfizer, Pierre Fabre, PumaBiotechnolgogy, Riemser, Roche, 
+Sandoz/Hexal, Seattle Genetics, Tesaro Bio, and Teva. JA is an employee of 
+Alcedis GmbH, Giessen, Germany. SK has an ownership interest in WSG GmbH; served 
+in consulting/advisory role for Roche, Genomic Health, Novartis, AstraZeneca, 
+Amgen, Celgene, SOMATEX Medical Technologies, Daiichi Sankyo, pfm medical, 
+Pfizer, MSD, Lilly, and Sonoscape; and received travel support from Roche, 
+Daiichi Sankyo, and Sonoscope. HF received honoraria and travel support and 
+served in consulting/advisory role for Roche, Celgene. MB received honoraria 
+from AstraZeneca, Exact Sciences, Novartis, Pfizer, Roche, Teva, travel support 
+from AstraZeneca, Celgene, Medac, Novartis, and Roche and served in 
+consulting/advisory role for AstraZeneca, Exact Sciences, Novartis, Puma, and 
+Roche. BA received honoraria from Pfizer, Roche Pharma, Novartis Pharma, 
+AstraZeneca, Amgen, Tesaro Bio Germany, PharmaMar, and Eisei; served in 
+consulting/advisory role for Novartis Pharma, Roche Pharma, Pfizer, and Tesaro 
+Bio; and received travel support from AstraZeneca, Amgen, Roche Pharma, Pfizer, 
+Novartis Pharma, Tesaro Bio Germany, PharmaMar, and Eisei. CKL has an ownership 
+interest in Theraklion and Phaon Scientific; received honoraria from Roche, 
+AstraZeneca, Celgene, Novartis, Pfizer, Lilly, Hexal, Amgen, SonoScape, Pfizer, 
+Novartis, Roche, Genomic Health, Amgen, AstraZeneca, Riemser, Carl Zeiss 
+MediTec, TEVA Pharmaceuticals Industries, Theraklion, Janssen-Cilag, 
+GlaxoSmithKline, and LIV Pharma; served in consulting/advisory role for Roche, 
+Novartis, Pfizer, Celgene, Phaon Scientific, Pfizer, Novartis, SurgVision, 
+CarlZeissMeditec, Amgen, and Onkowissen; received research funding from Roche, 
+Novartis, and Pfizer; and received travel support from Roche, Daiichi Sankyo, 
+Novartis, Carl Zeiss Meditec, LIV Pharma, Novartis, Amgen, Pfizer, and Daiichi 
+Sankyo. NH has an ownership interest in WSG GmbH; received honoraria from Amgen, 
+AstraZeneca, Genomic Health, Novartis, Pfizer, Pierre Fabre, Roche, and Zodiac 
+Pharma; served in consulting/advisory role for Agendia, AstraZeneca, Celgene, 
+Daiichi Sankyo, Lilly, Merck Sharp & Dohme, Novartis, Odonate Therapeutics, 
+Pfizer, Pierre Fabre, Roche/Genentech, Sandoz, Seattle Genetics, and West German 
+Study Group; and received research funding from Lilly, Merck Sharp & Dohme, 
+Novartis, Pfizer, and Roche/Genentech. CKK received honoraria from Bayer 
+Healthcare. UN has an ownership interest in WSG GmbH; received honoraria from 
+Agendia, Amgen, Celgene, Genomic Health, NanoString Technologies, Novartis 
+pharma SAS, Pfizer Pharmaceuticals Israel, Roche/Genentech, and Teva; served in 
+consulting/advisory role for Genomic Health and Roche; received research funding 
+from Agendia, Amgen, Celgene, Genomic Health, NanoString Technologies, Roche, 
+and Sanofi; provided expert testimony for Genomic Health; and received travel 
+support from Genomic Health, Pfizer Pharmaceuticals Israel, and Roche.
