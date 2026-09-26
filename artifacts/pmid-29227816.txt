@@ -1,0 +1,66 @@
+1. Eur J Cancer. 2018 Jan;89:42-48. doi: 10.1016/j.ejca.2017.10.036. Epub 2017
+Dec  8.
+
+The use of breast imaging for predicting response to neoadjuvant lapatinib, 
+trastuzumab and their combination in HER2-positive breast cancer: Results from 
+Neo-ALTTO.
+
+Di Cosimo S(1), Campbell C(2), Azim HA Jr(3), Galli G(4), Bregni G(5), 
+Curigliano G(6), Criscitiello C(6), Izquierdo M(7), de la Pena L(8), Fumagalli 
+D(9), Fein L(10), Vinholes J(11), Ng WMJ(12), Colleoni M(13), Ferro A(14), Naume 
+BJ(15), Patel A(16), Huober J(17), Piccart-Gebhart MJ(3), Baselga J(18), de 
+Azambuja E(3).
+
+Author information:
+(1)Fondazione IRCCS, Istituto Nazionale Dei Tumori di Milano, Italy. Electronic 
+address: serena.dicosimo@istitutotumori.mi.it.
+(2)Frontier Science (Scotland) Ltd., Kincraig, UK.
+(3)Institut Jules Bordet, Université Libre de Bruxelles (U.L.B), Brussels, 
+Belgium.
+(4)Fondazione IRCCS, Istituto Nazionale Dei Tumori di Milano, Italy.
+(5)IRCCS A.O.U. S.Martino-IST, Genoa, Italy.
+(6)European Institute of Oncology, Milan, Italy.
+(7)Novartis Pharma AG, Basel, Switzerland.
+(8)SOLTI Breast Cancer Research Group, Barcelona, Spain.
+(9)Breast International Group (BIG), Brussels, Belgium.
+(10)Instituto de Oncologia de Rosário, Rosário, Argentina.
+(11)Clinica de Oncologia, Porto Alegre, Brazil.
+(12)Queen Elizabeth Hospital, Hong Kong, China.
+(13)Istituto Europeo di Oncologia, Milan, Italy.
+(14)Ospedale di Trento, Trento, Italy.
+(15)Oslo University Hospital, Oslo, Norway.
+(16)The Princess Alexandra Hospital NHS Trust, Harlow, United Kingdom.
+(17)Ulm University Hospital, Ulm, Germany.
+(18)Memorial Sloan Kettering Cancer Center, New York, USA.
+
+AIM: To determine the value of mammography and breast ultrasound (US) in 
+predicting outcomes in HER2 positive breast cancer patients (pts) within 
+Neo-ALTTO trial.
+PATIENTS AND METHODS: Mammography and US were required at baseline, week 6 and 
+surgery. Two independent blinded investigators reviewed the measurements and 
+assigned the corresponding response category. Pts showing complete or partial 
+response according to RECIST (v1.1) were classified as responders. The 
+association between imaging response at week 6 or prior to surgery was evaluated 
+with respect to pathological complete response (pCR) and event-free Survival 
+(EFS).
+RESULTS: Of the 455 pts enrolled in the trial, 267 (61%) and 340 (77%) had 
+evaluable mammography and US at week 6; 248 (56%) and 309 (70%) pts had 
+evaluable mammography and US prior to surgery. At week 6, 32% and 43% of pts 
+were classified as responders by mammography and US, respectively. pCR rates 
+were twice as high for responders than non-responders (week 6: 46% versus 23% by 
+US, p < 0.0001; 41% versus 24% by mammography, p = 0.007). Positive and negative 
+predictive values of mammography and US prior to surgery were 37% and 35%, and 
+82% and 70%, respectively. No significant correlation was found between response 
+by mammography and/or US at week 6/surgery and EFS.
+CONCLUSIONS: Mammography and US were underused in Neo-ALTTO although US had the 
+potential to assess early response whereas mammography to detect residual 
+disease prior to surgery. Our data still emphasise the need for further imaging 
+studies on pts treated with neoadjuvant HER2-targeted therapy.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2017.10.036
+PMCID: PMC5777154
+PMID: 29227816 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement None declared.
