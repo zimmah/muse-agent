@@ -1,0 +1,49 @@
+1. J Clin Oncol. 2005 Nov 1;23(31):7811-9. doi: 10.1200/JCO.2005.02.4091.
+
+Assessment of cardiac dysfunction in a randomized trial comparing doxorubicin 
+and cyclophosphamide followed by paclitaxel, with or without trastuzumab as 
+adjuvant therapy in node-positive, human epidermal growth factor receptor 
+2-overexpressing breast cancer: NSABP B-31.
+
+Tan-Chiu E(1), Yothers G, Romond E, Geyer CE Jr, Ewer M, Keefe D, Shannon RP, 
+Swain SM, Brown A, Fehrenbacher L, Vogel VG, Seay TE, Rastogi P, Mamounas EP, 
+Wolmark N, Bryant J.
+
+Author information:
+(1)National Surgical Adjuvant Breast and Bowel Project (NSABP), University of 
+Pittsburgh, PA, USA.
+
+Comment in
+    J Clin Oncol. 2005 Nov 1;23(31):7775-6. doi: 10.1200/JCO.2005.04.1558.
+
+PURPOSE: Trastuzumab is effective in treating human epidermal growth factor 
+receptor 2 (HER2) -positive breast cancer, but it increases frequency of cardiac 
+dysfunction (CD) when used with or after anthracyclines.
+PATIENTS AND METHODS: National Surgical Adjuvant Breast and Bowel Project trial 
+B-31 compared doxorubicin and cyclophosphamide (AC) followed by paclitaxel with 
+AC followed by paclitaxel plus 52 weeks of trastuzumab beginning concurrently 
+with paclitaxel in patients with node-positive, HER2-positive breast cancer. 
+Initiation of trastuzumab required normal post-AC left ventricular ejection 
+fraction (LVEF) on multiple-gated acquisition scan. If symptoms suggestive of 
+congestive heart failure (CHF) developed, source documents were blindly reviewed 
+by an independent panel of cardiologists to determine whether criteria were met 
+for a cardiac event (CE), which was defined as New York Heart Association class 
+III or IV CHF or possible/probable cardiac death. Frequencies of CEs were 
+compared between arms.
+RESULTS: Among patients with normal post-AC LVEF who began post-AC treatment, 
+five of 814 control patients subsequently had confirmed CEs (four CHFs and one 
+cardiac death) compared with 31 of 850 trastuzumab-treated patients (31 CHFs and 
+no cardiac deaths). The difference in cumulative incidence at 3 years was 3.3% 
+(4.1% for trastuzumab-treated patients minus 0.8% for control patients; 95% CI, 
+1.7% to 4.9%). Twenty-seven of the 31 patients in the trastuzumab arm have been 
+followed for > or = 6 months after diagnosis of a CE; 26 were asymptomatic at 
+last assessment, and 18 remained on cardiac medication. CHFs were more frequent 
+in older patients and patients with marginal post-AC LVEF. Fourteen percent of 
+patients discontinued trastuzumab because of asymptomatic decreases in LVEF; 4% 
+discontinued trastuzumab because of symptomatic cardiotoxicity.
+CONCLUSION: Administering trastuzumab with paclitaxel after AC increases 
+incidence of CHF and lesser CD. Potential cardiotoxicity should be carefully 
+considered when discussing benefits and risks of this therapy.
+
+DOI: 10.1200/JCO.2005.02.4091
+PMID: 16258083 [Indexed for MEDLINE]
