@@ -1,0 +1,40 @@
+1. Breast Cancer Res Treat. 2021 Jun;187(2):447-454. doi: 
+10.1007/s10549-021-06134-6. Epub 2021 Feb 18.
+
+Prognostic value of p53 expression in hormone receptor-positive and human 
+epidermal growth factor receptor 2-negative breast cancer patients receiving 
+neoadjuvant chemotherapy.
+
+Albinsaad LS(1)(2), Kim J(2), Chung IY(2), Ko BS(2), Kim HJ(2), Lee JW(2), Son 
+BH(2), Ahn SH(2), Lee SB(3).
+
+Author information:
+(1)Department of Surgery, College of Medicine, King Faisal University, Al-Ahsa 
+City, Eastern Province, Saudi Arabia.
+(2)Division of Breast Surgery, Department of Surgery, University of Ulsan 
+College of Medicine, Asan Medical Center, 88, Olympic-ro 43-gil, Songpa-Gu, 
+Seoul, 05505, Korea.
+(3)Division of Breast Surgery, Department of Surgery, University of Ulsan 
+College of Medicine, Asan Medical Center, 88, Olympic-ro 43-gil, Songpa-Gu, 
+Seoul, 05505, Korea. newstar153@hanmail.net.
+
+PURPOSE: The aim of this study was to determine whether the outcome to 
+neoadjuvant chemotherapy (NAC) can be predicted by analyzing p53 expression in 
+hormone receptor (HR)-positive and human epidermal growth factor receptor 2 
+(HER2)-negative breast cancer patients.
+METHODS: We retrospectively reviewed 594 patients diagnosed with stage I-III 
+HR-positive, HER2-negative breast cancer, and treated with NAC at the Asan 
+Medical Center between 2008 and 2014. Expression of p53 was assessed, and 
+overall survival (OS) and breast cancer-specific survival (BCSS) were 
+investigated and compared between groups.
+RESULTS: At a median follow-up period of 69.8 months, OS and BCSS were higher in 
+the p53-negative (p53(-)) group than in the p53-positive (p53(+)) group. 
+Five-year OS was 95.4% in the p53(-) and 92.1% in the p53(+) group (p = 0.005). 
+BCSS was 96.2% in the p53(-) group and 93% in the p53(+) group (p = 0.008).
+CONCLUSION: High expression of immunohistochemically detected p53 was strongly 
+and significantly associated with decreased OS and BCSS than low p53 expression, 
+suggesting that p53 may be a powerful prognostic factor in HR-positive, 
+HER2-negative breast cancer patients receiving NAC.
+
+DOI: 10.1007/s10549-021-06134-6
+PMID: 33599867 [Indexed for MEDLINE]
