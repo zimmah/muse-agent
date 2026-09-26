@@ -1,0 +1,30 @@
+1. South Med J. 2017 Oct;110(10):638-642. doi: 10.14423/SMJ.0000000000000703.
+
+Neoadjuvant and Adjuvant Therapies for Breast Cancer.
+
+Apuri S(1).
+
+Author information:
+(1)From the Department of Hematology and Oncology, H. Lee Moffitt Cancer Center 
+and Research, Institute, Tampa, Florida.
+
+Breast cancer remains the most common cancer in women in the United States, the 
+second most common cause of cancer death, and the main cause of death in women 
+ages 45 to 55 years. Molecular analyses have shown that breast cancer is divided 
+into several subtypes (luminal A, luminal B, human epidermal growth factor 
+receptor 2 [HER2] enriched, and basal-like), based on microarray techniques. 
+Patients diagnosed as having breast cancer may undergo adjuvant or neoadjuvant 
+chemotherapy, depending on the tumor size, hormone receptor, HER2/neu status, 
+and desire for breast preservation. Patients with positive estrogen and/or 
+progesterone receptor status benefit from treatment with selective estrogen 
+receptor modulators such as tamoxifen or aromatase inhibitors, based on 
+menopausal status and risk of recurrence. HER2-targeted agents such as 
+trastuzumab and pertuzumab are used in combination with chemotherapy in patients 
+with HER2/neu breast cancer. Triple-negative breast cancer is a unique subtype 
+that lacks specific targets, and its treatment primarily includes chemotherapy. 
+This article reviews the current clinical approaches to the management of 
+patients diagnosed as having breast cancer treated with neoadjuvant and/or 
+adjuvant chemotherapy.
+
+DOI: 10.14423/SMJ.0000000000000703
+PMID: 28973704 [Indexed for MEDLINE]
