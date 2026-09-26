@@ -1,0 +1,44 @@
+1. Breast J. 2018 May;24(3):253-259. doi: 10.1111/tbj.12906. Epub 2017 Aug 22.
+
+Development and responses of brain metastases during treatment with trastuzumab 
+emtansine (T-DM1) for HER2 positive advanced breast cancer: A single institution 
+experience.
+
+Okines A(1), Irfan T(1), Khabra K(1), Smith I(1), O'Brien M(1), Parton M(1), 
+Noble J(1), Stanway S(1), Somaiah N(1), Ring A(1), Johnston S(1), Turner N(1).
+
+Author information:
+(1)The Royal Marsden NHS Foundation Trust, London and Surrey, UK.
+
+Ado-trastuzumab emtansine (T-DM1) is an antibody-drug conjugate that does not 
+cross an intact blood-brain barrier. In the EMILIA trial of T-DM1 vs 
+capecitabine/lapatinib for HER2 positive advanced breast cancer, all patients 
+had baseline brain imaging, and 9/450 (2%) of patients with negative baseline 
+imaging developed new brain disease during T-DM1. We assessed the frequency of 
+brain progression in clinical practice, without routine baseline imaging. We 
+undertook a retrospective study of all patients treated with T-DM1 at the Royal 
+Marsden Hospital from 2011 to 2016. Data collected included baseline 
+characteristics, previous treatment for advanced breast cancer, sites of 
+metastatic disease, duration of T-DM1, sites of progression, and treatment of 
+CNS progression. Fifty-five patients were identified who had received a median 
+of two prior lines of treatment (range 0-5). All were HER2 positive; 45 patients 
+had IHC 3+ tumors and 10 were ISH positive. Patients received a median of 12 
+cycles of T-DM1 (range 1-34), and six remain on treatment at the time of 
+analysis. Before commencing T-DM1, 16/55 (29%) had known brain metastases 
+(treated with whole brain [9] stereotactic radiotherapy [6] or both [1]). Brain 
+was the first site of progression in 56% (9/16) patients, with a median time to 
+brain progression of 9.9 months (95% CI 3.9-12.2). In patients without known 
+baseline brain metastases, 17.9% (7/39) developed new symptomatic brain disease 
+during T-DM1, after a median of 7.5 months (95%CI 3.8-9.6). Brain progression 
+was isolated, with control of extra-cranial disease in 4/7 patients. Only one 
+patient was suitable for stereotactic radiotherapy. Median time to extra-cranial 
+progression in all patients was 11.5 months (95% CI 9.1-17.7), and median OS in 
+all patients was 17.8 months (95% CI 14.2-22). In patients not screened for 
+brain metastases at baseline, the brain was the first site of progression in a 
+significant proportion. Baseline brain imaging may have a role in standard 
+practice for patients commencing T-DM1 therapy.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1111/tbj.12906
+PMID: 28833867 [Indexed for MEDLINE]
