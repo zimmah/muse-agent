@@ -1,0 +1,48 @@
+1. Curr Med Res Opin. 2014 Dec;30(12):2535-42. doi: 10.1185/03007995.2014.965775.
+ Epub 2014 Sep 29.
+
+The efficacy of adjuvant trastuzumab in HER-2 positive breast cancer with 
+axillary lymph node metastases according to the treatment duration.
+
+Sendur MA(1), Aksoy S, Ozdemir NY, Yazici O, Zengin N, Altundag K.
+
+Author information:
+(1)Yildirim Beyazit University, Department of Medical Oncology , Ankara , 
+Turkey.
+
+INTRODUCTION: Trastuzumab is the first anti-HER-2 humanized monoclonal antibody. 
+The benefit of adjuvant trastuzumab has been shown in randomized phase III 
+trials. Despite trastuzumab being recommended for 52 weeks in the adjuvant 
+treatment of HER-2 positive breast cancer according to the current breast cancer 
+guidelines, there is still no consensus on the optimal duration of adjuvant 
+trastuzumab. The aim of our study is to investigate the efficacy and safety of 
+adjuvant trastuzumab for 9 weeks and 52 weeks in axillary lymph node positive 
+HER-2 positive breast cancer patients.
+PATIENTS AND METHODS: A total of 271 HER-2 and axillary node positive breast 
+cancer patients who received trastuzumab in adjuvant treatment between the years 
+2005 and 2013 were retrospectively analyzed. Patients with axillary node 
+positive HER-2 positive breast cancer who were non-metastatic were enrolled to 
+the study. Patients were allocated to the 9 week trastuzumab group (n = 155) or 
+the 52 week trastuzumab group (n = 116). Kaplan-Meier survival analysis was 
+carried out for disease free survival (DFS) and overall survival (OS). Two-sided 
+p values of <0.05 were considered statistically significant. The most important 
+limitation of our manuscript is the retrospective design.
+RESULTS: The median follow-up time for this analysis was 34 (4-95) months. 
+Patients' clinical and pathological characteristics were well balanced between 
+the two treatment arms. In the 9 week trastuzumab treatment group, the DFS rate 
+was 96.7%, 84.8% and 74.9% in the first, third and fifth years respectively, 
+whereas in the 52 week trastuzumab treatment group it was 94.3%, 80.0% and 80.0% 
+(P = 0.76). In the 9 week trastuzumab treatment group, the OS rate was 99.3%, 
+92.2% and 88.3% in the first, third and fifth years respectively, whereas in the 
+52 week trastuzumab treatment group it was 99.0%, 94.7% and 78.6% (P = 0.99). In 
+both groups, symptomatic heart failure was not reported but asymptomatic left 
+ventricular ejection fraction (LVEF) decline was observed 3 (1.9%) and 18 
+(15.5%) patients in the 9 week and 52 week trastuzumab treatment groups, 
+respectively (P < 0.001).
+CONCLUSION: In our study, the efficacy of trastuzumab for 52 weeks and 9 weeks 
+was similar in node-positive HER-2 positive breast cancer. Cardiotoxicity was 
+significantly increased in the 52 week trastuzumab arm compared to the 9 week 
+trastuzumab arm.
+
+DOI: 10.1185/03007995.2014.965775
+PMID: 25222762 [Indexed for MEDLINE]
