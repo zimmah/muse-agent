@@ -1,0 +1,38 @@
+1. Anticancer Res. 2020 Jun;40(6):3395-3400. doi: 10.21873/anticanres.14323.
+
+Tumor-infiltrating Lymphocyte Score Based on FDG PET/CT for Predicting the 
+Effect of Neoadjuvant Chemotherapy in Breast Cancer.
+
+Sasada S(1), Kimura Y(2), Emi A(2), Masumoto N(2), Kadoya T(2), Arihiro K(3), 
+Okada M(2).
+
+Author information:
+(1)Department of Surgical Oncology, Research Institute for Radiation Biology and 
+Medicine, Hiroshima University, Hiroshima, Japan shsasada@hiroshima-u.ac.jp.
+(2)Department of Surgical Oncology, Research Institute for Radiation Biology and 
+Medicine, Hiroshima University, Hiroshima, Japan.
+(3)Department of Anatomical Pathology, Hiroshima University Hospital, Hiroshima, 
+Japan.
+
+AIM: To investigate whether tumor-infiltrating lymphocyte (TIL) scoring based on 
+18F-fluorodeoxyglucose positron-emission tomography/computed tomography (FDG 
+PET/CT) can predict the pathological response to neoadjuvant chemotherapy.
+PATIENTS AND METHODS: A total of 261 patients with breast cancer underwent 
+complete resection after neoadjuvant chemotherapy. PET-TIL score was calculated 
+using tumor size, Ki-67 labeling index, and maximum standardized uptake value 
+(SUVmax) on FDG PET/CT. The efficacy of the PET-TIL score in predicting the 
+pathological complete response (pCR) was retrospectively evaluated.
+RESULTS: pCR rates were 11.4%, 58.6%, and 38.8% in luminal, human epidermal 
+growth factor receptor 2 (HER2)-positive, and triple-negative breast cancer, 
+respectively. The corresponding median PET-TIL scores were 28, 37, and 45. pCR 
+rates were 20.0% and 44.2% in the low and high PET-TIL score groups, 
+respectively (p<0.001). HER2-positive and triple-negative subtypes and high 
+PET-TIL score were independent predictors for pCR.
+CONCLUSION: PET-TIL score can predict pCR after neoadjuvant chemotherapy in 
+breast cancer.
+
+Copyright© 2020, International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.14323
+PMID: 32487636 [Indexed for MEDLINE]
