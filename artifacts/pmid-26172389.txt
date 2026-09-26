@@ -1,0 +1,55 @@
+1. PLoS One. 2015 Jul 14;10(7):e0133072. doi: 10.1371/journal.pone.0133072. 
+eCollection 2015.
+
+Caveolin-1 Dependent Endocytosis Enhances the Chemosensitivity of HER-2 Positive 
+Breast Cancer Cells to Trastuzumab Emtansine (T-DM1).
+
+Chung YC(1), Kuo JF(2), Wei WC(3), Chang KJ(1), Chao WT(4).
+
+Author information:
+(1)Department of Surgery, Cheng-Ching General Hospital, Chungkang Branch, 
+Taichung, Taiwan.
+(2)Department of Pathology, Cheng-Ching General Hospital, Chungkang Branch, 
+Taichung, Taiwan.
+(3)Department of Surgery, Cheng-Ching General Hospital, Chungkang Branch, 
+Taichung, Taiwan; Department of Life Science, Tunghai University, Taichung, 
+Taiwan.
+(4)Department of Life Science, Tunghai University, Taichung, Taiwan.
+
+The humanized monoclonal antibody-drug conjugate trastuzumab emtansine (T-DM1, 
+Kadcyla) has been approved by the U.S. FDA to treat human epidermal growth 
+factor receptor 2 (HER-2)-positive metastatic breast cancer. Despite its 
+effectiveness in most patients, some are initially resistant or develop 
+resistance. No biomarker of drug resistance to T-DM1 has been identified. 
+Antibody-drug efficacy is associated with antibody internalization in the cell; 
+therefore, cellular sensitivity of cells to the drug may be linked to cellular 
+vesicle trafficking systems. Caveolin-1 is a 22 KD protein required for caveolae 
+formation and endocytic membrane transport. In this study, the relationship 
+between caveolin-1 expression and the chemosensitivity of HER-2-positive breast 
+cancer cells to T-DM1 was investigated. Samples from 32 human breast cancer 
+biopsy and normal tissue specimens were evaluated immunohistochemically for 
+caveolin-1 expression. Caveolin-1 was shown to be expressed in 68% (22/32) of 
+the breast cancer specimens. In addition, eight (72.7%, 8/11) HER-2 positive 
+breast cancer specimens had a higher caveolin-1 expression than normal tissues. 
+HER-2-positive BT-474 and SKBR-3 breast cancer cells that express low and 
+moderate levels of caveolin-1, respectively, were treated with trastuzumab or 
+its conjugate T-DM1. Cell viability and molecular localizations of caveolin-1, 
+antibody and its conjugate were examined. Confocal microscopy showed that T-DM1 
+and caveolin-1 colocalized in SKBR-3 cells, which also were five times more 
+sensitive to the conjugate in terms of cell survival than BT-474 cells, although 
+T-DM1 also showed improved drug efficacy in BT-474 cells than trastuzumab 
+treatment. Caveolin-1 expression in these lines was manipulated by transfection 
+of GFP-tagged caveolin-1 or caveolin-1 siRNA. BT-474 cells overexpressing 
+caveolin-1 were more sensitive to T-DM1 treatment than mock-transfected cells, 
+whereas the siRNA-transfected SKBR-3 cells had decreased sensitivity to T-DM1 
+than mock-transfected SKBR-3 cells. The expression of caveolin-1 could mediate 
+endocytosis and promote the internalization of T-DM1 into HER-2 positive cancer 
+cells. Thus, caveolin-1 protein may be an effective predictor for determining 
+the outcome of T-DM1 treatment in breast cancer patients.
+
+DOI: 10.1371/journal.pone.0133072
+PMCID: PMC4501549
+PMID: 26172389 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
