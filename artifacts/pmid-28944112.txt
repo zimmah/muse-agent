@@ -1,0 +1,30 @@
+1. Cureus. 2017 Jul 14;9(7):e1473. doi: 10.7759/cureus.1473.
+
+Excellent Response with Ado-Trastuzumab Emtansine in a Patient with Relapsed 
+Metastatic Breast Cancer Presenting with Pulmonary Lymphangitic Carcinomatosis.
+
+Yu Z(1), Sankar S(2), Huben M(1).
+
+Author information:
+(1)Department of Hematology and Oncology, William Beaumont Hospital, Oakland 
+University William Beaumont School of Medicine.
+(2)Department of Internal Medicine, William Beaumont Hospital, Oakland 
+University William Beaumont School of Medicine.
+
+In breast cancer, aggressive tumor biology and the corresponding poor prognosis 
+is associated with amplification or overexpression of the human epidermal growth 
+factor receptor 2 (HER2). Trastuzumab has significantly changed the natural 
+history of HER2-positive breast cancer. However, resistance to trastuzumab 
+remains a substantial clinical problem. Ado-trastuzumab emtansine (T-DM1), an 
+antibody-drug conjugate, has demonstrated impressive results in second- or 
+later-line treatment of HER2-positive breast cancer. We report a case of 
+43-year-old female with previously trastuzumab-treated HER2-positive breast 
+cancer relapsed with pulmonary lymphangitis carcinomatosis that responded 
+dramatically to T-DM1 therapy.
+
+DOI: 10.7759/cureus.1473
+PMCID: PMC5598866
+PMID: 28944112
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
