@@ -1,0 +1,56 @@
+1. Breast Cancer Res Treat. 2021 Jun;187(3):759-768. doi: 
+10.1007/s10549-021-06166-y. Epub 2021 Apr 15.
+
+Trastuzumab emtansine (T-DM1) versus trastuzumab in Chinese patients with 
+residual invasive disease after neoadjuvant chemotherapy and HER2-targeted 
+therapy for HER2-positive breast cancer in the phase 3 KATHERINE study.
+
+Huang CS(1), Yang Y(2), Kwong A(3), Chen SC(4), Tseng LM(5), Liu MC(6), Shen 
+K(7), Wang S(8), Ng TY(9), Feng Y(10), Sun G(10), Yan IR(10), Shao Z(11).
+
+Author information:
+(1)National Taiwan University Hospital and National Taiwan University College of 
+Medicine, Taipei, Taiwan.
+(2)Taichung Veterans General Hospital and School of Medicine, China Medical 
+University, Taichung City, Taiwan.
+(3)Queen Mary Hospital, The University of Hong Kong, Pok Fu Lam, Hong Kong.
+(4)Chang Gung Memorial Hospital, Chang Gung University Medical College, Taoyuan, 
+Taiwan.
+(5)Taipei Veterans General Hospital, Taipei, Taiwan.
+(6)Koo Foundation Sun Yat-Sen Cancer Center, Taipei, Taiwan.
+(7)Shanghai Jiaotong University School of Medicine, Ruijin Hospital, Shanghai, 
+China.
+(8)Sun Yat-Sen University Cancer Center, Guangdong Sheng, China.
+(9)Tuen Mun Hospital, Tuen Mun, Hong Kong.
+(10)Roche (China) Holding Ltd., Shanghai, China.
+(11)Fudan University Shanghai Cancer Center, No. 270, Dongan Road, Shanghai, 
+200032, China. zhimingshao@yahoo.com.
+
+PURPOSE: In the KATHERINE study (NCT01772472), patients with HER2-positive early 
+breast cancer (EBC) and residual invasive disease after neoadjuvant chemotherapy 
+plus HER2-targeted therapy who were treated with adjuvant trastuzumab emtansine 
+(T-DM1) had a 50% reduction in the risk of an invasive disease-free survival 
+(IDFS) event compared to patients treated with adjuvant trastuzumab. In 
+metastatic disease, T-DM1 has resulted in higher rates of thrombocytopenia in 
+Asian versus non-Asian patients. Here, we report safety and efficacy in Chinese 
+patients from KATHERINE.
+METHODS: Patients with HER2-positive EBC and residual invasive disease after 
+taxane- and trastuzumab-containing neoadjuvant chemotherapy followed by surgery 
+were randomized 1:1 to 14 cycles of adjuvant T-DM1 or trastuzumab. The primary 
+endpoint was time to an IDFS event.
+RESULTS: Among Chinese patients (T-DM1 n = 51, trastuzumab n = 50), T-DM1 
+treatment resulted in a 43% reduction in risk of an IDFS event compared to 
+trastuzumab (HR = 0.57; 95% CI 0.25-1.31), with similar results for secondary 
+endpoints. As in the global population, Chinese patients receiving T-DM1 versus 
+trastuzumab had more grade ≥ 3 adverse events (AEs; 39.2% versus 4.1%) and AEs 
+leading to treatment discontinuation (27.5% versus 0%). The most common 
+grade ≥ 3 AE with T-DM1 was thrombocytopenia (21.6%), a frequency higher than 
+the frequency in the global population (5.7%). Grade ≥ 3 hemorrhage was reported 
+in 1 patient (T-DM1 arm).
+CONCLUSIONS: In the KATHERINE study, T-DM1 demonstrated increased efficacy 
+compared to trastuzumab in Chinese patients. Consistent with previous data in 
+Asian patients, T-DM1 was associated with more grade ≥ 3 AEs, and AEs leading to 
+discontinuation, which was driven by an increase in thrombocytopenia.
+
+DOI: 10.1007/s10549-021-06166-y
+PMID: 33860389 [Indexed for MEDLINE]
