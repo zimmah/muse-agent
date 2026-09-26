@@ -1,0 +1,87 @@
+1. Int J Mol Sci. 2020 Feb 18;21(4):1386. doi: 10.3390/ijms21041386.
+
+Early Modulation of Circulating MicroRNAs Levels in HER2-Positive Breast Cancer 
+Patients Treated with Trastuzumab-Based Neoadjuvant Therapy.
+
+Di Cosimo S(1), Appierto V(1), Pizzamiglio S(2), Silvestri M(1), Baselga J(3), 
+Piccart M(4), Huober J(5), Izquierdo M(6), de la Pena L(7), Hilbers FS(8), de 
+Azambuja E(4), Untch M(9), Pusztai L(10), Pritchard K(11), Nuciforo P(3), 
+Vincent-Salomon A(12), Symmans F(13), Apolone G(14), de Braud FG(15), Iorio 
+MV(16), Verderio P(2), Daidone MG(1).
+
+Author information:
+(1)Biomarker Unit, Department of Applied Research and Technological Development, 
+Fondazione IRCCS Istituto Nazionale dei Tumori, 20100 Milan, Italy.
+(2)Bioinformatics and Biostatistics Unit, Department of Applied Research and 
+Technological Development, Fondazione IRCCS Istituto Nazionale dei Tumori, 20100 
+Milan, Italy.
+(3)Vall D'Hebron Institute of Oncology, 08035 Barcelona, Spain.
+(4)Department of Medical Oncology, Institut Jules Bordet and l'Université Libre 
+de Bruxelles (U.L.B), 1000 Brussels, Belgium.
+(5)Department of Obstetrics and Gynecology, University of Ulm, 89081 Ulm, 
+Germany.
+(6)Novartis Pharmaceutical, 4002 Basel, Switzerland.
+(7)SOLTI-Breast Cancer Research Group, 08035 Barcelona, Spain.
+(8)Breast International Group (BIG)-aisbl, 1000 Bruxelles, Belgium.
+(9)Department of Gynecology and Obstetrics, Helios Klinikum Berlin-Buch, 13125 
+Berlin, Germany.
+(10)Yale Cancer Center, Yale School of Medicine, New Haven, CT 06511, USA.
+(11)Division of Medical Oncology, Department of Medicine, Sunnybrook Health 
+Sciences Centre, Toronto, M4N 3M5 ON, Canada.
+(12)Groupe d'étude des facteurs pronostiques immunohistochimiques dans le cancer 
+du sein, 75013 Unicancer, France.
+(13)Department of Pathology, The UT M.D. Anderson Cancer Center, Houston, TX 
+77030, USA.
+(14)Scientific Directorate, Fondazione IRCCS Istituto Nazionale dei Tumori, 
+20100 Milan, Italy.
+(15)Department of Oncology, Fondazione IRCCS Istituto Nazionale dei Tumori, 
+20100 Milan, Italy.
+(16)Molecular Targeting Unit, Department of Research, Fondazione IRCCS Istituto 
+Nazionale dei Tumori, 20100 Milan, Italy.
+
+Circulating microRNA (ct-miRNAs) are able to identify patients with differential 
+response to HER2-targeted therapy. However, their dynamics are largely unknown. 
+We assessed 752 miRNAs from 52 NeoALTTO patients with plasma pairs prior and two 
+weeks after trastuzumab. Increased levels of ct-miR-148a-3p and ct-miR-374a-5p 
+were significantly associated with pathological complete response (pCR) (p = 
+0.008 and 0.048, respectively). At a threshold ≥ the upper limit of the 95%CI of 
+the mean difference, pCR resulted 45% (95%CI 24%-68%), and 44% (95%CI 22%-69%) 
+for ct-miR-148a-3p and ct-miR-374a-5p, respectively. Notably, ct-miR-148a-3p 
+retained its predictive value (OR 3.42, 95%CI 1.23-9.46, p = 0.018) in bivariate 
+analysis along with estrogen receptor status. Combined information from 
+ct-miR-148a-3p and ct-miR140-5p, which we previously reported to identify 
+trastuzumab-responsive patients, resulted in greater predictive capability over 
+each other, with pCR of 54% (95%CI 25%-81%) and 0% (95%CI 0%-31%) in 
+ct-miR-148a/ct-miR-140-5p high/present and low/absent, respectively. GO and KEGG 
+analyses showed common enriched terms between the targets of these ct-miRNAs, 
+including cell metabolism regulation, AMPK and MAPK signaling, and HCC 
+progression. In conclusion, early modulated ct-miR-148-3p may inform on the 
+functional processes underlying treatment response, integrate the information 
+from already available predictive biomarkers, and identify patients likely to 
+respond to single agent trastuzumab-based neoadjuvant therapy.
+
+DOI: 10.3390/ijms21041386
+PMCID: PMC7073028
+PMID: 32085669 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.D.C. reports receiving speakers bureau 
+honoraria from Novartis Pharma outside this work. E. de Azambuja is a 
+consultant/advisory board member for and reports receiving commercial research 
+support from Roche. M.A. Izquierdo has ownership interests (including patents) 
+at Novartis. FSH is an employee of Breast International Group, which received 
+funding from GSK and later Novartis for the conduct of the NeoALTTO study. J. 
+Huober reports receiving speakers bureau honoraria from and is a 
+consultant/advisory board member for Novartis and Roche, and reports receiving 
+commercial research grants from Novartis. J. Baselga is an employee of 
+AstraZeneca, Foghorn, Varian Medical Systems, Bristol-Myers Squibb, Grail, Aura, 
+and Infinity Pharmaceuticals, has ownership interests (including patents) at PMV 
+Pharma, Tango, Venthera, Seragon, Juno, and Northern Biologies, is a 
+consultant/advisory board member for Eli Lilly and Novartis, and reports 
+receiving commercial research support from Roche. F.G. De Braud reports 
+receiving speakers bureau honoraria from BMS, Eli Lilly, Roche, Amgen, 
+AstraZeneca, Gentili, Fondazione Menarini, Novartis, MSD, Ignyta, Bayer, Noema 
+S.r.l., ACCMED, Dephaforum S.r.l., Nadirex, Roche, Biotechspert Lts., PriME 
+Oncology, Pfizer, and is a consultant/advisory board member for BMS, TizianaLife 
+Sciences, Celgene, Novartis, Servier, Phanm Research Associated, Daiichi Sankyo, 
+Ignyta, Amgen, Pfizer, Roche, Teogarms, and Pierre Fabre. No potential conflicts 
+of interest were disclosed by the other authors.
