@@ -1,0 +1,54 @@
+1. Pathol Res Pract. 2020 Nov;216(11):153155. doi: 10.1016/j.prp.2020.153155.
+Epub  2020 Aug 10.
+
+HER2 immunohistochemistry staining positivity is strongly predictive of tumor 
+response to neoadjuvant chemotherapy in HER2 positive breast cancer.
+
+Zhao J(1), Krishnamurti U(2), Zhang C(3), Meisel J(4), Wei Z(1), Suo A(5), Aneja 
+R(6), Li Z(7), Li X(8).
+
+Author information:
+(1)Department of Pathology, The Affiliated Hospital of Qingdao University, 
+Qingdao, China.
+(2)Department of Pathology and Laboratory Medicine, Emory University, Atlanta, 
+GA, United States.
+(3)Biostatistics and Bioinformatics Shared Resource, Emory University, Atlanta, 
+GA, United States.
+(4)Department of Hematology and Medical Oncology, Emory University, Atlanta, GA, 
+United States.
+(5)Department of Oncology, The First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+(6)Department of Biology, Georgia State University, Atlanta, GA, United States.
+(7)Department of Pathology, Ohio State University, Columbus, OH, United States.
+(8)Department of Pathology and Laboratory Medicine, Emory University, Atlanta, 
+GA, United States. Electronic address: xli40@emory.edu.
+
+BACKGROUND: The current recommendation is to reflex test HER2 
+immunohistochemistry (IHC) equivocal breast cancer cases with fluorescence in 
+situ hybridization (FISH) analysis. Either IHC 3+ or FISH positive cancers are 
+considered HER2 positive (HER2+) and treated with HER2 targeted therapy. This 
+study examined the predictive value of HER IHC or FISH positivity in tumor 
+response to HER2 targeted therapy.
+METHODS: Biopsies of 76 HER2+ breast cancer cases were evaluated. All patients 
+were treated with neoadjuvant HER2 targeted therapy and chemotherapy. Tumor 
+response was evaluated on the excisional specimens. Cancers with complete 
+pathologic response (pCR) or MD Anderson residual cancer burden-I (RCB-I) were 
+classified as responders and cancers with RCB-II/III as non-responders. 
+Clinicopathologic parameters were correlated with response.
+RESULTS: In univariate analysis, small tumor size, low nuclear grade, high Ki67, 
+HER2 IHC 3+, homogenous strong HER2 IHC staining, high HER2/CEP17 ratio, and 
+high HER2 copy number were significantly associated with pCR/RCB-I. In 
+multivariate analysis, homogenous strong HER2 IHC staining pattern was 
+significantly associated with pCR/RCB-I. The receiver operating characteristics 
+(ROC) model showed either high HER2/CEP17 ratio or HER2 copy number individually 
+was predictive of tumor response.
+CONCLUSION: HER2 IHC staining pattern is significantly associated with tumor 
+response to neoadjuvant chemotherapy, reiterating the importance of HER2 IHC 
+evaluation. The ROC model shows either high HER2/CEP17 ratio or high HER2 copy 
+number individually is predictive of tumor response to neoadjuvant HER2 targeted 
+therapy in HER2+ breast cancer.
+
+Copyright © 2020 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2020.153155
+PMID: 32871536 [Indexed for MEDLINE]
