@@ -1,0 +1,38 @@
+1. Am Soc Clin Oncol Educ Book. 2018 May 23;38:47-55. doi: 10.1200/EDBK_200719.
+
+Using a Neoadjuvant Approach for Evaluating Novel Therapies for Patients With 
+Breast Cancer.
+
+Denduluri N(1), Miller K(1), O'Regan RM(1).
+
+Author information:
+(1)From the Virginia Cancer Specialists, Fairfax, VA; Indiana University Melvin 
+and Bren Simon Cancer Center, Indianapolis, IN; University of Wisconsin Carbone 
+Cancer Center, Madison, WI.
+
+Preoperative systemic therapy, though primarily used to downstage breast 
+cancers, can offer, using pathologic complete response (pCR) as an endpoint, a 
+rapid assessment of efficacy of a given therapeutic approach, particularly in 
+triple-negative (TNBC) and HER2-positive breast cancers. Recently, this approach 
+resulted in the approval of pertuzumab for HER2-positive cancers, in a 
+considerably quicker timeline than would have been possible with its assessment 
+in the adjuvant setting. However, the use of preoperative systemic therapy 
+remains controversial, as the higher response rates noted with newer approaches 
+have not routinely translated into improved longer-term outcomes, nor have they 
+been confirmed in larger adjuvant trials. Almost all trials have demonstrated 
+that pCR is a robust prognostic marker in patients with TNBC and HER2-positive 
+cancers, so part of this discrepancy may be due to inadequate power in the 
+preoperative trials and/or due to the heterogeneous nature of breast cancers. 
+PCR following preoperative chemotherapy is not prognostic in many hormone 
+receptor (HR)-positive breast cancers, especially those with a luminal A 
+phenotype, which typically has minimal response to chemotherapy. Given this lack 
+of response to chemotherapy, there is considerable interest in the use of 
+neoadjuvant endocrine therapy (NET). The rate of pCR to NET in HR-positive 
+cancers is low, leading to the use of surrogate markers, including changes in 
+Ki-67 and the preoperative endocrine prognostic index (PEPI) score, as 
+biomarkers of efficacy. Overall, the use of neoadjuvant approaches offers a 
+rapid assessment of efficacy of novel therapies and remains a useful research 
+tool for drug evaluation.
+
+DOI: 10.1200/EDBK_200719
+PMID: 30231324 [Indexed for MEDLINE]
