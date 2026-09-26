@@ -1,0 +1,42 @@
+1. Mod Pathol. 2025 Sep;38(9):100787. doi: 10.1016/j.modpat.2025.100787. Epub
+2025  May 6.
+
+Molecular Landscape, Genomic Shift, and Prediction in the Neoadjuvant Setting of 
+Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer.
+
+Pons L(1), Hernandez L(1), Urbizu A(1), Arnaldo L(1), Rodriguez-Martinez P(1), 
+Sanz C(1), Muñoz-Mármol AM(1), Fernandez E(1), Felip E(2), Quiroga V(2), Margelí 
+M(2), Fernandez PL(3).
+
+Author information:
+(1)Hospital Germans Trias i Pujol, Pathology Department, Badalona, Barcelona, 
+Spain; Germans Trias i Pujol Research Institute (IGTP), Badalona, Barcelona, 
+Spain.
+(2)Hospital Germans Trias i Pujol Medical, Oncology Department (ICO), Badalona, 
+Barcelona, Spain; Badalona-Applied Research Group in Oncology (B-ARGO), 
+Badalona, Barcelona, Spain.
+(3)Hospital Germans Trias i Pujol, Pathology Department, Badalona, Barcelona, 
+Spain; Germans Trias i Pujol Research Institute (IGTP), Badalona, Barcelona, 
+Spain; Autonomous University of Barcelona, Barcelona, Spain. Electronic address: 
+plfernandez.germanstrias@gencat.cat.
+
+The amplification or overexpression of human epidermal growth factor receptor 2 
+(HER2) defines a breast cancer subtype, which benefits from neoadjuvant 
+HER2-targeted therapy. However, at least 40% of patients respond poorly or do 
+not respond to treatment. We analyzed the main genomic alterations of 64 HER2+ 
+patients by next-generation sequencing to identify new predictors of response 
+and correlate them with clinicopathological parameters. We also compared the 
+genomic alterations between primary and residual tumors after neoadjuvant 
+treatment. The TP53 gene was the most frequently mutated gene, and in 
+combination with ERBB2 overexpression, the 2 were predictive of residual cancer 
+burden (P = .001). Furthermore, the combination of their immunohistochemical 
+counterpart (p53 mutant and score 3+ for HER2) can predict complete pathological 
+response and the grade of response (P = .038 and P = .031, respectively). 
+Therefore, p53 could be included in the initial panel of breast cancer 
+biomarkers to help therapeutic decision-making in HER2+ cases.
+
+Copyright © 2025 United States & Canadian Academy of Pathology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.modpat.2025.100787
+PMID: 40340028 [Indexed for MEDLINE]
