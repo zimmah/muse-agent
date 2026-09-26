@@ -1,0 +1,49 @@
+1. Clin Breast Cancer. 2015 Aug;15(4):251-8. doi: 10.1016/j.clbc.2014.09.007.
+Epub  2014 Oct 2.
+
+Neoadjuvant Ixabepilone/Carboplatin/Trastuzumab in HER2-Positive Operable Breast 
+Cancer: A Phase II Trial of the Sarah Cannon Research Institute.
+
+Yardley DA(1), Zubkus JD(2), Eakle JF(3), Bechhold RG(4), Finney L(5), Daniel 
+D(6), Daniel B(6), Hainsworth JD(2).
+
+Author information:
+(1)Sarah Cannon Research Institute, Nashville, TN; Tennessee Oncology, PLLC, 
+Nashville, TN. Electronic address: dyardley@tnonc.com.
+(2)Sarah Cannon Research Institute, Nashville, TN; Tennessee Oncology, PLLC, 
+Nashville, TN.
+(3)Florida Cancer Specialists, Fort Myers, FL.
+(4)Oncology Hematology Care, Cincinnati, OH.
+(5)Sarah Cannon Research Institute, Nashville, TN.
+(6)Sarah Cannon Research Institute, Nashville, TN; Tennessee Oncology, PLLC, 
+Chattanooga, TN.
+
+BACKGROUND: Ixabepilone is a member of the epothilone class of antineoplastic 
+agents with activity against taxane-resistant tumors, and low susceptibility to 
+common mechanisms of tumor resistance. This study evaluated ixabepilone in lieu 
+of a taxane in combination with carboplatin and trastuzumab as neoadjuvant 
+treatment for operable HER2-positive breast cancer.
+PATIENTS AND METHODS: Patients ≥ 18 years of age with histologically-confirmed 
+HER2-positive adenocarcinoma of the breast (clinical T1-T3, N0-N2, M0), normal 
+left ventricular ejection fraction, and adequate organ function received 
+trastuzumab 6 mg/kg intravenous (I.V.) (with 8 mg/kg loading dose cycle 1), 
+ixabepilone 40 mg/m(2) I.V., and carboplatin area under the curve = 6.0 I.V. on 
+day 1 of each 21-day cycle. Prophylactic growth factor support was permitted. 
+After completing 6 cycles, patients underwent definitive surgery. After surgery, 
+patients continued trastuzumab every 3 weeks for a total of 1 year. Locoregional 
+radiation therapy and endocrine therapy was administered per institutional 
+guidelines. The primary end point was the rate of pCR.
+RESULTS: Fifty-eight eligible women (median tumor size, 3.0 cm; clinical 
+axillary lymph node involvement, 67%) initiated treatment between April 2009 and 
+February 2010. Fifty-two patients (90%) underwent surgery, and pCR was observed 
+in 27 patients (52%). Grade 3/4 neutropenia was the most common toxicity, 
+occurring in 69% of patients and complicated by fever in 4 patients.
+CONCLUSION: The combination of ixabepilone, carboplatin, and trastuzumab was 
+feasible and active as a neoadjuvant regimen. Although the pCR rate of 52% falls 
+within the range reported with other taxane/trastuzumab-based regimens, the 
+greater incidence of severe neutropenia is a disadvantage for this regimen.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2014.09.007
+PMID: 25640059 [Indexed for MEDLINE]
