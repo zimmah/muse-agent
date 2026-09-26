@@ -1,0 +1,17 @@
+# methods-audit — claim 2907b3f3cafd4758a3b45e2250ce719d4fda612b7446cea60dc205090a978527
+
+Claim: Reported finding from PMID 42152038 (Cost-effectiveness analysis of the treatment pathway after trastuzumab treatment failure in patients with HER2-positive advanced breast cancer: a chinese health system perspective): The ICER values for pyrotinib plus capecitabine, T-DM1, and T-DXd were $59,278.37/QALY, $50,029.87/QALY, and $148,234.68/QALY, respectively, when compared to lapatinib plus capecitabine. The deterministic sensitivity analysis indicated that ICER variability was primarily driven by drug costs, patient body weight, hazard ratios (HRs) for progression-free survival (PFS) and overall survival (OS), and the utilities of the progression-free (PF) and progressive disease (PD) health states. A probabilistic sensitivity analysis revealed that lapatinib's advantage produced a stable result at the willing-to-pay (WTP) threshold.
+Source: PMID 42152038 (https://pubmed.ncbi.nlm.nih.gov/42152038/)
+Checked: 2026-09-26T00:46:51.015Z
+
+## Method
+1. Fetched abstract via NCBI efetch.
+2. Checklist audit (qwen3:8b, temp 0): design in source: not stated; design matches claim: true; endpoint matches: n/a; population matches: n/a; contradiction: false.
+3. Notes: The claim is fully supported by the source abstract. The abstract explicitly states the ICER values for pyrotinib plus capecitabine ($59,278.37/QALY), T-DM1 ($50,029.87/QALY), and T-DXd ($148,234.68/QALY) compared to lapatinib plus capecitabine. It also mentions that the deterministic sensitivity analysis identified drug costs, patient body weight, hazard ratios for PFS and OS, and utilities of PF and PD health states as key drivers of ICER variability. The probabilistic sensitivity analysis is noted to show that lapatinib's advantage was stable at the WTP threshold. All these details align with the claim.
+4. Deterministic numeric grounding: missing tokens: none.
+
+## Result
+supports (confidence 7500 bps)
+
+Limitations: abstract-level check only; full text not reviewed.
+Source sha256: 22831d596c56b54aa03d76ae5eb58e849bf0120c18cadee482e0196fb2258920
