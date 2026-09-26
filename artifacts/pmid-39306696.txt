@@ -1,0 +1,46 @@
+1. Cancer. 2025 Jan 1;131(1):e35581. doi: 10.1002/cncr.35581. Epub 2024 Sep 22.
+
+Survival outcomes of neoadjuvant versus adjuvant therapy in patients with T1c, 
+node-negative, human epidermal growth factor receptor 2-positive breast cancer: 
+A Surveillance, Epidemiology, and End Results population-based study.
+
+Wang X(1), Shang Y(1), Zhang J(2), Liu J(1), Fang Z(1), Liu Y(1), Cheng W(1), 
+Duan Y(1), Hu A(1), Zhang J(1), Li M(1), Li Y(1), Zhang H(1), Rong Z(1), S 
+Shakila S(1), Kong F(1), Guo B(1).
+
+Author information:
+(1)Department of General Surgery, The Second Affiliated Hospital of Harbin 
+Medical University, Harbin, China.
+(2)Key Laboratory of Carcinogenesis and Translational Research (Ministry of 
+Education/Beijing), Department of Breast Oncology, Peking University Cancer 
+Hospital and Institute, Beijing, China.
+
+BACKGROUND: Persistent debates exist regarding the superiority of neoadjuvant 
+therapy (NAT) over adjuvant therapy (AT) for patients with T1c, node-negative, 
+human epidermal growth factor receptor 2-positive (HER2+) breast cancer, and 
+relevant guidelines for these patients are lacking.
+METHODS: Data on patients with T1cN0M0-stage HER2+ breast cancer who received 
+chemotherapy and surgery were extracted from 2010 to 2020 from the Surveillance, 
+Epidemiology, and End Results database. Propensity score matching (PSM) was used 
+to create well-balanced cohorts for the NAT and AT groups. Kaplan-Meier (KM) 
+analysis and Cox proportional hazards models were used to assess the differences 
+between NAT and AT in terms of overall survival (OS) and breast cancer-specific 
+survival (BCSS). Additionally, logistic regression models were used to explore 
+factors associated with response to NAT.
+RESULTS: After PSM, 2140 patient pairs were successfully matched, which achieved 
+a balanced distribution between the NAT and AT groups. KM curves revealed 
+similar OS and BCSS between patients receiving NAT and those undergoing AT. A 
+multivariate Cox model identified achieving pathological complete response (pCR) 
+after NAT, compared with AT, as a protective prognostic factor for OS (hazard 
+ratio, 0.52; 95% CI, 0.35-0.77; p < .001) and BCSS (hazard ratio, 0.60; 95% 
+CI, 0.37-0.98; p = .041). A logistic regression model revealed that White race 
+and hormone receptor-negative status independently predicted pCR.
+CONCLUSIONS: For patients with T1cN0M0-stage HER2+ breast cancer, NAT 
+demonstrated comparable OS and BCSS to AT. Patients who achieved pCR after NAT 
+exhibited significantly better survival outcomes compared with those who 
+received AT.
+
+© 2024 American Cancer Society.
+
+DOI: 10.1002/cncr.35581
+PMID: 39306696 [Indexed for MEDLINE]
