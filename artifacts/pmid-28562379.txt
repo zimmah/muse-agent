@@ -1,0 +1,53 @@
+1. Anticancer Drugs. 2017 Aug;28(7):787-794. doi: 10.1097/CAD.0000000000000514.
+
+Dexrazoxane added to doxorubicin-based adjuvant chemotherapy of breast cancer: a 
+retrospective cohort study with a comparative analysis of toxicity and survival.
+
+Tahover E(1), Segal A, Isacson R, Rosengarten O, Grenader T, Gips M, Cherny N, 
+Heching NI, Mesika L, Catane R, Gabizon A.
+
+Author information:
+(1)aOncology Institute, Shaare Zedek Medical Center bSchool of Medicine, Hebrew 
+University, Jerusalem, Israel.
+
+Dexrazoxane is indicated as a cardioprotective agent for patients receiving 
+doxorubicin who are at increased risk for cardiotoxicity. Concerns have been 
+raised on the use of dexrazoxane, particularly in adjuvant therapy, because of 
+the risk of interference with the antitumor effect of doxorubicin. Two 
+meta-analyses in metastatic breast cancer have rejected this hypothesis, but 
+have shown an apparent increase in the severity of myelosuppression when 
+dexrazoxane is used. Here, we analyzed retrospectively a cohort of our institute 
+database to assess whether the addition of dexrazoxane causes more bone marrow 
+suppression in breast cancer patients receiving doxorubicin-based adjuvant 
+therapy. The secondary objectives were assessment of the incidence of febrile 
+neutropenia, dose-schedule modifications, recorded cardiac events or cardiac 
+test abnormalities, and overall survival. Eight hundred and twenty-two female 
+patients who received adjuvant (or neoadjuvant) doxorubicin and cyclophosphamide 
+for breast cancer between 2001 and 2013 were included. One hundred and four of 
+these patients also received dexrazoxane concurrently with the adjuvant 
+treatment. Hospital records and, when accessible, community clinic records were 
+reviewed. The median follow-up duration was 7 years for patients receiving 
+dexrazoxane and 7.5 years for patients not receiving dexrazoxane. 85.6% of 
+patients were alive at data lock. Compared with the nondexrazoxane group, 
+patients who received dexrazoxane were older (median age at diagnosis 59 vs. 52 
+years) and more likely to receive dose-dense AC therapy (73 vs. 59%) and 
+adjuvant trastuzumab treatment (29 vs. 15%). Compared with the nondexrazoxane 
+group, dexrazoxane treatment was associated with a higher rate of hematological 
+side effects: leukopenia (48 vs. 39%), neutropenia (45 vs. 31%, P=0.003), anemia 
+(86 vs. 73%, P=0.005), and thrombocytopenia (37 vs. 22%, P=0.001). There were 
+more febrile neutropenia hospitalizations (20 vs. 10%, P=0.001) and dose 
+reductions (22 vs. 8%, P<0.001) in the dexrazoxane group, but no significant 
+difference in the incidence of treatment delays or cancellations. The incidence 
+of cardiac events was the same in both treatment groups with and without 
+dexrazoxane. There was a nonsignificantly lower mortality rate in the 
+dexrazoxane group (9.6%) compared with the nondexrazoxane group (15.0%) at data 
+lock. Adding dexrazoxane to doxorubicin in adjuvant therapy patients leads to 
+higher rates of bone marrow suppression in all blood components, as well as more 
+febrile neutropenia events, and dose reductions. No differences in events 
+defined as cardiac toxicities were detected. Dexrazoxane had no detrimental 
+effect on survival, despite the higher hematological toxicity, the older median 
+age, and the higher prevalence of HER2-positive disease in the dexrazoxane 
+group.
+
+DOI: 10.1097/CAD.0000000000000514
+PMID: 28562379 [Indexed for MEDLINE]
