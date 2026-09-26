@@ -1,0 +1,34 @@
+1. Expert Rev Anticancer Ther. 2017 Jan;17(1):61-74. doi: 
+10.1080/14737140.2017.1264876. Epub 2016 Dec 5.
+
+Adjuvant trastuzumab: a 10-year overview of its benefit.
+
+Lambertini M(1)(2), Pondé NF(1), Solinas C(3), de Azambuja E(1).
+
+Author information:
+(1)a BrEAST Data Centre, Institut Jules Bordet , l'Université Libre de Bruxelles 
+(U.L.B.) , Brussels , Belgium.
+(2)b Breast Cancer Translational Research Laboratory , Institut Jules Bordet , 
+Brussels , Belgium.
+(3)c Molecular Immunology Unit , Institut Jules Bordet , Brussels , Belgium.
+
+Anti-HER2 targeted therapy is one of the key advances in the treatment of breast 
+cancer that have occurred in the last 20 years. In the adjuvant setting, the use 
+of trastuzumab has led to prolonged and sustained survival benefit with very 
+little toxicity as also confirmed by the 10-year follow-up results from the 
+pivotal trials. Despite the survival improvement, several key issues are not 
+entirely resolved in this field. These issues have led to multiple research 
+efforts in de-escalating or escalating the standard treatment with chemotherapy 
+and 1 year of adjuvant trastuzumab. Areas covered: In this paper, we present an 
+in depth overview on the state of the art on these key issues of refining 
+decision-making in adjuvant anti-HER2 therapy. Expert commentary: Despite many 
+important research efforts in the field, chemotherapy plus trastuzumab for a 
+total duration of 1 year remains the standard of care. However, recent data 
+showed that besides standard anthracycline- and taxane-based cytotoxic therapy, 
+alternative chemotherapy regimens can now be proposed to patients with small 
+tumors without nodal involvement and to women at high-risk of developing 
+cardiotoxicity. Of note, besides HER2 itself, biomarkers predicting patients who 
+may truly benefit from anti-HER2 agents are still lacking.
+
+DOI: 10.1080/14737140.2017.1264876
+PMID: 27883296 [Indexed for MEDLINE]
