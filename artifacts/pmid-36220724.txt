@@ -1,0 +1,49 @@
+1. Clin Breast Cancer. 2022 Dec;22(8):781-791. doi: 10.1016/j.clbc.2022.08.012. 
+Epub 2022 Sep 1.
+
+Residual Disease Burden After Neoadjuvant Therapy Among US Patients With 
+High-Risk HER2-positive Early-Stage Breast Cancer: A Population Effectiveness 
+Model.
+
+Hendrix N(1), Oestreicher N(2), Lalla D(2), Dolan CM(3), Fisher KA(3), Veenstra 
+DL(4), Moy B(5).
+
+Author information:
+(1)Harvard T.H. Chan School of Public Health, Boston, MA. Electronic address: 
+nhendrix@hsph.harvard.edu.
+(2)Puma Biotechnology Inc., Los Angeles, CA.
+(3)CMD Consulting, Sandy, UT.
+(4)Department of Pharmacy, University of Washington, Seattle, WA.
+(5)Massachusetts General Hospital Cancer Center, Boston, MA.
+
+BACKGROUND: Approximately half of patients with high-risk HER2-positive 
+early-stage breast cancer (ESBC) do not have pathologic complete response (pCR) 
+after neoadjuvant therapy. The residual burden of disease among this population 
+has not been previously quantified.
+MATERIALS AND METHODS: We used decision-modeling techniques to simulate 
+recurrence, progression from locoregional to distant cancer, breast 
+cancer-related mortality, and mortality from other causes over a 10-year period 
+in a hypothetical cohort. We derived progression probabilities primarily from 
+the KATHERINE trial of T-DM1 (ado-trastuzumab emtansine) and mortality outcomes 
+from the published literature. Modeled outcomes included recurrences, breast 
+cancer deaths, deaths from other causes, direct medical costs, and costs due to 
+lost productivity. To estimate the residual disease burden, we compared outcomes 
+from a cohort of patients treated with T-DM1 versus a hypothetical cohort with 
+no disease recurrence.
+RESULTS: We estimated that 9,300 people would experience incident high-risk 
+HER2-positive ESBC in the United States in 2021 based on cancer surveillance 
+databases, clinical trial data, and expert opinion. We estimated that, in this 
+group, 2,118 would experience disease recurrence, including 1,576 distant 
+recurrences, and 1,358 would experience breast cancer deaths. This residual 
+disease burden resulted in 6,435 life-years lost versus the recurrence-free 
+cohort, and healthcare-related costs totaling $644 million, primarily associated 
+with treating distant cancers.
+CONCLUSION: Patients with HER2-positive ESBC who do not achieve pCR after 
+neoadjuvant therapy are at ongoing risk of recurrence despite the effectiveness 
+of neoadjuvant treatment. There is substantial clinical and economic value in 
+further reducing the residual disease burden in this population.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2022.08.012
+PMID: 36220724 [Indexed for MEDLINE]
