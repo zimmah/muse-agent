@@ -1,0 +1,54 @@
+1. Sci Rep. 2024 Nov 2;14(1):26377. doi: 10.1038/s41598-024-78341-2.
+
+The role of adjuvant endocrine treatment in ER+, PR-, HER2- early breast cancer: 
+a retrospective study of real-world data.
+
+Zhong M(#)(1), Ren X(#)(2), Xia W(1), Qian Y(1), Sun K(1), Wu J(3).
+
+Author information:
+(1)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, Zhejiang, China.
+(2)Center of Clinical Pharmacology, The Second Affiliated Hospital of Zhejiang 
+University School of Medicine, Hangzhou, Zhejiang, China.
+(3)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, Zhejiang, China. junwu@zju.edu.cn.
+(#)Contributed equally
+
+PURPOSE: Estrogen receptor-positive (ER+), progesterone receptor-negative (PR-) 
+and human epidermal growth factor receptor 2-negative (HER2-) breast cancer (BC) 
+often developed resistance to endocrine treatment (ET). We aimed to explore (1) 
+the different clinicopathological features between ER+/PR+/HER2- and 
+ER+/PR-/HER2- BC, and (2) whether ER+/PR-/HER2- early BC patients could benefit 
+from adjuvant ET.
+METHODS: All patients treated for ER+/HER2- early BC who underwent surgery 
+between 2010 and 2021 from a BC database in China were retrospectively examined. 
+The cases followed up for less than six months were excluded.
+RESULTS: The records of ER+/PR+/HER2- (n = 10843) and ER+/PR-/HER2- BC 
+(n = 1193) cases were reviewed, with median follow-up times of 35.8 and 47.0 
+months, respectively. Compared with ER+/PR+/HER2- cases, ER+/PR-/HER2- BC 
+occurred more in postmenopausal women (73.1% vs. 52.9%, p = 0.000) and were more 
+likely to be T > 2 cm (40.6% vs. 37.6%, p = 0.048) and Ki67 > 20%+ (48.1% vs. 
+36.9%, p = 0.000). However, ER+/PR-/HER2- cases had fewer nodal involvement 
+(32.9% vs. 36.9%, p = 0.000). Approximately 82.2% (981/1193) of ER+/PR-/HER2- 
+patients received ET, while approximately 17.8% (212/1193) did not. Compared to 
+patients did not receive adjuvant ET, the ET group had similar disease-free 
+survival (DFS) (HR = 1.33, 95% confidence interval (CI): 0.68-2.59, p = 0.444) 
+and overall survival (OS) (HR = 1.17, 95%CI: 0.37-3.68, p = 0.799). 65.7% of 
+recurrent ER+/PR-/HER2- patients experienced distant relapse (65.7% vs. 48.2% 
+(for ER+/PR + cases), p = 0.011). By comparison, recurrent ER+/PR+/HER2- 
+patients were more likely to experience only local relapse (31.6% vs. 14.9% (for 
+ER+/PR- cases), p = 0.007).
+CONCLUSIONS: ER+/PR-/HER2- BC was a special subtype with aggressive 
+clinicopathological features and more tend to have distant metastasis rather 
+than nodal involvement or local relapse. ER+/PR-/HER2- early BC did not seem to 
+benefit from adjuvant ET.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-78341-2
+PMCID: PMC11530533
+PMID: 39487260 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
