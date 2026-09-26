@@ -1,0 +1,91 @@
+1. J Clin Oncol. 2016 Jul 1;34(19):2221-31. doi: 10.1200/JCO.2015.64.3171. Epub 
+2016 Apr 4.
+
+Absolute Benefit of Adjuvant Endocrine Therapies for Premenopausal Women With 
+Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative 
+Early Breast Cancer: TEXT and SOFT Trials.
+
+Regan MM(1), Francis PA(2), Pagani O(2), Fleming GF(2), Walley BA(2), Viale 
+G(2), Colleoni M(2), Láng I(2), Gómez HL(2), Tondini C(2), Pinotti G(2), Price 
+KN(2), Coates AS(2), Goldhirsch A(2), Gelber RD(2).
+
+Author information:
+(1)Meredith M. Regan and Richard D. Gelber, Dana-Farber Cancer Institute, 
+Harvard Medical School; Karen N. Price and Richard D. Gelber, Frontier Science 
+and Technology Research Foundation; Richard D. Gelber, Harvard T.H. Chan School 
+of Public Health, Boston, MA; Prudence A. Francis, MacCallum Cancer Center, St 
+Vincent's Hospital, University of Melbourne, Melbourne; University of Newcastle, 
+Newcastle; Alan S. Coates, University of Sydney, Sydney, Australia; Olivia 
+Pagani, Institute of Oncology of Southern Switzerland, Lugano Viganello, 
+Switzerland; Gini F. Fleming, University of Chicago Medical Center, Chicago, IL; 
+Barbara A. Walley, National Cancer Institute of Canada Clinical Trials Group, 
+Calgary, Alberta, Canada; Giuseppe Viale, University of Milan; Giuseppe Viale, 
+Marco Colleoni, and Aron Goldhirsch, European Institute of Oncology, Milan; 
+Carlo Tondini, Ospedale Papa Giovanni XXIII, Bergamo; Graziella Pinotti, 
+Ospedale di Circolo and Fondazione Macchi, Varese, Italy; István Láng, National 
+Institute of Oncology, Budapest, Hungary; Henry L. Gómez, Instituto Nacional de 
+Enfermedades Neoplásticas, Lima, Peru. mregan@jimmy.harvard.edu.
+(2)Meredith M. Regan and Richard D. Gelber, Dana-Farber Cancer Institute, 
+Harvard Medical School; Karen N. Price and Richard D. Gelber, Frontier Science 
+and Technology Research Foundation; Richard D. Gelber, Harvard T.H. Chan School 
+of Public Health, Boston, MA; Prudence A. Francis, MacCallum Cancer Center, St 
+Vincent's Hospital, University of Melbourne, Melbourne; University of Newcastle, 
+Newcastle; Alan S. Coates, University of Sydney, Sydney, Australia; Olivia 
+Pagani, Institute of Oncology of Southern Switzerland, Lugano Viganello, 
+Switzerland; Gini F. Fleming, University of Chicago Medical Center, Chicago, IL; 
+Barbara A. Walley, National Cancer Institute of Canada Clinical Trials Group, 
+Calgary, Alberta, Canada; Giuseppe Viale, University of Milan; Giuseppe Viale, 
+Marco Colleoni, and Aron Goldhirsch, European Institute of Oncology, Milan; 
+Carlo Tondini, Ospedale Papa Giovanni XXIII, Bergamo; Graziella Pinotti, 
+Ospedale di Circolo and Fondazione Macchi, Varese, Italy; István Láng, National 
+Institute of Oncology, Budapest, Hungary; Henry L. Gómez, Instituto Nacional de 
+Enfermedades Neoplásticas, Lima, Peru.
+
+Comment in
+    J Clin Oncol. 2016 Jul 1;34(19):2203-5. doi: 10.1200/JCO.2016.67.0463.
+    CA Cancer J Clin. 2016 Sep;66(5):355-6. doi: 10.3322/caac.21308.
+
+PURPOSE: Risk of recurrence is the primary consideration in breast cancer 
+adjuvant therapy recommendations. The TEXT (Tamoxifen and Exemestane Trial) and 
+SOFT (Suppression of Ovarian Function Trial) trials investigated adjuvant 
+endocrine therapies for premenopausal women with hormone receptor-positive 
+breast cancer, testing exemestane plus ovarian function suppression (OFS), 
+tamoxifen plus OFS, and tamoxifen alone. We examined absolute treatment effect 
+across a continuum of recurrence risk to individualize endocrine therapy 
+decision making for premenopausal women with human epidermal growth factor 
+receptor 2 (HER2) -negative disease.
+PATIENTS AND METHODS: The TEXT and SOFT hormone receptor-positive, HER2-negative 
+analysis population included 4,891 women. The end point was breast cancer-free 
+interval (BCFI), defined as time from random assignment to first occurrence of 
+invasive locoregional, distant, or contralateral breast cancer. A continuous, 
+composite measure of recurrence risk for each patient was determined from a Cox 
+model incorporating age, nodal status, tumor size and grade, and estrogen 
+receptor, progesterone receptor, and Ki-67 expression levels. Subpopulation 
+treatment effect pattern plot methodology revealed differential treatment 
+effects on 5-year BCFI according to composite risk.
+RESULTS: SOFT patients who remained premenopausal after chemotherapy experienced 
+absolute improvement of 5% or more in 5-year BCFI with exemestane plus OFS 
+versus tamoxifen plus OFS or tamoxifen alone, reaching 10% to 15% at 
+intermediate to high composite risk; the benefit of tamoxifen plus OFS versus 
+tamoxifen alone was apparent at the highest composite risk. The SOFT 
+no-chemotherapy cohort-for whom composite risk was lowest on average-did well 
+with all endocrine therapies. For TEXT patients, the benefit of exemestane plus 
+OFS versus tamoxifen plus OFS in 5-year BCFI ranged from 5% to 15%; patients not 
+receiving chemotherapy and with lowest composite risk did well with both 
+treatments.
+CONCLUSION: Premenopausal women with hormone receptor-positive, HER2-negative 
+disease and high recurrence risk, as defined by clinicopathologic 
+characteristics, may experience improvement of 10% to 15% in 5-year BCFI with 
+exemestane plus OFS versus tamoxifen alone. An improvement of at least 5% may be 
+achieved for women at intermediate risk, and improvement is minimal for those at 
+lowest risk.
+
+© 2016 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2015.64.3171
+PMCID: PMC4962708
+PMID: 27044936 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors’ disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.
