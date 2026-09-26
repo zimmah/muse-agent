@@ -1,0 +1,50 @@
+1. Ecancermedicalscience. 2022 Jan 6;16:1338. doi: 10.3332/ecancer.2022.1338. 
+eCollection 2022.
+
+Predictors of pathologic complete response to neoadjuvant treatment in 
+HER2-overexpressing breast cancer: a retrospective analysis using real-world 
+data.
+
+Saffie Vega I(1)(2), Sapunar Zenteno J(2)(3), Buscaglia Fernandez F(4), Reyes 
+Cosmelli F(5), Lagos Chavez R(2), Chahuán Manzur B(1).
+
+Author information:
+(1)Breast Oncologic and Reconstructive Surgery Unit, Instituto Oncológico 
+Fundación Arturo López Pérez, Santiago 7500691, Chile.
+(2)Epidemiologic and Clinical Research Unit, Department of Cancer Research, 
+Instituto Oncológico Fundación Arturo López Pérez, Santiago 7500691, Chile.
+(3)Department of Internal Medicine, School of Medicine, Universidad de La 
+Frontera, Temuco 4811230, Chile.
+(4)Pathology Anatomy Unit, Instituto Oncológico Fundación Arturo López Pérez, 
+Santiago 7500691, Chile.
+(5)Medical Oncology Unit, Instituto Oncológico Fundación Arturo López Pérez, 
+Santiago 7500691, Chile.
+
+The human epidermal growth factor receptor 2 (ERBB2, HER2 or HER2/neu) is a 
+transmembrane tyrosine kinase receptor that is overexpressed in approximately 
+20% of breast cancers. The use of the anti-HER2 monoclonal antibodies Pertuzumab 
+and Trastuzumab in association with chemotherapy has achieved a higher 
+percentage of pathologic complete response (pCR) than conventional chemotherapy. 
+The purpose of our study was to identify factors that could affect the 
+therapeutic response of patients with breast cancer and HER2 overexpression 
+treated with cytotoxic chemotherapy plus double HER2 blockade in neoadjuvant 
+setting at Fundación Arturo López Pérez (FALP). A case-control study was 
+designed to evaluate the effect of clinical and histopathological variables on 
+the response to neoadjuvant therapy. Ninety-four women with non-metastatic 
+breast cancer and HER2 overexpression received neoadjuvant combination 
+chemotherapy with Trastuzumab and Pertuzumab at FALP during the period 
+2017-2020. Seventy percent of patients achieved pCR, and in the group of hormone 
+receptor negative patients, 89% of patients achieved pCR. Different variables 
+were analysed trying to look for clinicopathological predictors of complete 
+response. This study provides us with real-world data on the efficacy of using 
+this treatment combination in our population of HER2-overexpressing breast 
+cancer patients.
+
+© the authors; licensee ecancermedicalscience.
+
+DOI: 10.3332/ecancer.2022.1338
+PMCID: PMC8831104
+PMID: 35242219
+
+Conflict of interest statement: Consulting fees and contracted research for 
+Novartis and Roche.
