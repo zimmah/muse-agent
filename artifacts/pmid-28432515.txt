@@ -1,0 +1,54 @@
+1. Breast Cancer Res Treat. 2017 Jul;164(1):99-106. doi:
+10.1007/s10549-017-4254-0.  Epub 2017 Apr 21.
+
+MRI predicts pathologic complete response in HER2-positive breast cancer after 
+neoadjuvant chemotherapy.
+
+van Ramshorst MS(1), Loo CE(2), Groen EJ(3), Winter-Warnars GH(2), Wesseling 
+J(3), van Duijnhoven F(4), Peeters MTV(4), Sonke GS(5).
+
+Author information:
+(1)Department of Medical Oncology, Netherlands Cancer Institute, Plesmanlaan 
+121, 1066 CX, Amsterdam, The Netherlands.
+(2)Department of Radiology, Netherlands Cancer Institute, Plesmanlaan 121, 1066 
+CX, Amsterdam, The Netherlands.
+(3)Department of Pathology, Netherlands Cancer Institute, Plesmanlaan 121, 1066 
+CX, Amsterdam, The Netherlands.
+(4)Department of Surgical Oncology, Netherlands Cancer Institute, Plesmanlaan 
+121, 1066 CX, Amsterdam, The Netherlands.
+(5)Department of Medical Oncology, Netherlands Cancer Institute, Plesmanlaan 
+121, 1066 CX, Amsterdam, The Netherlands. g.sonke@nki.nl.
+
+BACKGROUND: Neoadjuvant treatment of HER2-positive breast cancer frequently 
+leads to a pathologic complete response (pCR), which is associated with 
+favourable long-term outcome. Treatment regimens typically consist of 6-9 cycles 
+of trastuzumab-based chemotherapy, although many patients achieve early 
+radiologic complete response (rCR). If rCR accurately predicts pCR, the number 
+of chemotherapy cycles can possibly be reduced.
+METHODS: We performed a diagnostic accuracy study to determine the association 
+between rCR and pCR in patients with stage II-III HER2-positive breast cancer 
+treated with neoadjuvant trastuzumab-based chemotherapy at the Netherlands 
+Cancer Institute. RCR was defined as the disappearance of pathologic contrast 
+enhancement in the original tumour region on repeated magnetic resonance imaging 
+(MRI). PCR was defined as the absence of invasive tumour cells in the resected 
+breast specimen (ypT0/is). Diagnostic accuracy was estimated in the overall 
+population and in subgroups based on hormone receptor (HR) status. The 
+prognostic value of rCR for recurrence-free interval was evaluated as an 
+exploratory analysis.
+RESULTS: We identified 296 eligible patients with 297 HER2-positive tumours (154 
+HR-negative and 143 HR-positive) treated with neoadjuvant trastuzumab-based 
+chemotherapy between 2004 and 2016. Overall, the rCR rate was 69% (206/297) and 
+the pCR rate was 61% (181/297). Among 206 patients with rCR, 150 also had pCR 
+(negative predictive value [NPV] = 150/206 = 73%). Among 91 patients without 
+rCR, 60 had residual tumour at pathology (positive predictive value 
+[PPV] = 60/91 = 66%). The NPV was better in HR-negative compared to HR-positive 
+tumours (88 vs. 57%), while the PPV was better in HR-positive tumours (50 vs. 
+78%). Achieving rCR was associated with a 5-year recurrence-free interval of 88% 
+compared to 68% without rCR (hazard ratio 0.34, 95% confidence interval 
+0.17-0.65, P = 0.001).
+CONCLUSION: Achieving rCR corresponds well with pCR in HER2-positive breast 
+cancer, particularly in the HR-negative subgroup. RCR is also associated with 
+improved long-term outcome.
+
+DOI: 10.1007/s10549-017-4254-0
+PMID: 28432515 [Indexed for MEDLINE]
