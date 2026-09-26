@@ -1,0 +1,35 @@
+1. Med Mol Morphol. 2019 Jun;52(2):106-113. doi: 10.1007/s00795-018-0208-9. Epub 
+2018 Oct 13.
+
+Phosphorylated HER3 and FITC-labeled trastuzumab immunohistochemistry in 
+patients with HER2-positive breast cancer treated with adjuvant trastuzumab.
+
+Kanomata N(1), Kurebayashi J(2), Moriya T(3).
+
+Author information:
+(1)Department of Pathology, Kawasaki Medical School, Matsushima 577, Kurashiki, 
+Okayama, 701-0192, Japan. kanomata_7@med.kawasaki-m.ac.jp.
+(2)Department of Breast and Thyroid Surgery, Kawasaki Medical School, Kurashiki, 
+Japan.
+(3)Department of Pathology, Kawasaki Medical School, Matsushima 577, Kurashiki, 
+Okayama, 701-0192, Japan.
+
+The development of trastuzumab has significantly improved the prognosis of 
+HER2-positive breast cancer. However, disease recurs in some patients with 
+HER2-positive breast cancer. A new strategy for treating HER2-positive breast 
+cancer is necessary. Although several studies have reported that HER3 is a 
+prognostic factor for HER2-positive breast cancers, phosphorylated HER3 (pHER3) 
+has not been well studied. There has been no survival analysis including 
+immunohistochemistry with trastuzumab as the primary antibody. We analyzed 
+immunohistochemistry using anti-pHER3 antibody and FITC-labeled trastuzumab 
+(FITC-tra). Of 78 patients enrolled in the study, we could evaluate the 
+immunohistochemistry for pHER3 in 71 cases and that for FITC-tra in 72 cases. 
+Sixteen cases were positive for pHER3 (16/71, 22.5%), and 19 positive for 
+FITC-tra (19/72, 26.4%). Kaplan-Meier analysis showed a significant association 
+of pHER3 positivity (p = 0.011) but not HER3 positivity or FITC-tra positivity 
+with disease-free survival. Therefore, immunohistochemical evaluation of pHER3 
+in HER2-positive breast cancer may provide a useful biomarker. An expanded study 
+of pHER3 involving standardization of the pHER3 test to be encouraged.
+
+DOI: 10.1007/s00795-018-0208-9
+PMID: 30317526 [Indexed for MEDLINE]
