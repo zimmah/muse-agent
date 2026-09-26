@@ -1,0 +1,58 @@
+1. Ann Surg Oncol. 2021 Nov;28(12):7383-7394. doi: 10.1245/s10434-021-09865-4.
+Epub  2021 May 12.
+
+Breast-Conserving Therapy in Patients with cT3 Breast Cancer with Good Response 
+to Neoadjuvant Systemic Therapy Results in Excellent Local Control: A 
+Comprehensive Cancer Center Experience.
+
+van der Noordaa MEM(1), Ioan I(2), Rutgers EJ(3)(4), van Werkhoven E(5), Loo 
+CE(6), Voorthuis R(3), Wesseling J(7), van Urk J(6), Wiersma T(8), Dezentje 
+V(9), Vrancken Peeters MTFD(3)(4), van Duijnhoven FH(3).
+
+Author information:
+(1)Department of Surgical Oncology, NKI-AVL, Amsterdam, The Netherlands. 
+m.vd.noordaa@nki.nl.
+(2)Department of Radiology, Policlinico San Donato, Milan, Italy.
+(3)Department of Surgical Oncology, NKI-AVL, Amsterdam, The Netherlands.
+(4)Department of Surgery, University of Amsterdam, Amsterdam, The Netherlands.
+(5)Department of Biometrics, NKI-AVL, Amsterdam, The Netherlands.
+(6)Department of Radiology, NKI-AVL, Amsterdam, The Netherlands.
+(7)Department of Pathology, NKI-AvL and Leiden University Medical Center, 
+Amsterdam, The Netherlands.
+(8)Department of Radiation Oncology, NKI-AVL, Amsterdam, The Netherlands.
+(9)Department of Medical Oncology, NKI-AVL, Amsterdam, The Netherlands.
+
+BACKGROUND: Many cT3 breast cancer patients are treated with mastectomy, 
+regardless of response to neoadjuvant systemic therapy (NST). We evaluated local 
+control of cT3 patients undergoing breast-conserving therapy (BCT) based on 
+magnetic resonance imaging (MRI) evaluation post-NST. In addition, we analyzed 
+predictive characteristics for positive margins after breast-conserving surgery 
+(BCS).
+METHODS: All cT3 breast cancer patients who underwent BCS after NST between 2002 
+and 2015 at the Netherlands Cancer Institute were included. Local 
+recurrence-free interval (LRFI) was estimated using the Kaplan-Meier method, and 
+predictors for positive margins were analyzed using univariable analysis and 
+multivariable logistic regression.
+RESULTS: Of 114 patients undergoing BCS post-NST, 75 had negative margins, 16 
+had focally positive margins, and 23 had positive margins. Of those with 
+(focally) positive margins, 12 underwent radiotherapy, 6 underwent re-excision, 
+and 21 underwent mastectomy. Finally, 93/114 patients were treated with BCT 
+(82%), with an LRFI of 95.9% (95% confidence interval [CI] 91.5-100%) after a 
+median follow-up of 7 years. Predictors for positive margins in univariable 
+analysis were hormone receptor-positive/human epidermal growth factor receptor 
+2-negative (HR+/HER2-) subtype, lobular carcinoma, and non-mass enhancement 
+(NME) on pre-NST MRI. MRI response was not correlated to positive margins. In 
+multivariable regression, the odds of positive margins were decreased in 
+patients with HER2-positive (HER2+; odds ratio [OR] 0.27, 95% CI 0.10-0.73; 
+p = 0.01) and TN tumors (OR 0.17, 95% CI 0.03-0.82; p = 0.028). A trend toward 
+positive margins was observed in patients with NME (OR 2.38, 95% CI 0.98-5.77; 
+p = 0.055).
+CONCLUSION: BCT could be performed in 82% of cT3 patients in whom BCT appeared 
+feasible on post-NST MRI. Local control in these patients was excellent. In 
+those patients with HR+/HER2- tumors, NME on MRI, or invasive lobular carcinoma, 
+the risk of positive margins should be considered preoperatively.
+
+© 2021. Society of Surgical Oncology.
+
+DOI: 10.1245/s10434-021-09865-4
+PMID: 33978889 [Indexed for MEDLINE]
