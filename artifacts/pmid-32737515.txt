@@ -1,0 +1,57 @@
+1. Strahlenther Onkol. 2021 Jan;197(1):1-7. doi: 10.1007/s00066-020-01667-z. Epub
+ 2020 Jul 31.
+
+Post-neoadjuvant treatment with capecitabine and trastuzumab emtansine in breast 
+cancer patients-sequentially, or better simultaneously?
+
+Piroth MD(1), Krug D(2), Sedlmayer F(3), Duma MN(4), Baumann R(5), Budach W(6), 
+Dunst J(2), Feyer P(7), Fietkau R(8), Haase W(9), Harms W(10), Hehr T(11), 
+Souchon R(12), Strnad V(8), Sauer R(8); Breast Cancer Expert Panel of the German 
+Society of Radiation Oncology (DEGRO).
+
+Author information:
+(1)Dpt. of Radiation Oncology, Wuppertal University Hospital (Helios), 
+Witten/Herdecke University, Heusnerstraße 40, 42283, Wuppertal, Germany. 
+marc.piroth@helios-gesundheit.de.
+(2)University Hospital Schleswig-Holstein, Kiel, Germany.
+(3)Paracelsus Medical University Hospital Salzburg, Salzburg, Austria.
+(4)Friedrich-Schiller-University Hospital Jena, Jena, Germany.
+(5)St. Marien-Krankenhaus Siegen, Siegen, Germany.
+(6)Heinrich-Heine-University Hospital Düsseldorf, Düsseldorf, Germany.
+(7)Vivantes Hospital Neukoelln, Berlin, Germany.
+(8)University Hospital Erlangen, Erlangen, Germany.
+(9)formerly St.-Vincentius-Hospital Karlsruhe, Karlsruhe, Germany.
+(10)St. Claraspital Basel, Basel, Switzerland.
+(11)Marienhospital Stuttgart, Stuttgart, Germany.
+(12)formerly University Hospital, Tübingen, Germany.
+
+PURPOSE: Following neoadjuvant chemotherapy for breast cancer, postoperative 
+systemic therapy, also called post-neoadjuvant treatment, has been established 
+in defined risk settings. We reviewed the evidence for sequencing of 
+postoperative radiation and chemotherapy, with a focus on a capecitabine and 
+trastuzumab emtansine (T-DM1)-based regimen.
+METHODS: A systematic literature search using the PubMed/MEDLINE/Web of Science 
+database was performed. We included prospective and retrospective reports 
+published since 2015 and provided clinical data on toxicity and effectiveness.
+RESULTS: Six studies were included, five of which investigated 
+capecitabine-containing regimens. Of these, four were prospective investigations 
+and one a retrospective matched comparative analysis. One randomized prospective 
+trial was found for T‑DM1 and radiotherapy. In the majority of these reports, 
+radiation-associated toxicities were not specifically addressed.
+CONCLUSION: Regarding oncologic outcome, the influence of sequencing radiation 
+therapy with maintenance capecitabine chemotherapy in the post-neoadjuvant 
+setting is unclear. Synchronous administration of capecitabine is feasible, but 
+reports on possible excess toxicities are partially conflicting. Dose reduction 
+of capecitabine should be considered, especially if normofractionated 
+radiotherapy is used. In terms of tolerance, hypofractionated schedules seem to 
+be superior in terms of toxicity in concurrent settings. T‑DM1 can safely be 
+administered concurrently with radiotherapy.
+
+DOI: 10.1007/s00066-020-01667-z
+PMCID: PMC7801351
+PMID: 32737515 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.D. Piroth, D. Krug, F. Sedlmayer, M.-N. Duma, 
+R. Baumann, W. Budach, J. Dunst, P. Feyer, R. Fietkau, W. Haase, W. Harms, 
+T. Hehr, R. Souchon, V. Strnad, and R. Sauer declare that they have no competing 
+interests.
