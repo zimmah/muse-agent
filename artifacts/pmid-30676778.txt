@@ -1,0 +1,39 @@
+1. Cancer Biother Radiopharm. 2019 May;34(4):209-217. doi: 10.1089/cbr.2018.2654.
+ Epub 2019 Jan 24.
+
+Imaging of HER2 with [(89)Zr]pertuzumab in Response to T-DM1 Therapy.
+
+Massicano AVF(1), Lee S(2), Crenshaw BK(1), Aweda TA(1), El Sayed R(1), Super 
+I(1), Bose R(3), Marquez-Nostra BV(2), Lapi SE(1).
+
+Author information:
+(1)1 Department of Radiology, The University of Alabama at Birmingham, 
+Birmingham, Alabama.
+(2)2 Department of Radiology and Biomedical Imaging, PET Center, Yale 
+University, New Haven, Connecticut.
+(3)3 Division of Oncology, Department of Medicine, Washington University School 
+of Medicine, St. Louis, Missouri.
+
+Background: The success of human epidermal growth factor receptor 2 
+(HER2)-targeted therapy depends on accurate characterization of HER2 expression, 
+but current methods available have several limitations. This study aims to 
+investigate the feasibility of [89Zr]pertuzumab imaging to monitor early 
+response to Ado-trastuzumab emtansine (T-DM1) therapy in mice bearing xenografts 
+of HER2-positive breast cancer (BCa). Materials and Methods: Pertuzumab was 
+conjugated to DFO-Bz-NCS and labeled with 89Zr. Mice bearing BT-474 tumors were 
+imaged with [89Zr]pertuzumab and [18F]FDG before and after T-DM1 therapy. 
+Results: Pertuzumab was successfully labeled with 89Zr with a specific activity 
+of 0.740 MBq/μg. Overall [18F]FDG images showed poor delineation of tumors. 
+Using [18F]FDG-PET to measure tumor volume, the volume remained unchanged from 
+107.6 ± 20.7 mm3 before treatment to 89.87 ± 66.55 mm3 after treatment. In 
+contrast, [89Zr]pertuzumab images showed good delineation of HER2-positive 
+tumors, allowing accurate detection of changes in tumor volume (from 
+243.80 ± 40.91 mm3 before treatment to 78.4 ± 40.43 mm3 after treatment). 
+Conclusion: [89Zr]pertuzumab may be an imaging probe for monitoring the response 
+of HER2-positive BCa patients to T-DM1 therapy.
+
+DOI: 10.1089/cbr.2018.2654
+PMCID: PMC7227434
+PMID: 30676778 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no existing financial conflicts.
