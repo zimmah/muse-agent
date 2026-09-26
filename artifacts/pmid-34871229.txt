@@ -1,0 +1,47 @@
+1. Medicine (Baltimore). 2021 Nov 5;100(44):e27632. doi: 
+10.1097/MD.0000000000027632.
+
+Pathologic complete response to neoadjuvant anti-HER2 therapy is associated with 
+HER2 immunohistochemistry score in HER2-positive early breast cancer.
+
+Chen HL(1), Chen Q, Deng YC.
+
+Author information:
+(1)Department of Breast Surgery, the Second Affiliated Hospital of Zhejiang 
+University School of Medicine, Hangzhou, Zhejiang Province, China.
+
+To evaluate whether pathologic complete response (pCR) to neoadjuvant anti-human 
+epidermal growth factor receptor 2 (HER2) therapy is dependent on the HER2 
+immunohistochemistry (IHC) score.A total of 181 HER2-positive early breast 
+cancer patients who had received neoadjuvant anti-HER2 therapy were included in 
+this study. Associations were examined between IHC score and tumor pCR status 
+(commonly defined by ypT0+ypN0, ypT0/is+ypN0, or ypT0/is).In trastuzumab-based 
+neoadjuvant-treated patients, ypT0+ypN0 was achieved in 46.0% of patients with 
+HER2 IHC 3+ tumors but only 25.0% of patients with HER2 IHC 2+/fluorescence in 
+situ hybridization (FISH)-positive tumors (P = .016). When pCR was defined as 
+ypT0/is+ypN0 or ypT0/is, 54.7% and 61.3% of patients with HER2 IHC 3+ tumors had 
+a pCR, whereas only 29.5% and 38.6% with HER2 IHC 2+/FISH-positive tumors 
+achieved pCR (P = .004 and P = .008, respectively). The association between dual 
+HER2 blockade and pCR was almost exclusively confined to HER2 IHC 3+ tumors 
+(ypT0+ypN0: 61.9% vs 38.9%, P = .013; ypT0/is+ypN0: 71.4% vs 47.4%, P = .009; 
+and ypT0/is: 81.0% vs 52.6%, P = .002) and was absent in HER2 IHC 
+2+/FISH-positive tumors. Multivariate logistic regression revealed that HER2 IHC 
+3+ tumors had a significantly higher probability of achieving ypT0+ypN0 (odds 
+ratio [OR], 0.265; 95% confidence interval [CI], 0.109-0.645; P = .003), 
+ypT0/is+ypN0 (OR, 0.221; 95% CI, 0.094-0.521; P = .001), and ypT0/is (OR, 0.254; 
+95% CI, 0.111-0.583; P = .001) than HER2 IHC 2+/FISH-positive tumors. A 
+significantly better pCR rate was also found in patients with T1 tumors and 
+patients with dual HER2 blockade.The pCR rate was highly correlated with the 
+HER2 IHC score in neoadjuvant anti-HER2 treatment. The addition of pertuzumab to 
+a neoadjuvant trastuzumab-based regimen improved pCR rates, but there was no 
+significant difference in pCR rates in the IHC 2+/FISH-positive group. This 
+suggests that HER2 IHC scores can predict the effectiveness of treatment.
+
+Copyright © 2021 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000027632
+PMCID: PMC8568472
+PMID: 34871229 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
