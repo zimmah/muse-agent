@@ -1,0 +1,52 @@
+1. Anticancer Res. 2022 Feb;42(2):1031-1041. doi: 10.21873/anticanres.15564.
+
+Safety and Efficacy of RAD001 (Everolimus) Administered Upon Relapse During or 
+After Adjuvant Treatment in Post-menopausal Women With Hormone Receptor 
+Positive, HER2/neu Negative Locally Advanced or Metastatic Breast Cancer 
+(CRAD001JGR08 "MELPOMENI" study).
+
+Alexopoulos A(1), Karanikiotis C(2), Ardavanis A(3), Boukovinas I(4), 
+Makrantonakis P(5), Papadimitriou C(6), Athanasiadis A(7), Boutis A(8), Giassas 
+S(9), Kakolyris S(10), Koumakis G(3), Papazisis K(2), Psyrri A(11), Ziras N(12), 
+Baka S(5), Kentepozidis N(13), Michalaki V(14).
+
+Author information:
+(1)"HYGEIA" Hospital, Athens, Greece; a.alexo@yahoo.gr.
+(2)"EUROMEDICA" General Clinic, Thessaloniki, Greece.
+(3)"Ag. Savvas" Regional Cancer Hospital, Athens, Greece.
+(4)"BIOKLINIKI" Hospital, Thessaloniki, Greece.
+(5)INTERBALKAN Medical Center, Thessaloniki, Greece.
+(6)"IASO" General Hospital, Athens, Greece.
+(7)"Koutlimbaneio and Triantafylleio" General Hospital, Larissa, Greece.
+(8)"THEAGENEIO" Anticancer Hospital, Thessaloniki, Greece.
+(9)"REA" Hospital, Athens, Greece.
+(10)University General Hospital of Alexandroupolis, Alexandroupolis, Greece.
+(11)"ATTIKO" University General Hospital, Athens, Greece.
+(12)"Metaxa" Anticancer Hospital of Piraeus, Piraeus, Greece.
+(13)251 Airforce General Hospital, Athens, Greece.
+(14)"ARETAIEIO" Hospital, Athens, Greece.
+
+BACKGROUND/AIM: This study aimed to provide real-world safety and effectiveness 
+data of everolimus (EVE) plus exemestane (EXE) in estrogen receptor 
+positive/human epidermal growth factor receptor 2 negative (ER+/HER2-) advanced 
+breast cancer (aBC).
+PATIENTS AND METHODS: This prospective observational study was conducted by 19 
+hospital-based oncologists in Greece. Eligible patients were treated with 
+EVE+EXE in the first-line setting; EVE was initiated according to the approved 
+label.
+RESULTS: Overall, 75 eligible patients (mean age: 66.9 years; visceral 
+metastases: 49.3%; bone-only metastases: 37.3%) were included in the 
+effectiveness analyses. Over a median (interquartile range) of 12.1 months 
+(range=4.2-20.5 months) of EVE treatment, the median progression-free survival 
+was 18.0 months and the overall response rate was 22.7%. Among patients that 
+received ≥1 EVE dose (n=80), the incidence of EVE-related adverse events was 
+72.5% (serious: 55.0%); stomatitis (22.5%), fatigue (22.5%), pneumonitis 
+(18.8%); and cough (18.8%) were the most common.
+CONCLUSION: In the routine care in Greece, EVE demonstrates clinical benefit and 
+a predictable safety profile.
+
+Copyright © 2022 International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.15564
+PMID: 35093904 [Indexed for MEDLINE]
