@@ -1,0 +1,37 @@
+1. Am Soc Clin Oncol Educ Book. 2013:73-9. doi: 10.14694/EdBook_AM.2013.33.73.
+
+Drug development: neoadjuvant opportunities in breast cancer.
+
+Rastogi P(1), Geyer CE, Mamounas EP, DeMichele A.
+
+Author information:
+(1)From the University of Pittsburgh Cancer Institute, Pittsburgh, PA; 
+University of Texas Southwestern Medical Center, Dallas, TX; MD Anderson Cancer 
+Center Orlando, Orlando, FL; University of Pennsylvania, Philadelphia, PA.
+
+Preoperative therapy allows for a higher rate of breast conserving surgery and 
+has been shown equivalent to adjuvant therapy. Preoperative therapy provides an 
+opportunity to obtain insights into breast cancer biology and to accelerate the 
+evaluation of new therapies. Clinical trials have shown that women who achieve a 
+pathologic complete response (pCR) have substantially improved outcomes compared 
+with those who do not achieve a pCR. The U.S. Food and Drug Administration (FDA) 
+meta-analysis demonstrated that the association of pCR and long-term outcomes is 
+greater in women with aggressive breast cancer subtypes. In patients with HER2+ 
+breast cancer, the addition of trastuzumab to chemotherapy in the neoadjuvant 
+setting has doubled pCR and correlated with improved outcomes. Clinical trials 
+will evaluate tailoring the use of radiation therapy in patients who have 
+received neoadjuvant therapy. Trials have established neoadjuvant endocrine 
+therapy as a valid treatment and research option for ER-rich breast cancer. The 
+neoadjuvant setting allows for evaluation of endocrine therapies in combination 
+with newer targeted therapies in the appropriate patient populations. The 
+neoadjuvant setting provides opportunity to accelerate the evaluation of new 
+agents, improve pCR rates, and identify predictive biomarkers for response. This 
+setting provides the opportunity for screening new agents in combination with 
+chemotherapy while obtaining serial biopsies to understand biology of response 
+and resistance. Although current standard therapies provide substantial benefits 
+for patients with a pCR, patients with residual disease are at substantial risk 
+for disease recurrence. New agents are being evaluated in patients with 
+high-risk residual disease following standard treatment regimens.
+
+DOI: 10.14694/EdBook_AM.2013.33.73
+PMID: 23714461 [Indexed for MEDLINE]
