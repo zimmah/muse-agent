@@ -1,0 +1,44 @@
+1. Clin Cancer Res. 2013 Dec 1;19(23):6360-70. doi:
+10.1158/1078-0432.CCR-13-0916.
+
+Neoadjuvant therapy as a platform for drug development and approval in breast 
+cancer.
+
+Bardia A(1), Baselga J.
+
+Author information:
+(1)Authors' Affiliations: Massachusetts General Hospital Cancer Center, Harvard 
+Medical School, Boston, Massachusetts; and Memorial Sloan-Kettering Cancer 
+Center, New York, New York.
+
+The traditional drug development process in breast cancer based on large phase 
+III studies has serious limitations and needs a major overhaul. Searching for 
+new approaches, the testing of novel agents in the preoperative (neoadjuvant) 
+setting approach offers a potentially rapid and efficient strategy for drug 
+development utilizing pathologic complete response (path CR), a surrogate marker 
+for survival, as the primary endpoint. In addition, neoadjuvant studies allow 
+the assessment of drug effects on the target (pharmacodynamic response) and the 
+development of predictive biomarkers of response. Molecular profiling of the 
+residual tumor in the surgical specimen may also provide insights into 
+actionable mechanisms of resistance. Recognizing the potential of neoadjuvant 
+trials for drug development, the U.S. Food and Drug Administration (FDA) 
+recently announced consideration of neoadjuvant trials for accelerated drug 
+approval in early breast cancer, particularly for tumors with high risk of 
+recurrence and unfavorable prognosis, and provided accelerated approval to 
+neoadjuvant pertuzumab in September 2013. The FDA has emphasized that while 
+improvement in path CR could be utilized for "accelerated" approval, improvement 
+in survival will still need to be demonstrated for "regular" approval. Key 
+considerations in conduct of such neoadjuvant drug development trials include 
+(i) study design such as utilization of biomarker stratified design to evaluate 
+a biomarker that could enrich response, (ii) definition of path CR, (iii) 
+distribution of factors that influence path CR between the treatment arms, (iv) 
+prespecified plan for follow-up to obtain data on survival, and (v) safety as it 
+involves a patient population with curable disease. In the years to come, we 
+anticipate an increase in the number of neoadjuvant trials testing novel 
+therapies that hopefully will open a new path in bringing efficacious new 
+therapies to patients with breast cancer.
+
+©2013 AACR.
+
+DOI: 10.1158/1078-0432.CCR-13-0916
+PMID: 24298066 [Indexed for MEDLINE]
