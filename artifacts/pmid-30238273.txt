@@ -1,0 +1,44 @@
+1. Breast Cancer Res Treat. 2019 Jan;173(1):103-109. doi: 
+10.1007/s10549-018-4967-8. Epub 2018 Sep 20.
+
+Optimal duration of adjuvant trastuzumab in treatment of early breast cancer: a 
+meta-analysis of randomized controlled trials.
+
+Niraula S(1), Gyawali B(2).
+
+Author information:
+(1)Section of Medical Oncology and Hematology, Department of Internal Medicine, 
+University of Manitoba and CancerCare Manitoba, Winnipeg, MB, Canada. 
+sniraula@cancercare.mb.ca.
+(2)Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, MA, USA.
+
+BACKGROUND: One year of adjuvant trastuzumab, chosen empirically, improves 
+survival of women with early-stage, Human Epidermal Growth Factor Receptor 2 
+(HER2) positive breast cancer. Two years of trastuzumab does not improve 
+efficacy but increases cost, inconvenience, and adverse effects. We aimed to 
+evaluate if less than 1 year of adjuvant trastuzumab retained efficacy while 
+reducing toxicities and cost.
+METHODS: We performed a pooled analyses of efficacy and toxicity from Randomized 
+Controlled Trials (RCTs) comparing 1 year of trastuzumab to shorter durations in 
+adjuvant treatment of HER2-positive breast cancer. Hazard Ratios (HR) for 
+Overall Survival (OS) and Disease-Free Survival (DFS), and Odds Ratios (OR) for 
+cardiac events with respective 95% Confidence Intervals (CI) were weighted using 
+generic inverse variance approach and pooled in meta-analyses using random 
+effects models with RevMan 5.3 software. Sub-group analyses of outcomes based on 
+Estrogen Receptor (ER) and nodal status were performed.
+RESULTS: Five RCTs involving approximately 12,000 patients qualified-three 
+assessing 6 months and two assessing 9 weeks of trastuzumab compared to 1 year. 
+All RCTs were designed to test non-inferiority of the shorter treatment. One 
+year of trastuzumab resulted into better OS (pooled HR 1.23, 95% CI 1.07-1.42) 
+and DFS (pooled HR 1.21, 95% CI 1.09-1.36) in overall population, but the 
+benefit of longer treatment was statistically insignificant in node negative (HR 
+1. 20, p = 0.11), and ER positive disease (HR 1.15, p = 0.09). Odds ratio for 
+cardiac events was significantly higher with the longer duration (OR 2.48, 
+p < 0.001).
+CONCLUSION: One year of trastuzumab for adjuvant treatment of breast cancer 
+improves outcomes compared to shorter treatments in overall population. 
+Cardiotoxicity is increased with the longer treatment.
+
+DOI: 10.1007/s10549-018-4967-8
+PMID: 30238273 [Indexed for MEDLINE]
