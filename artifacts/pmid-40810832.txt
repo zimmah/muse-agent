@@ -1,0 +1,50 @@
+1. Ann Surg Oncol. 2025 Dec;32(13):9798-9806. doi: 10.1245/s10434-025-18050-w.
+Epub  2025 Aug 14.
+
+The Association of Clinical Stage at Presentation with Overall Survival of 
+Patients who have HER2-Positive Breast Cancer Treated with Neoadjuvant 
+Chemotherapy.
+
+Tashjian NL(1), Hoskin TL(2), Leon-Ferre RA(3), Boughey JC(4).
+
+Author information:
+(1)Division of Breast and Melanoma Surgical Oncology, Department of Surgery, 
+Mayo Clinic, Rochester, MN, USA.
+(2)Division of Clinical Trials and Biostatistics, Department of Quantitative 
+Health Sciences, Mayo Clinic, Rochester, MN, USA.
+(3)Division of Medical Oncology, Department of Oncology, Mayo Clinic, Rochester, 
+MN, USA.
+(4)Division of Breast and Melanoma Surgical Oncology, Department of Surgery, 
+Mayo Clinic, Rochester, MN, USA. Boughey.Judy@mayo.edu.
+
+BACKGROUND: Pathologic complete response (pCR) to neoadjuvant chemotherapy (NAC) 
+in human epidermal growth factor receptor 2-positive (HER2+) breast cancer is 
+associated with improved survival. This study evaluated the association of 
+disease extent at presentation and response to NAC with overall survival (OS) in 
+HER2+ breast cancer.
+METHODS: Patients with clinical stage I to III HER2+ breast cancer (2013-2020) 
+who underwent NAC and received HER2-targeted therapy were identified from the 
+National Cancer Database. Overall survival was assessed by clinical stage at 
+presentation and chemotherapy response, stratified by hormone receptor (HR) 
+status using multivariable Cox proportional hazards regression.
+RESULTS: The study included 57,671 patients. Among the patients with pCR, OS at 
+5 years was 98% for stage I, 97% for stage II, and 91% for stage III disease (p 
+< 0.001). Among patients with residual disease, OS at 5 years was 95% for stage 
+I, 91% for stage II, and 80% for stage III disease (p < 0.001). Multivariable 
+analysis showed that stage III HR-/HER2+ disease with pCR did not have OS 
+different from stage I breast cancer with residual disease (hazard ratio, 1.17; 
+p = 0.34). Stage II HR+/HER2+ disease with pCR did not have OS different from 
+stage I breast cancer with residual disease (hazard ratio, 0.94; p = 0.61), and 
+stage III disease with pCR had worse OS (hazard ratio, 1.90; p < 0.001).
+CONCLUSIONS: Among the patients who had HER2+ breast cancer treated with NAC, 
+the clinical stage at presentation was associated with OS for those with pCR and 
+residual disease. Patients with stage III HER2+ breast cancer and those with 
+stage II HR+/HER2+ breast cancer who achieve pCR could benefit from further 
+studies that evaluate potential escalation of adjuvant therapies.
+
+© 2025. Society of Surgical Oncology.
+
+DOI: 10.1245/s10434-025-18050-w
+PMID: 40810832 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: There are no conflicts of interest.
