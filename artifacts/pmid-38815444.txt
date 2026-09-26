@@ -1,0 +1,71 @@
+1. Breast. 2024 Aug;76:103753. doi: 10.1016/j.breast.2024.103753. Epub 2024 May
+25.
+
+Prediction of response to neoadjuvant chemotherapy by MammaTyper® across breast 
+cancer subtypes: A retrospective cross-sectional study.
+
+Schettini F(1), Saracchini S(2), Bassini A(3), Marus W(3), Corsetti S(2), 
+Specogna I(3), Bertola M(2), Micheli E(3), Wirtz RM(4), Laible M(5), Şahin U(5), 
+Strina C(6), Milani M(6), Aguggini S(6), Tancredi R(6), Fiorio E(7), Sulfaro 
+S(3), Generali D(8).
+
+Author information:
+(1)Translational Genomics and Targeted Therapies in Solid Tumors Group, August 
+Pi I Sunyer Biomedical Research Institute (IDIBAPS), Barcelona, Spain; 
+Department of Medical Oncology, Hospital Clinic of Barcelona, Barcelona, Spain; 
+Faculty of Medicine and Health Sciences, Universitat de Barcelona, Barcelona, 
+Spain. Electronic address: schettini@recerca.clinic.cat.
+(2)IRCCS CRO di Aviano, Aviano, Italy.
+(3)Azienda per l'Assistenza Sanitaria 5 Friuli Occidentale, "Santa Maria degli 
+Angeli" Hospital, Pordenone, Italy.
+(4)STRATIFYER Molecular Pathology GmbH, Cologne, Germany.
+(5)BioNTech SE, Mainz, Germany.
+(6)Multidisciplinary Unit of Breast Pathology and Translational Research, 
+Cremona Hospital, Cremona, Italy.
+(7)Section of Oncology, Department of Medicine, University of Verona School of 
+Medicine and Verona University Hospital Trust, 37134 Verona, Italy.
+(8)Multidisciplinary Unit of Breast Pathology and Translational Research, 
+Cremona Hospital, Cremona, Italy; Department of Medical, Surgical and Health 
+Sciences, University of Trieste, Trieste, Italy. Electronic address: 
+dgenerali@units.it.
+
+BACKGROUND: Neoadjuvant chemotherapy (NACT) is widely used in the treatment of 
+triple-negative and HER2-positive breast cancer (BC), but its use in estrogen 
+receptor (ER) and/or progesterone receptor (PR) positive/HER2-negative BC is 
+questioned because of the low pathologic complete response (pCR) rates. This 
+retrospective study assessed the mRNA-based MammaTyper® assay's capability of 
+predicting pCR with NACT, and ER, PR, Ki67, and HER2 status at 
+immunohistochemical (IHC) through transcriptomics.
+METHODS: Diagnostic biopsies from 76 BC patients treated at the Cremona Hospital 
+between 2012-2018 were analyzed. Relative mRNA expression levels of ERBB2, ESR1, 
+PGR, and MKI67 were measured using the MammaTyper® kit and integrated into a pCR 
+score. Predicting capability of pCR and standard IHC biomarkers could be 
+assessed with ROC curves in 75 and 76 patients, respectively.
+RESULTS: Overall, 68.0% patients obtained a MammaTyper® high-score and 32.0% a 
+MammaTyper® low-score. Among high-score patients, 62.7% achieved pCR, compared 
+to 16.7% in the low-score group (p = 0.0003). The binary MammaTyper® score 
+showed good prediction of pCR in the overall cohort (area under curve 
+[AUC] = 0.756) and in HR+/HER2-negative cases (AUC = 0.774). In cases with 
+residual disease, the continuous MammaTyper® score correlated moderately with 
+residual tumor size and decrease in tumor size. MammaTyper® showed substantial 
+agreement with IHC for ESR1/ER and ERBB2/HER2, and moderate agreement for PGR/PR 
+and MKI67/Ki67.
+CONCLUSION: Overall, MammaTyper® pCR score may serve as a standardized tool for 
+predicting NACT response in HR+/HER2-negative BC, potentially guiding treatment 
+strategies. Additionally, it could provide a more standardized and reproducible 
+assessment of ER, PR, HER2, and Ki67 status.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.breast.2024.103753
+PMCID: PMC11166895
+PMID: 38815444 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Francesco 
+Schettini reports honoraria from Novartis, Gilead and Daiichy-Sankyo for 
+educational events/materials and travel expenses from Novartis, Gilead and 
+Daiichy-Sankyo. Daniele Generali declares personal fees for educational events 
+by Novartis, Lilly, Pfizer, Daiichy-Sankyo, Roche; research funds from 
+Astrazeneca, Novartis and LILT. Uğur Şahin is CEO and Mark Laible is an employee 
+of BioNTech SE. Ralph M Wirtz is an employee of STRATIFYER Molecular Pathology 
+GmbH. The other authors have nothing to declare.
