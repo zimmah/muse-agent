@@ -1,0 +1,62 @@
+1. Breast. 2024 Feb;73:103666. doi: 10.1016/j.breast.2023.103666. Epub 2023 Dec
+22.
+
+Clinicopathological characteristics and value of HER2-low expression evolution 
+in breast cancer receiving neoadjuvant chemotherapy.
+
+Shao Y(1), Guan H(2), Luo Z(3), Yu Y(1), He Y(1), Chen Q(1), Liu C(1), Zhu F(1), 
+Liu H(4).
+
+Author information:
+(1)Department of Breast Oncology, Henan Provincial People's Hospital, Zhengzhou 
+University People's Hospital, Zhengzhou, Henan, 450003, China; Department of 
+Breast Oncology, Henan Provincial People's Hospital, Henan University People's 
+Hospital, Zhengzhou, Henan, 450003, China.
+(2)Department of Pathology, Henan Provincial People's Hospital, Zhengzhou 
+University People's Hospital, Zhengzhou, Henan, 450003, China; Department of 
+Pathology, Henan Provincial People's Hospital, Henan University People's 
+Hospital, Zhengzhou, Henan, 450003, China.
+(3)Department of Medical Oncology, Henan Provincial People's Hospital, Zhengzhou 
+University People's Hospital, Zhengzhou, Henan, 450003, China; Department of 
+Medical Oncology, Henan Provincial People's Hospital, Henan University People's 
+Hospital, Zhengzhou, Henan, 450003, China.
+(4)Department of Breast Oncology, Henan Provincial People's Hospital, Zhengzhou 
+University People's Hospital, Zhengzhou, Henan, 450003, China; Department of 
+Breast Oncology, Henan Provincial People's Hospital, Henan University People's 
+Hospital, Zhengzhou, Henan, 450003, China. Electronic address: 
+rxliuhui@zzu.edu.cn.
+
+OBJECTIVE: The present study aimed to evaluate the clinicopathological 
+characteristics and value of HER2-low expression evolution in breast cancer 
+receiving neoadjuvant chemotherapy (NAC).
+METHODS: Patients with HER2 negative breast cancer receiving NAC from January 
+2017 to December 2020 were enrolled in this study. The clinicopathological 
+characteristics, response to NAC, evolution of HER2 and prognostic value were 
+retrospectively analyzed.
+RESULTS: 410 patients were included. The proportion of HR positive disease in 
+HER2-low cases was higher than in HER2-zero population (75.8 % vs. 65.8 %, 
+P = 0.040). No statistical significant difference in pCR rate was observed 
+between HER2-low and HER2-zero patients (33.8 % vs. 39.3 %, P = 0.290) when pCR 
+was defined as ypTis/0ypN0. Exploratory analysis revealed that the pCR rate of 
+HER2-low cases was significantly lower than HER2-zero patients in the entire 
+population (19.8 % vs. 33.3 %, P = 0.004) and HR positive population (12.6 % vs. 
+29.9 %, P = 0.001) when pCR was defined as ypT0ypN0. The evolution rate of HER2 
+expression after NAC was 31.0 % in HER2-zero patients and 24.7 % in HER2-low 
+patients. Compared with patients with HR positive disease, patients with TNBC 
+had higher evolution rate of HER2 expression after NAC (37.7 % vs. 23.6 %). 
+Significant association was observed between HER2 evolution with histology type 
+and Ki-67 index in HER2-zero patients and with lymph node involvement, HR status 
+and Ki-67 index in HER2-low patients. Prognostic impact of HER2 evolution was 
+not observed.
+CONCLUSIONS: HR positive and HR negative HER2-low breast cancer exhibit 
+different clinicopathological features, response to NAC and HER2 evolution after 
+treatment.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.breast.2023.103666
+PMCID: PMC10792961
+PMID: 38159433 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that no potential conflict of interest exist.
