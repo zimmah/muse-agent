@@ -1,0 +1,99 @@
+1. JAMA Oncol. 2021 Jul 1;7(7):978-984. doi: 10.1001/jamaoncol.2021.1371.
+
+Three-Year Follow-up of Neoadjuvant Chemotherapy With or Without Anthracyclines 
+in the Presence of Dual ERBB2 Blockade in Patients With ERBB2-Positive Breast 
+Cancer: A Secondary Analysis of the TRAIN-2 Randomized, Phase 3 Trial.
+
+van der Voort A(1), van Ramshorst MS(1)(2), van Werkhoven ED(3), Mandjes IA(3), 
+Kemper I(1), Vulink AJ(4), Oving IM(5), Honkoop AH(6), Tick LW(7), van de Wouw 
+AJ(8), Mandigers CM(9), van Warmerdam LJ(10), Wesseling J(11), Vrancken Peeters 
+MT(12), Linn SC(1), Sonke GS(1)(2).
+
+Author information:
+(1)Department of Medical Oncology, the Netherlands Cancer Institute, Amsterdam, 
+the Netherlands.
+(2)Department of Internal Medicine, Amsterdam University Medical Centers, 
+Amsterdam, the Netherlands.
+(3)Department of Biometrics, the Netherlands Cancer Institute, Amsterdam, the 
+Netherlands.
+(4)Department of Medical Oncology, Reinier de Graaf Gasthuis, Delft, the 
+Netherlands.
+(5)Department of Medical Oncology, Ziekenhuisgroep Twente, Almelo, the 
+Netherlands.
+(6)Department of Medical Oncology, Isala, Zwolle, the Netherlands.
+(7)Department of Medical Oncology, Maxima Medical Center, Eindhoven, the 
+Netherlands.
+(8)Department of Medical Oncology, VieCuri Medical Center, Venlo, the 
+Netherlands.
+(9)Department of Medical Oncology, Canisius Wilhelmina hospital, Nijmegen, the 
+Netherlands.
+(10)Department of Medical Oncology, Catharina Cancer Centre, Eindhoven, the 
+Netherlands.
+(11)Department of Pathology, the Netherlands Cancer Institute, Amsterdam, the 
+Netherlands.
+(12)Department of Surgery, the Netherlands Cancer Institute, Amsterdam, the 
+Netherlands.
+
+Comment in
+    JAMA Oncol. 2021 Jul 1;7(7):975-977. doi: 10.1001/jamaoncol.2021.1314.
+
+IMPORTANCE: Primary analysis of the TRAIN-2 study showed high pathologic 
+complete response rates after neoadjuvant chemotherapy with or without 
+anthracyclines plus dual ERBB2 (formerly HER2) blockade.
+OBJECTIVE: To evaluate 3-year event-free survival (EFS) and overall survival 
+(OS) of an anthracycline-free and anthracycline-containing regimen with dual 
+ERBB2 blockade in patients with stage II and III ERBB2-positive breast cancer.
+DESIGN, SETTING, AND PARTICIPANTS: A total of 438 patients with stage II and III 
+ERBB2-positive breast cancer were enrolled in this randomized, clinical, 
+open-label phase 3 trial across 37 hospitals in the Netherlands from December 9, 
+2013, until January 14, 2016. Follow-up analyses were performed after a median 
+follow-up of 48.8 months (interquartile range, 44.1-55.2 months). Analysis was 
+performed on an intention-to-treat basis.
+INTERVENTIONS: Participants were randomly assigned on a 1:1 basis, stratified by 
+age, tumor stage, nodal stage, and estrogen receptor status, to receive 3 cycles 
+of fluorouracil (500 mg/m2), epirubicin (90 mg/m2), and cyclophosphamide (500 
+mg/m2), followed by 6 cycles of paclitaxel and carboplatin or 9 cycles of 
+paclitaxel (80 mg/m2 days 1 and 8) and carboplatin (area under the 
+concentration-time curve, 6 mg/mL/min). Both groups received trastuzumab (6 
+mg/kg; loading dose 8 mg/kg) and pertuzumab (420 mg intravenously; loading dose 
+840 mg) every 3 weeks.
+MAIN OUTCOMES AND MEASURES: Three-year EFS, OS, and safety.
+RESULTS: A total of 438 women were randomized, with 219 per group (anthracycline 
+group, median age, 49 years [interquartile range, 43-55 years]; and 
+nonanthracycline group, median age, 48 years [interquartile range, 43-56 
+years]). A total of 23 EFS events (10.5%) occurred in the anthracycline group 
+and 21 EFS events (9.6%) occurred in the nonanthracycline group (hazard ratio, 
+0.90; 95% CI, 0.50-1.63; favoring nonanthracyclines). Three-year EFS estimates 
+were 92.7% (95% CI, 89.3%-96.2%) in the anthracycline group and 93.6% (95% CI, 
+90.4%-96.9%) in the nonanthracycline group and 3-year OS estimates were 97.7% 
+(95% CI, 95.7%-99.7%) in the anthracycline group and 98.2% (95% CI, 96.4%-100%) 
+in the nonanthracycline group. The results were irrespective of hormone receptor 
+and nodal status. A decline in left ventricular ejection fraction of 10% or more 
+from baseline to less than 50% was more common in patients who received 
+anthracyclines than those who did not (17 of 220 [7.7%] vs 7 of 218 [3.2%]; 
+P = .04). Two patients treated with anthracyclines developed acute leukemia.
+CONCLUSIONS AND RELEVANCE: This follow-up analysis of the TRAIN-2 study shows 
+similar 3-year EFS and OS estimates with or without anthracyclines in patients 
+with stage II and III ERBB2-positive breast cancer. Anthracycline use is 
+associated with increased risk of febrile neutropenia, cardiotoxic effects, and 
+secondary malignant neoplasms.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01996267.
+
+DOI: 10.1001/jamaoncol.2021.1371
+PMCID: PMC8138752
+PMID: 34014249 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Wesseling 
+reported receiving grants from KWF Dutch Cancer Society, Cancer Research UK, and 
+ZonMW Health Research Netherlands outside the submitted work. Dr Linn reported 
+receiving institutional research grants from Roche during the conduct of the 
+study; institutional research grants from AstraZeneca, Eurocept Pharmaceuticals, 
+Genentech/Roche, Novartis, Pfizer, Tesaro (now owned by GlaxoSmithKline), 
+Immunomedics, and Agendia; unrestricted educational grants from Bayer and the 
+Daiichi-Sankyo Faculty Endeavour Program; nonfinancial support from AstraZeneca, 
+Genentech/Roche, Tesaro (now owned by GlaxoSmithKline), Novartis, and 
+Immunomedics; serving on the scientific advisory board for Cergentis; and 
+serving as an IBM advisory board member outside the submitted work. Dr Sonke 
+reported receiving institutional research grants from Roche during the conduct 
+of this study and institutional research grants from AstraZeneca, Merck, and 
+Novartis outside the submitted work. No other disclosures were reported.
