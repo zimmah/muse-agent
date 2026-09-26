@@ -1,0 +1,30 @@
+1. Zhonghua Zhong Liu Za Zhi. 2010 Jul;32(7):544-7.
+
+[Efficacy and safety assessment of neoadjuvant paclitaxel and trastuzumab in 
+Chinese women with Her-2 positive operable breast cancer].
+
+[Article in Chinese]
+
+Liao N(1), Zhang GC, Li XR, Yao M, Wang K, Zu J.
+
+Author information:
+(1)Southern Medical University, Guangzhou 510515, China. drliao_ning@hotmail.com
+
+OBJECTIVE: To assess the efficacy and safety of neoadjuvant 3-weekly paclitaxel 
+plus trastuzumab (TH) in Chinese women with Her-2 overexpressing operable breast 
+cancer.
+METHODS: This is a single center open-label phase II clinical trial. The 
+included patients underwent 4 cycles of neoadjuvant 3-weekly TH before surgery. 
+The primary endpoint was pathologic complete response rate (pCR rate) and the 
+secondary endpoint was overall response rate (OR rate). Patients were also 
+stratified according to hormone receptor status, and pCR rate and OR rate were 
+compared between subgroups. Adverse events were graded according to CTCAE v3.0.
+RESULTS: There were 40 eligible patients entering this study with median age of 
+49 years. All patients completed 4 cycles of neoadjuvant treatment. pCR rate was 
+52.5% and OR rate was 87.5%. The differences of pCR and OR rates between 
+subgroups were of no statistical significance. No cardiac toxicity event severer 
+than grade 2 was recorded.
+CONCLUSION: 3-weekly TH regimen has satisfactory pCR rate and OR rate in Chinese 
+patients with Her-2 overexpressing operable breast cancer and reliable safety.
+
+PMID: 21029701 [Indexed for MEDLINE]
