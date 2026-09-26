@@ -1,0 +1,44 @@
+1. Int J Mol Sci. 2023 Feb 10;24(4):3590. doi: 10.3390/ijms24043590.
+
+HER2 Amplification Level Predicts Pathological Complete Response in the 
+Neoadjuvant Setting of HER2-Overexpressing Breast Cancer: A Meta-Analysis and 
+Systematic Review.
+
+Gonullu B(1)(2), Angeli E(1)(3)(4), Pamoukdjian F(1)(3)(5), Bousquet G(1)(3)(4).
+
+Author information:
+(1)Université Paris Cité, INSERM, UMR_S942 MASCOT, 75006 Paris, France.
+(2)Faculty of Medicine, Yeditepe University, Istanbul 34755, Turkey.
+(3)Université Sorbonne Paris Nord, 9 Avenue Jean Baptiste Clément, 93439 
+Villetaneuse, France.
+(4)Service d'Oncologie Médicale, Hôpital Avicenne, Assistance Publique Hôpitaux 
+de Paris, 93000 Bobigny, France.
+(5)Service de Médecine Gériatrique, Hôpital Avicenne, Assistance Publique 
+Hôpitaux de Paris, 93000 Bobigny, France.
+
+Anti-HER2 therapies have dramatically improved the prognosis of human epidermal 
+growth factor receptor 2 (HER2)-overexpressing cancers. However, the correlation 
+between the HER2 copy number and the response rate to anti-HER2 remains unclear. 
+Here, following the PRISMA method, we performed a meta-analysis in the 
+neoadjuvant setting in breast cancer to study the association between the HER2 
+amplification level and the pathological complete response (pCR) to anti-HER2 
+therapies. Nine articles (four clinical trials, five observational studies) were 
+retrieved after full-text screening, involving 11,238 women with locally 
+advanced breast cancer in the neoadjuvant setting. The median HER2/CEP17 ratio 
+cut-off value was 5.0 ± 5.0 (min-max = 1.0-14.0). For the overall population, 
+the median pCR rate was 48% using the random effect model. The studies were 
+categorized in quartiles as follows: ≤2 (Class 1); 2.1 to 5.0 (Class 2); 5.1 to 
+7.0 (Class 3); and >7.0 (Class 4). After grouping, the pCR rates were 33%, 49%, 
+57%, and 79%, respectively. When we excluded the study by Greenwell et al., 
+which accounted for 90% of the patients, using the same quartiles, we still 
+observed an increasing rate of pCR as the HER2/CEP17 ratio increased. This is 
+the first meta-analysis demonstrating the relationship between the HER2 
+amplification level and the percentage of pCR in the neoadjuvant setting among 
+women with HER2-overexpressing breast cancer, with potential therapeutic 
+applications.
+
+DOI: 10.3390/ijms24043590
+PMCID: PMC9960382
+PMID: 36834998 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
