@@ -1,0 +1,83 @@
+1. J Clin Oncol. 2016 Apr 1;34(10):1034-42. doi: 10.1200/JCO.2015.62.1797. Epub 
+2015 Nov 23.
+
+Adjuvant Lapatinib and Trastuzumab for Early Human Epidermal Growth Factor 
+Receptor 2-Positive Breast Cancer: Results From the Randomized Phase III 
+Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization Trial.
+
+Piccart-Gebhart M(1), Holmes E(1), Baselga J(1), de Azambuja E(1), Dueck AC(1), 
+Viale G(1), Zujewski JA(1), Goldhirsch A(1), Armour A(1), Pritchard KI(1), 
+McCullough AE(1), Dolci S(1), McFadden E(1), Holmes AP(1), Tonghua L(1), 
+Eidtmann H(1), Dinh P(1), Di Cosimo S(1), Harbeck N(1), Tjulandin S(1), Im 
+YH(1), Huang CS(1), Diéras V(1), Hillman DW(1), Wolff AC(1), Jackisch C(1), Lang 
+I(1), Untch M(1), Smith I(1), Boyle F(1), Xu B(1), Gomez H(1), Suter T(1), 
+Gelber RD(1), Perez EA(1).
+
+Author information:
+(1)Martine Piccart-Gebhart, Université Libre de Bruxelles, Brussels, Belgium; 
+Eileen Holmes, Eleanor McFadden, and Andrew P. Holmes, Frontier Science 
+(Scotland), Kincraig, Kingussie, United Kingdom; José Baselga, Memorial Sloan 
+Kettering Cancer Center, New York, NY; Evandro de Azambuja, Institut Jules 
+Bordet, Brussels, Belgium; Evandro de Azambuja and Stella Dolci, Breast European 
+Adjuvant Study Team, Brussels, Belgium; Amylou C. Dueck and Anne E. McCullough, 
+Mayo Clinic, Scottsdale, AZ; Giuseppe Viale, University of Milan, Milan, Italy; 
+Giuseppe Viale and Aron Goldhirsch, Istituto Europeo di Oncologia, Milan, Italy; 
+Jo Anne Zujewski, National Cancer Institute, Bethesda, MD; Aron Goldhirsch, 
+Ospedale Regionale di Lugano, Viganello-Lugano, Switzerland; Alison Armour, 
+GlaxoSmithKline, Collegeville, PA; Kathleen I. Pritchard, Sunnybrook Odette 
+Cancer Centre, Toronto, Ontario, Canada; Kathleen I. Pritchard, University of 
+Toronto, Toronto, Ontario, Canada; Liu Tonghua, Peking Union Medical College 
+Hospital, Beijing, People's Republic of China; Liu Tonghua and Binghe Xu, China 
+Academy of Chinese Medical Sciences, Beijing, People's Republic of China; Holger 
+Eidtmann, University Hospital Kiel, Kiel, Germany; Phuong Dinh, Breast 
+International Group, Brussels, Belgium; Serena Di Cosimo, Istituto Nazionale del 
+Tumori, Milan, Italy; Serena Di Cosimo, SOLTI Breast Cancer Research Group, 
+Barcelona, Spain; Nadia Harbeck, Frauenklinik der Universität München, Munich, 
+Germany; Sergei Tjulandin, Blokhin Russian Cancer Research Center of RAMS, 
+Moscow, Russia; Young-Hyuck Im, Korean Cancer Study Group, Seoul, South Korea; 
+Young-Hyuck Im, Samsung Medical Center, Seoul, South Korea; Chiun-Shen Huang, 
+National Taiwan University Hospital, Taipei, Republic of China; Véronique 
+Diéras, Institut Curie, Paris, France; David W. Hillman, Mayo Clinic, Rochester, 
+MN; Antonio C. Wolff, The Johns Hopkins Sidney Kimmel Comprehensive Cancer 
+Center, Baltimore, MD; Christian Jackisch, Klinikum Offenba
+
+Erratum in
+    J Clin Oncol. 2019 Feb 1;37(4):356. doi: 10.1200/JCO.18.02210.
+
+Comment in
+    J Clin Oncol. 2016 Apr 1;34(10):1021-3. doi: 10.1200/JCO.2015.64.7511.
+
+BACKGROUND: Lapatinib (L) plus trastuzumab (T) improves outcomes for metastatic 
+human epidermal growth factor 2-positive breast cancer and increases the 
+pathologic complete response in the neoadjuvant setting, but their role as 
+adjuvant therapy remains uncertain.
+METHODS: In the Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization 
+trial, patients with centrally confirmed human epidermal growth factor 
+2-positive early breast cancer were randomly assigned to 1 year of adjuvant 
+therapy with T, L, their sequence (T→L), or their combination (L+T). The primary 
+end point was disease-free survival (DFS), with 850 events required for 80% 
+power to detect a hazard ratio (HR) of 0.8 for L+T versus T.
+RESULTS: Between June 2007 and July 2011, 8,381 patients were enrolled. In 2011, 
+due to futility to demonstrate noninferiority of L versus T, the L arm was 
+closed, and patients free of disease were offered adjuvant T. A protocol 
+modification required P ≤ .025 for the two remaining pairwise comparisons. At a 
+protocol-specified analysis with a median follow-up of 4.5 years, a 16% 
+reduction in the DFS hazard rate was observed with L+T compared with T (555 DFS 
+events; HR, 0.84; 97.5% CI, 0.70 to 1.02; P = .048), and a 4% reduction was 
+observed with T→L compared with T (HR, 0.96; 97.5% CI, 0.80 to 1.15; P = .61). 
+L-treated patients experienced more diarrhea, cutaneous rash, and hepatic 
+toxicity compared with T-treated patients. The incidence of cardiac toxicity was 
+low in all treatment arms.
+CONCLUSION: Adjuvant treatment that includes L did not significantly improve DFS 
+compared with T alone and added toxicity. One year of adjuvant T remains 
+standard of care.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2015.62.1797
+PMCID: PMC4872016
+PMID: 26598744 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors’ disclosures of potential conflicts of 
+interest are found in the article online at www.jco.org. Author contributions 
+are found at the end of this article.
