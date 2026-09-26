@@ -1,0 +1,63 @@
+1. Hong Kong Med J. 2018 Feb;24(1):56-62. doi: 10.12809/hkmj176808. Epub 2018 Jan
+ 12.
+
+Efficacy and tolerability of trastuzumab emtansine in advanced human epidermal 
+growth factor receptor 2-positive breast cancer.
+
+Yeo W(1), Luk MY(2), Soong IS(3), Yuen TY(4), Ng TY(5), Mo FK(6), Chan K(3), 
+Wong SY(5), Tsang J(7), Leung C(4), Suen JJ(8), Ngan RK(4).
+
+Author information:
+(1)Department of Clinical Oncology, The Chinese University of Hong Kong, Shatin, 
+Hong Kong.
+(2)Department of Clinical Oncology, Queen Mary Hospital, Pokfulam, Hong Kong.
+(3)Department of Clinical Oncology, Pamela Youde Nethersole Eastern Hospital, 
+Chai Wan, Hong Kong.
+(4)Department of Clinical Oncology, Queen Elizabeth Hospital, Jordan, Hong Kong.
+(5)Department of Clinical Oncology, Tuen Mun Hospital, Tuen Mun, Hong Kong.
+(6)Comprehensive Clinical Trials Unit, Department of Clinical Oncology, The 
+Chinese University of Hong Kong, Shatin, Hong Kong.
+(7)Department of Medicine, The University of Hong Kong, Pokfulam, Hong Kong.
+(8)Department of Clinical Oncology, Prince of Wales Hospital, Shatin, Hong Kong.
+
+Comment in
+    Hong Kong Med J. 2018 Feb;24(1):6-8. doi: 10.12809/hkmj175077.
+
+INTRODUCTION: The management of human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer has changed dramatically with the introduction and 
+widespread use of HER2-targeted therapies. There is, however, relatively limited 
+real-world information about the effectiveness and safety of trastuzumab 
+emtansine (T-DM1) in Hong Kong Chinese patients. We assessed the efficacy and 
+toxicity profiles among local patients with HER2-positive advanced breast cancer 
+who had received T-DM1 therapy in the second-line setting and beyond.
+METHODS: This retrospective study involved five local centres that provide 
+service for over 80% of the breast cancer population in Hong Kong. The study 
+period was from December 2013 to December 2015. Patients were included if they 
+had recurrent or metastatic histologically confirmed HER2+ breast cancer who had 
+progressed after at least one line of anti-HER2 therapy including trastuzumab. 
+Patients were excluded if they received T-DM1 as first-line treatment for 
+recurrent or metastatic HER2+ breast cancer. Patient charts including 
+biochemical and haematological profiles were reviewed for background 
+information, T-DM1 response, and toxicity data. Adverse events were documented 
+during chemotherapy and 28 days after the last dose of medication.
+RESULTS: Among 37 patients being included in this study, 28 (75.7%) had two or 
+more lines of anti-HER2 agents and 26 (70.3%) had received two or more lines of 
+palliative chemotherapy. Response assessment revealed that three (8.1%) patients 
+had a complete response, eight (21.6%) a partial response, 11 (29.7%) a stable 
+disease, and 12 (32.4%) a progressive disease; three patients could not be 
+assessed. The median duration of response was 17.3 (95% confidence interval, 
+8.4-24.8) months. The clinical benefit rate (complete response + partial 
+response + stable disease, ≥12 weeks) was 37.8% (95% confidence interval, 
+22.2%-53.5%). The median progression-free survival was 6.0 (95% confidence 
+interval, 3.3- 9.8) months and the median overall survival had not been reached 
+by the data cut-off date. Grade 3 or 4 toxicities included thrombocytopaenia 
+(13.5%), raised alanine transaminase (8.1%), anaemia (5.4%), and hypokalaemia 
+(2.7%). No patient died as a result of toxicities.
+CONCLUSIONS: In patients with HER2-positive advanced breast cancer who have been 
+heavily pretreated with anti-HER2 agents and cytotoxic chemotherapy, T-DM1 is 
+well tolerated and provided a meaningful progression-free survival of 6 months 
+and an overall survival that has not been reached. Further studies to identify 
+appropriate patient subgroups are warranted.
+
+DOI: 10.12809/hkmj176808
+PMID: 29326401 [Indexed for MEDLINE]
