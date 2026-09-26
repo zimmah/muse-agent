@@ -1,0 +1,45 @@
+1. J Nippon Med Sch. 2026;93(1):49-59. doi: 10.1272/jnms.JNMS.2026_93-111.
+
+Predictors of Pathologically Negative Sentinel Lymph Nodes and Recurrence-Free 
+Survival in Women with Invasive Breast Cancer Treated with Neoadjuvant 
+Chemotherapy.
+
+Wongmaneerung P(1)(2), Takei H(3), Kurita T(3), Hankyo M(3), Sano M(3), 
+Yanagihara K(4), Sakatani T(5), Ohashi R(5), Murakami R(6), Kumita S(6).
+
+Author information:
+(1)Division of Head, Neck and Breast, Department of Surgery, Faculty of 
+Medicine, Chiang Mai University.
+(2)Clinical Surgical Research Center, Chiang Mai University.
+(3)Department of Breast Surgery and Oncology, Nippon Medical School Hospital.
+(4)Department of Breast Surgery and Oncology, Nippon Medical School Tama 
+Nagayama Hospital.
+(5)Department of Diagnostic Pathology, Nippon Medical School Hospital.
+(6)Department of Radiology, Nippon Medical School Hospital.
+
+BACKGROUND: The accuracy and safety of sentinel lymph node (SLN) dissection 
+(SLND) have not been established for women with invasive breast cancer (BC) who 
+underwent neoadjuvant chemotherapy (NAC). The purpose of this study was to 
+identify factors that predict pathologically negative axillary lymph node (ALN) 
+status and recurrence-free survival (RFS) in women with invasive BC and 
+clinically negative ALN after NAC followed by SLND.
+METHODS: The analysis included patients with BC (T1-4, N0-1, M0) treated with 
+NAC who had clinically negative ALNs after NAC followed by SLND between January 
+2018 and May 2022. Age, clinical tumor size, clinical ALN status, estrogen 
+receptor (ER), progesterone receptor, human epidermal growth factor receptor 2 
+(HER2), molecular subtype, histological grade, Ki67, all at baseline, and 
+pathologic tumor size after NAC were analyzed for correlations with pathological 
+ALN metastasis and RFS.
+RESULTS: SLND identified at least one SLN (blue or radioactive node) in all of 
+112 consecutive patients. Multivariable analysis showed that age >50 years, 
+clinically negative ALN, histologic grade II or III, ER negativity, triple 
+negative subtype (all at baseline), and pathologically invasive tumor size of 
+≤2.0 cm after NAC showed a significant correlation with pathologically negative 
+ALN. HER2 positivity and pathological complete response of the primary tumor 
+were significantly correlated with favorable RFS.
+CONCLUSIONS: These predictors of pathologically negative ALN and RFS after NAC 
+are useful for planning appropriate surgical and adjuvant treatment for BC 
+patients.
+
+DOI: 10.1272/jnms.JNMS.2026_93-111
+PMID: 41813206 [Indexed for MEDLINE]
