@@ -1,0 +1,44 @@
+1. Breast Cancer Res Treat. 2020 Jan;179(1):101-111. doi: 
+10.1007/s10549-019-05444-0. Epub 2019 Sep 18.
+
+Pathological complete response to neoadjuvant systemic therapy in 789 early and 
+locally advanced breast cancer patients: The Royal Marsden experience.
+
+Battisti NML(1), True V(1), Chaabouni N(1), Chopra N(2), Lee K(2), Shepherd 
+S(2), Shapira-Rotenberg T(2), Joshi R(2), McGrath S(1), Okines A(2), Parton 
+M(2), Turner N(2), Mohammed K(3), Allen M(1), Johnston S(2), Ring A(4).
+
+Author information:
+(1)Department of Medicine - Breast Unit, The Royal Marsden NHS Foundation Trust, 
+Downs Road, Sutton, Surrey, SM2 5PT, UK.
+(2)Department of Medicine - Breast Unit, The Royal Marsden NHS Foundation Trust, 
+203 Fulham Rd, Chelsea, London, SW3 6JJ, UK.
+(3)Research and Development Department, The Royal Marsden NHS Foundation Trust, 
+Downs Road, Sutton, Surrey, SM2 5PT, UK.
+(4)Department of Medicine - Breast Unit, The Royal Marsden NHS Foundation Trust, 
+Downs Road, Sutton, Surrey, SM2 5PT, UK. alistair.ring@rmh.nhs.uk.
+
+PURPOSE: Pathological complete response (pCR) after neoadjuvant chemotherapy 
+(NACT) for breast cancer predicts the risk of recurrence and increasingly may 
+indicate the need for additional therapy postoperatively.
+METHODS: We identified non-metastatic breast cancer patients receiving NACT 
+during 2013-2017. Patients' and disease characteristics, rates of pCR (ypT0-is 
+ypN0), toxicities, dose delays and reductions, and survival outcomes were 
+recorded.
+RESULTS: 789 patients had median age of 50 years. 67.8% had stage II disease, 
+71.1% had grade 3 , and 91.8% had ductal histopathology. 32.8% had estrogen 
+receptor (ER)-positive/human epidermal growth factor receptor 2 (HER2)-negative, 
+25.5% had triple-negative (TN), and 38.0% HER2-positive disease. 6.8% received 
+platinum. 48.2% of the HER2-positive patients received trastuzumab and 
+pertuzumab and 51.8% received trastuzumab. Overall pCR rate was 33.5% and 
+differed according to disease subtype, receptor status, grade, histology, and 
+early discontinuation, but not according to age, dose reductions/delays, or year 
+of treatment. The addition of pertuzumab to trastuzumab marginally improved the 
+pCR rates. Survival outcomes were better following pCR.
+CONCLUSIONS: In our analysis, pCR rates are consistent with the published data. 
+Even with contemporary therapies, many patients have residual disease following 
+NACT, suggesting a significant risk of recurrence, and may benefit from 
+additional postoperative systemic therapy.
+
+DOI: 10.1007/s10549-019-05444-0
+PMID: 31535318 [Indexed for MEDLINE]
