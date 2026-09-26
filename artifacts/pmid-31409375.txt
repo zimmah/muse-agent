@@ -1,0 +1,88 @@
+1. Breast Cancer Res. 2019 Aug 13;21(1):94. doi: 10.1186/s13058-019-1177-1.
+
+Neoadjuvant neratinib promotes ferroptosis and inhibits brain metastasis in a 
+novel syngeneic model of spontaneous HER2(+ve) breast cancer metastasis.
+
+Nagpal A(1)(2), Redvers RP(2)(3), Ling X(4), Ayton S(5), Fuentes M(1)(2), 
+Tavancheh E(1)(2), Diala I(6), Lalani A(6), Loi S(7), David S(8), Anderson 
+RL(2)(3)(9)(10), Smith Y(11), Merino D(2)(12)(13)(14), Denoyer D(1)(2), Pouliot 
+N(15)(16)(17).
+
+Author information:
+(1)Matrix Microenvironment & Metastasis Laboratory, Olivia Newton-John Cancer 
+Research Institute, 145 Studley Road, Heidelberg, VIC, 3084, Australia.
+(2)School of Cancer Medicine, La Trobe University, Bundoora, VIC, 3086, 
+Australia.
+(3)Metastasis Research Laboratory, Olivia Newton-John Cancer Research Institute, 
+Heidelberg, VIC, 3084, Australia.
+(4)Metastasis Research Laboratory, Peter MacCallum Cancer Centre, Melbourne, 
+VIC, 3000, Australia.
+(5)Florey Institute of Neuroscience and Mental Health, Parkville, VIC, 3052, 
+Australia.
+(6)Puma Biotechnology, Inc., 10880 Wilshire Blvd, Los Angeles, CA, 90024, USA.
+(7)Translational Breast Cancer Genomics Laboratory, Peter MacCallum Cancer 
+Centre, Melbourne, VIC, 3000, Australia.
+(8)Peter MacCallum Cancer Centre, Moorabbin Campus, East Bentleigh, VIC, 3165, 
+Australia.
+(9)Sir Peter MacCallum Department of Oncology, The University of Melbourne, 
+Melbourne, VIC, 3000, Australia.
+(10)Department of Clinical Pathology, The University of Melbourne, Melbourne, 
+VIC, 3000, Australia.
+(11)Royal College of Surgeons, Dublin, D02 YN77, Ireland.
+(12)Tumour Progression and Heterogeneity Laboratory, Olivia Newton-John Cancer 
+Research Institute, Heidelberg, VIC, 3084, Australia.
+(13)Molecular Medicine Division, The Walter and ELIZA Hall Institute of Medical 
+Research, Parkville, VIC, 3052, Australia.
+(14)Department of Medical Biology, The University of Melbourne, Melbourne, VIC, 
+3010, Australia.
+(15)Matrix Microenvironment & Metastasis Laboratory, Olivia Newton-John Cancer 
+Research Institute, 145 Studley Road, Heidelberg, VIC, 3084, Australia. 
+Normand.Pouliot@onjcri.org.au.
+(16)School of Cancer Medicine, La Trobe University, Bundoora, VIC, 3086, 
+Australia. Normand.Pouliot@onjcri.org.au.
+(17)Department of Clinical Pathology, The University of Melbourne, Melbourne, 
+VIC, 3000, Australia. Normand.Pouliot@onjcri.org.au.
+
+BACKGROUND: Human epidermal growth factor receptor-2 (HER2)-targeted therapies 
+prolong survival in HER2-positive breast cancer patients. Benefit stems 
+primarily from improved control of systemic disease, but up to 50% of patients 
+progress to incurable brain metastases due to acquired resistance and/or limited 
+permeability of inhibitors across the blood-brain barrier. Neratinib, a potent 
+irreversible pan-tyrosine kinase inhibitor, prolongs disease-free survival in 
+the extended adjuvant setting, and several trials evaluating its efficacy alone 
+or combination with other inhibitors in early and advanced HER2-positive breast 
+cancer patients are ongoing. However, its efficacy as a first-line therapy 
+against HER2-positive breast cancer brain metastasis has not been fully 
+explored, in part due to the lack of relevant pre-clinical models that 
+faithfully recapitulate this disease. Here, we describe the development and 
+characterisation of a novel syngeneic model of spontaneous HER2-positive breast 
+cancer brain metastasis (TBCP-1) and its use to evaluate the efficacy and 
+mechanism of action of neratinib.
+METHODS: TBCP-1 cells were derived from a spontaneous BALB/C mouse mammary 
+tumour and characterised for hormone receptors and HER2 expression by flow 
+cytometry, immunoblotting and immunohistochemistry. Neratinib was evaluated in 
+vitro and in vivo in the metastatic and neoadjuvant setting. Its mechanism of 
+action was examined by transcriptomic profiling, function inhibition assays and 
+immunoblotting.
+RESULTS: TBCP-1 cells naturally express high levels of HER2 but lack expression 
+of hormone receptors. TBCP-1 tumours maintain a HER2-positive phenotype in vivo 
+and give rise to a high incidence of spontaneous and experimental metastases in 
+the brain and other organs. Cell proliferation/viability in vitro is inhibited 
+by neratinib and by other HER2 inhibitors, but not by anti-oestrogens, 
+indicating phenotypic and functional similarities to human HER2-positive breast 
+cancer. Mechanistically, neratinib promotes a non-apoptotic form of cell death 
+termed ferroptosis. Importantly, metastasis assays demonstrate that neratinib 
+potently inhibits tumour growth and metastasis, including to the brain, and 
+prolongs survival, particularly when used as a neoadjuvant therapy.
+CONCLUSIONS: The TBCP-1 model recapitulates the spontaneous spread of 
+HER2-positive breast cancer to the brain seen in patients and provides a unique 
+tool to identify novel therapeutics and biomarkers. Neratinib-induced 
+ferroptosis provides new opportunities for therapeutic intervention. Further 
+evaluation of neratinib neoadjuvant therapy is warranted.
+
+DOI: 10.1186/s13058-019-1177-1
+PMCID: PMC6693253
+PMID: 31409375 [Indexed for MEDLINE]
+
+Conflict of interest statement: ID and AL are employed by Puma Biotechnology, 
+Inc. All other authors declare that they have no competing interests.
