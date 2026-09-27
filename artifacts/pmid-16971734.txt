@@ -1,0 +1,42 @@
+1. Oncologist. 2006;11 Suppl 1:4-12. doi: 10.1634/theoncologist.11-90001-4.
+
+Adjuvant trastuzumab: a milestone in the treatment of HER-2-positive early 
+breast cancer.
+
+Baselga J(1), Perez EA, Pienkowski T, Bell R.
+
+Author information:
+(1)Vall d'Hebron University Hospital, Oncology Service, Barcelona, Spain. 
+jbaselga@vhebron.net
+
+Up to one fourth of women diagnosed with early breast cancer (EBC) have tumors 
+that are human epidermal growth factor receptor 2 (HER-2) positive. This is 
+associated with a high risk of relapse and death from meta-static disease. 
+Trastuzumab, a monoclonal antibody directed against the extracellular domain of 
+HER-2, improves survival and quality of life in women with HER-2-positive 
+metastatic breast cancer receiving chemotherapy. Four major adjuvant 
+trials-Herceptin Adjuvant (HERA), National Surgical Adjuvant Breast and Bowel 
+Project (NSABP) B-31, North Central Cancer Treatment Group (NCCTG) N9831, and 
+Breast Cancer International Research Group (BCIRG) 006-including between them 
+>13,000 women with HER-2-positive EBC, have investigated different adjuvant 
+treatment approaches with trastuzumab. These trials have shown that trastuzumab 
+reduces the 3-year risk of recurrence by about half in this population. The 
+benefit was similar across the trials despite differences in patient 
+populations, chemotherapy regimens, and sequencing of treatment. At a 2-year 
+follow-up, interim results from the combined analysis of the NSABP B-31 and 
+NCCTG N9831 trials showed a one third lower mortality for trastuzumab, and there 
+was a trend toward an overall survival benefit in the HERA and BCIRG trials. A 
+small Finnish trial, FinHer, investigating another regimen of trastuzumab, has 
+also shown similarly positive results. Further follow-up of the major adjuvant 
+trials will clarify the survival benefit for women receiving trastuzumab, as 
+well as the optimal treatment duration (1 or 2 years). Notably, cardiac events 
+in the trastuzumab-containing arms of these trials have remained within 
+acceptable levels, with a slightly higher (0.6%-3.3%) incidence of congestive 
+heart failure that mostly responded to treatment. Further follow-up will provide 
+information on long-term cardiac safety. Overall, results from clinical trials 
+are sufficiently compelling to consider 1 year of adjuvant trastuzumab treatment 
+for women with HER-2-positive EBC based on the risk:benefit ratio demonstrated 
+in these studies.
+
+DOI: 10.1634/theoncologist.11-90001-4
+PMID: 16971734 [Indexed for MEDLINE]
