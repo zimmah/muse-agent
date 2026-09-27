@@ -1,0 +1,49 @@
+1. Clin Transl Oncol. 2023 Jun;25(6):1673-1681. doi: 10.1007/s12094-022-03062-9. 
+Epub 2022 Dec 31.
+
+The impact of HER2-low status on response to neoadjuvant chemotherapy in 
+clinically HER2-negative breast cancer.
+
+Wang W(1), Zhu T(1), Chen H(1), Yao Y(2).
+
+Author information:
+(1)Department of Breast Surgery, Nanjing Drum Tower Hospital, The Affiliated 
+Hospital of Nanjing University Medical School, Nanjing, 210008, China.
+(2)Department of Breast Surgery, Nanjing Drum Tower Hospital, The Affiliated 
+Hospital of Nanjing University Medical School, Nanjing, 210008, China. 
+yyz1006@hotmail.com.
+
+PURPOSE: Low expression of HER2 (HER2-low expression) in breast cancer (BC) has 
+unique biological characteristics. However, whether HER2-low expression has an 
+impact on neoadjuvant chemotherapy (NACT) in HER2-negative breast cancer remains 
+unclear.
+METHODS: This study reviewed the clinicopathological data of patients with BC 
+treated with NACT at a single hospital from January 2018 to July 2022. Baseline 
+patient characteristics, efficacy of NACT, and survival data were compared 
+between the HER2-0 and HER2-low groups. The impact of NACT on HER2 status also 
+was investigated. Subgroup analyses based on hormone receptor (HR) status were 
+performed to explore the impact of HR signaling on HER2 status during 
+chemotherapy.
+RESULTS: The progesterone receptor-positive rate in the HER2-low group was 
+significantly higher than that in HER2-0 group. The local treatment response of 
+the HER2-low group was worse, but the disease-free survival rate of the HER2-low 
+group was significantly better than that of the HER2-0 group. The proportion of 
+patients with increased HER2 immunohistochemistry score after NACT was 
+significantly higher in the HER2-0 group. Subgroup analysis showed that the 
+efficacy of chemotherapy in HR + patients was significantly worse than in HR- 
+patients, and HR + patients had a higher proportion of increased HER2 
+immunohistochemistry score after chemotherapy. Mechanistic studies suggested 
+that MLH1 expression loss during chemotherapy might link HR signaling and 
+regulation of HER2 expression.
+CONCLUSIONS: We found that HER2-low expressing BC exhibits differential 
+sensitivity to chemotherapy compared to HER2-0 expressing BC. The regulation of 
+HER2 expression by HR signaling may mediate aspects of chemoresistance.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s12094-022-03062-9
+PMCID: PMC10202994
+PMID: 36586066 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
