@@ -1,0 +1,57 @@
+1. Breast Cancer. 2024 Jan;31(1):84-95. doi: 10.1007/s12282-023-01514-w. Epub
+2023  Nov 1.
+
+Population-level impact of adjuvant trastuzumab emtansine on the incidence of 
+metastatic breast cancer: an epidemiological prediction model of women with 
+HER2-positive early breast cancer and residual disease following neoadjuvant 
+therapy.
+
+Williamson M(1)(2), Press DJ(3), Hansen SA(4), Tomar A(5), Jhuti GS(4), Revil 
+C(4)(6), Gururaj K(5).
+
+Author information:
+(1)Genentech, Inc., 1 DNA Way, South San Francisco, CA, USA. mel_yong@yahoo.com.
+(2)Gilead Sciences, Inc., Foster City, CA, USA. mel_yong@yahoo.com.
+(3)Genentech, Inc., 1 DNA Way, South San Francisco, CA, USA.
+(4)F. Hoffmann-La Roche AG, Basel, Switzerland.
+(5)ZS Associates International Inc., London, UK.
+(6)Merck Sharp and Dohme, Zurich, Switzerland.
+
+PURPOSE: Treating early-stage breast cancer (eBC) may delay or prevent 
+subsequent metastatic breast cancer (mBC). In the phase 3 KATHERINE study, women 
+with human epidermal growth factor receptor 2 (HER2)-positive eBC with residual 
+disease following neoadjuvant therapy containing trastuzumab and a taxane 
+experienced 50% reductions in disease recurrence or death when treated with 
+adjuvant trastuzumab emtansine (T-DM1) vs adjuvant trastuzumab. We predicted the 
+population-level impact of adjuvant T-DM1 on mBC occurrence in five European 
+countries (EU5) and Canada from 2021-2030.
+METHODS: An epidemiological prediction model using data from national cancer 
+registries, observational studies, and clinical trials was developed. Assuming 
+80% population-level uptake of adjuvant treatment, KATHERINE data were 
+extrapolated prospectively to model projections. Robustness was evaluated in 
+alternative scenarios.
+RESULTS: We projected an eligible population of 116,335 women in Canada and the 
+EU5 who may be diagnosed with HER2-positive eBC and have residual disease 
+following neoadjuvant therapy from 2021-2030. In EU5, the cumulative number of 
+women projected to experience relapsed mBC over the 10-year study period was 
+36,009 vs 27,143 under adjuvant trastuzumab vs T-DM1, a difference of 8,866 
+women, equivalent to 25% fewer cases with the use of adjuvant T-DM1 in EU5 
+countries from 2021-2030. Findings were similar for Canada.
+CONCLUSION: Our models predicted greater reductions in the occurrence of 
+relapsed mBC with adjuvant T-DM1 vs trastuzumab in the indicated populations in 
+EU5 and Canada. Introduction of T-DM1 has the potential to reduce 
+population-level disease burden of HER2-positive mBC in the geographies studied.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12282-023-01514-w
+PMCID: PMC10764576
+PMID: 37907759 [Indexed for MEDLINE]
+
+Conflict of interest statement: MW was an employee of F. Hoffman-La Roche 
+Ltd./Genentech, Inc. at the time of this study, and is currently employed by 
+Gilead Sciences. DJP, SAH, and GSJ are employees of F. Hoffman-La Roche 
+Ltd./Genentech, Inc. CR was an employee of F. Hoffman-La Roche Ltd. at the time 
+of this study, and is currently employed by Merck Sharp & Dohme. AT and KG are 
+employees of ZS Associates and were paid contractors of F. Hoffman-La Roche for 
+the development of this model.
