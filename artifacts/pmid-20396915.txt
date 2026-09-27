@@ -1,0 +1,37 @@
+1. J Cancer Res Clin Oncol. 2011 Feb;137(2):261-9. doi:
+10.1007/s00432-010-0881-0.  Epub 2010 Apr 16.
+
+Prospective multi-centre study to validate chromogenic in situ hybridisation for 
+the assessment of HER2 gene amplification in specimens from adjuvant and 
+metastatic breast cancer patients.
+
+Riethdorf S(1), Hoegel B, John B, Ott G, Fritz P, Thon S, Loening T, Pantel K.
+
+Author information:
+(1)Institute of Tumor Biology, University Medical Center Hamburg-Eppendorf, 
+Hamburg, Germany.
+
+PURPOSE: As HER2 status is a strong predictor of the response to trastuzumab, 
+clinical guidelines recommend that all breast tumours are first evaluated for 
+HER2 protein expression by immunohistochemistry (IHC) followed by confirmatory 
+testing for HER2 gene amplification using fluorescence in situ hybridisation 
+(FISH) for 2+ cases. Alternatively, chromogenic in situ hybridisation (CISH) 
+offers a simpler, less expensive approach to detect HER2 amplification.
+METHODS: In this prospective, multi-centre study, based on the largest dataset 
+for HER2 testing in Germany to date, we evaluated the concordance between FISH 
+and CISH in 399 samples from adjuvant and metastatic breast cancer patients. 
+Tumour specimens from routine diagnostic practice were analysed by IHC, FISH and 
+CISH in four reference centres.
+RESULTS: FISH and CISH results were strongly concordant (κ = 0.83), with 95% of 
+cases showing agreement. Despite variable IHC scoring across testing centres, 
+complete consensus among the three methods was observed for 246 cases, 
+representing 91% of all IHC positive (3+) or negative (0/1+) cases. Confirmatory 
+testing of 132 IHC equivocal (2+) cases also yielded highly concordant results 
+between FISH and CISH.
+CONCLUSIONS: These data validate CISH for the assessment of HER2 gene 
+amplification in breast tumours and, confirm CISH as a valid alternative to FISH 
+in HER2 testing.
+
+DOI: 10.1007/s00432-010-0881-0
+PMCID: PMC11828081
+PMID: 20396915 [Indexed for MEDLINE]
