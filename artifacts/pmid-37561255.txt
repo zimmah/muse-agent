@@ -1,0 +1,61 @@
+1. Breast Cancer. 2023 Nov;30(6):997-1007. doi: 10.1007/s12282-023-01490-1. Epub 
+2023 Aug 10.
+
+Pathologic complete response and survival in HER2-low and HER2-zero early breast 
+cancer treated with neoadjuvant chemotherapy.
+
+Ilie SM(1), Briot N(2), Constantin G(2), Roussot N(1), Ilie A(3), Bergeron A(4), 
+Arnould L(4), Beltjens F(4), Desmoulin I(1), Mayeur D(1), Kaderbhai C(1), 
+Hennequin A(1), Jankowski C(5), Padeano MM(5), Costaz H(5), Amet A(5), Coutant 
+C(5)(6), Coudert B(1), Bertaut A(2), Ladoire S(7)(8)(9)(10).
+
+Author information:
+(1)Department of Medical Oncology, Georges Francois Leclerc Cancer Centre, 1 Rue 
+du Professeur Marion, 21000, Dijon, France.
+(2)Unit of Methodology and Biostatistics, Georges Francois Leclerc Cancer 
+Centre, Dijon, France.
+(3)Platform of Transfer in Biological Oncology, Georges François Leclerc Cancer 
+Center, Dijon, France.
+(4)Department of Biology and Pathology of Tumors, Georges Francois Leclerc 
+Cancer Centre, Dijon, France.
+(5)Department of Surgical Oncology, Georges Francois Leclerc Cancer Centre, 
+Dijon, France.
+(6)University of Burgundy-Franche Comté, 21000, Dijon, France.
+(7)Department of Medical Oncology, Georges Francois Leclerc Cancer Centre, 1 Rue 
+du Professeur Marion, 21000, Dijon, France. sladoire@cgfl.fr.
+(8)Platform of Transfer in Biological Oncology, Georges François Leclerc Cancer 
+Center, Dijon, France. sladoire@cgfl.fr.
+(9)University of Burgundy-Franche Comté, 21000, Dijon, France. sladoire@cgfl.fr.
+(10)INSERM U1231, 21000, Dijon, France. sladoire@cgfl.fr.
+
+BACKGROUND: Breast cancers without HER2 amplification but still expressing this 
+membrane protein constitute a new entity called HER2-low tumors. It is important 
+to characterize them in terms of sensitivity to treatment and prognosis.
+PATIENTS AND METHODS: To investigate chemosensitivity and long-term prognosis of 
+HER2-low early breast cancer (eBC), compared to HER2-0 tumors, we 
+retrospectively retrieved clinicopathological characteristics, response to 
+treatment, and survival data from 511 patients treated for eBC with neoadjuvant 
+chemotherapy (NAC) in a French cancer center between 2007 and 2018. Factors 
+associated with the achievement of pathologic complete response (pCR) and 
+survival were studied among hormone receptor positive (HR+) and negative (HR-) 
+eBC.
+RESULTS: A total of 280 HR+ (61% HER2-low), and 231 HR- (28% HER2-low) eBC were 
+included. We found classical clinicopathological factors usually associated with 
+chemosensitivity and prognosis, in both HR+ and HR- eBC. By uni- and 
+multivariable analysis, HER2 status (low vs 0) was not independently associated 
+with pCR, either in HR+ or HR- eBC. Relapse free (RFS) and overall survival (OS) 
+were not significantly different between HER2-low and HER2-0 among HR+ tumors. 
+In contrast, among HR- negative tumors, RFS and OS were slightly better in 
+HER2-0 eBC by univariable but not by multivariable analysis.
+CONCLUSIONS: In eBC patients treated with NAC, taking into account HR expression 
+subtype and other current clinicopathological features, HER2-low tumors did not 
+appear to have different chemosensitivity or prognosis, compared to their HER2-0 
+counterparts.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12282-023-01490-1
+PMCID: PMC10587331
+PMID: 37561255 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no COI to disclose.
