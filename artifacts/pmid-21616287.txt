@@ -1,0 +1,60 @@
+1. J Am Coll Cardiol. 2011 May 31;57(22):2263-70. doi:
+10.1016/j.jacc.2010.11.063.
+
+The utility of cardiac biomarkers, tissue velocity and strain imaging, and 
+cardiac magnetic resonance imaging in predicting early left ventricular 
+dysfunction in patients with human epidermal growth factor receptor II-positive 
+breast cancer treated with adjuvant trastuzumab therapy.
+
+Fallah-Rad N(1), Walker JR, Wassef A, Lytwyn M, Bohonis S, Fang T, Tian G, 
+Kirkpatrick ID, Singal PK, Krahn M, Grenier D, Jassal DS.
+
+Author information:
+(1)Institute of Cardiovascular Sciences, St. Boniface General Hospital, 
+University of Manitoba, Winnipeg, Manitoba, Canada.
+
+Comment in
+    J Am Coll Cardiol. 2011 May 31;57(22):2271-2. doi: 
+10.1016/j.jacc.2010.11.064.
+    J Am Coll Cardiol. 2011 Dec 13;58(25):2697-8; author reply 2699-700. doi: 
+10.1016/j.jacc.2011.06.071.
+    J Am Coll Cardiol. 2011 Dec 13;58(25):2698; author reply 2699-700. doi: 
+10.1016/j.jacc.2011.06.072.
+    J Am Coll Cardiol. 2011 Dec 13;58(25):2698-9; author reply 2699-700. doi: 
+10.1016/j.jacc.2011.08.056.
+
+OBJECTIVES: The aim of this study was to evaluate whether cardiac biomarkers, 
+tissue velocity (TVI) and strain imaging, and cardiac magnetic resonance imaging 
+can predict early left ventricular (LV) dysfunction in human epidermal growth 
+factor receptor II-positive breast cancer patients treated with trastuzumab in 
+the adjuvant setting.
+BACKGROUND: Early indexes of LV systolic dysfunction with noninvasive cardiac 
+imaging would be useful for addressing the cardiac safety profile of 
+trastuzumab, potentially avoiding the detrimental effects of heart failure.
+METHODS: We used cardiac biomarkers, TVI and strain imaging, and cardiac 
+magnetic resonance imaging to detect pre-clinical changes in LV systolic 
+function, before conventional changes in left ventricular ejection fraction 
+(LVEF) in human epidermal growth factor receptor II-positive breast cancer 
+patients treated with trastuzumab in the adjuvant setting.
+RESULTS: Of 42 patients (mean age 47 ± 9 years) prospectively followed between 
+2007 and 2009, 10 (25%) developed trastuzumab-mediated cardiomyopathy (CM). 
+Troponin T, C-reactive protein, and brain natriuretic peptide did not change 
+over time. Within 3 months of adjuvant therapy with trastuzumab, there was a 
+significant difference in the lateral S' between the normal cohort and the CM 
+group (9.1 ± 1.6 cm/s and 6.4 ± 0.6 cm/s, respectively, p < 0.05). Similarly, 
+the peak global longitudinal and radial strain decreased as early as 3 months in 
+the trastuzumab-mediated cardiotoxicity group. As compared with both global 
+longitudinal and radial strain, only S' was able to identify all 10 patients who 
+developed trastuzumab-mediated CM. The LVEF subsequently decreased at 6 months 
+of follow-up in all 10 patients, necessitating discontinuation of the drug. All 
+10 patients demonstrated delayed enhancement of the lateral wall of the LV 
+within the mid-myocardial portion, consistent with trastuzumab-induced CM.
+CONCLUSIONS: Both TVI and strain imaging were able to detect pre-clinical 
+changes in LV systolic function, before conventional changes in LVEF, in 
+patients receiving trastuzumab in the adjuvant setting.
+
+Copyright © 2011 American College of Cardiology Foundation. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2010.11.063
+PMID: 21616287 [Indexed for MEDLINE]
