@@ -1,0 +1,51 @@
+1. Cell Rep Med. 2026 Aug 18;7(8):102977. doi: 10.1016/j.xcrm.2026.102977. Epub 
+2026 Aug 6.
+
+Precision neoadjuvant treatment with AI-assisted subtyping in HR+/HER2-breast 
+cancer: A randomized, phase 2 trial FASCINATE-N.
+
+Li JJ(1), Ma LX(2), Ji P(2), Chen L(2), Wu J(2), Liu GY(2), Hou YF(2), Di GH(2), 
+Hu Z(2), Jiang YZ(2), Fan L(2), Wang ZH(2), Yu KD(3), Zhi-Ming Shao(4).
+
+Author information:
+(1)Department of Breast Surgery, Fudan University Shanghai Cancer Center, Key 
+Laboratory of Breast Cancer in Shanghai, Shanghai 200032, China; Department of 
+Oncology, Shanghai Medical College, Fudan University, Shanghai 200032, China. 
+Electronic address: lijunjie_ronaldo@hotmail.com.
+(2)Department of Breast Surgery, Fudan University Shanghai Cancer Center, Key 
+Laboratory of Breast Cancer in Shanghai, Shanghai 200032, China; Department of 
+Oncology, Shanghai Medical College, Fudan University, Shanghai 200032, China.
+(3)Department of Breast Surgery, Fudan University Shanghai Cancer Center, Key 
+Laboratory of Breast Cancer in Shanghai, Shanghai 200032, China; Department of 
+Oncology, Shanghai Medical College, Fudan University, Shanghai 200032, China. 
+Electronic address: yukeda@fudan.edu.cn.
+(4)Department of Breast Surgery, Fudan University Shanghai Cancer Center, Key 
+Laboratory of Breast Cancer in Shanghai, Shanghai 200032, China; Department of 
+Oncology, Shanghai Medical College, Fudan University, Shanghai 200032, China. 
+Electronic address: zhimingshao@fudan.edu.cn.
+
+In this phase 2 trial (NCT05582499), patients with stage II-III 
+hormone-receptor-positive/human epidermal growth factor receptor 2-negative 
+(HR+/HER2-) breast cancer were categorized into endocrine-based and 
+targeted-based groups based on previously proposed similarity network fusion 
+(SNF) subtyping by digital pathology classification and were then randomly 
+assigned in a 1:1 ratio to receive precision or control treatment. The primary 
+endpoint was pathological complete response (pCR). Among 251 randomized 
+patients, 49 were classified into an endocrine-based group and 202 into a 
+targeted-based group. Patients receiving precision treatment had a significantly 
+higher pCR rate (11.1% [90% confidence interval (CI), 6.8-16.8] vs. 4.0% [90% 
+CI, 1.6-8.2]; p = 0.033), with the benefit mainly derived from the 
+targeted-based group (13.9% in precision vs. 4.0% in control; p = 0.026). 
+Toxicity was manageable. Our findings highlight that guiding neoadjuvant 
+precision treatment by SNF subtyping in patients with HR+/HER2- breast cancer 
+showed potential clinical benefits, with improvement of pCR in the 
+targeted-based group and better tolerance in the endocrine-based group.
+
+Copyright © 2026 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.xcrm.2026.102977
+PMCID: PMC13522783
+PMID: 42561949 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
