@@ -1,0 +1,41 @@
+1. J Biomed Opt. 2019 Aug;24(8):1-9. doi: 10.1117/1.JBO.24.8.086503.
+
+Second-harmonic generation directionality is associated with neoadjuvant 
+chemotherapy response in breast cancer core needle biopsies.
+
+Desa DE(1), Bhanote M(2), Hill RL(3), Majeski JB(1), Buscaglia B(4), D'Aguiar 
+M(4), Strawderman R(5), Hicks DG(2), Turner BM(2), Brown EB(1).
+
+Author information:
+(1)University of Rochester, Hajim School of Engineering and Applied Sciences, 
+Department of Biomedical, United States.
+(2)University of Rochester Medical Center, School of Medicine and Dentistry, 
+Department of Pathology an, United States.
+(3)Harmonigenic Corporation, Rochester, New York, United States.
+(4)Rochester Institute of Technology, Kate Gleason College of Engineering, 
+Department of Biomedical Eng, United States.
+(5)University of Rochester Medical Center, School of Medicine and Dentistry, 
+Department of Biostatistic, United States.
+
+Neoadjuvant chemotherapy (NACT) is routinely administered to subsets of breast 
+cancer patients, including triple negative (TN) or human epidermal growth factor 
+receptor 2-positive (HER2+) cancers. After NACT and subsequent surgical 
+resection, 5% to 30% of patients have no residual invasive carcinoma, termed 
+pathological complete response. Unfortunately, many patients experience 
+little-to-no response after NACT and unnecessarily suffer its side effects. 
+Methods are needed to predict an individual patient’s response to NACT. Core 
+needle biopsies, taken before NACT, consist of tumor cells and the surrounding 
+extracellular matrix. We performed second-harmonic generation (SHG) imaging of 
+fibrillar collagen in core needle biopsy sections as a possible predictor of 
+response to NACT. The ratio of forward-to-backward scattering (F/B) SHG was 
+assessed in the “tumor bulk” and “tumor–host interface” in HER2+ and TN core 
+needle biopsy sections. Patient response was classified post-treatment using the 
+Residual Cancer Burden (RCB) score. In HER2+ biopsies, RCB class was associated 
+with F/B derived from the tumor–stromal interface, but not tumor bulk. F/B was 
+not associated with RCB class in TN biopsies. These findings suggest that F/B 
+from needle biopsy sections may be a useful predictor of which patients will 
+respond favorably to NACT, with the potential to help reduce overtreatment.
+
+DOI: 10.1117/1.JBO.24.8.086503
+PMCID: PMC6983524
+PMID: 31456385 [Indexed for MEDLINE]
