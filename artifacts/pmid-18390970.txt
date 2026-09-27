@@ -1,0 +1,43 @@
+1. J Clin Oncol. 2008 May 10;26(14):2364-72. doi: 10.1200/JCO.2007.13.6580. Epub 
+2008 Apr 7.
+
+Influence of activation state of ErbB-2 (HER-2) on response to adjuvant 
+cyclophosphamide, doxorubicin, and fluorouracil for stage II, node-positive 
+breast cancer: study 8541 from the Cancer and Leukemia Group B.
+
+DiGiovanna MP(1), Stern DF, Edgerton S, Broadwater G, Dressler LG, Budman DR, 
+Henderson IC, Norton L, Liu ET, Muss HB, Berry DA, Hayes DF, Thor AD.
+
+Author information:
+(1)Yale University School of Medicine, Section of Medical Oncology, 333 Cedar 
+St, Room WWW 217, New Haven, CT 06510, USA. michael.digiovanna@yale.edu
+
+PURPOSE: ErbB-2 (human epidermal growth factor receptor 2) overexpression may be 
+predictive of relative resistance and/or sensitivity to specific 
+chemotherapeutic agents. Results from a previous study from the Cancer and 
+Leukemia Group B (CALGB 8541) demonstrated an interaction between ErbB-2 and 
+increasing dose of adjuvant cyclophosphamide, doxorubicin, and fluorouracil 
+(CAF) chemotherapy. Other studies have suggested that evaluation of the 
+phosphorylated/activated form of ErbB-2 might be more precise in defining the 
+impact of ErbB-2 in breast cancer. We have evaluated tumor tissue sections from 
+CALGB 8541 patients to determine whether the interaction of ErbB-2 with CAF dose 
+is dependent on ErbB-2 activation state, and whether phosphorylated ErbB-2 is an 
+adverse prognostic factor in patients treated with CAF.
+PATIENTS AND METHODS: Patients were randomly assigned to one of three dosing 
+regimens of CAF. Paraffin samples from 992 of 1,572 patients who participated in 
+CALGB 8541 were available. Of the 570 tumors with any staining for ErbB-2, 488 
+had tissue available for assay for phosphorylated ErbB-2, which was performed by 
+immunohistochemistry.
+RESULTS: Of 910 total assessable cases, 112 of 488 ErbB-2-positive cases (23%) 
+stained positively for phosphorylated ErbB-2. The previously described 
+interaction of dosing regimen of CAF with ErbB-2 was not dependent on 
+phosphorylation status of ErbB-2.
+CONCLUSION: Monitoring phosphorylation of ErbB-2 with an antiphospho-ErbB-2 
+antibody did not add further precision to identifying those patients most likely 
+to benefit from increased dose of anthracycline-based adjuvant chemotherapy. 
+Favorable outcomes are observed in ErbB-2-overexpressing patients treated with 
+high-dose CAF regardless of ErbB-2 phosphorylation state.
+
+DOI: 10.1200/JCO.2007.13.6580
+PMCID: PMC6589994
+PMID: 18390970 [Indexed for MEDLINE]
