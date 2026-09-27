@@ -1,0 +1,38 @@
+1. J Oncol Pharm Pract. 2015 Apr;21(2):132-42. doi: 10.1177/1078155214527144.
+Epub  2014 Mar 27.
+
+Ado-trastuzumab emtansine (T-DM1): a novel antibody-drug conjugate for the 
+treatment of HER2-positive metastatic breast cancer.
+
+Baron JM(1), Boster BL(1), Barnett CM(2).
+
+Author information:
+(1)Division of Pharmacy, The University of Texas MD Anderson Cancer Center, 
+Houston, TX, USA.
+(2)Division of Pharmacy, The University of Texas MD Anderson Cancer Center, 
+Houston, TX, USA cmbarnet@mdanderson.org.
+
+Human epidermal growth factor receptor-2 (HER2)-positive breast cancer is an 
+aggressive form of breast cancer associated with poorer prognosis and shortened 
+survival. Primary and acquired resistance to existing HER2-targeted therapies 
+presents a challenge for the management of patients with HER2-positive 
+metastatic breast cancer. Ado-trastuzumab emtansine, a drug-antibody conjugate, 
+has shown promising results for patients failing prior treatment with 
+trastuzumab. Ado-trastuzumab emtansine consists of the monoclonal antibody 
+trastuzumab linked to a potent microtubule inhibitor (emtansine), allowing a 
+targeted delivery of chemotherapy to cells that overexpress HER2. 
+Ado-trastuzumab emtansine has been approved for use in patients with metastatic 
+breast cancer who have failed prior therapy with trastuzumab and a taxane. 
+Although well-tolerated in clinical trials, thrombocytopenia has been reported 
+and platelet values should be monitored closely. Increased liver enzymes and 
+bilirubin, as well as cardiotoxicity, have also been documented, and 
+recommendations for dose reduction or discontinuation due to these toxicities 
+are available. Clinical trials are currently ongoing to further define the role 
+of ado-trastuzumab emtansine in both the metastatic and early breast cancer 
+settings.
+
+© The Author(s) 2014 Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav.
+
+DOI: 10.1177/1078155214527144
+PMID: 24682654 [Indexed for MEDLINE]
