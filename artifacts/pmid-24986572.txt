@@ -1,0 +1,34 @@
+1. Tumour Biol. 2014 Oct;35(10):9823-30. doi: 10.1007/s13277-014-2282-5. Epub
+2014  Jul 2.
+
+Prognostic significance of the ratio of absolute neutrophil to lymphocyte counts 
+for breast cancer patients with ER/PR-positivity and HER2-negativity in 
+neoadjuvant setting.
+
+Koh YW(1), Lee HJ, Ahn JH, Lee JW, Gong G.
+
+Author information:
+(1)Department of Pathology, Ajou University School of Medicine, Suwon, South 
+Korea.
+
+The aim of this study was to determine the predictive or prognostic impact of 
+absolute neutrophil count/absolute lymphocyte count ratio (NLR) in breast cancer 
+patients with estrogen receptor/progesterone receptor (ER/PR)-positive and human 
+epidermal growth factor receptor 2 (HER2)-negative subtype who have received 
+neoadjuvant chemotherapy (NAC). We performed retrospective analysis of 157 
+patients with primary breast cancer with ER/PR-positive and HER2-negative 
+subtype who were treated with NAC, followed by definitive surgical resection. 
+The median follow-up after surgery was 21 months (range, 1-108 months). On 
+univariate analysis, high NLR (>2.25) correlated with poorer recurrence-free 
+survival (RFS) and overall survival (OS) (P = 0.001 and P < 0.001). Subgroup 
+analysis of non-pathologic complete response (pCR) subgroup showed that high NLR 
+was significant for RFS and OS (P = 0.001 and P < 0.001). Particularly, high NLR 
+patients had inferior clinical outcomes in the high clinical stage. Uni- and 
+multivariate Cox analysis showed NLR to be an only predictor of RFS and OS. The 
+NLR is an independent prognostic factor for RFS and OS in breast cancer patients 
+with ER/PR-positive and HER2-negative subtype receiving NAC. The NLR provides 
+additional prognostic information to choose suitable patients who might profit 
+from further therapy.
+
+DOI: 10.1007/s13277-014-2282-5
+PMID: 24986572 [Indexed for MEDLINE]
