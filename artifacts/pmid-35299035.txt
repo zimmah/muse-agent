@@ -1,0 +1,110 @@
+1. Breast. 2022 Jun;63:54-60. doi: 10.1016/j.breast.2022.03.004. Epub 2022 Mar
+11.
+
+Efficacy of trastuzumab emtansine (T-DM1) and lapatinib after dual HER2 
+inhibition with trastuzumab and pertuzumab in patient with metastatic breast 
+cancer: Retrospective data from a French multicenter real-life cohort.
+
+Moinard-Butot F(1), Saint-Martin C(2), Pflumio C(3), Carton M(2), Jacot W(4), 
+Cottu PH(5), Diéras V(6), Dalenc F(7), Goncalves A(8), Debled M(9), Patsouris 
+A(10), Mouret-Reynier MA(11), Vanlemmens L(12), Leheurteur M(13), Emile G(14), 
+Ferrero JM(15), Desmoulins I(16), Uwer L(17), Eymard JC(18), Cheaib B(19), 
+Courtinard C(20), Bachelot T(21), Chevrot M(22), Petit T(3).
+
+Author information:
+(1)Department of Medical Oncology, Institut de Cancérologie Strasbourg - Europe 
+(ICANS), 17 Rue Albert Calmette, BP 23025, 67033, Strasbourg, France. Electronic 
+address: f.moinard-butot@icans.eu.
+(2)Department of Biostatistics, Institut Curie, 35 Rue Dailly, 92210, 
+Saint-Cloud, France.
+(3)Department of Medical Oncology, Institut de Cancérologie Strasbourg - Europe 
+(ICANS), 17 Rue Albert Calmette, BP 23025, 67033, Strasbourg, France.
+(4)Department of Medical Oncology, Institut du Cancer de Montpellier, 208 Rue 
+des Apothicaires, 34298, Montpellier, France; Institut de Recherche en 
+Cancérologie de Montpellier (IRCM), INSERM U1194, Montpellier, France.
+(5)Department of Medical Oncology, Institut Curie, 26 Rue d'Ulm, 75005, Paris, 
+France.
+(6)Department of Medical Oncology, Centre Eugène Marquis, Avenue de la Bataille 
+Flandres-Dunkerque, 35000, Rennes, France.
+(7)Department of Medical Oncology, Institut Claudius Regaud - IUCT Oncopole, 1 
+Avenue Irène-Joliot-Curie, 31059 Toulouse, France.
+(8)Department of Medical Oncology, Institut Paoli-Calmettes, 232 Boulevard de 
+Sainte-Marguerite, 13009, Marseille, France.
+(9)Department of Medical Oncology, Institut Bergonié, 229 Cours de l'Argonne, 
+33000, Bordeaux, France.
+(10)Department of Medical Oncology, Institut de Cancérologie de l'Ouest Nantes & 
+Angers, 15 Rue André Boquel, 49055, Angers, France.
+(11)Department of Medical Oncology, Centre Jean Perrin, 58 Rue Montalembert, 
+63011, Clermont Ferrand, France.
+(12)Medical Oncology Department, Centre Oscar Lambret, 3 Rue Frédéric Combemale, 
+59000, Lille, France.
+(13)Department of Medical Oncology, Centre Henri Becquerel, Rue d'Amiens, 76000, 
+Rouen, France.
+(14)Department of Medical Oncology, Centre François Baclesse, 3 Avenue du 
+Général Harris, 14000, Caen, France.
+(15)Department of Medical Oncology, Centre Antoine Lacassagne, 33 Avenue de 
+Valambrose, 06189, Nice, France.
+(16)Department of Medical Oncology, Institut de Cancérologie de Bourgogne, 
+21079, Dijon, France.
+(17)Medical Oncology Department, Institut de Cancérologie de Lorraine, 
+Vandoeuvre-lès-Nancy, 6 Avenue de Bourgogne, 54519, Vandœuvre-lès-Nancy, France.
+(18)Department of Medical Oncology, Institut de Cancérologie Jean-Godinot, 1 Rue 
+du Général Koenig, 51100, Reims, France.
+(19)Department of Cancer Medicine, Gustave Roussy, 114 Rue Edouard Vaillant, 
+94800, Villejuif, France.
+(20)Unicancer, Data Office, 101 Rue de Tolbiac, 75654, Paris, France; Université 
+de Bordeaux, Inserm, Bordeaux Population Health Research Center, Epicene Team, 
+UMR 1219, Bordeaux, France.
+(21)Department of Medical Oncology, Centre Léon Bérard, 28 Prom. Léa et Napoléon 
+Bullukian, 69008, Lyon, France.
+(22)Unicancer, Data Office, 101 Rue de Tolbiac, 75654, Paris, France.
+
+PURPOSE: Trastuzumab-emtansine (T-DM1), as well as lapatinib plus capecitabine 
+were proven effective in two Phase III studies, following first-line trastuzumab 
+plus a taxane. The introduction of dual HER2 blockade by trastuzumab and 
+pertuzumab as first-line has positioned T-DM1 into second-line, and lapatinib 
+plus capecitabine beyond, without formal evaluation of these strategies.
+METHODS: ESME Data Platform (NCT03275311) included individual data from all 
+patients aged ≥18 years, in whom first-line treatment for metastatic breast 
+cancer (MBC) was initiated between January 1, 2008 and December 31, 2016 in one 
+of the 18 French Comprehensive Cancer Centers. The efficacy of T-DM1 and 
+lapatinib plus capecitabine combination, following double blockade associating 
+trastuzumab and pertuzumab were evaluated in this national real-life database. 
+Eligibility criteria were: female, MBC, HER2+ tumor, first-line taxane-based 
+chemotherapy and dual HER2-blockage by trastuzumab plus pertuzumab. Cohort A 
+received second-line T-DM1, and Cohort B second-line T-DM1 and third or 
+fourth-line lapatinib plus capecitabine.
+RESULTS: Cohort A comprised 233 patients, and Cohort B 47 patients. Median 
+progression-free survival (PFS) was 7.1 months in Cohort A and 4.6 months in 
+Cohort B. Median overall survival were 36.7 months and 12.9 months, 
+respectively. PFS was significantly dependent on the preceding treatment line's 
+duration. In cohort A, HER2 expression status was a significant predictive 
+factor of PFS.
+CONCLUSION: First-line trastuzumab plus pertuzumab do not markedly diminish 
+T-DM1's efficacy in second-line. Similarly, sequential treatment with 
+trastuzumab plus pertuzumab then T-DM1 does not noticeably modify the efficacy 
+of lapatinib plus capecitabine.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.breast.2022.03.004
+PMCID: PMC8927850
+PMID: 35299035 [Indexed for MEDLINE]
+
+Conflict of interest statement: T.P. reports grants from Pfizer, Novartis, 
+AstraZeneca, Lilly, and Pierre Fabre, but which were unrelated to the submitted 
+work. C.P. reports board from Lilly and non-financial support from Novartis, 
+Pfizer, Mundi Pharma, but which were unrelated to the submitted work. T.B. 
+reports grants, personal fees and non-financial support from Novartis, Pfizer 
+and AstraZeneca; personal fees from Seattle Genetics and personal fees and 
+non-financial support from Roche. W.J. reports personal fees and non-financial 
+support from Eisai, Novartis, Roche, Pfizer and Lilly; grants, personal fees and 
+non-financial support from AstraZeneca; personal fees from MSD; non-financial 
+support from Chugai. M.-A.M.-R. reports other from Novartis, Lilly, Pfizer, 
+Roche, Pierre Fabre and MSD, outside the submitted work. F.D. reports boards 
+from Novartis, Lilly, Pfizer and AstraZeneca. C.C. reports grants from Pfizer, 
+Roche, MSD, AstraZeneca, Eisai and Daiichi. A.G. reports non-financial support 
+from Roche, Novartis, AstraZeneca and Pfizer. PC reports grants from Pfizer and 
+Novartis, personal fees from Pfizer and Eli-Lilly, and non-financial support 
+from Pfizer, outside the submitted work. The other authors declare that they 
+have no conflict of interest to disclose.
