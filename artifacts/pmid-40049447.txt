@@ -1,0 +1,62 @@
+1. Ann Oncol. 2025 Jun;36(6):651-659. doi: 10.1016/j.annonc.2025.02.011. Epub
+2025  Mar 4.
+
+Efficacy and safety of neoadjuvant SHR-A1811 with or without pyrotinib in women 
+with locally advanced or early HER2-positive breast cancer: a randomized, 
+open-label, phase II trial.
+
+Li JJ(1), Wang ZH(2), Chen L(2), Zhang WJ(2), Ma LXX(2), Wu J(2), Liu GY(2), Hou 
+YF(2), Yu KD(2), Di GH(2), Fan L(2), Jiang YZ(2), Jiang SH(2), Liang QN(3), Shen 
+Y(3), Shao ZM(4).
+
+Author information:
+(1)Department of Breast Surgery, Fudan University Shanghai Cancer Center, 
+Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+University, Shanghai, China; Key Laboratory of Breast Cancer in Shanghai, Fudan 
+University Shanghai Cancer Center, Fudan University, Shanghai, China. Electronic 
+address: lijunjie_ronaldo@hotmail.com.
+(2)Department of Breast Surgery, Fudan University Shanghai Cancer Center, 
+Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+University, Shanghai, China; Key Laboratory of Breast Cancer in Shanghai, Fudan 
+University Shanghai Cancer Center, Fudan University, Shanghai, China.
+(3)Department of Clinical Research & Development, Jiangsu Hengrui 
+Pharmaceuticals Co., Ltd., Shanghai, China.
+(4)Department of Breast Surgery, Fudan University Shanghai Cancer Center, 
+Shanghai, China; Department of Oncology, Shanghai Medical College, Fudan 
+University, Shanghai, China; Key Laboratory of Breast Cancer in Shanghai, Fudan 
+University Shanghai Cancer Center, Fudan University, Shanghai, China. Electronic 
+address: zhimin_shao@yeah.net.
+
+BACKGROUND: Standard neoadjuvant regimens for human epidermal growth factor 
+receptor 2 (HER2)-positive breast cancer include trastuzumab and pertuzumab 
+combined with chemotherapy, and the efficacy and safety of third-generation 
+HER2-directed antibody-drug conjugate (ADC) remain to be elucidated.
+PATIENTS AND METHODS: This open-label, randomized, phase II study enrolled 
+patients aged ≥18 years with stage II-III HER2-positive breast cancer. Patients 
+were randomly assigned (1 : 1 : 1) to receive neoadjuvant treatment either with 
+SHR-A1811 monotherapy, SHR-A1811 with pyrotinib, or nab-paclitaxel combined with 
+carboplatin, trastuzumab, and pertuzumab (PCbHP) for 24 weeks. The primary 
+endpoint was pathological complete response (pCR). Safety was analysed in 
+patients who received at least one dose of study medication.
+RESULTS: Between 27 December 2022 and 11 February 2024, 265 patients were 
+randomly allocated to neoadjuvant, mono-SHR-A1811 (n = 87), SHR-A1811 plus 
+pyrotinib (n = 88), or PCbHP (n = 90). The baseline characteristics were well 
+balanced; ∼45% of the patients were hormone receptor (HR) positive, and 70% of 
+the patients were stage III. The pCR rate was 63.2% for mono-SHR-A1811 (50% for 
+HR positive and 74.5% for HR negative), 62.5% for SHR-A1811 plus pyrotinib 
+(44.7% for HR positive and 76% for HR negative), and 64.4% for PCbHP (54.1% for 
+HR positive and 71.7% for HR negative), with no significant difference between 
+the groups. Grade ≥3 treatment-related adverse events occurred in 44.8% of 
+patients with mono-SHR-A1811, 71.6% with SHR-A1811 plus pyrotinib, and 38.8% 
+with PCbHP. One patient experienced grade 2 interstitial lung disease in 
+SHR-A1811, 9.1% of patients experienced grade 3 diarrhoea in SHR-A1811 plus 
+pyrotinib, and no treatment-related deaths occurred.
+CONCLUSIONS: This is the first study to report the efficacy and safety of 
+third-generation HER2-directed ADC in the neoadjuvant setting for HER2-positive 
+breast cancer. SHR-A1811 showed robust activity, with a tolerable safety 
+profile.
+
+Copyright © 2025 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.annonc.2025.02.011
+PMID: 40049447 [Indexed for MEDLINE]
