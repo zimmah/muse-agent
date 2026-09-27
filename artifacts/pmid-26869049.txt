@@ -1,0 +1,107 @@
+1. Lancet Oncol. 2016 Mar;17(3):345-356. doi: 10.1016/S1470-2045(15)00542-2. Epub
+ 2016 Feb 8.
+
+Nab-paclitaxel versus solvent-based paclitaxel in neoadjuvant chemotherapy for 
+early breast cancer (GeparSepto-GBG 69): a randomised, phase 3 trial.
+
+Untch M(1), Jackisch C(2), Schneeweiss A(3), Conrad B(4), Aktas B(5), Denkert 
+C(6), Eidtmann H(7), Wiebringhaus H(8), Kümmel S(9), Hilfrich J(10), Warm M(11), 
+Paepke S(12), Just M(13), Hanusch C(14), Hackmann J(15), Blohmer JU(16), Clemens 
+M(17), Darb-Esfahani S(6), Schmitt WD(6), Dan Costa S(18), Gerber B(19), Engels 
+K(20), Nekljudova V(21), Loibl S(22), von Minckwitz G(21); German Breast Group 
+(GBG); Arbeitsgemeinschaft Gynäkologische Onkologie—Breast (AGO-B) 
+Investigators.
+
+Author information:
+(1)HELIOS Klinikum Berlin-Buch, Berlin, Germany.
+(2)Sana Klinikum, Offenbach, Germany.
+(3)National Center for Tumor Diseases, University Hospital, Heidelberg, Germany.
+(4)St Elisabeth Krankenhaus, Kassel, Germany.
+(5)University Women's Hospital Essen, Essen, Germany.
+(6)University Hospital Charité, Department of Pathology, Berlin, Germany.
+(7)University Hospital Kiel, Kiel, Germany.
+(8)St Barbara-Klinik Hamm-Heessen, Hamm, Germany.
+(9)Interdisziplinäres Brustzentrum an den Kliniken Essen-Mitte, Essen, Germany.
+(10)Krankenhaus Eilenriede, Hannover, Germany.
+(11)Brustzentrum im Krankenhaus Köln-Holweide, Cologne, Germany.
+(12)Klinikum rechts der Isar der TU München, Klinik und Poliklinik für 
+Frauenheilkunde, Munich, Germany.
+(13)Onkologische Schwerpunktpraxis, Bielefeld, Germany.
+(14)Klinikum zum Roten Kreuz, Munich, Germany.
+(15)Marien Hospital Witten, Witten, Germany.
+(16)Klinik für Gynäkologie am Campus Charité Mitte, Berlin, Germany.
+(17)Klinikum Mutterhaus der Borromäerinnen, Trier, Germany.
+(18)Universitäts-Frauenklinik, Magdeburg, Germany.
+(19)Universitäts-Frauenklinik, Rostock, Germany.
+(20)Zentrum für Pathologie, Zytologie und Molekularpathologie Neuss, Germany.
+(21)German Breast Group, Neu-Isenburg, Germany.
+(22)German Breast Group, Neu-Isenburg, Germany. Electronic address: 
+sibylle.loibl@gbg.de.
+
+Erratum in
+    Lancet Oncol. 2016 Jul;17(7):e270. doi: 10.1016/S1470-2045(16)30217-0.
+
+Comment in
+    Lancet Oncol. 2016 Mar;17(3):265-266. doi: 10.1016/S1470-2045(15)00566-5.
+    Chin Clin Oncol. 2020 Jun;9(3):42. doi: 10.21037/cco.2019.12.06.
+
+BACKGROUND: In metastatic breast cancer, nab-paclitaxel has been shown to 
+significantly increase progression-free survival compared with solvent-based 
+paclitaxel. The GeparSepto (GBG 69) trial assessed whether weekly nab-paclitaxel 
+could increase the proportion of patients achieving pathological complete 
+response compared with weekly solvent-based paclitaxel, both followed by 
+epirubicin plus cyclophosphamide as neoadjuvant treatment.
+METHOD: In a phase 3 randomised trial, we enrolled patients with previously 
+untreated unilateral or bilateral primary invasive breast cancer and randomly 
+assigned them in a 1:1 ratio using dynamic allocation and Pocock minimisation by 
+breast cancer subtype, Ki67 and SPARC expression. Patients were treated for 12 
+weeks with either intravenous nab-paclitaxel 150 mg/m(2) (after study amendment, 
+125 mg/m(2)) on days 1, 8, and 15 for four 3-week cycles, or solvent-based 
+intravenous paclitaxel 80 mg/m(2) on days 1, 8, and 15 for four 3-week cycles. 
+Taxane treatment was followed in both groups by intravenous epirubicin 90 
+mg/m(2) plus intravenous cyclophosphamide 600 mg/m(2) on day 1 for four 3-week 
+cycles. Patients with HER2-positive tumours received concurrent trastuzumab 6 
+mg/kg (loading dose 8 mg/kg) and pertuzumab 420 mg (loading dose 840 mg) on day 
+1 of every 3-week cycle. Trastuzumab and pertuzumab were given every 3 weeks 
+concomitantly with chemotherapy for all cycles. This report is the final 
+analysis of the primary endpoint, pathological complete response (ypT0 ypN0), 
+analysed for all patients who started treatment (modified intention to treat). 
+We used a closed test procedure to test for non-inferiority, with the 
+nab-paclitaxel group calculated as non-inferior to the solvent-based paclitaxel 
+group if the lower 95% CI for the OR was above 0·858 (OR equivalent to 
+pathological complete response [33%] minus a 10% non-inferiority margin [3·3%]; 
+29·7%). We planned to test for superiority only in case of a positive 
+non-inferiority test, using an α of 0·05. Safety was assessed in all patients 
+who received study drug. The trial is registered with ClinicalTrials.gov, number 
+NCT01583426.
+FINDINGS: Between July 30, 2012, and Dec 23, 2013, we randomly assigned 1229 
+women, of whom 1206 started treatment (606 with nab-paclitaxel and 600 with 
+solvent-based paclitaxel). The nab-paclitaxel dose was reduced after enrolment 
+of 464 participants to 125 mg/m(2) due to increased treatment discontinuation 
+and sensory neuropathy in this group. Pathological complete response occurred 
+more frequently in the nab-paclitaxel group (233 [38%, 95% CI 35-42] patients) 
+than in the solvent-based paclitaxel group (174 [29%, 25-33] patients; OR 1·53, 
+95% CI 1·20-1·95; unadjusted p=0·00065). The incidence of grade 3-4 anaemia (13 
+[2%] of 605 patients in the nab-paclitaxel group vs four [1%] of patients in the 
+solvent-based paclitaxel group; p=0·048) and peripheral sensory neuropathy grade 
+3-4 (63 [10%] patients receiving any nab-paclitaxel dose; 31 [8%] of patients 
+starting with 125 mg/m(2) and 32 [15%] of patients starting with 150 mg/m(2); vs 
+16 [3%] in the solvent-based paclitaxel group, p<0·001) was significantly higher 
+for nab-paclitaxel than for solvent-based paclitaxel. Overall, 283 (23%) 
+patients were noted to have at least one serious adverse event (based on study 
+drug received), 156 (26%) in the nab-paclitaxel group and 127 (21%) in the 
+solvent-based paclitaxel group (p=0·057). There were three deaths (during 
+epirubicin plus cyclophosphamide treatment) in the nab-paclitaxel group (due to 
+sepsis, diarrhoea, and accident unrelated to the trial) versus one in the 
+solvent-based paclitaxel group (during paclitaxel treatment; cardiac failure).
+INTERPRETATION: Substituting solvent-based paclitaxel with nab-paclitaxel 
+significantly increases the proportion of patients achieving a pathological 
+complete response rate after anthracycline-based chemotherapy. These results 
+might lead to an exchange of the preferred taxane, solvent-based paclitaxel, for 
+nab-paclitaxel in therapy for primary breast cancer.
+FUNDING: Celgene, Roche.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(15)00542-2
+PMID: 26869049 [Indexed for MEDLINE]
