@@ -1,0 +1,44 @@
+1. Ther Adv Med Oncol. 2012 Sep;4(5):235-45. doi: 10.1177/1758834012451205.
+
+The potential for trastuzumab emtansine in human epidermal growth factor 
+receptor 2 positive metastatic breast cancer: latest evidence and ongoing 
+studies.
+
+Hurvitz SA(1), Kakkar R.
+
+Author information:
+(1)Department of Medicine, Division of Hematology-Oncology, 10945 Le Conte 
+Avenue, PVUB Suite 3360, Los Angeles, CA 90095, USA.
+
+The treatment of breast cancer that is driven by amplification and 
+overexpression of human epidermal growth factor receptor 2 (HER2) has been 
+drastically improved by the development of HER2-targeted therapies including 
+trastuzumab and lapatinib. While outcomes for patients diagnosed with 
+HER2-positive breast cancer have been greatly impacted by these therapies, 
+treatment resistance is common and toxicity to standard regimens remains a 
+therapeutic challenge. Trastuzumab emtansine (T-DM1) is a novel antibody drug 
+conjugate that consists of the HER2-targeted monoclonal antibody, trastuzumab, 
+joined via a stable linker to a derivative of maytansine, a highly potent 
+cytotoxic chemotherapy. While other antibody drug conjugates have been developed 
+clinically, this is the first in its class that maintains the antitumor 
+properties of the HER2-targeted antibody, trastuzumab, and also avoids release 
+of the chemotherapy until the molecule is taken up inside the 
+HER2-overexpressing cancer cell. Several phase I studies have shown T-DM1 is 
+safe, tolerable and has activity in trastuzumab- and lapatinib-pretreated breast 
+cancer. Moreover, phase II studies are now being reported that confirm its 
+safety and clinical efficacy in both the frontline and heavily pretreated 
+settings. Preliminary data from phase II studies evaluating its use in 
+combination with other cytotoxics have also been reported and several large 
+phase III trials are underway to evaluate its use in the HER2-positive 
+metastatic breast cancer setting. This paper aims to provide a detailed review 
+of the preclinical and clinical evidence relating to the mechanism of action, 
+efficacy and safety of T-DM1 for the treatment of HER2-positive breast cancer.
+
+DOI: 10.1177/1758834012451205
+PMCID: PMC3424498
+PMID: 22942906
+
+Conflict of interest statement: Conflict of interest statement: Dr Kakkar has no 
+conflicts of interest. Dr Hurvitz received reimbursement for international 
+travel expenses from Roche to present at an international symposium and has 
+received research grant funding from Genentech/Roche.
