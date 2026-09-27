@@ -1,0 +1,67 @@
+1. JAMA Surg. 2021 Jun 1;156(6):e210891. doi: 10.1001/jamasurg.2021.0891. Epub
+2021  Jun 9.
+
+Axillary Pathologic Complete Response After Neoadjuvant Systemic Therapy by 
+Breast Cancer Subtype in Patients With Initially Clinically Node-Positive 
+Disease: A Systematic Review and Meta-analysis.
+
+Samiei S(1)(2)(3), Simons JM(3), Engelen SME(1), Beets-Tan RGH(3)(4), Classe 
+JM(5), Smidt ML(1)(3); EUBREAST Group.
+
+Author information:
+(1)Department of Surgery, Maastricht University Medical Center, Maastricht, the 
+Netherlands.
+(2)Department of Radiology and Nuclear Medicine, Maastricht University Medical 
+Center, Maastricht, the Netherlands.
+(3)GROW-School for Oncology and Developmental Biology, Maastricht University, 
+Maastricht, the Netherlands.
+(4)Department of Radiology, the Netherlands Cancer Institute, Amsterdam.
+(5)Department of Surgical Oncology, Institut de Cancérologie de l'Ouest, 
+Saint-Herblain, Loire Atlantique, France.
+
+IMPORTANCE: An overview of rates of axillary pathologic complete response (pCR) 
+for all breast cancer subtypes, both for patients with and without 
+pathologically proven clinically node-positive disease, is lacking.
+OBJECTIVE: To provide pooled data of all studies in the neoadjuvant setting on 
+axillary pCR rates for different breast cancer subtypes in patients with 
+initially clinically node-positive disease.
+DATA SOURCES: The electronic databases Embase and PubMed were used to conduct a 
+systematic literature search on July 16, 2020. The references of the included 
+studies were manually checked to identify other eligible studies.
+STUDY SELECTION: Studies in the neoadjuvant therapy setting were identified 
+regarding axillary pCR for different breast cancer subtypes in patients with 
+initially clinically node-positive disease (ie, defined as node-positive before 
+the initiation of neoadjuvant systemic therapy).
+DATA EXTRACTION AND SYNTHESIS: Two reviewers independently selected eligible 
+studies according to the inclusion criteria and extracted all data. All 
+discrepant results were resolved during a consensus meeting. To identify the 
+different subtypes, the subtype definitions as reported by the included articles 
+were used. The random-effects model was used to calculate the overall pooled 
+estimate of axillary pCR for each breast cancer subtype.
+MAIN OUTCOMES AND MEASURES: The main outcome of this study was the rate of 
+axillary pCR and residual axillary lymph node disease after neoadjuvant systemic 
+therapy for different breast cancer subtypes, differentiating studies with and 
+without patients with pathologically proven clinically node-positive disease.
+RESULTS: This pooled analysis included 33 unique studies with 57 531 unique 
+patients and showed the following axillary pCR rates for each of the 7 reported 
+subtypes in decreasing order: 60% for hormone receptor (HR)-negative/ERBB2 
+(formerly HER2)-positive, 59% for ERBB2-positive (HR-negative or HR-positive), 
+48% for triple-negative, 45% for HR-positive/ERBB2-positive, 35% for luminal B, 
+18% for HR-positive/ERBB2-negative, and 13% for luminal A breast cancer. No 
+major differences were found in the axillary pCR rates per subtype by analyzing 
+separately the studies of patients with and without pathologically proven 
+clinically node-positive disease before neoadjuvant systemic therapy.
+CONCLUSIONS AND RELEVANCE: The HR-negative/ERBB2-positive subtype was associated 
+with the highest axillary pCR rate. These data may help estimate axillary 
+treatment response in the neoadjuvant setting and thus select patients for more 
+or less invasive axillary procedures.
+
+DOI: 10.1001/jamasurg.2021.0891
+PMCID: PMC8060891
+PMID: 33881478 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Smidt 
+reported receiving grants from Servier Laboratories microbiome research, outside 
+the submitted work. Dr Reimer reported receiving personal fees from Pfizer Inc 
+and grants from German Cancer Aid and Else Kröner-Fresenius-Stiftung outside the 
+submitted work. No other disclosures were reported.
