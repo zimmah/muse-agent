@@ -1,0 +1,37 @@
+1. Future Oncol. 2023 Aug;19(24):1695-1708. doi: 10.2217/fon-2023-0361. Epub 2023
+ Aug 22.
+
+Neratinib as adjuvant therapy in patients with HER2 positive breast cancer: 
+expert opinion.
+
+Caputo R(1), Buono G(1), Di Lauro V(1), Cianniello D(1), Von Arx C(1), Pensabene 
+M(1), Pagliuca M(2)(3), Pacilio C(1), Di Rella F(1), Verrazzo A(1)(2)(4), 
+Martinelli C(4), Nuzzo F(1), De Laurentiis M(1).
+
+Author information:
+(1)Department of Breast & Thoracic Oncology, Division of Breast Medical 
+Oncology, Istituto Nazionale Tumori IRCCS 'Fondazione G. Pascale,' Naples, 
+Italy.
+(2)Clinical & Translational Oncology, Scuola Superiore Meridionale, Naples, 
+Italy.
+(3)U981 Molecular Predictors & New Targets in Oncology, Gustave Roussy, 
+Villejuif, France.
+(4)Department of Clinical Medicine & Surgery, University of Naples Federico II, 
+Naples, Italy.
+
+Neratinib is a tyrosine kinase receptor inhibitor used in the extended adjuvant 
+therapy of early-stage breast cancer. After adjuvant trastuzumab therapy, 
+neratinib reduces the risk of recurrence and, if taken within 1 year from 
+trastuzumab, significantly improves the invasive disease-free survival of 
+patients with early-stage human epidermal growth factor receptor-2 positive 
+(HER2+) breast cancer with no increased risk of long-term toxicity. Diarrhea, 
+the most common adverse event associated with neratinib use, deters some 
+clinicians from prescribing this drug. However, neratinib-related toxicity is 
+predictable, short-lived, mostly limited to the first month of treatment and can 
+be managed with dose-escalation and prophylactic strategies. Thus, close 
+surveillance and prompt management, relying on supportive care and 
+administration schedule modification, allows discontinuation of treatment to be 
+avoided.
+
+DOI: 10.2217/fon-2023-0361
+PMID: 37605877 [Indexed for MEDLINE]
