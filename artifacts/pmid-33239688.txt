@@ -1,0 +1,67 @@
+1. Sci Rep. 2020 Nov 25;10(1):20518. doi: 10.1038/s41598-020-77397-0.
+
+Towards integration of (64)Cu-DOTA-trastuzumab PET-CT and MRI with mathematical 
+modeling to predict response to neoadjuvant therapy in HER2 + breast cancer.
+
+Jarrett AM(1)(2), Hormuth DA(1)(2), Adhikarla V(3), Sahoo P(3), Abler D(3)(4), 
+Tumyan L(5), Schmolze D(6), Mortimer J(7), Rockne RC(8), Yankeelov 
+TE(9)(10)(11)(12)(13)(14).
+
+Author information:
+(1)Oden Institute for Computational Engineering and Sciences, The University of 
+Texas At Austin, Austin, TX, USA.
+(2)Livestrong Cancer Institutes, The University of Texas at Austin, Austin, TX, 
+USA.
+(3)Division of Mathematical Oncology, Department of Computational and 
+Quantitative Medicine, Beckman Research Institute, City of Hope National Medical 
+Center, 1500 E Duarte Rd, Bldg. 74, Duarte, CA, 91010, USA.
+(4)ARTORG Center for Biomedical Engineering Research, University of Bern, Bern, 
+Switzerland.
+(5)Department of Radiology, City of Hope National Medical Center, Duarte, CA, 
+USA.
+(6)Department of Pathology, City of Hope National Medical Center, Duarte, CA, 
+USA.
+(7)Department of Medical Oncology & Therapeutics Research, City of Hope National 
+Medical Center, Duarte, CA, USA.
+(8)Division of Mathematical Oncology, Department of Computational and 
+Quantitative Medicine, Beckman Research Institute, City of Hope National Medical 
+Center, 1500 E Duarte Rd, Bldg. 74, Duarte, CA, 91010, USA. rrockne@coh.org.
+(9)Oden Institute for Computational Engineering and Sciences, The University of 
+Texas At Austin, Austin, TX, USA. thomas.yankeelov@utexas.edu.
+(10)Livestrong Cancer Institutes, The University of Texas at Austin, Austin, TX, 
+USA. thomas.yankeelov@utexas.edu.
+(11)Department of Diagnostic Medicine, The University of Texas at Austin, 
+Austin, TX, USA. thomas.yankeelov@utexas.edu.
+(12)Department of Oncology, The University of Texas at Austin, Austin, TX, USA. 
+thomas.yankeelov@utexas.edu.
+(13)Department of Biomedical Engineering, The University of Texas at Austin, 107 
+W Dean Keeton Street Stop C0800, Austin, TX, 78712, USA. 
+thomas.yankeelov@utexas.edu.
+(14)Department of Imaging Physics, The University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA. thomas.yankeelov@utexas.edu.
+
+While targeted therapies exist for human epidermal growth factor receptor 2 
+positive (HER2 +) breast cancer, HER2 + patients do not always respond to 
+therapy. We present the results of utilizing a biophysical mathematical model to 
+predict tumor response for two HER2 + breast cancer patients treated with the 
+same therapeutic regimen but who achieved different treatment outcomes. 
+Quantitative data from magnetic resonance imaging (MRI) and 
+64Cu-DOTA-trastuzumab positron emission tomography (PET) are used to estimate 
+tumor density, perfusion, and distribution of HER2-targeted antibodies for each 
+individual patient. MRI and PET data are collected prior to therapy, and 
+follow-up MRI scans are acquired at a midpoint in therapy. Given these data 
+types, we align the data sets to a common image space to enable model 
+calibration. Once the model is parameterized with these data, we forecast 
+treatment response with and without HER2-targeted therapy. By incorporating 
+targeted therapy into the model, the resulting predictions are able to 
+distinguish between the two different patient responses, increasing the 
+difference in tumor volume change between the two patients by > 40%. This work 
+provides a proof-of-concept strategy for processing and integrating PET and MRI 
+modalities into a predictive, clinical-mathematical framework to provide 
+patient-specific predictions of HER2 + treatment response.
+
+DOI: 10.1038/s41598-020-77397-0
+PMCID: PMC7688955
+PMID: 33239688 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
