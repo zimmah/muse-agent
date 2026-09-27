@@ -1,0 +1,61 @@
+1. Breast Cancer. 2025 Sep;32(5):979-987. doi: 10.1007/s12282-025-01722-6. Epub 
+2025 May 24.
+
+Optimal patient population for adjuvant S-1 therapy in hormone 
+receptor-positive, HER2-negative early breast cancer.
+
+Isogai A(1), Terada M(2), Wanifuchi-Endo Y(1), Fujita T(1), Asano T(1), Mori 
+M(1), Nozawa K(1)(3), Matsumoto N(1), Niwa Y(1), Tanaka Y(1), Kato H(4), Komura 
+M(4), Toyama T(1).
+
+Author information:
+(1)Department of Breast Surgery, Nagoya City University Graduate School of 
+Medical Sciences, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya, Aichi, 467-8601, 
+Japan.
+(2)Department of Breast Surgery, Nagoya City University Graduate School of 
+Medical Sciences, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya, Aichi, 467-8601, 
+Japan. mitsuoterada9@gmail.com.
+(3)Department of Advanced Clinical Research and Development, Nagoya City 
+University Graduate School of Medical Sciences, 1 Kawasumi, Mizuho-cho, 
+Mizuho-ku, Nagoya, Aichi, 467-8601, Japan.
+(4)Department of Experimental Pathology and Tumor Biology, Nagoya City 
+University Graduate School of Medical Sciences, 1 Kawasumi, Mizuho-cho, 
+Mizuho-ku, Nagoya, Aichi, 467-8601, Japan.
+
+BACKGROUND: Patients with hormone receptor (HR)-positive and human epidermal 
+growth factor receptor 2 (HER2)-negative breast cancer remain at risk of 
+recurrence even beyond 5 years post-surgery. The monarchE and the POTENT trials 
+have demonstrated the efficacy of adding abemaciclib and S-1, respectively, to 
+adjuvant endocrine therapy for patients with intermediate to high-risk luminal 
+breast cancer. Given the broad eligibility criteria of the POTENT trial, this 
+study aimed to determine the optimal selection criteria for adjuvant S-1 therapy 
+in HR-positive/HER2-negative early breast cancer.
+METHODS: We analyzed the prognosis of POTENT-eligible patients with 
+HR-positive/HER2-negative early breast cancer who underwent surgery at our 
+institute from 1981 to 2023. Kaplan-Meier curves were established, and 
+differences were assessed using the log-rank test.
+RESULTS: The analysis included 2099 patients. Among lymph node-negative patients 
+eligible for the POTENT trial, those with grade 2 tumors < 3 cm demonstrated 
+significantly better disease-free survival (DFS) than those with tumors ≥ 3 cm, 
+while patients with grade 3 tumors < 2 cm demonstrated significantly improved 
+DFS compared with those with tumors ≥ 2 cm. Lymph node-negative patients with 
+"grade 2 & ≥ 2 cm, < 3 cm" and "grade 3 & < 2 cm" disease had significantly 
+better DFS compared with the "remaining POTENT eligible" patients (p = 0.009).
+CONCLUSIONS: The results of this study showed that the prognosis for lymph 
+node-negative early breast cancer patients classified as "grade 2 
+& ≥ 2 cm, < 3 cm" and "grade 3 & < 2 cm" was favorable. The benefit of adding 
+S-1 to endocrine therapy to these groups may be marginal.
+
+© 2025. The Author(s), under exclusive licence to The Japanese Breast Cancer 
+Society.
+
+DOI: 10.1007/s12282-025-01722-6
+PMID: 40413312 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare that they have no conflict of interest. Ethical approval: The study 
+protocol was approved by the Institutional Review Board of Nagoya City 
+University Hospital (permission number: 70-00-0166), and the study was conducted 
+in accordance with the Declaration of Helsinki. For this type of study, formal 
+consent is not required. This research adhered to institutional policies and 
+complied with the principles of the Helsinki Declaration.
