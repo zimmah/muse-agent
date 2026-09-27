@@ -1,0 +1,47 @@
+1. Cancer Radiother. 2021 Apr;25(2):126-134. doi: 10.1016/j.canrad.2020.06.028. 
+Epub 2021 Jan 9.
+
+In vitro effects of Trastuzumab Emtansine (T-DM1) and concurrent irradiation on 
+HER2-positive breast cancer cells.
+
+Mignot F(1), Kirova Y(2), Verrelle P(2), Teulade-Fichou MP(3), Megnin-Chanet 
+F(3).
+
+Author information:
+(1)Institut Curie, département de radiothérapie, 26, rue d'Ulm, 75005 Paris, 
+France. Electronic address: fabien.mignot86@gmail.com.
+(2)Institut Curie, département de radiothérapie, 26, rue d'Ulm, 75005 Paris, 
+France.
+(3)Institut Curie, Bât. 110-112, rue H. Becquerel, centre universitaire, 91405 
+Orsay, France; Université Paris-Saclay, centre universitaire, 91405 Orsay, 
+France; INSERM U1196/CNRS UMR9187, France.
+
+BACKGROUND: To determine the effects of concurrent irradiation and T-DM1 on 
+HER2-positive breast cancer cell lines.
+METHODS: Five human breast cancer cell lines (in vitro study) presenting various 
+levels of HER2 expression were used to determine the potential therapeutic 
+effect of T-DM1 combined with radiation. The toxicity of T-DM1 was assessed 
+using viability assay and cell cycle analysis was performed by flow cytometry 
+after BrdU incorporation. HER2 cells were irradiated at different dose levels 
+after exposure to T-DM1. Survival curves were determined by cell survival assays 
+(after 5 population doubling times).
+RESULTS: The results revealed that T-DM1 induced significant lethality due to 
+the intracellular action of DM1 on the cell cycle with significant G2/M phase 
+blocking. Even after a short time incubation, the potency of T-DM1 was 
+maintained and even enhanced over time, with a higher rate of cell death. After 
+irradiation alone, the D10 (dose required to achieve 10% cell survival) was 
+significantly higher for high HER2-expressing cell lines than for low 
+HER2-expressing cells, with a linearly increasing relationship. In combination 
+with irradiation, using conditions that allow cell survival, T-DM1 does not 
+induce a radiosensitivity.
+CONCLUSIONS: Although there is a linear correlation between intrinsic HER2 
+expression and radioresistance, the results indicated that T-DM1 is not a 
+radiation-sensitizer under the experimental conditions of this study that 
+allowed cell survival. However, further investigations are needed, in particular 
+in vivo studies before reaching a final conclusion.
+
+Copyright © 2020 Société française de radiothérapie oncologique (SFRO). 
+Published by Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.canrad.2020.06.028
+PMID: 33431297 [Indexed for MEDLINE]
