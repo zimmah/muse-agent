@@ -1,0 +1,49 @@
+1. Ann Ital Chir. 2024;95(6):1240-1248. doi: 10.62713/aic.3403.
+
+Clinicopathologic Characteristics of Breast Cancer Patients Who Had a Pathologic 
+Complete Response after Neoadjuvant Treatment.
+
+Karahan F(1), Yılmaz Bozok Y(2), Gökova M(2), Gürsoy Bulut M(3), Bolat 
+Küçükzeybek B(4), Atahan MK(2).
+
+Author information:
+(1)Department of General Surgery, Erciş Sehit Rıdvan Cevik State Hospital, 65400 
+Van, Türkiye.
+(2)Department of General Surgery, Izmir Katip Celebi University, Atatürk 
+Education and Research Hospital, 35620 Izmir, Turkey.
+(3)Department of Radiology, Izmir Katip Celebi University, Atatürk Education and 
+Research Hospital, 35620 Izmir, Turkey.
+(4)Department of Pathology, Izmir Katip Celebi University, Atatürk Education and 
+Research Hospital, 35620 Izmir, Turkey.
+
+AIM: Breast cancer is the most common cancer in women and is a leading cause of 
+cancer-related mortality. The role of neoadjuvant therapy (NAT) in conjunction 
+with surgical intervention is becoming increasingly prominent in the field of 
+oncology. NAT enhance the probability of breast-conserving surgery in cases of 
+locally advanced breast cancer and in patients with metastatic or inoperable 
+disease.
+METHODS: The study included patients who underwent surgery following neoadjuvant 
+chemotherapy for breast cancer between 2012 and 2022. Their files were 
+retrospectively analyzed. The following parameters were examined and 
+statistically analyzed for patients with and without pathological complete 
+response: age, gender, tumor size, location, stage, pathological type, grade, 
+hormone receptor status, molecular type, and the type of surgery performed.
+RESULTS: The study cohort comprised 329 patients who received NAT for breast 
+cancer. Of the patients included in the study, 243 underwent mastectomy and 86 
+underwent breast-conserving surgery. A postoperative histopathologic examination 
+revealed pathologic complete response (pCR) in 89 patients. The results of the 
+statistical analysis indicated that certain parameters, including high grade, 
+negative hormone receptor status, human epidermal growth factor receptor 2 
+(HER2) positivity, Ki-67 ≥30, and early tumor stage, were associated with higher 
+rates of pCR following NAT.
+CONCLUSIONS: The biomarkers identified in this study, including hormone receptor 
+negativity, anatomical Tumour, Node, Metastasis (TNM) Stages 1-2 tumors, 
+positive HER2 amplification, Ki-67 proliferation ≥30%, luminal B/HER2 (+) and 
+HER2 (+) molecular subtypes, are crucial in predicting the likelihood of a 
+complete response to NAT in breast cancer. The presence of these 
+clinicopathologic biomarkers facilitates the process of therapeutic 
+decision-making by identifying patients who are likely to achieve a complete 
+response.
+
+DOI: 10.62713/aic.3403
+PMID: 39723525 [Indexed for MEDLINE]
