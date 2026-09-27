@@ -1,0 +1,41 @@
+1. Am J Case Rep. 2024 Sep 19;25:e943936. doi: 10.12659/AJCR.943936.
+
+Pathological Complete Response with Neoadjuvant Trastuzumab, Pertuzumab, and 
+Chemotherapy Followed by Modified Radical Mastectomy in a Patient with 
+HER2-Positive Occult Breast Cancer.
+
+Chen C(1), Zhu J(1), Zhang C(1), Wang L(1), Li Y(1), Du M(1).
+
+Author information:
+(1)Department of Oncological Surgery, The First Affiliated Hospital of Bengbu 
+Medical College, Bengbu, Anhui, China.
+
+BACKGROUND Occult breast cancer (OBC) is diagnosed when regional or distant 
+metastases are found without evidence of a primary tumor. The low overall 
+incidence is a great challenge for the management strategy of OBC. Aggressive 
+diagnosis and personalized treatment are feasible treatment strategies for OBC. 
+We report the case of an OBC patient who achieved pathological complete response 
+(pCR) after neoadjuvant chemotherapy. CASE REPORT A 43-year-old woman was 
+admitted to the hospital 6 months after detecting a lump in her left axilla, 
+about the size of a quail egg, but not red or swollen, and the lump gradually 
+grew. Mammography, ultrasound, and magnetic resonance imaging showed a visible 
+left axilla lesion but no nodules in bilateral breasts. A core-needle biopsy of 
+the axilla lesion revealed an invasive carcinoma of breast origin. The tumor 
+cells were estrogen receptors (ER)-negative, progesterone receptor 
+(PR)-negative, and HER2-positive (3+) by immunohistochemistry. The patient was 
+finally diagnosed with HER2-positive, hormone receptor-negative occult breast 
+cancer of the left breast, cT0N2M0, stage IIIA. The TCbHP regimen (docetaxel, 
+carboplatin, trastuzumab, and pertuzumab) as neoadjuvant chemotherapy was given. 
+She underwent a modified radical mastectomy, showing a pCR. Subsequent 
+radiotherapy and HER2-targeted therapy were administrated. CONCLUSIONS This case 
+highlights that even aggressive HER2-positive breast cancer can present as an 
+occult primary tumor. Our clinical experience suggests that neoadjuvant 
+chemotherapy followed by modified radical mastectomy can be effective for 
+treating such rare cases. The patient achieved pCR, which can provide a 
+therapeutic strategy for effective treatment of similar OBCs.
+
+DOI: 10.12659/AJCR.943936
+PMCID: PMC11421188
+PMID: 39295126 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared
