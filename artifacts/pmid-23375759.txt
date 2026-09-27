@@ -1,0 +1,40 @@
+1. Am J Surg. 2013 Jul;206(1):2-7. doi: 10.1016/j.amjsurg.2012.10.025. Epub 2013 
+Jan 31.
+
+The response to neoadjuvant chemotherapy predicts clinical outcome and increases 
+breast conservation in advanced breast cancer.
+
+Spanheimer PM(1), Carr JC, Thomas A, Sugg SL, Scott-Conner CE, Liao J, Weigel 
+RJ.
+
+Author information:
+(1)Department of Surgery, University of Iowa Carver College of Medicine, 200 
+Hawkins Drive, 1516 JCP, Iowa City, IA 52242-1086, USA.
+
+BACKGROUND: The aim of this study was to determine outcomes in patients with 
+breast cancer treated with neoadjuvant chemotherapy.
+METHODS: Seventy-two consecutive patients receiving neoadjuvant chemotherapy for 
+breast cancer were enrolled.
+RESULTS: Mastectomy was avoided in 46% of patients, and 42% converted to 
+negative nodes after neoadjuvant chemotherapy. Thirteen patients (18%) achieved 
+a pathologic complete response, which was associated with the estrogen receptor 
+(ER)-negative/human epidermal growth factor receptor 2 (Her2)-negative subtype 
+(58%) and was significantly less likely to occur in the ER+/Her2- subtype (2%) 
+(P < .01). Patients with the ER+/Her2+ subtype were most likely to have no 
+response or progression during chemotherapy, compared with those with the 
+ER-/Her2- subtype (50% vs 0%, P = .01). Five-year survival for patients 
+achieving a pathologic complete response was 100%, compared with 74% in the 
+group with partial response and 48% in the group with no response or progression 
+(P = .01).
+CONCLUSIONS: Neoadjuvant chemotherapy for patients with advanced breast cancer 
+provided prognostic information, allowed evaluation of response to chemotherapy, 
+decreased the mastectomy rate, and potentially reduced the need for axillary 
+lymph node dissection.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjsurg.2012.10.025
+PMCID: PMC3644520
+PMID: 23375759 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
