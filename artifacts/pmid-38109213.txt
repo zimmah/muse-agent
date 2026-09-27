@@ -1,0 +1,79 @@
+1. Clin Cancer Res. 2024 Feb 16;30(4):729-740. doi:
+10.1158/1078-0432.CCR-22-2256.
+
+Neoadjuvant Trebananib plus Paclitaxel-based Chemotherapy for Stage II/III 
+Breast Cancer in the Adaptively Randomized I-SPY2 Trial-Efficacy and Biomarker 
+Discovery.
+
+Albain KS(1), Yau C(2), Petricoin EF(3), Wolf DM(2), Lang JE(4), Chien AJ(2), 
+Haddad T(5), Forero-Torres A(6), Wallace AM(7), Kaplan H(8), Pusztai L(9), Euhus 
+D(10), Nanda R(11), Elias AD(12), Clark AS(13), Godellas C(1), Boughey JC(5), 
+Isaacs C(14), Tripathy D(15), Lu J(16), Yung RL(17), Gallagher RI(3), Wulfkuhle 
+JD(3), Brown-Swigart L(2), Krings G(2), Chen YY(2), Potter DA(18), 
+Stringer-Reasor E(6), Blair S(7), Asare SM(19), Wilson A(19), Hirst GL(2), 
+Singhrao R(2), Buxton M(2), Clennell JL(2), Sanil A(20), Berry S(20), Asare 
+AL(19), Matthews JB(2), DeMichele AM(13), Hylton NM(2), Melisko M(2), Perlmutter 
+J(21), Rugo HS(2), Symmans WF(15), Van't Veer LJ(2), Yee D(18), Berry DA(20), 
+Esserman LJ(2).
+
+Author information:
+(1)Loyola University Chicago Stritch School of Medicine, Maywood, Illinois.
+(2)University of California San Francisco, San Francisco, California.
+(3)George Mason University, Fairfax, Virginia.
+(4)Cleveland Clinic, Cleveland, Ohio.
+(5)Mayo Clinic Rochester, Rochester, Minnesota.
+(6)University of Alabama at Birmingham, Birmingham, Alabama.
+(7)University of California San Diego, La Jolla, California.
+(8)Swedish Cancer Institute, Seattle, Washington.
+(9)Yale University, New Haven, Connecticut.
+(10)Johns Hopkins University, Baltimore, Maryland.
+(11)University of Chicago, Chicago, Illinois.
+(12)University of Colorado Denver, Aurora, Colorado.
+(13)University of Pennsylvania, Philadelphia, Pennsylvania.
+(14)Georgetown University, Washington, District of Columbia.
+(15)University of Texas MD Anderson Cancer Center, Houston, Texas.
+(16)University of Southern California, Los Angeles, California.
+(17)University of Washington, Seattle, Washington.
+(18)University of Minnesota, Minneapolis, Minnesota.
+(19)Quantum Leap Healthcare Collaborative, San Francisco, California.
+(20)Berry Consultants, LLC, Houston, Texas.
+(21)Gemini Group, Ann Arbor, Michigan.
+
+PURPOSE: The neutralizing peptibody trebananib prevents angiopoietin-1 and 
+angiopoietin-2 from binding with Tie2 receptors, inhibiting angiogenesis and 
+proliferation. Trebananib was combined with paclitaxel±trastuzumab in the I-SPY2 
+breast cancer trial.
+PATIENTS AND METHODS: I-SPY2, a phase II neoadjuvant trial, adaptively 
+randomizes patients with high-risk, early-stage breast cancer to one of several 
+experimental therapies or control based on receptor subtypes as defined by 
+hormone receptor (HR) and HER2 status and MammaPrint risk (MP1, MP2). The 
+primary endpoint is pathologic complete response (pCR). A therapy "graduates" 
+if/when it achieves 85% Bayesian probability of success in a phase III trial 
+within a given subtype. Patients received weekly paclitaxel (plus trastuzumab if 
+HER2-positive) without (control) or with weekly intravenous trebananib, followed 
+by doxorubicin/cyclophosphamide and surgery. Pathway-specific biomarkers were 
+assessed for response prediction.
+RESULTS: There were 134 participants randomized to trebananib and 133 to 
+control. Although trebananib did not graduate in any signature [phase III 
+probabilities: Hazard ratio (HR)-negative (78%), HR-negative/HER2-positive 
+(74%), HR-negative/HER2-negative (77%), and MP2 (79%)], it demonstrated high 
+probability of superior pCR rates over control (92%-99%) among these subtypes. 
+Trebananib improved 3-year event-free survival (HR 0.67), with no significant 
+increase in adverse events. Activation levels of the Tie2 receptor and 
+downstream signaling partners predicted trebananib response in HER2-positive 
+disease; high expression of a CD8 T-cell gene signature predicted response in 
+HR-negative/HER2-negative disease.
+CONCLUSIONS: The angiopoietin (Ang)/Tie2 axis inhibitor trebananib combined with 
+standard neoadjuvant therapy increased estimated pCR rates across HR-negative 
+and MP2 subtypes, with probabilities of superiority >90%. Further study of 
+Ang/Tie2 receptor axis inhibitors in validated, biomarker-predicted sensitive 
+subtypes is warranted.
+
+©2023 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-22-2256
+PMCID: PMC10956403
+PMID: 38109213 [Indexed for MEDLINE]
+
+Conflict of interest statement: All other authors declare no competing 
+interests.
