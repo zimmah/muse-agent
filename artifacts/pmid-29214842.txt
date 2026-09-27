@@ -1,0 +1,24 @@
+1. Future Oncol. 2018 Mar;14(7):589-602. doi: 10.2217/fon-2017-0477. Epub 2017
+Dec  7.
+
+Trastuzumab emtansine: determining its role in management of HER2+ breast 
+cancer.
+
+Doroshow DB(1), LoRusso PM(1).
+
+Author information:
+(1)Yale Cancer Center, PO Box 208028, New Haven, CT 06510, USA.
+
+Trastuzumab emtansine is an antibody-drug conjugate comprised of the anti-HER2 
+monoclonal antibody trastuzumab linked to DM1 (emtansine), a potent cytotoxic 
+maytansinoid derivative, by a stable linker. This structure results in improved 
+tumor-directed cytotoxicity in HER2+ breast cancer with reduced systemic 
+toxicities, particularly the cardiac toxicities associated with single agent 
+trastuzumab. Phase III trials have demonstrated improved progression-free and 
+overall survival in heavily pretreated patients with advanced HER2+ breast 
+cancer, with an acceptable toxicity profile. However, its role in first-line 
+treatment is less clear. Ongoing studies continue to evaluate its role in 
+neoadjuvant and adjuvant management of HER2+ breast cancer.
+
+DOI: 10.2217/fon-2017-0477
+PMID: 29214842 [Indexed for MEDLINE]
