@@ -1,0 +1,77 @@
+1. BMC Cancer. 2017 Dec 28;17(1):895. doi: 10.1186/s12885-017-3897-x.
+
+Invasive micropapillary carcinoma of the breast overexpresses MUC4 and is 
+associated with poor outcome to adjuvant trastuzumab in HER2-positive breast 
+cancer.
+
+Mercogliano MF(1), Inurrigarro G(2), De Martino M(1), Venturutti L(1), Rivas 
+MA(3), Cordo-Russo R(1), Proietti CJ(1), Fernández EA(4), Frahm I(2), Barchuk 
+S(5), Allemand DH(5), Figurelli S(6), Deza EG(7), Ares S(7), Gercovich FG(7), 
+Cortese E(8), Amasino M(1), Guzmán P(9), Roa JC(9), Elizalde PV(1), Schillaci 
+R(10).
+
+Author information:
+(1)Instituto de Biología y Medicina Experimental (IBYME-CONICET), Vuelta de 
+Obligado 2490, C1428ADN, Buenos Aires, Argentina.
+(2)Servicio de Patología, Sanatorio Mater Dei, C1425DND, Buenos Aires, 
+Argentina.
+(3)Department of Medicine, Weill Cornell Medicine, New York, NY, 10021, USA.
+(4)UA AREA CS. AGR.ING.BIO.Y S, Universidad Católica de Córdoba, CONICET, 
+Facultad de Ingeniería, Campus Universitario, X5016DHK, Córdoba, Argentina.
+(5)Unidad de Patología Mamaria, Hospital General de Agudos "Juan A. Fernández", 
+C1425DND, Buenos Aires, Argentina.
+(6)Servicio de Anatomía Patológica, Hospital General de Agudos "Juan A. 
+Fernández", C1425DND, Buenos Aires, Argentina.
+(7)Instituto Oncológico Henry Moore, C1425DND, Buenos Aires, Argentina.
+(8)Hospital Aeronáutico Central, C1437HPA, Buenos Aires, Argentina.
+(9)Departamento de Anatomía Patológica (BIOREN), Universidad de La Frontera, 
+4811230, Temuco, Chile.
+(10)Instituto de Biología y Medicina Experimental (IBYME-CONICET), Vuelta de 
+Obligado 2490, C1428ADN, Buenos Aires, Argentina. 
+rschillaci@ibyme.conicet.gov.ar.
+
+BACKGROUND: Invasive micropapillary carcinoma of the breast (IMPC) is a 
+histological tumor variant that occurs with low frequency characterized by an 
+inside-out formation of tumor clusters with a pseudopapillary arrangement. IMPC 
+is an aggressive tumor with poor clinical outcome. In addition, this 
+histological subtype usually expresses human epidermal growth factor receptor 2 
+(HER2) which also correlates with a more aggressive tumor. In this work we 
+studied the clinical significance of IMPC in HER2-positive breast cancer 
+patients treated with adjuvant trastuzumab. We also analyzed mucin 4 (MUC4) 
+expression as a novel biomarker to identify IMPC.
+METHODS: We retrospectively studied 86 HER2-positive breast cancer patients 
+treated with trastuzumab and chemotherapy in the adjuvant setting. We explored 
+the association of the IMPC component with clinicopathological parameters at 
+diagnosis and its prognostic value. We compared MUC4 expression in IMPC with 
+respect to other histological breast cancer subtypes by immunohistochemistry.
+RESULTS: IMPC, either as a pure entity or associated with invasive ductal 
+carcinoma (IDC), was present in 18.6% of HER2-positive cases. It was positively 
+correlated with estrogen receptor expression and tumor size and inversely 
+correlated with patient's age. Disease-free survival was significantly lower in 
+patients with IMPC (hazard ratio = 2.6; 95%, confidence interval 1.1-6.1, 
+P = 0.0340). MUC4, a glycoprotein associated with metastasis, was strongly 
+expressed in all IMPC cases tested. IMPC appeared as the histological breast 
+cancer subtype with the highest MUC4 expression compared to IDC, lobular and 
+mucinous carcinoma.
+CONCLUSION: In HER2-positive breast cancer, the presence of IMPC should be 
+carefully examined. As it is often not informed, because it is relatively 
+difficult to identify or altogether overlooked, we propose MUC4 expression as a 
+useful biomarker to highlight IMPC presence. Patients with MUC4-positive tumors 
+with IMPC component should be more frequently monitored and/or receive 
+additional therapies.
+
+DOI: 10.1186/s12885-017-3897-x
+PMCID: PMC5745882
+PMID: 29281999 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+study protocol was approved by the Ethic Committees of the participating 
+institutions (namely “Comite de Evaluación Ética Científica Servicio de Salud 
+Araucania Sur” from Hospital Temuco, “Comité de Ética” protocol # 201216 from 
+Hospital General de Agudos Juan A. Fernández, and “Comité de Docencia e 
+Investigación” from Instituto de Oncología Henry Moore) and was conducted 
+according to laws and regulations in force at the time. All study participants 
+signed a written informed consent. CONSENT FOR PUBLICATION: Not applicable. 
+COMPETING INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
