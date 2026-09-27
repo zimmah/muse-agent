@@ -1,0 +1,49 @@
+1. Cancer Med. 2023 May;12(10):11293-11304. doi: 10.1002/cam4.5839. Epub 2023 Mar
+ 23.
+
+Impact of residual disease biomarkers on the prognosis of HER2-positive breast 
+cancer following neoadjuvant therapy.
+
+Ma Y(1), Zhu M(1), Lv M(1), Yuan P(1), Chen X(1), Liu Z(1).
+
+Author information:
+(1)Department of Breast Disease, Henan Breast Cancer Center, The Affiliated 
+Cancer Hospital of Zhengzhou University & Henan Cancer Hospital, No.127, 
+Dongming Road, Zhengzhou, 450008, China.
+
+BACKGROUND: The changes in prognostic factors and clinicopathological 
+characteristics of residual disease following neoadjuvant therapy (NAT) for 
+breast cancer are important references for postoperative adjuvant therapy. The 
+analyses of the relationship between the clinicopathological characteristics of 
+residual diseases and the prognosis were not comprehensive in most previous 
+studies. This study aimed to determine how prognostic factors changed following 
+NAT and the impact of clinicopathological characteristics of residual disease on 
+the prognosis of human epidermal growth factor receptor 2 (HER2)-positive breast 
+cancer.
+METHODS: The study comprised 350 consecutive patients with HER2-positive breast 
+cancer who had residual disease after surgery following NAT. The independent 
+risk factors affecting the prognosis of HER2-positive breast cancer were 
+analyzed using univariate and multivariate Cox regression analyses. Chi-square 
+test and binary logistic regression were used to analyze the influencing factors 
+of HER2 loss following NAT.
+RESULTS: The expression of prognostic factors changed significantly following 
+NAT. A total of 44 patients (12.6%) had HER2 loss. HER2 status 
+(immunohistochemistry (IHC) 3+ vs. IHC 2+/FISH+, p < 0.001) at baseline was 
+associated with HER2 loss. In this investigation, the HER2 loss did not affect 
+the prognosis. In univariate analysis, the decrease in Ki-67 (p < 0.001) after 
+NAT was associated with improved prognosis, but this influence was lost in the 
+Cox proportional hazards model. The ypN stage (p < 0.001), postoperative ER 
+status (p = 0.020), Miller-Payne grade (p = 0.007), and targeted therapy 
+(p = 0.003) were all independent prognostic factors.
+CONCLUSIONS: ER, PR, HER2, and Ki-67 changed significantly after NAT, but no 
+impact of these changes on DFS was observed in this study. Postoperative N 
+stage, postoperative ER status, MP grade, and targeted therapy were independent 
+prognostic factors in patients with HER2-positive breast cancer after NAT.
+
+© 2023 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.5839
+PMCID: PMC10242303
+PMID: 36951436 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential competing interests are disclosed.
