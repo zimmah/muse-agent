@@ -1,0 +1,29 @@
+1. Nan Fang Yi Ke Da Xue Xue Bao. 2009 May;29(5):943-5.
+
+[A meta-analysis of neoadjuvant chemotherapy combined with trastuzumab for 
+HER2-positive breast cancers].
+
+[Article in Chinese]
+
+Liao N(1), Zhang GC, Li XR, Yao M, Wang K.
+
+Author information:
+(1)Department of Breast Cancer, Cancer Center, Guangdong General Hospital, 
+Guangzhou 510080, China. drliao_ning@hotmail.com
+
+OBJECTIVE: To evaluate the efficacy and safety of neoadjuvant chemotherapy 
+combined with trastuzumab for HER2 positive breast cancers.
+METHODS: PubMed online database, ASCO abstract database, SABCS abstract 
+database, ESMO abstract database and CBMdisc database were searched for 
+literatures related to trastuzumab in neoadjuvant chemotherapy for breast 
+cancers. A meta-analysis was performed for retrieved literatures meeting the 
+inclusion criteria.
+RESULTS: Three clinical trials were included. Meta-analysis showed that compared 
+to chemotherapy only, regimens combined with trastuzumab could significantly 
+improved the pCR rate of HER2-positive breast cancers (RR=1.65, 95% CI 
+1.28-2.13, P<0.0001) without increasing the frequencies of cardiac toxicity 
+(RR=1.16, 95% CI 0.82-1.64, P=0.41).
+CONCLUSION: In neoadjuvant chemotherapy for HER2-positive breast cancers, 
+chemotherapy combined with trastuzumab is superior to exclusive chemotherapy.
+
+PMID: 19460715 [Indexed for MEDLINE]
