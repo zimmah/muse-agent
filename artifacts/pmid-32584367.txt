@@ -1,0 +1,122 @@
+1. JAMA Oncol. 2020 Aug 1;6(8):1203-1209. doi: 10.1001/jamaoncol.2020.1796.
+
+Efficacy and Safety of Trastuzumab Emtansine Plus Capecitabine vs Trastuzumab 
+Emtansine Alone in Patients With Previously Treated ERBB2 (HER2)-Positive 
+Metastatic Breast Cancer: A Phase 1 and Randomized Phase 2 Trial.
+
+Cortés J(1)(2)(3), Diéras V(4)(5), Lorenzen S(6), Montemurro F(7), 
+Riera-Knorrenschild J(8), Thuss-Patience P(9), Allegrini G(10), De Laurentiis 
+M(11), Lohrisch C(12), Oravcová E(13), Perez-Garcia JM(2), Ricci F(5), Sakaeva 
+D(14), Serpanchy R(12), Šufliarský J(13)(15), Vidal M(3)(16), Irahara N(17), 
+Wohlfarth C(17), Aout M(17)(18), Gelmon K(12)(19).
+
+Author information:
+(1)Quirónsalud Group, IOB Institute of Oncology, Madrid, Spain.
+(2)Quirónsalud Group, IOB Institute of Oncology, Barcelona, Spain.
+(3)Vall d'Hebron Institute of Oncology, Barcelona, Spain.
+(4)Centre Eugène Marquis, Rennes, France.
+(5)Institut Curie, Paris, France.
+(6)Hematology/Medical Oncology, 3rd Department of Internal Medicine, Klinikum 
+rechts der Isar, Technische Universität München, Munich, Germany.
+(7)Multidisciplinary Oncology Outpatient Clinic, Candiolo Cancer Institute, 
+FPO-IRCCS, Candiolo, Italy.
+(8)Klinik für Hämatologie, Onkologie und Immunologie, Universitätsklinikum 
+Gießen und Marburg, Standort Marburg, Philipps-Universität Marburg, 
+Baldingerstraße, Marburg, Germany.
+(9)Department of Haematology, Oncology and Tumorimmunology, Campus 
+Virchow-Klinikum, Charité-University Medicine Berlin, Berlin, Germany.
+(10)Division of Medical Oncology, Department of Oncology, Pontedera Hospital, 
+Azienda L Toscana Nord Ovest, Pisa, Italy.
+(11)Division of Breast Medical Oncology, Istituto Nazionale Tumori IRCCS 
+"Fondazione G. Pascale", Napoli, Italy.
+(12)BC Cancer, Vancouver Cancer Centre, Vancouver, British Columbia, Canada.
+(13)2nd Department of Oncology, Faculty of Medicine, Comenius University, 
+Bratislava, Slovak Republic.
+(14)Department of Chemotherapy, Republican Clinical Oncology Center, Ufa, 
+Russia.
+(15)National Cancer Institute, Bratislava, Slovak Republic.
+(16)Translational Genomics and Targeted Therapeutics in Solid Tumors Group, 
+IDIBAPS, Barcelona, Spain.
+(17)F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+(18)Now with Novartis, Basel, Switzerland.
+(19)University of British Columbia, Vancouver, British Columbia, Canada.
+
+IMPORTANCE: ERBB2 (HER2)-targeted therapy provides benefits in metastatic breast 
+cancer (mBC) and gastric cancer, but additional treatments are needed to 
+maximize efficacy and quality of life.
+OBJECTIVE: To determine maximum tolerated doses (MTDs) of trastuzumab emtansine 
+(T-DM1) plus capecitabine in patients with previously treated ERBB2-positive mBC 
+and locally advanced/metastatic gastric cancer (LA/mGC) (phase 1) and the 
+efficacy and safety of this combination vs T-DM1 alone in patients with mBC 
+(phase 2).
+DESIGN, SETTING, AND PARTICIPANTS: The MTD in phase 1 was assessed using a 3 + 3 
+design with capecitabine dose modification. Phase 2 was an open-label, 
+randomized, international multicenter study of patients with mBC treated with 
+T-DM1 plus capecitabine or T-DM1 alone. Eligible patients had previously treated 
+ERBB2-positive mBC or LA/mGC with no prior chemotherapy treatment for advanced 
+disease.
+INTERVENTIONS: Patients in the phase 1 mBC cohort received capecitabine (750 
+mg/m2, 700 mg/m2, or 650 mg/m2 twice daily, days 1-14 of a 3-week cycle) plus 
+T-DM1 3.6 mg/kg every 3 weeks. Patients with LA/mGC received capecitabine at the 
+mBC phase 1 MTD, de-escalating as needed, plus T-DM1 2.4 mg/kg weekly. In phase 
+2, patients with mBC were randomized (1:1) to receive capecitabine (at the phase 
+1 MTD) plus T-DM1 or T-DM1 alone.
+MAIN OUTCOMES AND MEASURES: The phase 1 primary objective was to identify the 
+MTD of capecitabine plus T-DM1. The phase 2 primary outcome was 
+investigator-assessed overall response rate (ORR).
+RESULTS: In phase 1, the median (range) age was 54.0 (37-71) and 57.5 (53-70) 
+years for patients with mBC and patients with LA/mGC, respectively. The 
+capecitabine MTD was identified as 700 mg/m2 in 11 patients with mBC and 6 
+patients with LA/mGC evaluable for dose-limiting toxic effects. In phase 2, 
+between October 2014 and April 2016, patients with mBC (median [range] age, 52.0 
+[28-80] years) were randomized to receive combination therapy (n = 81) or T-DM1 
+(n = 80). The ORR was 44% (36 of 81 patients) and 36% (29 of 80 patients) in the 
+combination and T-DM1 groups, respectively (difference, 8.2%; 90% CI, -4.5 to 
+20.9; P = .34; clinical cutoff, May 31, 2017). Adverse events (AEs) were 
+reported in 78 of 82 patients (95%) in the combination group, with 36 (44%) 
+experiencing grade 3-4 AEs, and 69 of 78 patients (88%) in the T-DM1 group, with 
+32 (41%) experiencing grade 3-4 AEs. No grade 5 AEs were reported.
+CONCLUSIONS AND RELEVANCE: Adding capecitabine to T-DM1 did not statistically 
+increase ORR associated with T-DM1 in patients with previously treated 
+ERBB2-positive mBC. The combination group reported more AEs, but with no 
+unexpected toxic effects.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT01702558.
+
+DOI: 10.1001/jamaoncol.2020.1796
+PMCID: PMC7317656
+PMID: 32584367 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Cortés 
+reported receiving personal fees and institutional research funding from 
+AstraZeneca, Baxalta GMBH/Servier, Eisai, Merck Sharp & Dohme, and Roche; 
+receiving personal fees from Celgene, Cellestia, Biothera, Merus, Seattle 
+Genetics, Daiichi Sankyo, Erytech, Athenex, Novartis, Pfizer, Samsung, Polyphor, 
+Eli Lilly and Company, GlaxoSmithKline, Leuko, Bioasis, and Clovis Oncology; 
+receiving institutional research funding from Ariad Pharmaceuticals, Bayer 
+Healthcare, Guardant Health, Piqur Therapeutics, Puma Biotechnology, and Queen 
+Mary University of London; and having stock, patents, and intellectual property 
+with MedSIR outside the submitted work. Dr Diéras reported receiving grants from 
+Roche Genentech during the conduct of the study and receiving personal fees from 
+Roche Genentech, Novartis, Eli Lilly and Company, Pfizer, AstraZeneca, AbbVie, 
+and Merck Sharp & Dohme outside the submitted work. Dr Montemurro reported 
+receiving personal fees from Roche, Novartis, AstraZeneca, Eli Lilly and 
+Company, and Pfizer during the conduct of the study. Dr Thuss-Patience reported 
+receiving personal fees from Lilly, Roche, Bristol-Myers Squibb, Merck Sharp & 
+Dohme, and Merck outside the submitted work. Dr De Laurentiis reported receiving 
+grants from Roche during the conduct of the study and receiving personal fees 
+from Roche, Novartis, Pfizer, Eli Lilly and Company, Amgen, Merck Sharp & Dohme, 
+Puma Biotech, Pierre Fabre, and AstraZeneca outside the submitted work. Dr 
+Perez-Garcia reported serving in an advisory role for Roche and Eli Lilly and 
+Company and receiving travel fees from Roche. Dr Šufliarský reported receiving 
+personal fees from Roche during the conduct of the study and receiving personal 
+fees from Pfizer, Novartis, and Swedish Orphan Biovitrum outside the submitted 
+work. Dr Vidal reported receiving travel fees from Pfizer and advisory fees from 
+Novartis and Roche outside the submitted work. Drs Irahara and Wohlfarth 
+reported being employees of F. Hoffmann-La Roche during the conduct of the 
+study. Dr Aout reported being an employee of F. Hoffmann-La Roche Ltd, Basel, 
+Switzerland, until January 14, 2019, and being currently affiliated with 
+Novartis, Basel, Switzerland. Dr Gelmon reported receiving grants and personal 
+fees from Pfizer and AstraZeneca and receiving personal fees from Lilly, 
+Novartis, Merck, Mylan, Roche, Genentech, Nanostring, Genomic Health, and 
+Bristol-Myers Squibb outside the submitted work. No other disclosures were 
+reported.
