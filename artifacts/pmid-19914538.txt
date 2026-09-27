@@ -1,0 +1,37 @@
+1. Breast. 2009 Oct;18 Suppl 3:S25-30. doi: 10.1016/S0960-9776(09)70268-1.
+
+Aiming at the target: improved adjuvant medical therapy.
+
+Bedard PL(1), Dinh P, Sotiriou C, Piccart-Gebhart MJ.
+
+Author information:
+(1)Department of Medical Oncology, Jules Bordet Institute, Rue Heger-Bordet 1, 
+Brussels, Belgium.
+
+The 2007 St. Gallen Expert Panel recognized the existence of molecular tools for 
+risk stratification, but recommended the use of high-quality standard 
+pathological testing alone for risk allocation and treatment selection. Over the 
+last two years, much has been learned about these novel molecular tools: they 
+demonstrate similar prognostic power; their performance appears to be driven by 
+improved quantification of cellular proliferation; tumour burden remains an 
+important determinant of long-term outcome; and their prediction of 
+responsiveness to systemic therapy is suboptimal. In the meantime, great effort 
+has continued to be invested in evaluating individual predictive markers to 
+guide treatment selection. A number of putative targets that showed early 
+promise--such as HER-2 and TOP2A gene amplification for anthracyclines, Myc 
+amplification for trastuzumab, and Tau expression for taxanes--have yielded 
+disappointing results when subjected to subsequent validation. These failings 
+underscore the difficulty of accurate, reproducible target measurement and the 
+inherent complexity of early breast cancer which is unlikely to be captured by a 
+single gene or protein alteration. Future progress in adjuvant treatment 
+tailoring will require a fundamental shift towards multi-dimensional 
+thinking--with the development of multi-parameter assays that integrate tumour 
+biology, disease burden, and host-related factors. The traditional model of post 
+hoc predictive marker validation appears unlikely to produce tangible gains in 
+the era of targeted systemic therapy. It is hoped that coupling prospective 
+biomarker discovery with new drug development in earlier stages of disease will 
+yield additional targets that can be used to guide clinical decision-making in 
+the future.
+
+DOI: 10.1016/S0960-9776(09)70268-1
+PMID: 19914538 [Indexed for MEDLINE]
