@@ -1,0 +1,62 @@
+1. Clin Breast Cancer. 2024 Jul;24(5):463-472.e2. doi:
+10.1016/j.clbc.2024.04.006.  Epub 2024 Apr 14.
+
+Real-World Data on Pathological Response and Survival Outcomes After Neoadjuvant 
+Chemotherapy in HER2-Low Breast Cancer Patients.
+
+Guan D(1), Shi Q(2), Zheng Y(3), Zheng C(4), Meng X(5).
+
+Author information:
+(1)Suzhou Medical College of Soochow University, Soochow, China; General 
+Surgery, Cancer Center, Department of Breast Surgery, Zhejiang Provincial 
+People's Hospital (Affiliated People's Hospital), Hangzhou Medical College, 
+Hangzhou, Zhejiang, China; Key Laboratory for diagnosis and treatment of upper 
+limb edema and stasis of breast cancer, Hangzhou, Zhejiang, China.
+(2)Department of Urinary Surgery, Haining branch of Zhejiang Provincial People's 
+Hospital (Affiliated People's Hospital), Jiaxing, Zhejiang, China.
+(3)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, Zhejiang, China; Key Laboratory for diagnosis and treatment 
+of upper limb edema and stasis of breast cancer, Hangzhou, Zhejiang, China.
+(4)Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China.
+(5)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital (Affiliated People's Hospital), Hangzhou Medical 
+College, Hangzhou, Zhejiang, China; Key Laboratory for diagnosis and treatment 
+of upper limb edema and stasis of breast cancer, Hangzhou, Zhejiang, China. 
+Electronic address: mxlmail@126.com.
+
+BACKGROUND: Data on the pathological responses and survival outcomes after 
+neoadjuvant chemotherapy (NACT) in human epidermal growth factor receptor-2 
+(HER2)-low breast cancer (BC) are lacking. This study aims to investigate this 
+topic in the real world.
+METHODS: Clinicopathological data from 819 HER2-negative BC patients who 
+underwent NACT between 2010 and 2020 were retrospectively retrieved from the 
+Shanghai Jiaotong University Breast Cancer Database. These patients were 
+categorized into HER2-low and HER2-0 groups. Logistic analyses were conducted to 
+identify predictors of complete pathological response (pCR) and breast pCR. Cox 
+regression analyses were conducted to assess the factors associated with 
+disease-free survival (DFS) and overall survival (OS). Kaplan-Meier (K-M) curves 
+were generated to compare DFS and OS between HER2-low BC and HER2-0 BC.
+RESULTS: Of the 819 BC patients, 669 (81.7%) had HER2-low tumors, and 150 
+(18.3%) had HER2-0 tumors. HER2-low BC had a significantly higher ratio of ER ≥ 
+10%, PR ≥ 20%, and Ki67 ≥ 15% than HER2-0 BC. A significantly higher breast pCR 
+rate was observed in HER2-low BC than in HER2-0 BC (13.6% and 7.3%, 
+respectively, P = .036). Age, HER2 status (low or 0), Ki67, and surgery options 
+were associated with breast pCR in HER2-negative BC. In HER2-low BC, the pCR 
+rate of ER ≥ 10% BC was significantly lower than that of ER < 10% BC, but the 
+DFS and OS of ER 10% BC were significantly higher. The K-M curve showed no 
+significant differences in DFS or OS between HER2-low and HER2-0 BC. Cox 
+regression revealed that ER expression and histological grade (III vs. I∼II) 
+were significantly associated with survival in HER2-low BC.
+CONCLUSIONS: In this real-world data (RWD) study, a significantly higher breast 
+pCR rate was found in HER2-low BC than in HER2-0 BC, although there was no 
+significant difference in survival. Moreover, ER expression had a significant 
+prognostic impact on HER2-low BC.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2024.04.006
+PMID: 38744585 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare that 
+they have no competing interests.
