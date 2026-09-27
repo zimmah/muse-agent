@@ -1,0 +1,49 @@
+1. JCO Precis Oncol. 2022 Jan;6:e2100120. doi: 10.1200/PO.21.00120.
+
+Circulating T-Cell Repertoires Correlate With the Tumor Response in Patients 
+With Breast Cancer Receiving Neoadjuvant Chemotherapy.
+
+Cai G(1), Guan Z(1), Jin Y(1), Su Z(1), Chen X(1), Liu Q(1), Wang C(2), Yin 
+X(3), Zhang L(1), Ye G(1), Luo W(1).
+
+Author information:
+(1)The First People's Hospital of Foshan, Foshan, China.
+(2)iRepertoire, Inc, Huntsville, AL.
+(3)Cyberspace Institute of Advanced Technology, Guangzhou University, Guangzhou, 
+China.
+
+PURPOSE: Neoadjuvant chemotherapy (NAC) has been widely used in patients with 
+breast cancer to minish tumor burden and increase resection rate of cancer. 
+T-cell repertoire has been believed to be able to monitor antitumor immune 
+responses. This study aimed to explore the dynamic change of T-cell repertoire 
+and its clinical value in evaluating the tumor response in patients with breast 
+cancer receiving NAC.
+MATERIALS AND METHODS: Ninety-four patients who underwent NAC before surgery 
+were recruited, and peripheral blood samples were collected at multiple time 
+points during NAC. High-throughput T-cell receptor (TCR)-β sequencing was used 
+to characterize the T-cell repertoire of every sample and analyzed the changes 
+in circulating T-cell repertoire during NAC.
+RESULTS: We found that the diversity of TCR repertoires was associated with age 
+and clinical stage of the patients with breast cancer. The distribution of Vβ 
+and Jβ genes in TCR repertoires was skewed in patients with human epidermal 
+growth factor receptor 2-positive (HER2+) breast cancer. Vβ20.1 and Vβ30 
+expression levels before NAC correlate with tumor response after all cycles of 
+NAC in HER2- and HER2+ patients, respectively. Some CDR3 motifs that correlated 
+with clinical response in either HER2+ or HER2- patients were identified. 
+Besides, TCR repertoire evolved during NAC and the diversity of TCR repertoire 
+decreased more after two cycles of NAC in patients with good tumor response 
+after all cycles of NAC (P = .0061).
+CONCLUSION: Our results demonstrated that TCR repertoire correlated with the 
+characteristics of the tumor, such as the expression status of HER2. Moreover, 
+some characteristics of TCR repertoires that correlated with clinical response 
+were identified and they might provide useful information to tailor therapeutic 
+regimens at the early cycle of NAC.
+
+DOI: 10.1200/PO.21.00120
+PMCID: PMC8769146
+PMID: 35025620 [Indexed for MEDLINE]
+
+Conflict of interest statement: Chunlin WangEmployment: Chapter 
+DiagnosticsLeadership: Chapter DiagnosticsStock and Other Ownership Interests: 
+iRepertoire, Chapter DiagnosticsNo other potential conflicts of interest were 
+reported.
