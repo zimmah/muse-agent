@@ -1,0 +1,51 @@
+1. Clin Breast Cancer. 2018 Dec;18(6):459-467.e1. doi:
+10.1016/j.clbc.2018.05.009.  Epub 2018 Jun 7.
+
+Magnetic Resonance Imaging (MRI) Assessment of Residual Breast Cancer After 
+Neoadjuvant Chemotherapy: Relevance to Tumor Subtypes and MRI Interpretation 
+Threshold.
+
+Kim Y(1), Sim SH(2), Park B(3), Lee KS(4), Chae IH(1), Park IH(4), Kwon Y(1), 
+Jung SY(4), Lee S(4), Ko K(4), Kang HS(1), Lee CW(1), Lee ES(4).
+
+Author information:
+(1)Center for Breast Cancer, National Cancer Center, Goyang-si, Republic of 
+Korea.
+(2)Center for Breast Cancer, National Cancer Center, Goyang-si, Republic of 
+Korea; Cancer Research Institute, National Cancer Center, Goyang-si, Republic of 
+Korea. Electronic address: simsh@ncc.re.kr.
+(3)Cancer Research Institute, National Cancer Center, Goyang-si, Republic of 
+Korea.
+(4)Center for Breast Cancer, National Cancer Center, Goyang-si, Republic of 
+Korea; Cancer Research Institute, National Cancer Center, Goyang-si, Republic of 
+Korea.
+
+PURPOSE: To investigate the diagnostic performance of magnetic resonance imaging 
+(MRI) for predicting pathologic complete response after neoadjuvant chemotherapy 
+(NAC) depending on subtypes of breast cancer using different interpretation 
+thresholds of MRI negativity.
+PATIENTS AND METHODS: A total of 353 women with breast cancer who had undergone 
+NAC were included. Pathologic examination after complete surgical excision was 
+the reference standard. Tumors were divided into 4 subtypes on the basis of 
+expression of hormone receptor (HR) and human epidermal growth factor receptor 2 
+(HER2). Tumor enhancement was assessed on early and late phases of MRI. MRI 
+negativity was divided into radiologic complete response (rCR, complete absence 
+of enhancement on both early and late phases) and near-rCR (no discernible early 
+enhancement but observed late enhancement).
+RESULTS: Ninety (25.5%) of 353 patients experienced pathologic complete 
+response. When analyzing the data of all patients, sensitivity of MRI was higher 
+for rCR versus near-rCR (97.72% vs. 90.49%, P < .0001), whereas specificity was 
+lower for rCR versus near-rCR (44.44% vs. 72.22%, P < .0001). Accuracy was 
+equivalent (84.14% vs. 85.84%). In HR-HER2+ tumors, 100% sensitivity and 
+negative predictive value were achieved by assessing early enhancement only. In 
+HR+HER2- tumors, sensitivity of MRI was higher for rCR versus near-rCR (96.12% 
+vs. 86.82%, P = .0005).
+CONCLUSION: Diagnostic performance of MRI after NAC differs in accordance with 
+the subtypes and threshold of MRI negativity. MRI assessment with consideration 
+of tumor subtypes is required, along with standardization of MRI interpretation 
+criteria in the NAC setting.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2018.05.009
+PMID: 29954674 [Indexed for MEDLINE]
