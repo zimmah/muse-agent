@@ -1,0 +1,34 @@
+1. Int J Cancer. 2019 Dec 1;145(11):2901-2906. doi: 10.1002/ijc.32418. Epub 2019 
+May 31.
+
+More options for adjuvant treatment of HER2-positive breast cancer: How to 
+choose wisely?
+
+Trapani D(1)(2), Rajasekar AKA(3), Mathew A(3).
+
+Author information:
+(1)Department of Oncology and Hematology, University of Milan, Milan, Italy.
+(2)Division of Early Drug Development for Innovative Therapy, European Institute 
+of Oncology (IEO), IRCCS, Milan, Italy.
+(3)Department of Internal Medicine, Division of Medical Oncology, University of 
+Kentucky Markey Cancer Center, Lexington, KY.
+
+Human epidermal growth factor receptor 2-positivity (HER2) has a prognostic and 
+predictive role in breast cancer. Trastuzumab, an anti-HER2 therapy, has a 
+crucial role in a curative setting in Stage I, II and III breast cancer. In 
+recent years, more anti-HER2 agents have been tested in clinical trials. Newer 
+dosing strategies and combination approaches give us a plethora of options to 
+treat a patient with early-stage and locally advanced breast cancer. It has led 
+to the possibility of providing a risk-adapted treatment for patients with 
+HER2-positive breast cancer. In order to reduce overtreatment and protect 
+patients from adverse effects, a deescalation framework can be used in patients 
+at lower risk for recurrence. Similarly, in those with greater risk for 
+recurrence, escalation of therapy can be considered with the goal of achieving a 
+cure. In this narrative review, we aim to provide a critical appraisal of the 
+recent research findings in the management of early-stage and locally advanced 
+breast cancer.
+
+© 2019 UICC.
+
+DOI: 10.1002/ijc.32418
+PMID: 31107981 [Indexed for MEDLINE]
