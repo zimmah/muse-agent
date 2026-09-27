@@ -1,0 +1,33 @@
+1. J Oncol Pharm Pract. 2022 Jun;28(4):986-988. doi: 10.1177/10781552211073878. 
+Epub 2022 Jan 18.
+
+Ado-trastuzumab emtansine associated spider telangiectasia.
+
+Gursoy P(1), Acar A(2), Acikalin T(3).
+
+Author information:
+(1)Department Medical Oncology, 60521Ege University School of Medicine, Izmir, 
+Turkey.
+(2)Department Dermatology, 60521Ege University School of Medicine, Izmir, 
+Turkey.
+(3)Department Pathology, 60521Ege University School of Medicine, Izmir, Turkey.
+
+INTRODUCTION: Breast cancer is the most common cancer in women. Human epidermal 
+growth factor receptor 2 (HER2) positivity rate is 20% and generally has a poor 
+prognosis. Ado-trastuzumab emtansine (T-DM1) is an antibody-drug conjugate 
+consisting of HER2 target monoclonal antibody trastuzumab and microtubule 
+inhibitor emtansine. The most common side effects are fatigue, diarrhea, anemia, 
+and it is generally a safe and tolerable agent.
+CASE REPORT: In our case, we reported our patient who developed mucosal and 
+cutaneous telangiectasia after T-DM1 treatment and who had a complete response 
+in metastases after skin lesions.
+MANAGEMENT AND OUTCOME: While no side effects were observed during the use of 
+T-DM1 for HER2 positive disease, nose bleeding and spider telangiectasia on the 
+skin developed in the 9th month of the treatment. In these lesions, which did 
+not require any treatment, no regression was observed during T-DM1 treatment.
+DISCUSSION: We think that T-DM1, which was detected with a low incidence of skin 
+toxicity in studies, may form telangiectatic lesions due to vascular dilatation 
+through emtansine, and therefore care should be taken in the treatment of T-DM1.
+
+DOI: 10.1177/10781552211073878
+PMID: 35040682 [Indexed for MEDLINE]
