@@ -1,0 +1,39 @@
+1. J Cell Biochem. 2019 Apr;120(4):6046-6056. doi: 10.1002/jcb.27891. Epub 2018
+Dec  5.
+
+A four-gene signature predicts the efficacy of paclitaxel-based neoadjuvant 
+therapy in human epidermal growth factor receptor 2-negative breast cancer.
+
+Li Z(1)(2), Zhang Y(1)(2), Zhang Z(3), Zhao Z(3), Lv Q(3).
+
+Author information:
+(1)Department of Medical Oncology, The First Hospital of China Medical 
+University, Shenyang, China.
+(2)Key Laboratory of Anticancer Drugs and Biotherapy of Liaoning Province, The 
+First Hospital of China Medical University, Shenyang, China.
+(3)Department of Pathology, Shengjing Hospital of China Medical University, 
+Shenyang, China.
+
+Neoadjuvant chemotherapy (NAC) is the major preoperative treatment of breast 
+cancer (BC) with negative human epidermal growth factor receptor 2 (HER2), and 
+the efficacy of NAC and the optimization of regimen are under intensive 
+research. The current study aimed to define the predictive biomarkers for 
+paclitaxel (PTX) response in NAC of HER2-negative BC. Data from GSE25065, 
+GSE26065, GSE41998, as well as drug sensitivity data of breast and ovarian 
+cancer cell line from NCI60, were used. Through logistic regression, COX 
+regression, and correlation analysis with bootstrapping, we found that four 
+genes (CDK8, FAM64A, MARC2, and OCEL1) were associated with drug sensitivity of 
+PTX. The four gene "≥3" model had the best classification accuracy. Subgroup 
+analysis found that the model performed well in the hormone receptor positive, 
+HER2-negative subgroup and did not perform well in the triple-negative subgroup. 
+Decision curve analysis showed that the model could enhance the predictive 
+effect of clinical features. Subsequent gene set enrichment analysis, network 
+analysis showed that these genes may be related to the cell cycle, mitosis and 
+other pathways. The current study demonstrated the promising potential of the 
+novel four-gene signature as a predictive biomarker for pathological complete 
+response of HER2-negative BC patients and indicated the drug sensitivity of PTX.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcb.27891
+PMID: 30520096 [Indexed for MEDLINE]
