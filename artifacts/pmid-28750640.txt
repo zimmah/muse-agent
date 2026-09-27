@@ -1,0 +1,95 @@
+1. Breast Cancer Res. 2017 Jul 27;19(1):87. doi: 10.1186/s13058-017-0883-9.
+
+Impact of somatic PI3K pathway and ERBB family mutations on pathological 
+complete response (pCR) in HER2-positive breast cancer patients who received 
+neoadjuvant HER2-targeted therapies.
+
+Toomey S(1), Eustace AJ(2), Fay J(3), Sheehan KM(3), Carr A(2), Milewska M(2), 
+Madden SF(2), Teiserskiene A(4), Kay EW(3), O'Donovan N(5), Gallagher W(6), 
+Grogan L(7), Breathnach O(7), Walshe J(8), Kelly C(9), Moulton B(4), Kennedy 
+MJ(10), Gullo G(8), Hill AD(11), Power C(11), Duke D(12), Hambly N(12), Crown 
+J(5)(8), Hennessy BT(2)(4)(7).
+
+Author information:
+(1)Medical Oncology Group, Department of Molecular Medicine, Royal College of 
+Surgeons in Ireland, Dublin 9, Ireland. sineadtoomey@rcsi.ie.
+(2)Medical Oncology Group, Department of Molecular Medicine, Royal College of 
+Surgeons in Ireland, Dublin 9, Ireland.
+(3)Department of Histopathology, Royal College of Surgeons in Ireland, Dublin, 
+Ireland.
+(4)Cancer Trials Ireland, Dublin, Ireland.
+(5)National Institute for Cellular Biotechnology, Dublin City University, 
+Dublin, Ireland.
+(6)Cancer Biology and Therapeutics Laboratory, UCD School of Biomolecular and 
+Biomedical Science, UCD Conway Institute,, University College Dublin, Dublin, 
+Ireland.
+(7)Department of Medical Oncology, Beaumont Hospital, Dublin, Ireland.
+(8)Department of Medical Oncology, St. Vincent's University Hospital, Dublin, 
+Ireland.
+(9)Department of Medical Oncology, The Mater Misericordiae University Hospital, 
+Dublin, Ireland.
+(10)Department of Medical Oncology, St. James Hospital, Dublin, Ireland.
+(11)Department of Surgery, Royal College of Surgeons In Ireland, Dublin, 
+Ireland.
+(12)Department of Radiology, Beaumont Hospital, Dublin, Ireland.
+
+BACKGROUND: The Cancer Genome Atlas analysis revealed that somatic EGFR, 
+receptor tyrosine-protein kinase erbB-2 (ERBB2), Erb-B2 receptor tyrosine kinase 
+3 (ERBB3) and Erb-B2 receptor tyrosine kinase 4 (ERBB4) gene mutations (ERBB 
+family mutations) occur alone or co-occur with somatic mutations in the gene 
+encoding the phosphatidylinositol 3-kinase (PI3K) catalytic subunit (PIK3CA) in 
+19% of human epidermal growth factor receptor 2 (HER2)-positive breast cancers. 
+Because ERBB family mutations can activate the PI3K/AKT pathway and likely have 
+similar canonical signalling effects to PI3K pathway mutations, we investigated 
+their combined impact on response to neoadjuvant HER2-targeted therapies.
+METHODS: Baseline tumour biopsies were available from 74 patients with 
+HER2-positive breast cancer who were enrolled in the phase II TCHL neoadjuvant 
+study (ICORG 10-05) assessing TCH (docetaxel, carboplatin, trastuzumab) (n = 38) 
+versus TCL (docetaxel, carboplatin, lapatinib) (n = 10) versus TCHL (docetaxel, 
+carboplatin, trastuzumab, lapatinib) (n = 40), each for six cycles. Activating 
+mutations in PIK3CA and ERBB family genes were identified using mass 
+spectrometry-based genotyping. Phosphatase and tensin homolog (PTEN) expression 
+was assessed by immunohistochemistry.
+RESULTS: PIK3CA and/or ERBB family mutations were detected in 23 (31.1%) tumour 
+samples tested, whereas PTEN expression was low in 31.1% of cases tested. 
+Mutation frequency was similar in each treatment arm (31.3% in TCH arm, 30% in 
+TCL arm and 31.3% in TCHL arm) and was not influenced by oestrogen receptor (ER) 
+status (27.6% in ER-negative patients, 33.3% in ER-positive patients) or 
+progesterone receptor (PR) status (32.6% in PR-negative patients, 29% in 
+PR-positive patients). There was no significant difference in pathological 
+complete response (pCR) rates between 47 patients with wild-type (WT) tumours 
+and 22 patients whose tumours carried mutations (in either PIK3CA or ERBB family 
+genes) (42.5% vs. 54.5%; p = 0.439). Similarly, there was no significant 
+difference in pCR rates between patients with PIK3CA/ERBB family 
+mutated/PTEN-low (i.e., PI3K-activated) tumours and patients without PI3K 
+activation (50% vs. 44%; p = 0.769). However, in the TCHL (but not the TCH) 
+group, the pCR rate was higher for 9 patients with PIK3CA/ERBB family mutated 
+tumours than for 20 patients with PIK3CA/ERBB family WT tumours (77.8% vs. 35%; 
+p = 0.05).
+CONCLUSIONS: Our results indicate that patients who receive neoadjuvant TCHL and 
+have PIK3CA/ERBB family mutated tumours may be more likely to have a pCR than 
+patients with WT tumours.
+TRIAL REGISTRATION: ClinicalTrials.gov, NCT01485926 . Registered on 2 December 
+2011.
+
+DOI: 10.1186/s13058-017-0883-9
+PMCID: PMC5530949
+PMID: 28750640 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: In 
+this study, we used samples that were collected under clinical trial protocols 
+(ICORG 10-05; ClinicalTrials.gov, NCT01485926). Standardised ICORG procedures 
+were used to acquire ethical approval for these studies. At the time of 
+recruitment, patients were given an information leaflet and a consent form for 
+storage and collection of biological materials, including blood and tissue 
+samples, as well as future use of their samples for research purposes. The study 
+protocol was approved by the institutional review boards of St. James’s 
+Hospital, Dublin; St. Vincent’s University Hospital, Dublin; Bon Secours 
+Hospital, Cork; Cork University Hospital; Beaumont Hospital, Dublin; Mater 
+Misericordiae University and Private Hospitals, Dublin; Galway University 
+Hospital, Galway; Letterkenny General Hospital, Letterkenny; Mid-Western 
+Regional Hospital, Limerick; Sligo General Hospital, Sligo; and Waterford 
+Regional Hospital, Waterford. CONSENT FOR PUBLICATION: Not applicable. COMPETING 
+INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
