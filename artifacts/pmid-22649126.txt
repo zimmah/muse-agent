@@ -1,0 +1,43 @@
+1. J Clin Oncol. 2012 Sep 10;30(26):3234-41. doi: 10.1200/JCO.2011.40.5902. Epub 
+2012 May 29.
+
+A phase II study of trastuzumab emtansine in patients with human epidermal 
+growth factor receptor 2-positive metastatic breast cancer who were previously 
+treated with trastuzumab, lapatinib, an anthracycline, a taxane, and 
+capecitabine.
+
+Krop IE(1), LoRusso P, Miller KD, Modi S, Yardley D, Rodriguez G, Guardino E, Lu 
+M, Zheng M, Girish S, Amler L, Winer EP, Rugo HS.
+
+Author information:
+(1)Dana-Farber Cancer Institute, 450 Brookline Ave, Boston MA 02215, USA. 
+ikrop@partners.org
+
+PURPOSE: To determine whether the antibody-drug conjugate trastuzumab emtansine 
+(T-DM1), which combines human epidermal growth factor receptor 2 (HER2) 
+-targeted delivery of the potent antimicrotubule agent DM1 with the antitumor 
+activity of trastuzumab, is effective in patients with HER2-positive metastatic 
+breast cancer (MBC) who have previously received all standard HER2-directed 
+therapies.
+PATIENTS AND METHODS: In this single-arm phase II study, T-DM1 3.6 mg/kg was 
+administered intravenously every 3 weeks to patients with HER2-positive MBC who 
+had prior treatment with trastuzumab, lapatinib, an anthracycline, a taxane, and 
+capecitabine. The primary objectives were overall response rate (ORR) by 
+independent review and safety.
+RESULTS: Among 110 pretreated patients (median, seven prior agents for MBC; 
+median follow-up, 17.4 months), the ORR was 34.5% (95% CI, 26.1% to 43.9%), 
+clinical benefit rate was 48.2% (95% CI, 38.8% to 57.9%), median 
+progression-free survival (PFS) was 6.9 months (95% CI, 4.2 to 8.4 months), and 
+median duration of response was 7.2 months (95% CI, 4.6 months to not 
+estimable). In patients with confirmed HER2-positive tumors (n = 80 by 
+retrospective central testing), the response rate was 41.3% (95% CI, 30.4% to 
+52.8%), and median PFS was 7.3 months (95% CI, 4.6 to 12.3 months). Most adverse 
+events were grades 1 to 2; the most frequent grade ≥ 3 events were 
+thrombocytopenia (9.1%), fatigue (4.5%), and cellulitis (3.6%).
+CONCLUSION: T-DM1 is well tolerated and has single-agent activity in patients 
+with HER2-positive MBC who have previously received both approved HER2-directed 
+therapies and multiple chemotherapy agents. T-DM1 may be an effective new 
+treatment for this patient population.
+
+DOI: 10.1200/JCO.2011.40.5902
+PMID: 22649126 [Indexed for MEDLINE]
