@@ -1,0 +1,41 @@
+1. Cancer. 1994 Dec 1;74(11):2956-63. doi: 
+10.1002/1097-0142(19941201)74:11<2956::aid-cncr2820741111>3.0.co;2-v.
+
+Prognostic value of c-erbB2 overexpression in axillary lymph node positive 
+breast cancer. Results from a randomized adjuvant treatment protocol.
+
+Hartmann LC(1), Ingle JN, Wold LE, Farr GH Jr, Grill JP, Su JQ, Maihle NJ, Krook 
+JE, Witzig TE, Roche PC.
+
+Author information:
+(1)Department of Oncology, Mayo Clinic, Rochester, Minnesota 55905.
+
+BACKGROUND: This study was designed to evaluate the prognostic importance of 
+c-erbB2 overexpression in a standardized cohort of patients with axillary lymph 
+node positive breast cancer.
+METHODS: Paraffin embedded primary breast cancers from 354 patients with 
+axillary lymph node positive breast cancer, treated on a North Central Cancer 
+Treatment Group adjuvant protocol, were studied immunohistochemically. c-erbB2 
+staining was classified as negative, weak (1+), moderate (2+), or strong (3+) 
+and was assessed for effectiveness as a predictor of outcome in univariate and 
+Cox model multivariate analyses.
+RESULTS: Twenty percent of specimens exhibited moderate or strong c-erbB2 
+staining. The median disease free survival period of the strong staining group 
+was 2.9 years, compared with 7.1 years for all other patients (P = 0.01). The 
+median overall survival for the strong staining group was 5 years, compared with 
+12 years for all other patients (P = 0.03). A definite correlation was noted 
+between degree of nodal involvement and the likelihood of strong c-erbB2 
+staining (P = 0.001). There was also a significant correlation between c-erbB2 
+staining and higher nuclear grade and estrogen receptor negativity. In a 
+multivariate analysis, c-erbB2 staining was not a significant predictor of 
+either disease free survival or overall survival.
+CONCLUSION: According to this analysis, the strong correlation between c-erbB2 
+expression and degree of nodal involvement, higher grade disease, and estrogen 
+receptor negativity suggests expression of this protooncogene product in a 
+biologically more aggressive form of breast cancer. In a multivariate analysis, 
+c-erbB2 expression was not an independent prognostic factor. Thus, c-erbB2 
+assessment did not appear to add significantly to the information provided by 
+currently available standard disease parameters.
+
+DOI: 10.1002/1097-0142(19941201)74:11<2956::aid-cncr2820741111>3.0.co;2-v
+PMID: 7954259 [Indexed for MEDLINE]
