@@ -1,0 +1,49 @@
+1. J Clin Oncol. 2009 Dec 1;27(34):5685-92. doi: 10.1200/JCO.2008.21.4577. Epub 
+2009 Nov 2.
+
+Fluorouracil, epirubicin, and cyclophosphamide with either docetaxel or 
+vinorelbine, with or without trastuzumab, as adjuvant treatments of breast 
+cancer: final results of the FinHer Trial.
+
+Joensuu H(1), Bono P, Kataja V, Alanko T, Kokko R, Asola R, Utriainen T, 
+Turpeenniemi-Hujanen T, Jyrkkiö S, Möykkynen K, Helle L, Ingalsuo S, Pajunen M, 
+Huusko M, Salminen T, Auvinen P, Leinonen H, Leinonen M, Isola J, 
+Kellokumpu-Lehtinen PL.
+
+Author information:
+(1)Department of Oncology, Helsinki University Central Hospital, Helsinki, 
+Finland. heikki.joensuu@hus.fi
+
+Comment in
+    J Clin Oncol. 2009 Dec 1;27(34):5671-3. doi: 10.1200/JCO.2009.24.2222.
+    J Clin Oncol. 2010 Jul 10;28(20):e334; author reply e335-6. doi: 
+10.1200/JCO.2009.27.2740.
+
+PURPOSE: Docetaxel has not been compared with vinorelbine as adjuvant treatment 
+of early breast cancer. Efficacy and long-term safety of a short course of 
+adjuvant trastuzumab administered concomitantly with chemotherapy for human 
+epidermal growth factor receptor 2 (HER2) -positive cancer are unknown.
+PATIENTS AND METHODS: One thousand ten women with axillary node-positive or 
+high-risk node-negative breast cancer were randomly assigned to receive three 
+cycles of docetaxel or vinorelbine, followed in both groups by three cycles of 
+fluorouracil, epirubicin, and cyclophosphamide (FEC). Women with HER2-positive 
+cancer (n = 232) were further assigned to either receive or not receive 
+trastuzumab for 9 weeks with docetaxel or vinorelbine. The median follow-up time 
+was 62 months after random assignment.
+RESULTS: Women assigned to docetaxel had better distant disease-free survival 
+(DDFS) than those assigned to vinorelbine (hazard ratio [HR] = 0.66; 95% CI, 
+0.49 to 0.91; P = .010). In the subgroup of HER2-positive disease, patients 
+treated with trastuzumab tended to have better DDFS than those treated with 
+chemotherapy only (HR = 0.65; 95% CI, 0.38 to 1.12; P = .12; with adjustment for 
+presence of axillary nodal metastases, HR = 0.57; P = .047). In exploratory 
+analyses, docetaxel, trastuzumab, and FEC improved DDFS compared with docetaxel 
+plus FEC (HR = 0.32; P = .029) and vinorelbine, trastuzumab, and FEC (HR = 0.31; 
+P = .020). The median left ventricular ejection fraction of trastuzumab-treated 
+patients remained unaltered during the 5-year follow-up; only one woman treated 
+with trastuzumab was diagnosed with a heart failure.
+CONCLUSION: Adjuvant treatment with docetaxel improves DDFS compared with 
+vinorelbine. A brief course of trastuzumab administered concomitantly with 
+docetaxel is safe and effective and warrants further evaluation.
+
+DOI: 10.1200/JCO.2008.21.4577
+PMID: 19884557 [Indexed for MEDLINE]
