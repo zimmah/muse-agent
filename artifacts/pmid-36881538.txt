@@ -1,0 +1,46 @@
+1. Altern Ther Health Med. 2023 Apr;29(3):246-253.
+
+Elevated Sera IL-6 and NK-T Cells Associated With Increased Pathological 
+Complete Response in HER2-positive Breast Cancer With Carboplatin-based 
+Neoadjuvant Therapy.
+
+Wang L, Zhang X, Ma X, Ren X, Ma X, Shan B, Liu Y.
+
+CONTEXT: Neoadjuvant therapy is the primary treatment for stage II to III breast 
+cancer (BC). The heterogeneity of BC challenges the identification of effective 
+neoadjuvant regimens and of the related sensitive populations.
+OBJECTIVE: The study intended to explore the predictive role of inflammatory 
+cytokines, immune-cell subsets, and tumor-infiltrating lymphocytes (TILs) for 
+the accomplishment of the pathological complete response (pCR) after a 
+neoadjuvant regimen.
+DESIGN: The research team conducted a phase II, single-armed, open-label trial.
+SETTING: The study took place at the Fourth Hospital of Hebei Medical University 
+in Shijiazhuang, Hebei, China.
+PARTICIPANTS: Participants were 42 patients at the hospital receiving treatment 
+for human epidermal growth factor receptor 2 (HER2)-positive breast cancer (BC) 
+between November 2018 and October 2021.
+INTERVENTION: Participants received neoadjuvant therapy of six cycles of 
+docetaxel, carboplatin, and trastuzumab (TCbH).
+OUTCOME MEASURES: The research team: (1) measured 13 cytokines and immune-cell 
+populations in peripheral blood prior to neoadjuvant therapy administration; (2) 
+measured TILs in tumor tissues; (3) analyzed correlations among biomarkers and 
+pCR.
+RESULTS: Of the 42 participants, 18 achieved pCR (42.9%) after the neoadjuvant 
+therapy, with 37 having an overall response rate (ORR) of 88.1%. All 
+participants experienced at least one short-term adverse event. The most common 
+toxicity was leukopenia, with 33 participants (78.6%), while no cardiovascular 
+dysfunction occurred. Compared with the non-pCR group, the pCR group had higher 
+serum levels of tumor necrosis factor alpha (TNF-ɑ), with P = .013; interleukin 
+6 (IL-6), with P = .025; and IL-18, with P = .0004. Univariate analysis showed 
+that IL-6 (OR, 3.429; 95% CI,1.838-6.396; P = .0001) had a significant 
+correlation with pCR. Participants in the pCR group had a higher level of 
+natural killer T (NK-T) cells (P = .009) and a lower ratio of cluster of 
+differentiation 4 (CD4):CD8 (P = .0014) before neoadjuvant therapy. Univariate 
+analysis linked a high population of NK-T cells (OR, 0.204; 95% CI,0.052-0.808; 
+P = .018), a low CD4:CD8 ratio (OR, 10.500; 95% CI, 2.475-44.545; P = .001), and 
+TILs expression (OR, 0.192; 95% CI, 0.051-0.731; P = .013) to pCR.
+CONCLUSIONS: Immunological factors, including IL-6, NK-T cells, CD4+ T versus 
+CD8+ T ratio, and TILs expression were significant predictors for response to 
+TCbH neoadjuvant therapy with carboplatin.
+
+PMID: 36881538 [Indexed for MEDLINE]
