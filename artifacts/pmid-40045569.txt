@@ -1,0 +1,53 @@
+1. Cancer Res Treat. 2026 Jan;58(1):151-158. doi: 10.4143/crt.2024.1120. Epub
+2025  Mar 5.
+
+Ten-Year Follow-up Clinical Outcomes and the Role of Adjuvant Chemotherapy in 
+HER2-Positive Patients with Microinvasive Breast Cancer.
+
+Shin Y(1), Lee SY(2), Jeong H(1), Ahn JH(1), Jung KH(1), Kim SB(1), Kim HJ(3), 
+Lee JW(3), Son BH(3), Ko B(3), Kim JS(3), Chung IY(3), Lee HJ(4), Gong G(4), Lee 
+SB(3), Jeong JH(1).
+
+Author information:
+(1)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(2)Department of Surgery, Inha University Hospital, Inha University College of 
+Medicine, Incheon, Korea.
+(3)Division of Breast Surgery, Department of Surgery, Asan Medical Center, 
+University of Ulsan College of Medicine, Seoul, Korea.
+(4)Department of Pathology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+
+PURPOSE: Although human epidermal growth factor receptor 2 (HER2) positivity is 
+prevalent in microinvasive breast cancer (MIBC), data focused on HER2-positive 
+MIBC are limited. We investigated the clinical course and long-term outcomes of 
+HER2-positive MIBC and evaluated the role of adjuvant chemotherapy.
+MATERIALS AND METHODS: The study included patients with curatively resected 
+pT1mi pN0 HER2-positive breast cancer between January 2000 and January 2020. 
+Treatments and survival outcomes, including invasive breast cancer-free survival 
+(IBCFS), distant recurrence-free survival (DRFS), and overall survival (OS) were 
+analyzed.
+RESULTS: The analysis included 799 female patients. The median age was 51 years 
+(range, 23 to 79 years), and 51.6% (n=412) were premenopausal. Multifocality was 
+confirmed in 17.3% (n=138), and estrogen receptor (ER) positivity in 29.8% 
+(n=238). Adjuvant chemotherapy was administered to 17.5% (n=140), with 
+doxifluridine in 96.4% of cases. One patient (0.1%) received trastuzumab. With a 
+median follow-up of 119.0 months (95% confidence interval [CI], 114.0 to 127.0), 
+the 8-year IBCFS, DRFS, and OS were 91.2% (95% CI, 89.1 to 93.3), 97.5% (95% CI, 
+96.4 to 98.7), and 98.8% (95% CI, 98.0 to 99.6), respectively. No significant 
+differences were observed between patients with and without adjuvant 
+chemotherapy. The lack of differences in IBCFS by chemotherapy was consistent 
+across subgroups, including pre-/postmenopausal patients, grade 1-2/3 tumors, 
+and ER-negative disease.
+CONCLUSION: A clinically meaningful proportion of HER2-positive MIBC patients 
+experience IBCFS events with long-term follow-up. Adjuvant chemotherapy did not 
+improve survival, potentially due to the use of an outdated, ineffective 
+regimen. The role of modern adjuvant regimens, particularly those incorporating 
+HER2-targeted therapy, warrants further exploration.
+
+DOI: 10.4143/crt.2024.1120
+PMCID: PMC12800945
+PMID: 40045569 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Conflict of interest 
+relevant to this article was not reported.
