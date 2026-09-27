@@ -1,0 +1,38 @@
+1. Clin Breast Cancer. 2013 Jun;13(3):173-9. doi: 10.1016/j.clbc.2012.12.004.
+Epub  2013 Jan 16.
+
+Final results from phase II trial of neoadjuvant docetaxel and capecitabine 
+given sequentially or concurrently for HER2-negative breast cancers.
+
+Zelnak AB(1), Styblo TM, Rizzo M, Gabram SG, Wood WC, Harichand-Herdt S, Kim S, 
+Liu Y, O'Regan RM; Georgia Center for Oncology Research and Education.
+
+Author information:
+(1)Department of Hematology and Medical Oncology, Winship Cancer Institute, 
+Emory University, School of Medicine, Atlanta, GA, USA. amelia.zelnak@emory.edu
+
+BACKGROUND: The combination of docetaxel and capecitabine has been demonstrated 
+to improve progression-free survival (PFS) and overall survival (OS) in patients 
+with metastatic breast cancer compared with docetaxel alone. We hypothesized 
+that the combination of docetaxel and capecitabine, given concomitantly or 
+sequentially, would present a nonanthracycline-based treatment option for 
+patients with early stage and locally advanced breast cancer.
+PATIENTS AND METHODS: Patients with stage I to stage IIIC, human epidermal 
+growth factor receptor 2-negative (HER2(-)) breast cancer were randomly assigned 
+to receive either docetaxel followed by capecitabine (D → C) or docetaxel 
+administered concomitantly with capecitabine (DC).
+RESULTS: Between April 2007 and July 2009, 51 patients were accrued to the trial 
+at an academic center, a county hospital, and community sites. Median tumor size 
+was 3.8 cm and > 70% of patients had axillary lymph node involvement. 
+Fifty-seven percent of patients accrued were African American. Twenty-one of the 
+51 subjects had triple-negative breast cancer. The pathologic complete response 
+(pCR) rate was 8% in the D → C arm; 12% in the DC arm. The pCR rate among 
+patients with triple-negative breast cancer was 19%.
+CONCLUSION: The combination of docetaxel and capecitabine has modest activity in 
+the neoadjuvant setting. These results are consistent with other trials using 
+this combination in the neoadjuvant setting.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2012.12.004
+PMID: 23332349 [Indexed for MEDLINE]
