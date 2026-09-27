@@ -1,0 +1,39 @@
+1. Med Oncol. 2014 Dec;31(12):340. doi: 10.1007/s12032-014-0340-x. Epub 2014 Nov 
+22.
+
+Is it safe to give anthracyclines concurrently with trastuzumab in neo-adjuvant 
+or metastatic settings for HER2-positive breast cancer? A meta-analysis of 
+randomized controlled trials.
+
+Du F(1), Yuan P, Zhu W, Wang J, Ma F, Fan Y, Xu B.
+
+Author information:
+(1)Department of Medical Oncology, Cancer Hospital and Institute, Peking Union 
+Medical College, Beijing, 100021, China.
+
+Concurrent use of anthracyclines and trastuzumab used to be avoided in the 
+treatment of HER2-positive breast cancer due to the high risk of cardiac 
+toxicity. However, several newly published studies challenged this view and 
+demonstrated that concomitant use of the two agents significantly improved the 
+clinical outcome without causing additional cardiac toxicity. This meta-analysis 
+summarized available data to investigate the safety and efficacy of concurrent 
+use of anthracyclines and trastuzumab. Eligible studies were identified through 
+several search strategies and assessed for quality. Data were extracted from 
+studies in terms of baseline characteristics and key statistics, which were 
+utilized to calculate pooled effect size. Eight studies were included in the 
+meta-analysis to evaluate the cardiac safety of concurrent use of anthracyclines 
+and trastuzumab. It is demonstrated that concomitant administration was 
+moderately associated with increased risk of cardiac-related adverse events (RR 
+= 1.97, 95% CI 1.49-2.60, P < 0.001) by fixed effect model. In addition, 
+subgroup analysis showed combined use of anthracyclines and trastuzumab 
+significantly increased the likelihood of cardiac toxicity in neo-adjuvant 
+setting (RR = 1.51, 95% CI 1.10-2.07, P = 0.01) as well as in palliative setting 
+(RR = 3.92, 95% CI 2.11-7.27, P < 0.001). Also, we found concurrent treatment as 
+in neo-adjuvant treatment setting slightly increased pCR rate by randomized 
+effect model with the pooled RR being 1.52 (95% CI 1.05-2.20, P = 0.03). 
+Concurrent use of anthracyclines and trastuzumab increased the risk of cardiac 
+toxicity in both neo-adjuvant and metastatic settings, although moderately 
+increased pCR rate as neo-adjuvant treatment.
+
+DOI: 10.1007/s12032-014-0340-x
+PMID: 25416049 [Indexed for MEDLINE]
