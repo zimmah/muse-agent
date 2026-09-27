@@ -1,0 +1,40 @@
+1. Endocr Relat Cancer. 2009 Mar;16(1):73-83. doi: 10.1677/ERC-08-0065. Epub 2008
+ Oct 23.
+
+Incomplete surgical resection of ductal carcinomas in situ results in activation 
+of ERBB2 in residual breast cancer cells.
+
+Singer CF(1), Hudelist G, Fuchs EM, Köstler W, Fink-Retter A, 
+Gschwantler-Kaulich D, Gnant M, Lamm W, Rudas M, Czerwenka K, Kubista E.
+
+Author information:
+(1)Department of Obstetrics, Medical University of Vienna, Waehringer Guertel 
+18-20, 1090 Vienna, Austria. christian.singer@meduniwien.ac.at
+
+ERBB2 amplification and consecutive overexpression is a predictor for poor 
+prognosis in breast cancer patients. In addition, incomplete resection of 
+ERBB2-overexpressing tumors leads to increased proliferation of residual breast 
+cancer cells. While the local release of cytokines is thought to be responsible 
+for the malignant behavior of remaining tumor tissue, the exact mechanism is 
+still unknown. We have analyzed epidermal growth factor receptor (EGFR), 
+activated (p)EGFR, and activated (p)ERBB2 protein expression in 
+ERBB2-overexpressing and in non-ERBB2-overexpressing tumors from patients who 
+underwent breast surgery and consecutive re-excision for involved margins, and 
+compared expression levels by immunohistochemistry. While overall ERBB2 protein 
+expression in the initial and the re-excised sample were comparable, we observed 
+an increase in pERBB2 in ductal carcinomas in situ in both, ERBB2-overexpressing 
+(16/21 vs 24/24; P=0.018, chi(2) test) and non-ERBB2-overexpressing tumors (3/28 
+vs 5/12; P=0.025, chi(2) test). pERBB2 was not increased in invasive tumors, 
+regardless on whether the samples had been taken from a ERBB2-overexpressing 
+(9/25 vs 6/17; P=0.261, chi(2) test) or a non-ERBB2-overexpressing tumor (1/27 
+vs 0/8; P=0.581, chi(2) test). EGFR expression was only detected in 1/47 
+ERBB2-overexpressing primary tumors and 2/48 non-ERBB2-overexpressing tumors, 
+and was undetectable in re-excised specimen. Taken together, we have 
+demonstrated an increase in ERBB2 receptor activation in incompletely resected 
+preinvasive breast cancer. We hypothesize that receptor phosphorylation is 
+caused by growth factor stimulation in response to intraoperative tissue damage, 
+and perioperative inhibition of specific cytokines could become a promising 
+therapeutic strategy.
+
+DOI: 10.1677/ERC-08-0065
+PMID: 18948375 [Indexed for MEDLINE]
