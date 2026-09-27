@@ -1,0 +1,69 @@
+1. Cancer. 2020 Mar 15;126(6):1175-1182. doi: 10.1002/cncr.32653. Epub 2019 Dec
+18.
+
+Efficacy and safety of tailored and dose-dense adjuvant chemotherapy and 
+trastuzumab for resected HER2-positive breast cancer: Results from the phase 3 
+PANTHER trial.
+
+Papakonstantinou A(1), Matikas A(1), Bengtsson NO(2), Malmström P(3)(4), 
+Hedayati E(1), Steger G(5)(6), Untch M(7), Hübbert L(8)(9), Johansson H(1), 
+Hellström M(1), Gnant M(10), Loibl S(11), Greil R(12)(13), Moebus V(14), 
+Foukakis T(1), Bergh J(1).
+
+Author information:
+(1)Department of Oncology-Pathology, Karolinska Institute and University 
+Hospital, Stockholm, Sweden.
+(2)University Hospital Umeå, Umeå, Sweden.
+(3)Division of Oncology and Pathology, Department of Clinical Sciences, Lund 
+University, Lund, Sweden.
+(4)Department of Hematology, Oncology, and Radiation Physics, Skåne University 
+Hospital, Lund, Sweden.
+(5)Medical Oncology, Medical University of Vienna, Vienna, Austria.
+(6)Gaston H. Glock Research Center, Medical University of Vienna, Vienna, 
+Austria.
+(7)Department of Obstetrics and Gynecology, Helios Hospital Berlin-Buch, Berlin, 
+Germany.
+(8)Department of Medical and Health Sciences, Division of Cardiovascular 
+Medicine, Linkoping University, Linkoping, Sweden.
+(9)Transplant Institute, Sahlgrenska University Hospital, Gothenburg, Sweden.
+(10)Department of Surgery, Medical University of Vienna, Vienna, Austria.
+(11)German Breast Group, Neu-Isenburg, Germany.
+(12)Third Medical Department, Paracelsus Medical University, Salzburg, Austria.
+(13)Salzburg Cancer Research Institute, Cancer Cluster Salzburg, Salzburg, 
+Austria.
+(14)Department of Medicine II, Hematology & Oncology, Goethe University of 
+Frankfurt, Frankfurt, Germany.
+
+BACKGROUND: Dose-dense (DD) adjuvant chemotherapy improves outcomes in early 
+breast cancer (BC). However, there are no phase 3 randomized data to inform on 
+its combination with trastuzumab for patients with human epidermal growth factor 
+receptor 2 (HER2)-positive disease.
+METHODS: This was a protocol-predefined secondary analysis of the randomized 
+phase 3 Pan-European Tailored Chemotherapy (PANTHER) trial. Women 65 years old 
+or younger with node-positive or high-risk, node-negative BC were randomized 1:1 
+to either tailored (according to hematologic nadirs) and DD epirubicin and 
+cyclophosphamide followed by docetaxel or standard 5-fluorouracil, epirubicin, 
+and cyclophosphamide plus docetaxel every 3 weeks. Patients with HER2-positive 
+disease received 1 year of adjuvant trastuzumab. The primary endpoint was BC 
+relapse-free survival. In addition, HER2-positive patients and an equal number 
+of HER2-negative patients matched for age, treatment group, and institution who 
+were enrolled at Swedish sites were asked to participate in a predefined study 
+of cardiac safety and underwent echocardiography or multigated acquisition 
+scanning and electrocardiography at the baseline and at 4 and 6 years of 
+follow-up.
+RESULTS: There were 342 HER2-positive patients; 335 received at least 1 dose of 
+trastuzumab, and 29 patients discontinued trastuzumab prematurely. Relapse-free 
+survival was not statistically significantly in favor of the tailored and DD 
+group (hazard ratio, 0.68; 95% confidence interval, 0.37-1.27; P = .231). 
+Cardiac outcomes after 4 and 6 years of follow-up did not differ significantly 
+between HER2-positive and HER2-negative patients or between the 2 treatment 
+groups.
+CONCLUSIONS: The combination of DD chemotherapy and trastuzumab decreased the 
+relative risk for relapse by 32% in comparison with standard treatment, a 
+statistically nonsignificant difference. Its efficacy and safety merit further 
+evaluation as part of both escalation and de-escalation strategies.
+
+© 2019 American Cancer Society.
+
+DOI: 10.1002/cncr.32653
+PMID: 31851385 [Indexed for MEDLINE]
