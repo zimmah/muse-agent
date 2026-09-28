@@ -1,0 +1,39 @@
+1. J Pak Med Assoc. 2020 Jan;70(1):11-16. doi: 10.5455/JPMA.290165.
+
+The impact of hormone receptor status on survival and recurrence of 
+HER2-positive breast cancers in standard adjuvant setting: A retrospective study 
+in Tehran, Iran.
+
+Najafi S(1), Sadeghi M(2), Shajari MR(1), Abasvandi F(1), Mohebi K(1).
+
+Author information:
+(1)Department of Breast Diseases, Breast Cancer Research Center, Motamed Cancer 
+Institute, ACECR, Tehran, Iran.
+(2)Medical Biology Research Center, School of Medicine, Kermanshah University of 
+Medical Sciences, Kermanshah, Iran.
+
+OBJECTIVES: To evaluate hormone receptor status on survival and recurrence of 
+the human epidermal growth factor receptor 2-positive breast cancer treated with 
+Trastuzumab in the adjuvant setting.
+METHODS: The retrospective study was conducted in 2017 at the Breast Cancer 
+Research Centre, Tehran University of Medical Sciences, Tehran, Iran, and 
+comprised data of women aged >20 years with stage I-III of human epidermal 
+growth factor receptor 2-positive breast cancer who were treated with 
+Trastuzumab from 2008 to 2017. The patients were divided into two groups. Group 
+P had patients who were triple positive for human epidermal growth factor 
+receptor 2, oestrogen receptor and progesterone receptor. Group N had patients 
+positive for only human epidermal growth factor receptor 2. All patients in 
+group P were treated with hormone therapy. Overall survival, disease-free 
+survival, and distant metastasis rates were measured. SPSS 22 was used for data 
+analysis.
+RESULTS: Of the 263 patients, 169(%) were in group P with a mean age of 46.86 ± 
+10.92 years, and 94(%) were in group N with a mean age of 48.53±12.33 years 
+(p>0.05). There were no unfavourable predictors for overall survival and 
+disease-free survival except for stage (p<0.05). The difference on both counts 
+between the groups was not significant (p>0.05 each).
+CONCLUSIONS: The impact of hormone receptor positivity on survival and 
+progression of human epidermal growth fac tor receptor 2-positive breast cancer 
+remains an area of debate.
+
+DOI: 10.5455/JPMA.290165
+PMID: 31954016 [Indexed for MEDLINE]
