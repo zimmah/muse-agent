@@ -1,0 +1,47 @@
+1. BMC Cancer. 2020 Nov 16;20(1):1106. doi: 10.1186/s12885-020-07505-w.
+
+Utility of (18)F-FDG PET/CT for predicting pathologic complete response in 
+hormone receptor-positive, HER2-negative breast cancer patients receiving 
+neoadjuvant chemotherapy.
+
+Lee IH(1), Lee SJ(2), Lee J(3), Jung JH(3), Park HY(3), Jeong SY(4), Lee SW(4), 
+Chae YS(5).
+
+Author information:
+(1)Department of Oncology/Hematology, Catholic University of Daegu, School of 
+medicine, Daegu, South Korea.
+(2)Department of Oncology/Hematology, Kyungpook National University Chilgok 
+Hospital, Kyungpook National University, Daegu, South Korea.
+(3)Department of Breast and Thyroid Surgery, Kyungpook National University 
+Chilgok Hospital, Kyungpook National University, Daegu, South Korea.
+(4)Department of Nuclear Medicine, Kyungpook National University Chilgok 
+Hospital, Kyungpook National University, Daegu, South Korea.
+(5)Department of Oncology/Hematology, Kyungpook National University Chilgok 
+Hospital, Kyungpook National University, Daegu, South Korea. yschae@knu.ac.kr.
+
+BACKGROUND: Pathologic complete response (pCR) after neoadjuvant chemotherapy 
+(NAC) is a predictor of improved outcomes in breast cancer. In patients with 
+hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2) 
+-negative breast cancer, the response to NAC is variable and mostly limited. 
+This study was an investigation of the predictive relevance of parameters of 
+18F-FDG PET/CT for the pCR to NAC in patients with HR-positive, HER2-negative 
+breast cancer.
+METHODS: AH total of 109 consecutive HR-positive and HER2-negative breast cancer 
+patients who were treated with NAC were enrolled in this prospective cohort 
+study. The relationships between pretreatment 18F-FDG PET/CT and clinical 
+outcomes including pathologic response to NAC were evaluated.
+RESULTS: All patients finished their planned NAC cycles and eight patients 
+(7.3%) achieved pCR. In the receiver operating characteristic (ROC) curve 
+analysis, pSUVmax exhibited high sensitivity and specificity for predicting pCR. 
+Furthermore, multivariate logistic regression analysis revealed pSUVmax as a 
+predictive factor for pCR (hazard ratio = 17.452; 95% CI = 1.847-164.892; 
+p = 0.013).
+CONCLUSION: The results of this study suggest that 18F-FDG PET/CT pSUVmax is a 
+predictive factor for pCR of HR-positive, HER2-negative breast cancer to NAC.
+
+DOI: 10.1186/s12885-020-07505-w
+PMCID: PMC7667770
+PMID: 33198673 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+disclosure.
