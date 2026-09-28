@@ -1,0 +1,65 @@
+1. Epidemiology. 2024 Sep 1;35(5):660-666. doi: 10.1097/EDE.0000000000001753.
+Epub  2024 Aug 6.
+
+The Population-level Effect of Adjuvant Therapies on Breast Cancer Recurrence: 
+Application of the Trend-in-Trend Design.
+
+Collin LJ(1), Waller LA(2), Cronin-Fenton DP(3)(4), Ahern TP(5), Goodman M(6), 
+McCullough LE(6), Kjærsgaard A(3)(4), Woolpert KM(3)(4), Silliman RA(7), 
+Christiansen PM(8)(9), Ejlertsen B(9)(10), Sørensen HT(3)(4), Lash TL(6).
+
+Author information:
+(1)From the Department of Population Health Sciences, Huntsman Cancer Institute, 
+University of Utah, Salt Lake City, UT.
+(2)Department of Biostatistics and Bioinformatics, Rollins School of Public 
+Health, Emory University, Atlanta, GA.
+(3)Department of Clinical Epidemiology, University and Aarhus University 
+Hospital, Aarhus, Denmark.
+(4)Department of Clinical Medicine, Aarhus University and Aarhus University 
+Hospital, Aarhus, Denmark.
+(5)Department of Surgery, The Robert Larner, M.D. College of Medicine at The 
+University of Vermont, Burlington, VT.
+(6)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, Atlanta, GA.
+(7)Department of Medicine, Boston University School of Medicine, Boston 
+University, Boston, MA.
+(8)Department of Plastic and Breast Surgery, Aarhus University Hospital, Aarhus, 
+Denmark.
+(9)Danish Breast Cancer Group, Rigshospitalet, Copenhagen University Hospital, 
+Copenhagen, Denmark.
+(10)Rigshospitalet, Copenhagen, Denmark.
+
+PURPOSE: Breast cancer has an average 10-year relative survival reaching 84%. 
+This favorable survival is due, in part, to the introduction of biomarker-guided 
+therapies. We estimated the population-level effect of the introduction of two 
+adjuvant therapies-tamoxifen and trastuzumab-on recurrence using the 
+trend-in-trend pharmacoepidemiologic study design.
+METHODS: We ascertained data on women diagnosed with nonmetastatic breast cancer 
+who were registered in the Danish Breast Cancer Group clinical database. We used 
+the trend-in-trend design to estimate the population-level effect of the 
+introduction of (1) tamoxifen for postmenopausal women with estrogen receptor 
+(ER)-positive breast cancer in 1982, (2) tamoxifen for premenopausal women 
+diagnosed with ER-positive breast cancer in 1999, and (3) trastuzumab for women 
+<60 years diagnosed with human epidermal growth factor receptor 2-positive 
+breast cancer in 2007.
+RESULTS: For the population-level effect of the introduction of tamoxifen among 
+premenopausal women diagnosed with ER-positive breast cancer in 1999, the risk 
+of recurrence decreased by nearly one-half (OR = 0.52), consistent with evidence 
+from clinical trials; however, the estimate was imprecise (95% confidence 
+interval [CI] = 0.25, 1.85). We observed an imprecise association between 
+tamoxifen use and recurrence from the time it was introduced in 1982 (OR = 1.24 
+95% CI = 0.46, 5.11), inconsistent with prior knowledge from clinical trials. 
+For the introduction of trastuzumab in 2007, the estimate was also consistent 
+with trial evidence, though imprecise (OR = 0.51; 95% CI = 0.21, 22.4).
+CONCLUSIONS: We demonstrated how novel pharmacoepidemiologic analytic designs 
+can be used to evaluate the routine clinical care and effectiveness of 
+therapeutic advancements in a population-based setting while considering some 
+limitations of the approach.
+
+Copyright © 2024 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/EDE.0000000000001753
+PMCID: PMC11309577
+PMID: 39109817 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
