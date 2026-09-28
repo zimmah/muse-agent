@@ -1,0 +1,36 @@
+1. Breast J. 2021 Aug;27(8):631-637. doi: 10.1111/tbj.14241. Epub 2021 May 20.
+
+HER-2/neu-positive breast cancer neoadjuvant chemotherapy response after 
+implementation of 2018 ASCO/CAP focused update.
+
+Wang L(1), Asirvatham JR(2), Ma Y(3), Reisenbichler ES(4), Jorns JM(1).
+
+Author information:
+(1)Medical College of Wisconsin, Milwaukee, WI, USA.
+(2)University of Florida, Gainsville, FL, USA.
+(3)University of Virginia, Charlottesville, VA, USA.
+(4)Yale School of Medicine, New Haven, CT, USA.
+
+Human Epidermal Growth Factor Receptor 2 (HER2), a routinely tested breast 
+cancer marker, is associated with worse prognosis yet increased sensitivity to 
+targeted neoadjuvant therapy (NAT) in breast cancer patients. The presence of 
+HER2 in breast carcinoma can be detected with either immunohistochemistry (IHC) 
+or in situ hybridization (ISH). In this study, we examine the relationship 
+between clinicopathological features, HER2 detection method (IHC vs ISH), and 
+prognostic outcomes in NAT-treated HER2-positive breast cancer patients. We 
+included 99 HER2-positive patients from three academic institutions following 
+2018 HER2 testing updates and conducted a retrospective correlational study. 
+Seventy-one (72%) were HER2-positive by IHC and 28 (28%) were positive following 
+reflexive ISH. Multivariate analysis showed biomarker status to be significantly 
+associated with pathologic complete response (pCR) (p = 0.003), Residual Cancer 
+Burden (RCB) (p = 0.007), and tumor size downstaging (p = 0.002) and HER2 
+detection method of IHC to be significantly associated with pCR (p = 0.05), RCB 
+(p = 0.004), and nodal downstaging (p= 0.03). In conclusion, HER2 detection 
+method and biomarker subtype allow for further prognostic stratification of 
+HER2-positive patients when 2018 American Society of Clinical Oncology 
+(ASCO)/College of American Pathologists (CAP) guideline updates are applied.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1111/tbj.14241
+PMID: 34018281 [Indexed for MEDLINE]
