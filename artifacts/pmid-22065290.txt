@@ -1,0 +1,41 @@
+1. Breast Cancer Res Treat. 2012 Jan;131(2):713-21. doi:
+10.1007/s10549-011-1862-y.  Epub 2011 Nov 8.
+
+Adjuvant therapy for HER2+ breast cancer: practice, perception, and toxicity.
+
+Rocque G(1), Onitilo A, Engel J, Pettke E, Boshoven A, Kim K, Rishi S, Waack B, 
+Wisinski KB, Tevaarwerk A, Burkard ME.
+
+Author information:
+(1)University of Wisconsin Carbone Cancer Center, Wisconsin Institutes for 
+Medical Research, 6th floor, 1111 Highland Avenue, Madison, WI, USA.
+
+Multiple adjuvant regimens are used for HER2+ breast cancer, but experience in 
+routine practice is not reported. We evaluated whether oncologists' perceptions 
+of these regimens matches clinical experience. We surveyed Wisconsin medical 
+oncologists throughout the state regarding factors impacting selection of TCH 
+(docetaxel, carboplatin, and trastuzumab) or anthracycline-based therapy. We 
+also reviewed 200 cases of HER2+ breast cancer treated at the University of 
+Wisconsin and the Marshfield Clinic and collected data on patient and tumor 
+characteristics, chemotherapy regimen, and toxicities. Two-thirds of surveyed 
+oncologists prefer anthracycline-based therapy, particularly for node-positive 
+cancers. However, TCH was preferred for early-stage (T1a-bN0) tumors. Half of 
+oncologists use prophylactic G-CSF with TCH. In the 200 cases reviewed at our 
+centers, acute toxicity occurred more frequently with TCH. There were fewer dose 
+modifications or delays for AC-TH (doxorubicin, cyclophosphamide, paclitaxel, 
+and trastuzumab) than TCH (31% vs. 47%, P = 0.07), possibly due to higher use of 
+prophylactic G-CSF with AC-TH (77% vs. 34% with TCH, P < 0.001). Fifteen 
+patients received prophylactic G-CSF during TCH; none developed neutropenic 
+fever. In contrast, 25% developed neutropenic fever during TCH without G-CSF. 
+There were modest declines in median left ventricular ejection fraction reaching 
+9% with AC-TH and 3% with TCH at 12 months, but early cessation of trastuzumab 
+was similar for both regimens. We conclude that TCH and AC-TH are common 
+adjuvant regimens used for HER2+ breast cancer. The preference of TCH for 
+early-stage disease and anthracycline-based therapy for node-positive disease 
+suggests that many oncologists perceive that TCH is safer and AC-TH more 
+effective. Myelosuppression from TCH is greater than AC-TH, but can be mitigated 
+with routine G-CSF.
+
+DOI: 10.1007/s10549-011-1862-y
+PMCID: PMC3329126
+PMID: 22065290 [Indexed for MEDLINE]
