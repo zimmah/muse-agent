@@ -1,0 +1,98 @@
+1. Lancet Oncol. 2019 Jun;20(6):816-826. doi: 10.1016/S1470-2045(19)30097-X. Epub
+ 2019 Apr 29.
+
+Trastuzumab deruxtecan (DS-8201a) in patients with advanced HER2-positive breast 
+cancer previously treated with trastuzumab emtansine: a dose-expansion, phase 1 
+study.
+
+Tamura K(1), Tsurutani J(2), Takahashi S(3), Iwata H(4), Krop IE(5), Redfern 
+C(6), Sagara Y(7), Doi T(8), Park H(9), Murthy RK(10), Redman RA(11), Jikoh 
+T(12), Lee C(12), Sugihara M(13), Shahidi J(12), Yver A(12), Modi S(14).
+
+Author information:
+(1)Department of Breast and Medical Oncology, National Cancer Center Hospital, 
+Tokyo, Japan. Electronic address: ketamura@ncc.go.jp.
+(2)Advanced Cancer Translational Research Institute, Department of Medical 
+Oncology, Showa University, Tokyo, Japan; Department of Medical Oncology, Kindai 
+University Faculty of Medicine, Osaka, Japan.
+(3)Department of Medical Oncology, The Cancer Institute Hospital of Japanese 
+Foundation for Cancer Research, Tokyo, Japan.
+(4)Department of Breast Oncology, Aichi Cancer Center Hospital, Nagoya, Japan.
+(5)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, 
+USA.
+(6)Medical Oncology, Sharp HealthCare, San Diego, CA, USA.
+(7)Department of Breast Surgery, Social Medical Corporation Hakuaikai Sagara 
+Hospital, Kagoshima, Japan.
+(8)Department of Gastrointestinal Oncology, National Cancer Center Hospital 
+East, Kashiwa, Japan.
+(9)Department of Medicine, Washington University School of Medicine, St Louis, 
+MO, USA.
+(10)Department of Breast Medical Oncology, University of Texas MD Anderson 
+Cancer Center, Houston, TX, USA.
+(11)Department of Medical Oncology & Hematology, University of Louisville, 
+Louisville, KY, USA.
+(12)Research and Development, Daiichi Sankyo, Inc, Basking Ridge, NJ, USA.
+(13)Biostatistics and Data Management, Daiichi Sankyo Co, Ltd, Tokyo, Japan.
+(14)Department of Medical Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+
+Erratum in
+    Lancet Oncol. 2019 Jun;20(6):e293. doi: 10.1016/S1470-2045(19)30292-X.
+
+Comment in
+    Lancet Oncol. 2019 Jun;20(6):748-750. doi: 10.1016/S1470-2045(19)30168-8.
+
+BACKGROUND: Trastuzumab deruxtecan (DS-8201a) is a novel HER2-targeted 
+antibody-drug conjugate with a humanised anti-HER2 antibody, cleavable 
+peptide-based linker, and potent topoisomerase I inhibitor payload. A phase 1, 
+non-randomised, open-label, multiple-dose study was done to assess the safety, 
+tolerability, and activity of trastuzumab deruxtecan in HER2-expressing, 
+advanced solid tumours. The dose escalation (part 1) has previously been 
+reported and the recommended doses for expansion of 5·4 mg/kg or 6·4 mg/kg were 
+established. In this Article, we report the safety and preliminary activity 
+results from this phase 1 trial in all patients with HER2-positive 
+advanced-stage breast cancer with previous trastuzumab emtansine treatment who 
+received trastuzumab deruxtecan at the recommended doses for expansion.
+METHODS: We did an open-label, dose-escalation and dose-expansion phase 1 trial 
+at eight hospitals and clinics in the USA and six in Japan. Eligible patients 
+were at least 18 years old in the USA and at least 20 years of age in Japan and 
+had advanced solid tumours (regardless of HER2 expression in dose escalation or 
+HER2 expression or mutation in dose expansion). The recommended doses for 
+expansion of 5·4 mg/kg or 6·4 mg/kg trastuzumab deruxtecan were administered 
+intravenously to patients once every 3 weeks until withdrawal of consent, 
+unacceptable toxicity, or progressive disease. In this Article, all patients 
+with HER2-positive advanced-stage breast cancer with previous trastuzumab 
+emtansine treatment who received trastuzumab deruxtecan at the recommended doses 
+for expansion were analysed together. The primary endpoints of the study were 
+safety and preliminary activity (proportion of patients who achieved an 
+objective response as assessed by the investigators). The activity evaluable set 
+included all patients who received at least one dose of trastuzumab deruxtecan 
+at the recommended doses for expansion, and for whom both baseline and 
+post-treatment activity data were available. The safety analysis set included 
+all patients who received at least one dose of trastuzumab deruxtecan at the 
+recommended doses for expansion. Enrolment for patients with HER2-positive 
+breast cancer has been completed. This trial is registered at 
+ClinicalTrials.gov, number NCT02564900, and ClinicalTrials.jp, number 
+JapicCTI-152978.
+FINDINGS: Between Aug 28, 2015, and Aug 10, 2018, 115 of 118 patients with 
+HER2-positive breast cancer were treated with at least one dose of trastuzumab 
+deruxtecan at the recommended doses for expansion. All patients had at least one 
+treatment-emergent adverse event. Frequent grade 3 or worse treatment-emergent 
+adverse events included anaemia (19 [17%] of 115) and decreased neutrophil (16 
+[14%]), white blood cell (ten [9%]), and platelet (nine [8%]) counts. At least 
+one serious treatment-emergent adverse event occurred for 22 (19%) patients. 
+Investigators reported 20 cases of interstitial lung disease, pneumonitis, or 
+organising pneumonia, including one grade 3 event and two treatment-related 
+deaths due to pneumonitis. One death unrelated to study treatment was due to 
+progressive disease. 66 (59·5%; 95% CI 49·7-68·7) of 111 patients had a 
+confirmed objective response.
+INTERPRETATION: Trastuzumab deruxtecan had a manageable safety profile and 
+showed preliminary activity in trastuzumab emtansine-pretreated patients with 
+HER2-positive breast cancer. These results suggest that further development in 
+phase 2 and 3 clinical trials for HER2-positive breast cancer is warranted.
+FUNDING: Daiichi Sankyo Co, Ltd.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(19)30097-X
+PMID: 31047803 [Indexed for MEDLINE]
