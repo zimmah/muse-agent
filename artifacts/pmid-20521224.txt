@@ -1,0 +1,35 @@
+1. Curr Opin Mol Ther. 2010 Jun;12(3):350-60.
+
+Trastuzumab emtansine, an antibody-drug conjugate for the treatment of HER2+ 
+metastatic breast cancer.
+
+Niculescu-Duvaz I(1).
+
+Author information:
+(1)Institute of Cancer Research, Cancer Research Campaign Centre for Cancer 
+Therapeutics, 15 Cotswold Road, Sutton, Surrey, SM2 5NG, UK. ion@icr.ac.uk
+
+Roche Holding AG, and its subsidiaries Genentech Inc and Chugai Pharmaceutical 
+Co Ltd, are developing trastuzumab emtansine (trastuzumab-DM1) for the treatment 
+of HER2+ metastatic breast cancer. Trastuzumab emtansine is a tumor-activated 
+prodrug resulting from the conjugation of the humanized anti-HER2 mAb 
+trastuzumab, which has been used in the treatment of breast cancer for over 10 
+years, with ImmunoGen Inc's cytotoxic and antimitotic maytansine derivative DM1. 
+The maytansinoids bind microtubules in a manner similar to the vinca alkaloids; 
+however, maytansinoids have been recognized to be 20- to 100-fold more potent at 
+blocking mitosis. Nevertheless, the use of these compounds as single agents is 
+limited by toxicity. By conjugating DM1 with trastuzumab, the delivery of the 
+cytotoxic agent to target cells is more specific and reduces the safety 
+concerns. In preclinical studies, the conjugation was effective in breast cancer 
+cell lines resistant to trastuzumab, and demonstrated complete tumor regression 
+in SCID mice bearing KPL4 breast cancer xenografts. Clinically, trastuzumab 
+emtansine exhibited efficacy in patients with HER2+ metastatic breast cancer who 
+had progressed on previous chemotherapy regimens or with trastuzumab therapy. 
+Furthermore, preclinical studies have reported that trastuzumab emtansine 
+potentiates the effect of a number of chemotherapeutic agents (including 
+carboplatin, 5-fluorouracil and docetaxel), other antibodies, receptor tyrosine 
+kinase inhibitors and PI3K inhibitors, and many of these combinations are set to 
+be tested in humans. Trastuzumab emtansine offers an exciting new option for the 
+treatment of patients with refractory, metastatic breast cancer.
+
+PMID: 20521224 [Indexed for MEDLINE]
