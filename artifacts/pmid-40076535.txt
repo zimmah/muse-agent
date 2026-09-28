@@ -1,0 +1,47 @@
+1. Int J Mol Sci. 2025 Feb 23;26(5):1908. doi: 10.3390/ijms26051908.
+
+Pertuzumab in Combination with Trastuzumab and Docetaxel as Adjuvant Doublet 
+Therapy for HER2-Positive Breast Cancer: A Systematic Review.
+
+Ventura I(1)(2), Salcedo NP(3), Pérez-Bermejo M(4), Pérez-Murillo J(4), 
+Tejeda-Adell M(4), Tomás-Aguirre F(4), Legidos-García ME(4), Murillo-Llorente 
+MT(4).
+
+Author information:
+(1)Molecular and Mitochondrial Medicine Research Group, School of Medicine and 
+Health Sciences, Catholic University of Valencia San Vicente Mártir, C/Quevedo 
+nº 2, 46001 Valencia, Spain.
+(2)Translational Research Center San Alberto Magno CITSAM, Catholic University 
+of Valencia San Vicente Mártir, C/Quevedo nº 2, 46001 Valencia, Spain.
+(3)School of Medicine and Health Sciences, Catholic University of Valencia San 
+Vicente Mártir, C/Quevedo nº 2, 46001 Valencia, Spain.
+(4)SONEV Research Group, Faculty of Medicine and Health Sciences, Catholic 
+University of Valencia San Vicente Mártir, C/Quevedo nº 2, 46001 Valencia, 
+Spain.
+
+Breast cancer is the most clinically relevant pathology of the mammary gland and 
+is currently the most diagnosed malignant disease among women worldwide. In 
+breast cancer prevention, it is important to consider that the risk of 
+developing the disease is not the same for the entire population. This pathology 
+presents heterogeneous clinical manifestations and the most common 
+classification is related to the following hormonal receptors: estrogen receptor 
+(ER), progesterone receptor (PR), human epidermal growth factor receptor 2 
+(HER2), and triple-negative (TNBC). Currently, a new class of therapy is being 
+used for cancer treatment: anti-body-drug conjugates. A bibliographic search was 
+performed by establishing keywords and then combining them using Boolean 
+operators OR and AND. Thus, the search equation was formulated according to the 
+PICO search question to be used in the PubMed database. Results: Fifteen studies 
+that met the established inclusion criteria were analyzed, and their 
+methodological quality was assessed using the Joanna Briggs Institute approach, 
+demonstrating high reliability in the results obtained, the analyzed studies 
+focus on the combination of adjuvant Pertuzumab + Trastuzumab with chemotherapy 
+for the treatment of HER2-positive breast cancer. Scientific evidence suggests 
+that the combination of pertuzumab and trastuzumab not only improves the 
+survival of patients with HER2-positive breast cancer but also provides a safe 
+and flexible treatment option.
+
+DOI: 10.3390/ijms26051908
+PMCID: PMC11899880
+PMID: 40076535 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
