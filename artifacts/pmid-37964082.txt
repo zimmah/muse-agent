@@ -1,0 +1,51 @@
+1. J Cancer Res Clin Oncol. 2023 Dec;149(20):17933-17942. doi: 
+10.1007/s00432-023-05496-2. Epub 2023 Nov 14.
+
+Cost-utility analysis of trastuzumab deruxtecan versus trastuzumab emtansine in 
+HER2-positive metastatic breast cancer in Chinese setting.
+
+Hu S(#)(1), Wu Y(#)(1)(2), Luan J(2), Wang S(3), Fan G(4).
+
+Author information:
+(1)Department of Clinical Pharmacy, Shanghai General Hospital, Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200080, China.
+(2)Department of Pharmacy, The First Affiliated Hospital of Wannan Medical 
+College, Anhui, China.
+(3)Department of Clinical Pharmacy, Shanghai General Hospital, Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200080, China. 
+wangshuowensy@163.com.
+(4)Department of Clinical Pharmacy, Shanghai General Hospital, Shanghai Jiao 
+Tong University School of Medicine, Shanghai, 200080, China. guorfan@163.com.
+(#)Contributed equally
+
+PURPOSE: Trastuzumab deruxtecan (T-DXd) expressed substantial improvement in the 
+progression-free survival and overall survival contrasted with trastuzumab 
+emtansine (T-DM1) in patients with HER2-positive metastatic breast cancer (mBC), 
+becoming the second-line standard of care, promisingly. We aim to estimate the 
+cost-utility of T-DXd versus T-DM1 in HER2-positive mBC from the Chinese 
+healthcare perspective.
+METHODS: A partitioned survival model was applied to examine the cost-utility of 
+T-DXd versus T-DM1. Clinical patients and outcome data were sourced from the 
+DESTINY-Breast 03 trial. Costs and utilities were sourced in Chinese setting. 
+Total costs, quality-adjusted life months (QALMs), and an incremental 
+cost-utility ratios (ICUR) were calculated for cost-utility analysis. The 
+willingness-to-pay threshold was set at $3188/QALM. Univariate, scenario, and 
+probabilistic sensitivity analyses were performed.
+RESULTS: T-DXd group gained ∆QALM of 7.09 months and ∆Cost of $304,503 compared 
+with T-DM1 therapy, which caused an ICUR of $42,936/QALM. The results of 
+sensitivity analyses confirmed the base-case findings. Furthermore, T-DXd must 
+reduce the price to enter the Chinese mainland market. At least when the cycle 
+cost of T-DXd is reduced to $2975, T-DXd has an 83.3% chance of becoming a 
+better choice.
+CONCLUSIONS: T-DXd appears to be not cost effective compared with T-DM1 for 
+HER2-positive mBC patients previously treated with trastuzumab and a taxane.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00432-023-05496-2
+PMCID: PMC11796528
+PMID: 37964082 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial or 
+non-financial interests to disclose.
