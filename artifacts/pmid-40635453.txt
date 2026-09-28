@@ -1,0 +1,56 @@
+1. Cancer Res Treat. 2026 Jul;58(3):780-789. doi: 10.4143/crt.2025.219. Epub 2025
+ Jul 8.
+
+Impact of High Lymph Node Burden on Brain Metastases in Patients Who Achieved 
+Pathological Complete Response after Neoadjuvant Chemotherapy in HER2-Positive 
+Breast Cancer.
+
+Lee SA(1), Kim KJ(1), Woen DY(1), Lee SM(1), Oh K(1), Lee CE(1), Park WK(1), Yoo 
+JW(1), Shin DS(1), Ryu JM(1), Lee SK(1), Chae BJ(1), Yu J(1), Kim SW(1), Nam 
+SJ(1), Kim JY(2), Park YH(2), Ko EY(3), Ko ES(3), Lee JE(4).
+
+Author information:
+(1)Division of Breast Surgery, Department of Surgery, Samsung Medical Center, 
+Sungkyunkwan University School of Medicine, Seoul, Korea.
+(2)Division of Hematology Oncology, Department of Medicine, Samsung Medical 
+Center, Sungkyunkwan University School of Medicine, Seoul, Korea.
+(3)Department of Radiology, Samsung Medical Center, Sungkyunkwan University 
+School of Medicine, Seoul, Korea.
+(4)Division of Breast Surgery, Department of Surgery, Samsung Medical Center, 
+Sungkyunkwan University School of Medicine, Seoul, Korea. 
+jeongeon.lee@samsung.com.
+
+PURPOSE: This study aims to investigate the clinical characteristics, outcomes, 
+and predictors of brain metastases in human epidermal growth factor receptor 2 
+(HER2)-positive advanced breast cancer patients who achieved pathological 
+complete response (pCR) following neoadjuvant chemotherapy (NAC). This research 
+seeks to inform surveillance strategies and optimize management for high-risk 
+subgroups.
+MATERIALS AND METHODS: A retrospective analysis of 1,757 patients (2008-2022) 
+classified them into pCR (n=914) and non-pCR (n=843) groups post-NAC. Collected 
+data included demographics, clinical features, and metastasis parameters. 
+Survival outcomes and brain metastasis predictors were assessed using 
+Kaplan-Meier curves, Cox models, and logistic regression.
+RESULTS: Among pCR patients, brain metastases accounted for 54.2% of distant 
+metastases, significantly affecting overall survival (p < 0.001). Median distant 
+metastasis-free survival was shorter for brain metastases (13.4 months) compared 
+to extracranial metastases (31.1 months) in the pCR group (p=0.005). Positive 
+supraclavicular node (SCN) fine needle aspiration (FNA) and clinical N3 (cN3) 
+category were the strongest predictors of brain metastases (SCN FNA: odds ratio 
+[OR], 12.9; p < 0.001; cN3: OR, 12.1; p < 0.001). Multivariable Cox regression 
+analysis revealed that positive SCN FNA and cN3 category were strong predictors 
+of reduced distant metastasis-free survival (SCN FNA: hazard ratio, 2.5; 95% 
+confidence interval [CI], 1.3 to 3.6; p < 0.001; cN3: hazard ratio, 11.3; 95% 
+CI, 4.9 to 33.0; p < 0.001).
+CONCLUSION: This study highlights the challenges of brain metastases in 
+HER2-positive pCR patients, emphasizing the need for tailored therapeutic 
+strategies and enhanced surveillance. High lymph node burden prior to NAC is a 
+significant factor in risk assessment. Therefore, it may be advisable to 
+recommend post-surgery surveillance for high-risk patients.
+
+DOI: 10.4143/crt.2025.219
+PMCID: PMC13382567
+PMID: 40635453 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest Conflict of interest 
+relevant to this article was not reported.
