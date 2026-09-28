@@ -1,0 +1,118 @@
+1. Ann Surg Oncol. 2025 Oct;32(11):8243-8253. doi: 10.1245/s10434-025-17862-0.
+Epub  2025 Jul 24.
+
+Impact of Neoadjuvant Chemotherapy on Surgical Outcomes and Conversion to 
+Node-Negativity in Invasive Lobular Breast Cancer: Analysis of Molecularly 
+High-Risk Tumors by Histologic Subtype on the I-SPY2 Clinical Trial.
+
+Mukhtar RA(1), Dimitroff K(2), Yau C(2), Chien AJ(2), Connolly EP(3), 
+Howard-McNatt M(4), Rao R(3), Ladores V(2), Golshan M(5), Sauder CA(5)(6), Ahmed 
+K(7), Lancaster R(8), Fox J(9), Gutnik L(8), Lee MC(7), Tchou J(10), Prionas 
+N(2), Arciero CA(11), Reyna C(12), Kuerer H(13), Switalla K(14), Taunk N(10), 
+Tuttle TM(14), Moran MS(5), Postlewait LM(11), Perlmutter J(15), DeMichele 
+A(10), Yee D(14), Hylton N(2), Symmans WF(13), Rugo HS(2), Shatsky R(16), Isaacs 
+C(17), Esserman LJ(2), Van't Veer L(2), Boughey JC(18).
+
+Author information:
+(1)UC San Francisco, 1825 4th st, San Francisco, CA, 94158, USA. 
+Rita.Mukhtar@ucsf.edu.
+(2)UC San Francisco, 1825 4th st, San Francisco, CA, 94158, USA.
+(3)Columbia University, New York, USA.
+(4)Wake Forest, Winston-Salem, USA.
+(5)Yale, New Haven, USA.
+(6)University of California, Davis, Davis, USA.
+(7)H. Lee Moffitt Cancer Center, Tampa, USA.
+(8)University of Alabama Birmingham, Birmingham, USA.
+(9)Montefiore Medical Center, Bronx, USA.
+(10)University of Pennsylvania, Philadelphia, USA.
+(11)Emory, Atlanta, USA.
+(12)Loyola University, Chicago, USA.
+(13)MD Anderson Cancer Center, Houston, USA.
+(14)University of Minnesota, Minneapolis, USA.
+(15)Gemini Group, Ann Arbor, MI, USA.
+(16)UC San Diego, San Diego, USA.
+(17)Georgetown University, Washington, USA.
+(18)Mayo Clinic, Rochester, USA.
+
+BACKGROUND: Invasive lobular carcinoma (ILC) has lower response rates to 
+neoadjuvant chemotherapy (NAC) than invasive ductal carcinoma. While ILC often 
+has low-risk biology, there is a high-risk subset within this heterogeneous 
+tumor type. We compared surgical treatment and response rates by histology in 
+I-SPY2, a multicenter NAC trial.
+METHODS: We evaluated 1329 patients with stage II-III breast cancer and 
+high-risk 70-gene assay. Patients with classic, pleomorphic, or mixed 
+lobular/ductal histology were included in the lobular cohort. We evaluated rates 
+of mastectomy, positive margins, axillary dissection, and conversion from 
+clinical node-positive (cN+) to pathologic node-negative (ypN-) status after 
+NAC.
+RESULTS: Overall, 124 patients (9.3%) had lobular histology, with 69% being 
+hormone receptor-positive/human epidermal growth factor receptor 2-negative 
+(HR+/HER2-). There was no difference in mastectomy rate (57.2% for lobular vs. 
+55.8% for non-lobular). The ILC cohort had more positive margins after 
+lumpectomy than the non-ILC cohort (21.2% vs. 7.9%; p = 0.023). Within cN0 
+cases, axillary dissection was significantly more common among the lobular cases 
+(24.1% vs. 14.0%; p = 0.039). Conversion from cN+ to ypN0 did not differ 
+statistically between lobular and non-lobular cases (40.9% vs. 51.2%; p = 0.11). 
+The nodal conversion rate among cN+lobular tumors was 30.6% in HR+/HER2-, 72.7% 
+in HER2+, and 66.7% in triple-negative cases.
+CONCLUSIONS: These data demonstrate the challenges of surgical management for 
+ILC but hold promise that molecular classification can improve treatment 
+selection. While high genomic risk is generally less common among ILC, our 
+findings suggest that gene expression assays in cN+ILC patients can identify a 
+subset who may benefit from NAC.
+
+© 2025. The Author(s).
+
+DOI: 10.1245/s10434-025-17862-0
+PMCID: PMC12494636
+PMID: 40705266 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: Rita A. Mukhtar reports research 
+funding from GE Healthcare. A. Jo Chien reports institutional research funding 
+from Merck, Amgen, Puma, Seagen, Pfizer, Olema; and advisory roles with 
+AstraZeneca and Genentech. Kamran Ahmed reports institutional research funding 
+from Eli Lilly, Genentech, and Gilead. Lily Gutnik reports research funding from 
+the American Society of Clinical Oncology (ASCO) and the National Cancer 
+Institute (NCI); and is an unpaid advisory board member for the Know Your Lemons 
+Foundation and PretacPlus. M. Catherine Lee reports I-SPY2 trial funding, paid 
+to her institution. Angela DeMichele reports institutional research funding from 
+Novartis, Pfizer, Genentech, and Neogenomics; and serves as Program Chair for 
+the Scientific Advisory Committee at ASCO. Douglas Yee reports research funding 
+from National Institutes of Health (NIH)/NCI P30 CA 077598, P01 CA234228-01 and 
+R01CA251600; consulting fees from Martell Diagnostics; and honoraria and travel 
+for speaking at the International Breast Cancer Conference. Nola M. Hylton 
+reports institutional research funding from the NIH. W. Fraser Symmans reports 
+shares in IONIS Pharmaceuticals and Eiger Biopharmaceuticals; has received 
+consulting fees from AstraZeneca; is a co-founder with equity in Delphi 
+Diagnostics; and has issued patents for (1) a method to calculate residual 
+cancer burden, and (2) genomic signature to measure sensitivity to endocrine 
+therapy. Chantal Reyna reports Elucent and agenda consulting, terminated 2022. 
+Hope S. Rugo reports institutional research support from AstraZeneca, Daiichi 
+Sankyo, Inc., F. Hoffmann-La Roche AG/Genentech, Inc., Gilead Sciences, Inc., 
+Lilly, Merck & Co., Novartis Pharmaceuticals Corporation, Pfizer, Stemline 
+Therapeutics, OBI Pharma, Ambrx, and Greenwich Pharma; and advisory and 
+consulting roles with Chugai, Puma, Sanofi, Napo, and Mylan. MD reports 
+receiving research grants from the NIH/NCI and NIH/National Institute on Aging 
+(NIA), and contracts from the Patient-Centered Outcomes Research Institute 
+(PCORI). Rebecca Shatsky reports institutional research funding from OBI 
+Pharmaceuticals, Quantum Leap Healthcare Collaborative, AstraZeneca and Gilead; 
+serves on the AstraZeneca and Stemline Advisory Boards and the Gilead Speaker’s 
+Bureau; has undertaken a consultancy role with Quantum Leap Healthcare 
+Collaborative; and declares consulting/advisory roles for Novartis, Lilly, 
+AstraZeneca, Daiichi Sankyo, Stemline, and Gilead. Claudine Isaacs reports 
+institutional research funding from Tesaro/GSK, Seattle Genetics, Pfizer, 
+AstraZeneca, BMS, Genentech, Novartis, and Regeneron; consultancy roles with 
+AstraZeneca, Genentech, Gilead, ION, Merck, Medscape, MJH Holdings, Novartis, 
+Pfizer, PUMA, Seagen; and royalties from Wolters Kluwer (UptoDate), and McGraw 
+Hill (Goodman and Gillman). Laura J. Esserman reports participation on the Blue 
+Cross Medical Advisory Panel; and is an uncompensated board member of Quantum 
+Leap Healthcare Collaborative. Laura J. van 't Veer is a founding advisor and 
+shareholder of Exai Bio; and part-time employee of, and owns stock in, Agendia. 
+Judy C. Boughey receives institutional research funding from Eli Lilly, 
+SimBioSys and Quantum Leap Healthcare; and serves on the Data Safety Monitoring 
+Board for Cairn Surgical. Katrina Dimitroff, Christina Yau, Eileen P. Connolly, 
+Marissa Howard-McNatt, Roshni Rao, Velle Ladores, Mehra Golshan, Candice A. 
+Sauder, Rachael Lancaster, Jana Fox, Julia Tchou, Nicolas Prionas, Cletus A. 
+Arciero, Henry Kuerer, Kayla Switalla, Neil Taunk, Todd M. Tuttle, Meena S. 
+Moran, Lauren M. Postlewait, and Jane Perlmutter declare no competing interests 
+that may be relevant to the contents of this study.
