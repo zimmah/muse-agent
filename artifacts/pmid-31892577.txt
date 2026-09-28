@@ -1,0 +1,42 @@
+1. Anticancer Res. 2020 Jan;40(1):281-286. doi: 10.21873/anticanres.13950.
+
+Evaluation of Concordance Between Histopathological, Radiological and 
+Biomolecular Variables in Breast Cancer Neoadjuvant Treatment.
+
+Buonomo OC(1), Grasso A(2), Pistolese CA(3), Anemona L(4), Portarena I(5), 
+Meucci R(3), Morando L(1), Deiana C(1), Materazzo M(1), Vanni G(1).
+
+Author information:
+(1)Breast Unit-Department of Surgical Science, Policlinico Tor Vergata (PTV) 
+University, Rome, Italy.
+(2)Breast Unit-Department of Surgical Science, Policlinico Tor Vergata (PTV) 
+University, Rome, Italy andry993@tiscali.it.
+(3)Department of Diagnostic Imaging and Interventional Radiology, Molecular 
+Imaging and Radiotherapy, Policlinico Tor Vergata (PTV) University, Rome, Italy.
+(4)Anatomic Pathology, Department of Experimental Medicine, Policlinico Tor 
+Vergata (PTV) University, Rome, Italy.
+(5)Department of Oncology, Policlinico Tor Vergata (PTV) University, Rome, 
+Italy.
+
+BACKGROUND/AIM: Neoadjuvant chemotherapy (NAC) for breast cancer (BC) is the 
+gold standard treatment for locally advanced tumors (LABC) that aims at 
+achieving a complete pathological response (pCR). Studies have been conducted to 
+evaluate and identify te concordance between radiological, histopathological and 
+biological variables of BC and final response to therapy, verified by definitive 
+histological examination after surgery.
+PATIENTS AND METHODS: Ninety-five BC patients were examined and subjected to 
+NAC. Immunohistochemical markers including oestrogen-receptor (ER), 
+progesterone-receptor (PR), Ki67 index, and human epidermal growth factor 
+receptor 2 (HER2) score were examined before and after neoadjuvant treatment.
+RESULTS: Younger age and a significant decrease in ER expression were associated 
+with better prognosis. Triple Negative (TN) and Her2-type breast cancers 
+benefited most from neoadjuvant chemotherapy with higher frequency of pCR.
+CONCLUSION: HER2-type and TN BC are correlated with best response to NAC. A 
+statistically significant correlation between radiological images and definitive 
+histological examination was not observed.
+
+Copyright© 2020, International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.13950
+PMID: 31892577 [Indexed for MEDLINE]
