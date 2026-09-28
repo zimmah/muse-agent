@@ -1,0 +1,48 @@
+1. Ann Surg Oncol. 2017 Dec;24(13):3896-3902. doi: 10.1245/s10434-017-6085-y.
+Epub  2017 Sep 15.
+
+Tumor Biology Predicts Pathologic Complete Response to Neoadjuvant Chemotherapy 
+in Patients Presenting with Locally Advanced Breast Cancer.
+
+Gentile LF(1), Plitas G(1), Zabor EC(2), Stempel M(1), Morrow M(1), Barrio 
+AV(3).
+
+Author information:
+(1)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA.
+(2)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA.
+(3)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA. barrioa@mskcc.org.
+
+BACKGROUND: Neoadjuvant chemotherapy (NAC) is used to convert patients with 
+inoperable locally advanced breast cancer (LABC) to operability, but has not 
+traditionally been used to avoid mastectomy or axillary dissection in this 
+subset.
+OBJECTIVE: The purpose of this study was to determine the rates of pathologic 
+complete response (pCR) in LABC patients, and identify factors predictive of pCR 
+to determine if responding patients might be suitable for limited surgery.
+METHODS: From 2006 to 2016, 1522 patients received NAC followed by surgery; 321 
+had advanced disease in the breast (cT4) and/or in the nodes (cN2/N3). pCR rates 
+were assessed by T and N stage, and receptor subtype.
+RESULTS: Of 321 LABC patients, 223 were cT4, 77 were cN2, and 82 were cN3. 
+Forty-three percent were hormone receptor (HR) positive/human epidermal growth 
+factor receptor 2 (HER2) negative (HR+/HER2-), 23% were triple negative, and 34% 
+were HER2+. The overall pCR rate was 25% and differed by receptor subtype 
+(HR+/HER2- 7%, triple negative 23%, HER2+ 48%; p < 0.001). Breast pCR occurred 
+in 27% of patients and was similar in T4 versus non-T4 disease (29% vs. 22%; 
+p = 0.26). Nodal pCR was achieved in 38% of cN+ patients and did not differ by 
+nodal stage (cN1 43%, cN2 36%, cN3 32%; p = 0.23). Nodal pCR was significantly 
+more common than breast pCR (p = 0.014) across all tumor subtypes. Receptor 
+subtype was the only predictor of overall pCR (p < 0.001).
+CONCLUSION: In patients with LABC, pCR after NAC was seen in 25%, and did not 
+differ by T or N stage. Tumor biology, but not extent of disease, predicted pCR. 
+Studies assessing the feasibility of surgical downstaging with NAC in LABC 
+patients are warranted.
+
+DOI: 10.1245/s10434-017-6085-y
+PMCID: PMC5697706
+PMID: 28916978 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: The authors have no conflict of 
+interest disclosures to report.
