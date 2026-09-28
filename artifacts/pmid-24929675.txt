@@ -1,0 +1,30 @@
+1. Breast Cancer Res Treat. 2014 Jul;146(2):451-6. doi:
+10.1007/s10549-014-3001-z.  Epub 2014 Jun 15.
+
+Ado-trastuzumab emtansine-associated telangiectasias in metastatic breast 
+cancer: a case series.
+
+Sibaud V(1), Niec RE, Schindler K, Busam KJ, Roché H, Modi S, Delord JP, 
+Lacouture ME.
+
+Author information:
+(1)Department of dermatology, Institut Claudius Regaud, Institut Universitaire 
+Cancer Toulouse-oncopole, Toulouse, France.
+
+Treatment of HER2-positive metastatic breast cancer with ado-trastuzumab 
+emtansine (T-DM1), a novel antibody-drug conjugate, has resulted in both 
+improved progression-free and overall survival. Recognition and treatment of 
+diverse adverse events related to T-DM1 is critical for safety and tolerability. 
+The most frequent adverse events with T-DM1 include fatigue, diarrhea, anemia, 
+elevated transaminases, and mild-to-moderate hemorrhagic events, which are 
+thought to be related to induced thrombocytopenia. Here, we present five case 
+series of cutaneous and mucosal telangiectasias, definitely related to T-DM1. 
+The development of telangiectasias represents a newly recognized adverse effect 
+of T-DM1. We provide description and timing of the telangiectasias and review 
+the mechanisms that may explain the formation of these vascular lesions in 
+association with T-DM1. Further, we describe associated bleeding events and 
+propose that induced telangiectasias could represent an additional cause of 
+T-DM1-associated hemorrhage.
+
+DOI: 10.1007/s10549-014-3001-z
+PMID: 24929675 [Indexed for MEDLINE]
