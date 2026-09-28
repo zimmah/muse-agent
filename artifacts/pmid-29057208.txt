@@ -1,0 +1,35 @@
+1. Anal Cell Pathol (Amst). 2017;2017:1350618. doi: 10.1155/2017/1350618. Epub
+2017  Sep 19.
+
+The Efficacy of Neoadjuvant Chemotherapy for HER-2-Positive Locally Advanced 
+Breast Cancer and Survival Analysis.
+
+Zhang W(1), Tian H(1), Yang SH(1).
+
+Author information:
+(1)Department of Breast Surgery, The Second Affiliated Hospital of Guangzhou 
+University of Chinese Medicine and Guangdong Provincial Hospital of Chinese 
+Medicine, Da De Lu No. 111, Guangzhou, Guangdong 510120, China.
+
+To provide reference data, we retrospectively investigated the effects of 
+neoadjuvant chemotherapy (NAC) on 119 patients with HER-2+ locally advanced 
+breast cancer, treated from November 2010 to July 2016, with respect to 
+influencing factors and survival. They were divided into the pathological 
+complete response (pCR; n = 15; 12.6%) and non-pCR (n = 104; 87.4%) groups. We 
+used Χ2 and logistic tests to the analyze effect and influencing factors. 
+Survival rate was analyzed by the Kaplan-Meier method and Log-rank test. We lost 
+12 patients (including 1 pCR patient) and followed 107 patients, of whom 31 (all 
+in the non-pCR group) had local recurrences or distant metastasis. The two 
+groups significantly differed in 3-year disease-free survival (pCR group: 100%; 
+non-pCR group: 59.0%; P = 0.039); pCR was significantly affected by histological 
+grade, PR status, Ki67 index, primary tumor size, clinical staging, and number 
+of trastuzumab cycles. The model was tested, and the difference was 
+statistically significant (Χ2 = 31.938, P = 0.032). Patients with HER-2+ locally 
+advanced breast cancer with pCR responses to NAC have improved prognoses. 
+Patients without pCR have increased risk for relapse. The use of a combination 
+of NAC, such as trastuzumab and chemotherapy, and more cycles should be 
+considered to increase the likelihood of pCR.
+
+DOI: 10.1155/2017/1350618
+PMCID: PMC5625754
+PMID: 29057208 [Indexed for MEDLINE]
