@@ -1,0 +1,35 @@
+1. Breast Cancer Res. 2014 Mar 5;16(2):209. doi: 10.1186/bcr3621.
+
+Trastuzumab emtansine: mechanisms of action and drug resistance.
+
+Barok M, Joensuu H, Isola J.
+
+Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate that is effective 
+and generally well tolerated when administered as a single agent to treat 
+advanced breast cancer. Efficacy has now been demonstrated in randomized trials 
+as first line, second line, and later than the second line treatment of advanced 
+breast cancer. T-DM1 is currently being evaluated as adjuvant treatment for 
+early breast cancer. It has several mechanisms of action consisting of the 
+anti-tumor effects of trastuzumab and those of DM1, a cytotoxic anti-microtubule 
+agent released within thetarget cells upon degradation of the human epidermal 
+growth factor receptor-2 (HER2)-T-DM1 complex in lysosomes. The cytotoxic effect 
+of T-DM1 likely varies depending on the intracellular concentration of DM1 
+accumulated in cancer cells, high intracellular levels resulting in rapid 
+apoptosis, somewhat lower levels in impaired cellular trafficking and mitotic 
+catastrophe, while the lowest levels lead to poor response to T-DM1. Primary 
+resistance of HER2-positive metastatic breast cancer to T-DM1 appears to be 
+relatively infrequent, but most patients treated with T-DM1 develop acquired 
+drug resistance. The mechanisms of resistance are incompletely understood, but 
+mechanisms limiting the binding of trastuzumab to cancer cells may be involved. 
+The cytotoxic effect of T-DM1 may be impaired by inefficient internalization or 
+enhanced recycling of the HER2-T-DM1 complex in cancer cells, or impaired 
+lysosomal degradation of trastuzumab or intracellular trafficking of HER2. The 
+effect ofT-DM1 may also be compromised by multidrug resistance proteins that 
+pump DM1 out of cancer cells. In this review we discuss the mechanism of action 
+of T-DM1 and the key clinical results obtained with it, the combinations ofT-DM1 
+with other cytotoxic agents and anti-HER drugs, and the potential resistance 
+mechanisms and the strategies to overcome resistance to T-DM1.
+
+DOI: 10.1186/bcr3621
+PMCID: PMC4058749
+PMID: 24887180 [Indexed for MEDLINE]
