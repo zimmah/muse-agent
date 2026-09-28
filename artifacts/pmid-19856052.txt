@@ -1,0 +1,41 @@
+1. Int J Clin Oncol. 2009 Oct;14(5):431-5. doi: 10.1007/s10147-009-0898-z. Epub 
+2009 Oct 25.
+
+Cardiac safety of trastuzumab as adjuvant treatment for Japanese patients with 
+early breast cancer.
+
+Ishihara M(1), Mukai H, Nagai S, Mukohara T.
+
+Author information:
+(1)Division of Oncology/Hematology, National Cancer Center Hospital East, 
+Kashiwa, Chiba, Japan.
+
+BACKGROUND: Recently, randomized trials revealed that trastuzumab as adjuvant 
+treatment was effective in human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer patients. Safety information on adjuvant 
+trastuzumab use in Japanese patients, especially cardiac toxicity data, is 
+needed.
+METHODS: We retrospectively reviewed 48 patients with early-stage HER2-positive 
+breast cancer who were treated with curative surgery and adjuvant trastuzumab at 
+the National Cancer Center Hospital East (Kashiwa, Japan). The cardiac safety as 
+well as the short-term efficacy of trastuzumab were evaluated.
+RESULTS: The median age of the patients was 54 years. All patients received 
+adjuvant or neoadjuvant cytotoxic chemotherapy. Twenty-seven patients (56%) 
+received adjuvant radiation therapy. Forty-four patients (92%) received 
+trastuzumab without concurrent cytotoxic chemotherapy and 4 patients (8%) on 
+taxanes received trastuzumab concurrently. Twenty-five patients completed 1 year 
+of trastuzumab treatment and 5 patients completed 2 years of trastuzumab 
+treatment. Nine patients discontinued trastuzumab treatment, because of 
+progressive disease (1 patient), decrease in left ventricular ejection fraction 
+(LVEF; 2 patients), patient's refusal (4 patients), and other reasons (2 
+patients). There were five cardiac events. A decrease in LVEF to less than 50% 
+was seen in 2 patients. The relationship between trastuzumab treatment and the 
+cardiac events was unclear in 3 patients. The median follow-up time was 21.2 
+months. The disease-free survival (DFS) was 97.5% at 1 year and 92.9% at 2 
+years.
+CONCLUSION: The incidence of cardiac events caused by trastuzumab treatment was 
+low in our analysis. Adjuvant trastuzumab treatment for up to at least 1 year 
+should be safe for Japanese breast cancer patients.
+
+DOI: 10.1007/s10147-009-0898-z
+PMID: 19856052 [Indexed for MEDLINE]
