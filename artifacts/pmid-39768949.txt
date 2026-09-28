@@ -1,0 +1,47 @@
+1. Medicina (Kaunas). 2024 Dec 16;60(12):2069. doi: 10.3390/medicina60122069.
+
+Trastuzumab Rechallenge in HER2-Positive Metastatic Breast Cancer: A Promising 
+Strategy for Enhanced Progression-Free Survival Post Ado-Trastuzumab Emtansine 
+Progression.
+
+Altıntaş YE(1), Kınıkoğlu O(1), Yıldız A(2), Işık D(1), Özkerim U(1), Öksüz 
+S(1), Tüylü TB(1), Sürmeli H(1), Turan N(1), Odabaş H(1).
+
+Author information:
+(1)Department of Medical Oncology, Kartal Dr. Lütfi Kırdar City Hospital, 
+Istanbul 34865, Türkiye.
+(2)Department of Medical Oncology, Istanbul University Oncology Institute, 
+Istanbul 34093, Türkiye.
+
+Background and Objectives: Metastatic breast cancer (MBC), particularly the 
+HER2-positive subtype, represents a significant clinical challenge, with 
+approximately 20-25% of breast cancer cases demonstrating HER2 overexpression. 
+Trastuzumab, a monoclonal antibody targeting HER2, has significantly improved 
+outcomes in these patients. However, progression after second-line treatments 
+such as trastuzumab emtansine (T-DM1) necessitates exploring subsequent 
+therapeutic options. This study aims to compare the efficacy of trastuzumab plus 
+gemcitabine (GT) with lapatinib plus capecitabine (LC) as third-line treatments 
+in HER2-positive MBC post-T-DM1 failure. Materials and Methods: This 
+retrospective study included 98 HER2-positive MBC patients treated between 2017 
+and 2023 who progressed after T-DM1. Patients were divided into two groups: 21 
+received GT, and 28 received LC. Key endpoints included progression-free 
+survival (PFS), overall survival (OS), objective response rate (ORR), and 
+adverse events. Statistical analyses were performed using SPSS 26.0, with 
+Kaplan-Meier survival curves, log-rank tests, and Cox proportional hazards 
+models. Results: Median PFS was significantly longer in the GT group (9.5 
+months) compared to the LC group (4.3 months, p = 0.02). OS was also higher for 
+GT (22.1 months vs. 10.0 months, p = 0.02). ORR favored the GT group (33.3% vs. 
+10.7%, p = 0.046), and progressive disease was more common in the LC group 
+(57.1% vs. 33.3%, p = 0.022). The safety profile showed higher rates of diarrhea 
+in the LC group, but both regimens were generally well tolerated. Conclusions: 
+Trastuzumab re-challenge with gemcitabine demonstrated superior PFS, OS, and ORR 
+compared to lapatinib plus capecitabine, suggesting it may be a more effective 
+third-line therapy in HER2-positive MBC patients who have progressed after 
+T-DM1. Further prospective studies are needed to confirm these findings and 
+optimize treatment sequencing.
+
+DOI: 10.3390/medicina60122069
+PMCID: PMC11679937
+PMID: 39768949 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
