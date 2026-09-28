@@ -1,0 +1,55 @@
+1. PLoS One. 2012;7(6):e37946. doi: 10.1371/journal.pone.0037946. Epub 2012 Jun
+5.
+
+Differential response of immunohistochemically defined breast cancer subtypes to 
+anthracycline-based adjuvant chemotherapy with or without paclitaxel.
+
+Fountzilas G(1), Dafni U, Bobos M, Batistatou A, Kotoula V, Trihia H, 
+Malamou-Mitsi V, Miliaras S, Chrisafi S, Papadopoulos S, Sotiropoulou M, 
+Filippidis T, Gogas H, Koletsa T, Bafaloukos D, Televantou D, Kalogeras KT, 
+Pectasides D, Skarlos DV, Koutras A, Dimopoulos MA.
+
+Author information:
+(1)Department of Medical Oncology, Papageorgiou Hospital, Aristotle University 
+of Thessaloniki School of Medicine, Thessaloniki, Greece. fountzil@auth.gr
+
+BACKGROUND: The aim of the present study was to investigate the efficacy of 
+adjuvant dose-dense sequential chemotherapy with epirubicin, paclitaxel, and CMF 
+in subgroups of patients with high-risk operable breast cancer, according to 
+tumor subtypes defined by immunohistochemistry (IHC).
+MATERIALS AND METHODS: Formalin-fixed paraffin-embedded (FFPE) tumor tissue 
+samples from 1,039 patients participating in two adjuvant dose-dense sequential 
+chemotherapy phase III trials were centrally assessed in tissue micro-arrays by 
+IHC for 6 biological markers, that is, estrogen receptor (ER), progesterone 
+receptor (PgR), HER2, Ki67, cytokeratin 5 (CK5), and EGFR. The majority of the 
+cases were further evaluated for HER2 amplification by FISH. Patients were 
+classified as: luminal A (ER/PgR-positive, HER2-negative, Ki67(low)); luminal B 
+(ER/PgR-positive, HER2-negative, Ki67(high)); luminal-HER2 (ER/PgR-positive, 
+HER2-positive); HER2-enriched (ER-negative, PgR-negative, HER2-positive); 
+triple-negative (TNBC) (ER-negative, PgR-negative, HER2-negative); and basal 
+core phenotype (BCP) (TNBC, CK5-positive and/or EGFR-positive).
+RESULTS: After a median follow-up time of 105.4 months the 5-year disease-free 
+survival (DFS) and overall survival (OS) rates were 73.1% and 86.1%, 
+respectively. Among patients with HER2-enriched tumors there was a significant 
+benefit in both DFS and OS (log-rank test; p = 0.021 and p = 0.006, 
+respectively) for those treated with paclitaxel. The subtype classification was 
+found to be of both predictive and prognostic value. Setting luminal A as the 
+referent category, the adjusted for prognostic factors HR for relapse for 
+patients with TNBC was 1.91 (95% CI: 1.31-2.80, Wald's p = 0.001) and for death 
+2.53 (95% CI: 1.62-3.60, p<0.001). Site of and time to first relapse differed 
+according to subtype. Locoregional relapses and brain metastases were more 
+frequent in patients with TNBC, while liver metastases were more often seen in 
+patients with HER2-enriched tumors.
+CONCLUSIONS: Triple-negative phenotype is of adverse prognostic value for DFS 
+and OS in patients treated with adjuvant dose-dense sequential chemotherapy. In 
+the pre-trastuzumab era, the HER2-enriched subtype predicts favorable outcome 
+following paclitaxel-containing treatment.
+
+DOI: 10.1371/journal.pone.0037946
+PMCID: PMC3367950
+PMID: 22679488 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: TF is an employee in 
+“Micromedica” Histopathology Laboratory, Athens, Greece. This does not alter the 
+authors‘ adherence to all PLoS ONE policies on sharing data and materials. The 
+remaining authors have declared that no competing interests exist.
