@@ -1,0 +1,68 @@
+1. Oncologist. 2017 Apr;22(4):394-401. doi: 10.1634/theoncologist.2016-0307. Epub
+ 2017 Mar 17.
+
+Performance of Mid-Treatment Breast Ultrasound and Axillary Ultrasound in 
+Predicting Response to Neoadjuvant Chemotherapy by Breast Cancer Subtype.
+
+Candelaria RP(1), Bassett RL(2), Symmans WF(3), Ramineni M(3), Moulder SL(4), 
+Kuerer HM(5), Thompson AM(5), Yang WT(6).
+
+Author information:
+(1)Department of Diagnostic Radiology, Unit 1350 rcandelaria@mdanderson.org.
+(2)Department of Biostatistics, Unit 1411.
+(3)Department of Pathology, Unit 1445.
+(4)Department of Breast Medical Oncology, Unit 1354.
+(5)Department of Breast Surgical Oncology, Unit 1434, The University of Texas MD 
+Anderson Cancer Center, Houston, Texas, USA.
+(6)Department of Diagnostic Radiology, Unit 1350.
+
+BACKGROUND: The primary objective was to determine whether mid-treatment 
+ultrasound measurements of index breast tumors and index axillary nodes of 
+different cancer subtypes associate with residual cancer burden (RCB).
+METHODS: Patients with invasive breast cancer who underwent neoadjuvant 
+chemotherapy and had pre-treatment and mid-treatment breast and axillary 
+ultrasound were included in this single-institution, retrospective cohort study. 
+Linear regression analysis assessed associations between RCB with (a) change in 
+index breast tumor size, (b) change in index node size, and (c) absolute number 
+of abnormal nodes at mid-treatment. Multivariate linear regression was used to 
+calculate best-fit models for RCB.
+RESULTS: One hundred fifty-nine patients (68 triple negative breast cancer 
+[TNBC], 45 hormone receptor [HR]+/human epidermal growth factor receptor 2 
+[HER2]-, and 46 HR-/HER2+) were included. Median age at diagnosis was 50 years, 
+range 30-76. Median tumor size was 3.4 cm, range 0.9-10.4. Pathological complete 
+response/RCB-I rates were 36.8% (25/68) for TNBC patients, 24.4% (11/45) for 
+HR+/HER2- patients, and 71.7% (33/46) for HR-/HER2+ patients. Linear regression 
+analyses demonstrated associations between percent change in tumor ultrasound 
+measurements at mid-treatment with RCB index score in TNBC and HR+/HER2- 
+(p < .05) but not in HR-/HER2+ (p > .05) tumors and an association between 
+axillary ultrasound assessment of number of abnormal nodes at mid-treatment with 
+RCB index score across all subtypes (p < .05).
+CONCLUSION: Performance characteristics of breast ultrasound associated with RCB 
+vary by cancer subtype, whereas the performance characteristics of axillary 
+ultrasound associated with RCB are consistent across cancer subtype. Breast and 
+axillary ultrasound may be valuable in monitoring response to neoadjuvant 
+therapy. The Oncologist 2017;22:394-401 IMPLICATIONS FOR PRACTICE: The 
+differential performance characteristics of breast ultrasound by molecular 
+subtype and the consistent performance characteristics of axillary ultrasound 
+across molecular subtypes can have clinical utility in monitoring response to 
+neoadjuvant therapy.
+
+摘要 背景. 主要目的是在不同亚型的乳腺癌中确定指示性乳腺肿瘤和指示性腋窝淋巴结的治疗中超声测量结果是否与残余癌负荷（RCB）相关。 方法. 
+本项单中心、回顾性队列研究纳入了接受新辅助化疗且在治疗前和治疗中进行过乳腺和腋窝超声的浸润性乳腺癌患者。采用线性回归分析评估RCB与治疗中以下指标的关系：（a）指示性乳腺肿瘤大小的变化；（b）指示性淋巴结大小的变化；（c）异常淋巴结的绝对数量。采用多变量线性回归法计算RCB的最佳拟合模型。 
+结果. 本研究纳入了159例患者[68例为三阴性乳腺癌（TNBC）, 45例为激素受体（HR）+/人表皮生长因子受体2（HER2）–, 
+46例为HR–/HER2+]。诊断时的中位年龄为50岁, 范围为30‐76岁。中位肿瘤大小为3.4cm, 范围为0.9‐10.4 
+cm。TNBC患者的病理学完全缓解/RCB‐I率为36.8%（25/68）, HR+/HER2– 患者为24.4%（11/45）, 
+HR–/HER2+患者为71.7%（33/46）。线性回归分析表明, 在TNBC和HR+/HER2– 肿瘤中, 
+治疗中肿瘤超声测量结果的百分比变化与RCB指数评分之间存在关联（p < 0.05）, 而在HR–/HER2+肿瘤中二者不相关（p >0 .05）；在所有亚型中, 
+通过治疗中腋窝超声评估的异常淋巴结的数量均与RCB指数评分相关（p < 0.05）。 结论. 在不同亚型的乳腺癌中, 乳腺超声对RCB的预测性能不尽相同, 
+而腋窝超声对RCB的预测性能在所有亚型中均保持一致。乳腺和腋窝超声在新辅助治疗的反应监测方面具有潜在应用价值。 对临床实践的提示：在不同分子亚型的乳腺癌中, 
+乳腺超声的性能特征存在差异, 而腋窝超声的性能特征在各亚型中保持一致, 二者在新辅助治疗的反应监测方面具有潜在的临床应用价值。
+
+© AlphaMed Press 2017.
+
+DOI: 10.1634/theoncologist.2016-0307
+PMCID: PMC5388386
+PMID: 28314842 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures of potential conflicts of interest 
+may be found at the end of this article.
