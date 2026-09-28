@@ -1,0 +1,52 @@
+1. Ann Surg Oncol. 2017 Sep;24(9):2556-2562. doi: 10.1245/s10434-017-5898-z. Epub
+ 2017 May 30.
+
+Standard Pathologic Features Can Be Used to Identify a Subset of Estrogen 
+Receptor-Positive, HER2 Negative Patients Likely to Benefit from Neoadjuvant 
+Chemotherapy.
+
+Petruolo OA(1), Pilewskie M(1), Patil S(2), Barrio AV(1), Stempel M(1), Wen 
+HY(3), Morrow M(4).
+
+Author information:
+(1)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, 10065, USA.
+(2)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA.
+(3)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA.
+(4)Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer 
+Center, New York, NY, 10065, USA. morrowm@mskcc.org.
+
+BACKGROUND: The benefit of neoadjuvant chemotherapy (NAC) in patients with 
+estrogen receptor-positive (ER+)/human epidermal growth factor receptor 
+2-negative (HER2-) breast cancers and in invasive lobular carcinoma (ILC) is 
+uncertain due to the low rates of pathologic complete response (pCR).
+OBJECTIVE: The aim of this study was to determine if pathologic features can 
+identify subsets likely to benefit from NAC.
+METHODS: Patients with stage I-III ER+, HER2- breast cancer receiving NAC were 
+retrospectively reviewed. Endpoints were downstaging to breast-conserving 
+surgery (BCS) and nodal pCR after NAC. Patients were grouped by progesterone 
+receptor (PR) status and grade/differentiation (high grade or poor [HP] vs. 
+non-HP).
+RESULTS: From 2007 to 2016, 402 ER+/HER2- cancers in patients receiving NAC were 
+identified. Median age was 50 years, 98% were clinical stage II-III, and 75% 
+were cN+. Overall pCR rate was 5%; breast pCR in 7% and nodal pCR in 15% of cN+ 
+patients (p < 0.0001). Patients with ILC initially ineligible for BCS (n = 56) 
+were less likely to downstage than those with invasive ductal carcinoma (IDC; 
+n = 183, 16 vs. 48%, p ≤ 0.0001), with a similar trend in the axilla 
+(p = 0.086). The rates of BCS eligibility after NAC were highest in PR-/HP 
+patients (62%) and lowest in PR+/non-HP patients (29%) [p = 0.005]. In the 
+axilla, nodal pCR among cN+ patients (n = 301) ranged from 0 to 35% (p < 0.0001) 
+within these groups, and was most frequent in PR-/HP patients.
+CONCLUSIONS: ER+/HER2- patients most likely to benefit from NAC are those with 
+PR- and HP tumors. Patients with ILC are unlikely to downstage in the breast or 
+axilla compared with IDC. The use of these criteria can assist in defining the 
+initial treatment approach.
+
+DOI: 10.1245/s10434-017-5898-z
+PMCID: PMC5649343
+PMID: 28560596 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest 
+disclosures to report.
