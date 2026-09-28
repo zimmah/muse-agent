@@ -1,0 +1,43 @@
+1. J Cancer Res Clin Oncol. 2013 Jun;139(6):995-1003. doi: 
+10.1007/s00432-013-1413-5. Epub 2013 Mar 12.
+
+Plasma HER2 amplification in cell-free DNA during neoadjuvant chemotherapy in 
+breast cancer.
+
+Bechmann T(1), Andersen RF, Pallisgaard N, Madsen JS, Maae E, Jakobsen EH, Bak 
+Jylling AM, Steffensen KD, Jakobsen A.
+
+Author information:
+(1)The Faculty of Health Sciences, University of Southern Denmark, Odense, 
+Denmark. troels.bechmann@slb.regionsyddanmark.dk
+
+PURPOSE: Measurement of human epidermal growth factor receptor 2 (HER2) gene 
+amplification in cell-free DNA (cfDNA) is an evolving technique in breast 
+cancer, enabling liquid biopsies and treatment monitoring. The present study 
+investigated the dynamics of plasma HER2 gene copy number and amplification in 
+cfDNA during neoadjuvant chemotherapy.
+PATIENTS AND METHODS: The study included 50 patients from a prospective cohort 
+analyzed during neoadjuvant chemotherapy. Fifty healthy women with no history of 
+cancer served as control group and 15 patients with metastatic breast cancer 
+were used to validate the assay. Total cfDNA and HER2 gene amplification were 
+measured by quantitative real-time polymerase chain reaction.
+RESULTS: Plasma HER2 gene copy number (p = 0.794), HER2 gene amplification (p = 
+0.127) and total cfDNA (p = 0.440) did not differ significantly from the levels 
+in the control group. Eighteen patients (36 %) obtained pathological complete 
+response (pCR). HER2 gene copy number before the operation was significantly 
+higher than the baseline level (p < 0.0001), but there was no difference between 
+patients with and without pCR (p = 0.569). Likewise, there was no difference in 
+plasma HER2 gene amplification between tissue HER2-positive and -negative 
+patients (p = 0.754).
+CONCLUSIONS: The results indicate that neither total cfDNA nor HER2 gene copy 
+number is elevated in primary breast cancer patients compared to healthy 
+controls. The level of both parameters increased during neoadjuvant 
+chemotherapy, but without any relation to treatment effect. There was no 
+indication of plasma HER2 gene amplification in the HER2-positive patients in 
+the neoadjuvant setting.
+
+DOI: 10.1007/s00432-013-1413-5
+PMCID: PMC11824758
+PMID: 23479212 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflicts of interest.
