@@ -1,0 +1,57 @@
+1. Breast Cancer Res Treat. 2021 Aug;189(1):93-101. doi: 
+10.1007/s10549-021-06266-9. Epub 2021 Jun 4.
+
+Neoadjuvant weekly paclitaxel and carboplatin with trastuzumab and pertuzumab in 
+HER2-positive breast cancer: a Brown University Oncology Research Group (BrUOG) 
+study.
+
+Lopresti ML(1), Bian JJ(1)(2), Sakr BJ(3), Strenger RS(1), Legare RD(3), Fenton 
+M(1), Witherby SM(1), Dizon DS(1), Pandya SV(3)(4), Stuckey AR(3), Edmondson 
+DA(3), Gass JS(3), Emmick CM(1), Graves TA(1), Cutitar M(1), Olszewski AJ(1), 
+Sikov WM(5)(6).
+
+Author information:
+(1)Departments of Medicine and Surgery, Warren Alpert Medical School of Brown 
+University, Lifespan Comprehensive Cancer Centers, Providence, RI, USA.
+(2)Division of Hematology-Oncology, Maine Medical Center, Portland, ME, USA.
+(3)Department of Obstetrics & Gynecology, Program in Women's Oncology, Women and 
+Infants Hospital of Rhode Island, Warren Alpert Medical School of Brown 
+University, Providence, RI, USA.
+(4)Department of Surgery, Beth Israel Deaconess Medical Center, Boston, MA, USA.
+(5)Department of Obstetrics & Gynecology, Program in Women's Oncology, Women and 
+Infants Hospital of Rhode Island, Warren Alpert Medical School of Brown 
+University, Providence, RI, USA. wsikov@wihri.org.
+(6)Breast Health Center, 101 Dudley Street, Providence, RI, 02905, USA. 
+wsikov@wihri.org.
+
+PURPOSE: In HER2-positive breast cancer (HER2+ BC), neoadjuvant chemotherapy 
+(NACT) with dual HER2-targeted therapy achieves high pathologic complete 
+response (pCR) rates. Anthracycline-free NACT regimens avoid toxicities 
+associated with anthracyclines, but every 3-week TCHP also has substantial side 
+effects. We hypothesized that a weekly regimen might have equivalent efficacy 
+with less toxicity; we also investigated whether poorly responding patients 
+would benefit from switching to AC.
+METHODS: Patients with clinical stage II-III HER2+ BC received weekly paclitaxel 
+80 mg/m2 and carboplatin AUC2 with every 3-week trastuzumab and pertuzumab 
+(wPCbTP), with the option of splitting the pertuzumab loading dose. After 
+12 weeks, responding patients continued wPCbTP for another 6 weeks, while 
+non-responders switched to AC. Dose modifications and post-op therapy were at 
+investigator discretion.
+RESULTS: In 30 evaluable patients, the pCR rate was 77% (95% CI 58-90%); 12/14 
+(86%) in ER-negative and 11/16 (69%) in ER-positive. Only two patients 
+transitioned to AC for non-response, of which one achieved pCR. There were no 
+episodes of febrile neutropenia or grade ≥ 3 peripheral neuropathy, though 
+several patients who continued wPCbTP stopped before week 18. Split-dose 
+pertuzumab was associated with less grade ≥ 2 diarrhea (40%) than the standard 
+loading dose (60%).
+CONCLUSION: pCR rates with our regimen were as high as reported with TCHP with 
+fewer grade ≥ 3 toxicities, though diarrhea remains a concern. Too few patients 
+had a suboptimal response to adequately test switching to AC. The wPCbTP regimen 
+should be considered an alternative to TCHP as neoadjuvant therapy for HER2+ BC.
+TRAIL REGISTRATION: ClinicalTrials.gov identifier: NCT02789657.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10549-021-06266-9
+PMID: 34086171 [Indexed for MEDLINE]
