@@ -1,0 +1,63 @@
+1. Cancer Lett. 2026 Jul 28;651:218503. doi: 10.1016/j.canlet.2026.218503. Epub 
+2026 Apr 12.
+
+Integrated genomic profiling identifies predictive biomarkers for neoadjuvant 
+therapy response in Chinese breast cancer patients.
+
+Ying XH(1), Zhang KY(1), Jiang SH(1), Chen L(1), Li JJ(1), Liu GY(1), Yu KD(1), 
+Wu J(1), Di GH(1), Wang YY(1), Fan L(1), Hou YF(1), Shao ZM(1), Zhu XZ(2), Hu 
+X(3), Chen C(4), Wang ZH(5).
+
+Author information:
+(1)Department of Breast Surgery, Fudan University Shanghai Cancer Center, China; 
+Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, China.
+(2)Department of Breast Surgery, Fudan University Shanghai Cancer Center, China; 
+Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, China. Electronic address: 
+18211230029@fudan.edu.cn.
+(3)Department of Breast Surgery, Fudan University Shanghai Cancer Center, China; 
+Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, China; Precision Cancer Medical 
+Center Affiliated to Fudan University Shanghai Cancer Center, Shanghai, China. 
+Electronic address: xinhu@fudan.edu.cn.
+(4)Department of Breast Surgery, Fudan University Shanghai Cancer Center, China; 
+Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, China. Electronic address: 
+chao_chen@fudan.edu.cn.
+(5)Department of Breast Surgery, Fudan University Shanghai Cancer Center, China; 
+Key Laboratory of Breast Cancer in Shanghai, Department of Oncology, Shanghai 
+Medical College, Fudan University, Shanghai, China. Electronic address: 
+zhonghuawang95@hotmail.com.
+
+Neoadjuvant therapy (NAT) has emerged as a standard treatment strategy for 
+locally advanced breast cancer (BC), yet robust biomarkers for response 
+prediction remain elusive. Here, we established a real-world NAT cohort of 1161 
+Chinese BC patients, including 1145 cases with matched clinicopathological data 
+and targeted sequencing, to systematically evaluate genomic features associated 
+with NAT outcomes. We identified both cross-subtype and subtype-specific genomic 
+associations with treatment response. PI3K-pathway alterations emerged as a 
+consistent feature of resistance across subtypes, whereas mutations such as 
+ERBB2 in HER2+ disease and MAP3K1 in triple-negative breast cancer were 
+associated with subtype-specific response patterns. Regimen-level analyses 
+further showed that some genomic associations were treatment-context dependent 
+across chemotherapy-, endocrine-, anti-HER2-, and immunotherapy-containing 
+regimens. Among patients with non-pathological complete response (non-pCR), 
+genomic profiling further refined risk stratification for distant recurrence by 
+revealing subtype-specific prognostic alterations, including TOP3B and SETD2. 
+Furthermore, a machine-learning model integrating genomic and 
+clinicopathological features showed favorable performance for NAT response 
+prediction. Overall, our study provides a comprehensive genomic framework for 
+response prediction and recurrence risk assessment, supporting more precise 
+stratification and biomarker-guided treatment optimization in Asian breast 
+cancer patients.
+
+Copyright © 2026 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.canlet.2026.218503
+PMID: 41974248 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
