@@ -1,0 +1,48 @@
+1. J Clin Oncol. 2013 Jun 10;31(17):2115-22. doi: 10.1200/JCO.2012.42.2642. Epub 
+2013 May 6.
+
+Impact of PTEN protein expression on benefit from adjuvant trastuzumab in 
+early-stage human epidermal growth factor receptor 2-positive breast cancer in 
+the North Central Cancer Treatment Group N9831 trial.
+
+Perez EA(1), Dueck AC, McCullough AE, Chen B, Geiger XJ, Jenkins RB, Lingle WL, 
+Davidson NE, Martino S, Kaufman PA, Kutteh LA, Sledge GW, Harris LN, Gralow JR, 
+Reinholz MM.
+
+Author information:
+(1)Mayo Clinic, 4500 San Pablo Rd, Jacksonville, FL 32224, USA. 
+perez.edith@mayo.edu
+
+Comment in
+    J Clin Oncol. 2013 Jun 10;31(17):2073-5. doi: 10.1200/JCO.2012.48.5243.
+
+PURPOSE: It has been suggested that PTEN, a negative regulator of PI3K/AKT 
+signaling, is involved in tumor sensitivity to trastuzumab. We investigated the 
+association between tumor PTEN protein expression and disease-free survival 
+(DFS) of patients randomly assigned to receive chemotherapy alone (arm A) or 
+chemotherapy with sequential (arm B) or concurrent trastuzumab (arm C) in the 
+phase III early-stage human epidermal growth factor receptor 2 (HER2) -positive 
+trial-North Central Cancer Treatment Group (NCCTG) N9831.
+PATIENTS AND METHODS: The intensity and percentage of invasive cells with 
+cytoplasmic PTEN staining were determined in tissue microarray sections 
+containing three cores per block (n = 1,286) or in whole tissue sections (WS; n 
+= 516) by using standard immunohistochemistry (138G6 monoclonal antibody). 
+Tumors were considered positive for PTEN (PTEN-positive) if any core or WS had 
+any invasive cells with ≥ 1+ staining. Median follow-up was 6.0 years.
+RESULTS: Of 1,802 patients included in this analysis (of 3,505 patients 
+registered to N9831), 1,342 (74%) had PTEN-positive tumors. PTEN positivity was 
+associated with hormone receptor negativity (χ(2) P < .001) and nodal positivity 
+(χ(2) P = .04). PTEN did not have an impact on DFS within the various arms. 
+Comparing DFS of arm C to arm A, patients with PTEN-positive and PTEN-negative 
+tumors had hazard ratios (HRs) of 0.65 (P = .003) and 0.47 (P = .005), 
+respectively (interaction P = .16). For arm B versus arm A, patients with 
+PTEN-positive and PTEN-negative tumors had HRs of 0.70 (P = .009) and 0.85 (P = 
+.44), respectively (interaction P = .47).
+CONCLUSION: In contrast to selected preclinical and limited clinical studies 
+suggesting a decrease in trastuzumab sensitivity in patients with PTEN-negative 
+tumors, our data show benefit of adjuvant trastuzumab for patients with 
+HER2-positive breast cancer, independent of tumor PTEN status.
+
+DOI: 10.1200/JCO.2012.42.2642
+PMCID: PMC3731983
+PMID: 23650412 [Indexed for MEDLINE]
