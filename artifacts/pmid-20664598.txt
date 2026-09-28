@@ -1,0 +1,49 @@
+1. Br J Cancer. 2010 Aug 24;103(5):668-75. doi: 10.1038/sj.bjc.6605736. Epub 2010
+ Jul 27.
+
+BCL2 in breast cancer: a favourable prognostic marker across molecular subtypes 
+and independent of adjuvant therapy received.
+
+Dawson SJ(1), Makretsov N, Blows FM, Driver KE, Provenzano E, Le Quesne J, 
+Baglietto L, Severi G, Giles GG, McLean CA, Callagy G, Green AR, Ellis I, Gelmon 
+K, Turashvili G, Leung S, Aparicio S, Huntsman D, Caldas C, Pharoah P.
+
+Author information:
+(1)Department of Oncology, University of Cambridge, Cambridge CB1 9RN, UK.
+
+Erratum in
+    Br J Cancer. 2010 Sep 28;103(7):1137.
+
+BACKGROUND: Breast cancer is heterogeneous and the existing prognostic 
+classifiers are limited in accuracy, leading to unnecessary treatment of 
+numerous women. B-cell lymphoma 2 (BCL2), an antiapoptotic protein, has been 
+proposed as a prognostic marker, but this effect is considered to relate to 
+oestrogen receptor (ER) status. This study aimed to test the clinical validity 
+of BCL2 as an independent prognostic marker.
+METHODS: Five studies of 11 212 women with early-stage breast cancer were 
+analysed. Individual patient data included tumour size, grade, lymph node 
+status, endocrine therapy, chemotherapy and mortality. BCL2, ER, progesterone 
+receptor (PR) and human epidermal growth factor receptor 2 (HER2) levels were 
+determined in all tumours. A Cox model incorporating the time-dependent effects 
+of each variable was used to explore the prognostic significance of BCL2.
+RESULTS: In univariate analysis, ER, PR and BCL2 positivity was associated with 
+improved survival and HER2 positivity with inferior survival. For ER and PR this 
+effect was time dependent, whereas for BCL2 and HER2 the effect persisted over 
+time. In multivariate analysis, BCL2 positivity retained independent prognostic 
+significance (hazard ratio (HR) 0.76, 95% confidence interval (CI) 0.66-0.88, 
+P<0.001). BCL2 was a powerful prognostic marker in ER- (HR 0.63, 95% CI 
+0.54-0.74, P<0.001) and ER+ disease (HR 0.56, 95% CI 0.48-0.65, P<0.001), and in 
+HER2- (HR 0.55, 95% CI 0.49-0.61, P<0.001) and HER2+ disease (HR 0.70, 95% CI 
+0.57-0.85, P<0.001), irrespective of the type of adjuvant therapy received. 
+Addition of BCL2 to the Adjuvant! Online prognostic model, for a subset of cases 
+with a 10-year follow-up, improved the survival prediction (P=0.0039).
+CONCLUSIONS: BCL2 is an independent indicator of favourable prognosis for all 
+types of early-stage breast cancer. This study establishes the rationale for 
+introduction of BCL2 immunohistochemistry to improve prognostic stratification. 
+Further work is now needed to ascertain the exact way to apply BCL2 testing for 
+risk stratification and to standardise BCL2 immunohistochemistry for this 
+application.
+
+DOI: 10.1038/sj.bjc.6605736
+PMCID: PMC2938244
+PMID: 20664598 [Indexed for MEDLINE]
