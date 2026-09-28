@@ -1,0 +1,43 @@
+1. Ann Oncol. 2013 Jun;24(6):1526-33. doi: 10.1093/annonc/mdt036. Epub 2013 Mar
+4.
+
+Incidence and risk of central nervous system metastases as site of first 
+recurrence in patients with HER2-positive breast cancer treated with adjuvant 
+trastuzumab.
+
+Olson EM(1), Abdel-Rasoul M, Maly J, Wu CS, Lin NU, Shapiro CL.
+
+Author information:
+(1)Division of Medical Oncology, Department of Internal Medicine, Arthur G James 
+Cancer Hospital and Richard J Solove Research Institute, The Ohio State 
+University Comprehensive Cancer Center, Columbus, USA. erin.olson@osumc.edu
+
+BACKGROUND: Central nervous system (CNS) disease as the site of first relapse 
+after exposure to adjuvant trastuzumab has been reported. We carried out 
+comprehensive meta-analysis to determine the risk of CNS metastases as the first 
+site of recurrence in patients with HER2-positive breast cancer who received 
+adjuvant trastuzumab.
+METHODS: Eligible studies include randomized trials of adjuvant trastuzumab 
+administered for 1 year to patients with HER2-positive breast cancer who 
+reported CNS metastases as first site of disease recurrence. Statistical 
+analyses were conducted to calculate the incidence, relative risk (RR), and 95% 
+confidence intervals (CIs) using fixed-effects inverse variance and 
+random-effects models.
+RESULTS: A total of 9020 patients were included. The incidence of CNS metastases 
+as first site of disease recurrence in HER2-positive patients receiving adjuvant 
+trastuzumab was 2.56% (95% CI 2.07% to 3.01%) compared with 1.94% (95% CI 1.54% 
+to 2.38%) in HER2-positive patients who did not receive adjuvant trastuzumab. 
+The RR of the CNS as first site of relapse in trastuzumab-treated patients was 
+1.35 (95% CI 1.02-1.78, P = 0.038) compared with control arms without 
+trastuzumab therapy. The ratio of CNS metastases to total number of recurrence 
+events was 16.94% (95% CI 10.85% to 24.07%) and 8.33% (95% CI 6.49% to 10.86%) 
+for the trastuzumab-treated and control groups, respectively. No statistically 
+significant differences were found based on trastuzumab schedule or median 
+follow-up time. No evidence of publication bias was observed.
+CONCLUSIONS: Adjuvant trastuzumab is associated with a significant increased 
+risk of CNS metastases as the site of first recurrence in HER2-positive breast 
+cancer patients.
+
+DOI: 10.1093/annonc/mdt036
+PMCID: PMC3660080
+PMID: 23463626 [Indexed for MEDLINE]
