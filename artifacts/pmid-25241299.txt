@@ -1,0 +1,57 @@
+1. Clin Breast Cancer. 2015 Feb;15(1):e1-11. doi: 10.1016/j.clbc.2014.08.001.
+Epub  2014 Aug 15.
+
+Improved clinical outcomes associated with vitamin D supplementation during 
+adjuvant chemotherapy in patients with HER2+ nonmetastatic breast cancer.
+
+Zeichner SB(1), Koru-Sengul T(2), Shah N(3), Liu Q(4), Markward NJ(5), Montero 
+AJ(6), Glück S(7), Silva O(7), Ahn ER(7).
+
+Author information:
+(1)Department of Hematology and Oncology, Emory Winship Cancer Center, Atlanta, 
+GA. Electronic address: simonzeichner@gmail.com.
+(2)Department of Public Health Sciences, University of Miami Miller School of 
+Medicine, Miami, FL; Sylvester Comprehensive Cancer Center at University of 
+Miami Miller School of Medicine, Miami, FL.
+(3)Department of Medicine, University of Miami Miller School of Medicine, Miami, 
+FL.
+(4)Department of Psychology, University of Miami Miller School of Medicine, 
+Miami, FL.
+(5)Department of Advanced Analytics, United HealthCare, Metairie, LA.
+(6)Department of Solid Tumor Oncology, Taussig Cancer Center, Cleveland Clinic, 
+Cleveland, OH.
+(7)Department of Medicine, University of Miami Miller School of Medicine, Miami, 
+FL; Sylvester Comprehensive Cancer Center at University of Miami Miller School 
+of Medicine, Miami, FL.
+
+BACKGROUND: Vitamin D (VD) supplementation has pleiotropic effects that extend 
+beyond their impact on bone health, including the disruption of downstream VD 
+receptor signaling and human epidermal growth factor receptor 2 (HER2) signaling 
+through the ErbB2/AKT/ERK pathway. In the present study, we examined our 
+institutional experience with patients having nonmetastatic HER2-positive 
+(HER(+)) breast cancer and hypothesized that those patients who received VD 
+supplementation during neoadjuvant chemotherapy would have improved long-term 
+outcomes.
+PATIENTS AND METHODS: We performed a retrospective review of all patients (n = 
+308) given trastuzumab-based chemotherapy between 2006 and 2012 at the 
+University of Miami/Sylvester Comprehensive Cancer Center (UM/SCCC). We 
+identified 2 groups of patients for comparison-those who received VD 
+supplementation during neoadjuvant chemotherapy (n = 134) and those who did not 
+(n = 112). Univariate and multivariate Cox proportional hazard regression models 
+were fitted to overall survival (OS) and disease-free survival (DFS).
+RESULTS: More than half of the patients received VD during neoadjuvant 
+chemotherapy (54.5%), with 60% receiving a dose < 10,000 units/wk and 33.3% 
+having a VD deficiency at the start of therapy. In our final multivariate model, 
+VD use was associated with improved DFS (hazard ratio [HR], 0.36; 95% confidence 
+interval [CI], 0.15-0.88; P = .026], whereas larger tumor size was associated 
+with worse DFS (HR, 3.52; 95% CI, 1.06-11.66; P = .04). There were no 
+differences in OS based on any of the categories, including VD use, tumor size, 
+number of metastatic lymph nodes, age at diagnosis, or lymphovascular invasion 
+(LVI).
+CONCLUSION: VD supplementation in patients with nonmetastatic HER2(+) breast 
+cancer is associated with improved DFS.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2014.08.001
+PMID: 25241299 [Indexed for MEDLINE]
