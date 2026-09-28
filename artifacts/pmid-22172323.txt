@@ -1,0 +1,49 @@
+1. Ann Oncol. 2012 Aug;23(8):2034-2042. doi: 10.1093/annonc/mdr546. Epub 2011 Dec
+ 15.
+
+PIK3CA mutations, PTEN, and pHER2 expression and impact on outcome in 
+HER2-positive early-stage breast cancer patients treated with adjuvant 
+chemotherapy and trastuzumab.
+
+Jensen JD(1), Knoop A(2), Laenkholm AV(3), Grauslund M(4), Jensen MB(5), 
+Santoni-Rugiu E(4), Andersson M(6), Ewertz M(2).
+
+Author information:
+(1)Department of Oncology, Odense University Hospital, Odense; Institute of 
+Clinical Research, University of Southern Denmark, Odense. Electronic address: 
+jeanette.dupont.jensen@ouh.regionsyddanmark.dk.
+(2)Department of Oncology, Odense University Hospital, Odense; Institute of 
+Clinical Research, University of Southern Denmark, Odense.
+(3)Department of Pathology, Slagelse Hospital, Slagelse.
+(4)Department of Pathology, Copenhagen University Hospital, Rigshospitalet, 
+Copenhagen.
+(5)Danish Breast Cancer Cooperative Group Data Center, Copenhagen.
+(6)Department of Oncology, Copenhagen University Hospital, Rigshospitalet, 
+Copenhagen, Denmark.
+
+BACKGROUND: This study was conducted to determine the frequency of PIK3CA 
+mutations and human epidermal growth factor receptor-2 (HER2) phosphorylation 
+status (pHER2-Tyr1221/1222) and if PIK3CA, phosphatase and tensin homolog 
+(PTEN), or pHER2 has an impact on outcome in HER2-positive early-stage breast 
+cancer patients treated with adjuvant chemotherapy and trastuzumab.
+PATIENTS AND METHODS: Two hundred and forty HER2-positive early-stage breast 
+cancer patients receiving adjuvant treatment (cyclophosphamide 600 mg/m2, 
+epirubicin 60 mg/m2, and fluorouracil 600 mg/m2) before administration of 1 year 
+trastuzumab were assessable. PTEN and pHER2 expression were assessed by 
+immunohistochemistry. PIK3CA mutations (exons 9 and 20) were determined by 
+pyrosequencing.
+RESULTS: Five-year overall survival (OS) and invasive disease-free survival were 
+87.8% and 81.0%, respectively. Twenty-six percent of patients had a PIK3CA 
+mutation, 24% were PTEN low, 45% pHER2 high, and 47% patients had increased PI3K 
+pathway activation (PTEN low and/or PIK3CA mutation). No significant 
+correlations were observed between the clinicopathological variables and PIK3CA, 
+PTEN, and pHER2 status. In both univariate and multivariate analyses, patients 
+with PIK3CA mutations or high PI3K pathway activity had a significant worse OS 
+[multivariate: hazard ratio (HR) 2.14, 95% confidence interval (CI) 1.01-4.51, 
+P=0.046; and HR 2.35, 95% CI 1.10-5.04, P=0.03].
+CONCLUSION: Patients with PIK3CA mutations or increased PI3K pathway activity 
+had a significantly poorer survival despite adequate treatment with adjuvant 
+chemotherapy and trastuzumab.
+
+DOI: 10.1093/annonc/mdr546
+PMID: 22172323 [Indexed for MEDLINE]
