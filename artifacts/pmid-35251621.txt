@@ -1,0 +1,66 @@
+1. Mol Clin Oncol. 2022 Mar;16(3):70. doi: 10.3892/mco.2022.2503. Epub 2022 Jan
+25.
+
+Neoadjuvant pertuzumab in non-metastatic HER2-positive breast tumors: 
+Multicentric study in Peru (NeoHer).
+
+Falcon S(1), Riva L(2), Flores C(3), Vera D(4), Pinto JA(5), Gomez HL(6)(7).
+
+Author information:
+(1)Department of Medical Oncology, Aliada, Lima 15036, Peru.
+(2)Department of Medical Oncology, Clínica Internacional, Lima 15036, Peru.
+(3)Faculty of Human Medicine, Universidad Peruana Cayetano Heredia, Lima 15102, 
+Peru.
+(4)Digital Business Transformation and Strategy, Laboratory Corporation of 
+America Holdings (Labcorp), Burlington, NC 27251, USA.
+(5)Center for Basic and Translational Research, Auna Ideas, Lima 15036, Peru.
+(6)Department of Medical Oncology, Oncosalud-AUNA, Lima 15036, Peru.
+(7)Department of Medical Oncology, National Institute of Neoplastic Diseases, 
+Lima 15038, Peru.
+
+Several clinical trials have demonstrated the benefit of adding pertuzumab to 
+trastuzumab plus neoadjuvant chemotherapy in the treatment of human epidermal 
+growth factor receptor 2 (HER2)-positive breast cancer. The comparison of 
+outcomes between nonrandomized groups of patients who received similar 
+treatments in routine practice remains difficult. The present study aimed to 
+evaluate the pathological complete response (pCR) rates achieved with pertuzumab 
+among patients in routine clinical care in Peru using real-world data. The 
+definition of pCR used was the absence of residual invasive cancer from the 
+complete resected breast specimen and all sampled regional lymph nodes following 
+completion of neoadjuvant systemic therapy. A total of 44 patients with 
+non-metastatic HER2-positive breast cancer (stages II and III) treated with 
+pertuzumab in the neoadjuvant setting and who underwent surgery at three private 
+clinics in Lima (Peru) were retrospectively evaluated. The pCR was the efficacy 
+endpoint and it was determined and compared with the results from other clinical 
+trials. Furthermore, safety data were described. The median age was 44 years 
+(interquartile range, 39.5-50.5 years) and 65.9% of patients were premenopausal. 
+Regarding the clinical stage, 56.8% were IIA/IIB and 36.4% were IIIA/IIIB/IIIC. 
+All treatment schemes included concurrent trastuzumab. The patients' treatment 
+comprised neoadjuvant therapy of docetaxel/trastuzumab/pertuzumab (THP) with a 
+median of 4 cycles in 30 patients (68.2%) or 
+docetaxel/trastuzumab/pertuzumab/carboplatin (THPCarb) with a median of 6 cycles 
+in 14 patients (31.8%). In total, 70.5% of patients experienced pCR; among 
+hormone receptor-negative cases, 75.0% achieved pCR and in tumors expressing 
+hormone receptors, the rate of pCR was 66.7%. Of those patients subjected to 
+neoadjuvant treatment with THP, 66.7% (20/30) achieved pCR, whereas 78.6% 
+(11/14) of patients who received THPCarb had a pCR. The incidence of 
+drug-related adverse events was 59.1% and in none of the patients, 
+administration was discontinued due to toxicity. The present results of Peruvian 
+patients with HER2 breast cancer treated according to clinical routine 
+demonstrated that dual blockade of HER2 with trastuzumab and pertuzumab in the 
+neoadjuvant setting achieved high rates of pCR even in hormone receptor-positive 
+patients. These results are consistent with those of randomized controlled 
+trials, with a good safety profile.
+
+Copyright: © Falcon et al.
+
+DOI: 10.3892/mco.2022.2503
+PMCID: PMC8848732
+PMID: 35251621
+
+Conflict of interest statement: CF was an employee of Roche-Peru until mid-2019. 
+Note that the funder of the study (Roche) participated in the design of the 
+study. Data collection was performed by researchers working at the study sites. 
+The data analysis was performed by an independent specialist paid by the funder. 
+Finally, the corresponding author (HLG) prepared the initial draft of the report 
+with support from a medical writer paid by the funder.
