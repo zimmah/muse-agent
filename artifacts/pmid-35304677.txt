@@ -1,0 +1,51 @@
+1. Clin Exp Med. 2023 Jun;23(2):245-254. doi: 10.1007/s10238-022-00814-3. Epub
+2022  Mar 19.
+
+Cyclin-dependent kinase 4 and 6 inhibitors in combination with neoadjuvant 
+endocrine therapy in estrogen receptor-positive early breast cancer: a 
+systematic review and meta-analysis.
+
+Guan Y(#)(1), Shen G(#)(1), Fang Q(#)(1), Xin Y(1), Huo X(1), Li J(1), Zhao 
+F(1), Ren D(1), Liu Z(1), Li Z(1), Zhao J(2).
+
+Author information:
+(1)Breast Disease Diagnosis and Treatment Center of Affiliated Hospital of 
+Qinghai University & Affiliated Cancer Hospital of Qinghai University, Xining, 
+810000, China.
+(2)Breast Disease Diagnosis and Treatment Center of Affiliated Hospital of 
+Qinghai University & Affiliated Cancer Hospital of Qinghai University, Xining, 
+810000, China. jiudazhao@126.com.
+(#)Contributed equally
+
+The combination of cyclin-dependent kinase 4 and 6 (CDK4/6) inhibitors and 
+endocrine treatment has benefited patients with estrogen receptor-positive/human 
+epidermal growth factor receptor 2-negative (ER + /HER2-) metastatic breast 
+cancer; however, its effects in the neoadjuvant setting for ER + /HER2- early 
+breast cancer (EBC) are unclear. Systematic searches were performed in PubMed, 
+Embase, Cochrane Library, and major oncological meetings for trials of CDK4/6 
+inhibitors plus neoadjuvant endocrine treatment (NET) vs. NET/neoadjuvant 
+chemotherapy (NACT) alone up to January 30, 2021. We assessed the efficacy of 
+CDK4/6 inhibitors plus NET vs. NET/NACT alone in ER + /HER2- EBC. Six studies 
+that included 803 patients treated with CDK4/6 inhibitors plus NET vs. NET/NACT 
+alone were used. Compared with NET/NACT alone, CDK4/6 inhibitors plus NET 
+increased the complete cell cycle arrest (CCCA) rate (OR, 9.00; 95% CI, 
+5.42-14.96; P < 0.001). Nonsignificant differences between CDK4/6 inhibitors and 
+NET/NACT alone occurred in the preoperative endocrine prognostic index (PEPI)-0 
+rate (OR, 1.13; 95% CI, 0.59-2.18; P = 0.71), pathological complete response 
+(pCR) rate (OR, 0.75; 95% CI, 0.13-4.29; P = 0.74), objective response rate 
+(ORR) (OR, 0.70; 95% CI, 0.21-2.29; P = 0.55), and disease control rate (DCR) 
+(OR, 1.16; 95% CI, 0.47-2.89; P = 0.74). CDK4/6 inhibitors plus NET indicated a 
+high risk of neutropenia (OR, 56.43; 95% CI, 15.76-202.11; P < 0.001) as an 
+adverse effect (AE) and elevated alanine aminotransferase (ALT) level (OR, 
+15.30; 95% CI, 2.02-115.98; P = 0.008) as grade 3/4 AEs. Compared with NET/NACT 
+alone, CDK4/6 inhibitors plus NET increased CCCA rate in ER + /HER2- EBC 
+patients. CDK4/6 inhibitors plus NET did not substantially improve the PEPI-0 
+rate, pCR rate, ORR, or DCR. The combination increased the risk of neutropenia 
+and elevated ALT levels. In the neoadjuvant setting, addition of CDK4/6 
+inhibitors to NET may be an option for treating ER + /HER2- EBC.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s10238-022-00814-3
+PMID: 35304677 [Indexed for MEDLINE]
