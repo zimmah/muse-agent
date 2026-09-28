@@ -1,0 +1,33 @@
+1. Cancer Manag Res. 2016 May 19;8:57-65. doi: 10.2147/CMAR.S104447. eCollection 
+2016.
+
+Novel approaches to target HER2-positive breast cancer: trastuzumab emtansine.
+
+Recondo G Jr(1), de la Vega M(1), Galanternik F(1), Díaz-Cantón E(1), Leone 
+BA(2), Leone JP(3).
+
+Author information:
+(1)Centro de Educación Médica e Investigaciones Clínicas, Buenos Aires, 
+Argentina.
+(2)Grupo Oncológico Cooperativo del Sur, Neuquén, Argentina.
+(3)Division of Hematology-Oncology and Blood & Marrow Transplantation, Holden 
+Comprehensive Cancer Center, University of Iowa Hospitals & Clinics, Iowa City, 
+IA, USA.
+
+The human epidermal growth factor receptor 2 (HER2) is overexpressed in 20% of 
+breast carcinomas. Prior to the development of targeted therapies, HER2-positive 
+breast cancer was associated with more aggressive disease and poor prognosis. 
+Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate that results from 
+the combination of trastuzumab and DM1, a derivative of the antimicrotubule 
+agent maytansine. This molecule has the ability to enhance cytotoxic drug 
+delivery to specifically targeted cells that overexpress HER2, therefore, 
+maximizing efficacy while sparing toxicity. In recent years, T-DM1 has shown to 
+improve outcomes in metastatic HER2-positive breast cancer that is resistant to 
+trastuzumab. In addition, T-DM1 is currently being tested in the neoadjuvant and 
+adjuvant settings to identify patients who may benefit from this therapy. This 
+review focuses on the mechanism of action, early and late-phase clinical trials, 
+and ongoing studies of T-DM1 in HER2-positive breast cancer.
+
+DOI: 10.2147/CMAR.S104447
+PMCID: PMC4876844
+PMID: 27274311
