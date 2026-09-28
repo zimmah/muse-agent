@@ -1,0 +1,36 @@
+1. Gan To Kagaku Ryoho. 2014 Mar;41(3):313-6.
+
+[Evaluation of recurrence rates on change in hormone receptor and human 
+epidermal growth factor receptor 2 status after neo-adjuvant chemotherapy in 
+breast cancer patients].
+
+[Article in Japanese]
+
+Tokunaga S(1), Ikeda K, Ogawa Y, Fukushima H, Inoue T, Shibata Y, Kimbara S, 
+Katsushima U, Okada H, Tsuya A, Taira K, Daga H, Takeda K.
+
+Author information:
+(1)Dept. of Clinical Oncology,Osaka City General Hospital.
+
+BACKGROUND: Neo-adjuvant chemotherapy(NAC)may affect hormone receptor(HR)and 
+human epidermal growth factor receptor 2(HER2)status in breast cancer patients. 
+However, the correlation between recurrence rates and this status change remains 
+unclear.
+METHODS: We evaluated 70 consecutive breast cancer patients receiving NAC with 
+anthracyclines and taxanes, with or without trastuzumab, between January 2005 
+and May 2012. Pre-treatment core needle biopsy samples and specimens obtained 
+after surgery were tested to determine HR and HER2 status. The relationship 
+between HR and HER2 status changes and recurrence rates was then assessed.
+RESULTS: Pathological complete response(pCR)was observed in 13 cases and non-pCR 
+was observed in 57 cases. Of the non-pCR cases, HR-positive status changed to 
+HR-negative status in 6.3% of patients, but a change from negativity to 
+positivity was not observed. HER2-positive status changed to HER2-negative 
+status in 48.0% of patients, and a change from negativity to positivity was 
+observed in 12.5% of cases. The recurrence rate among patients with conversion 
+to a HR-negative status was 0%and that among patients with conversion to a 
+HER2-negative status was 25.0%.
+CONCLUSION: Recurrence rates were not significantly associated with HR and HER2 
+status conversion after NAC. Future research is warranted to confirm out 
+results.
+
+PMID: 24743275 [Indexed for MEDLINE]
