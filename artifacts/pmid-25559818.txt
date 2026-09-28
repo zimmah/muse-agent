@@ -1,0 +1,70 @@
+1. J Clin Oncol. 2015 Apr 20;33(12):1334-9. doi: 10.1200/JCO.2014.55.2158. Epub 
+2015 Jan 5.
+
+PIK3CA mutations are associated with decreased benefit to neoadjuvant human 
+epidermal growth factor receptor 2-targeted therapies in breast cancer.
+
+Majewski IJ(1), Nuciforo P(1), Mittempergher L(1), Bosma AJ(1), Eidtmann H(1), 
+Holmes E(1), Sotiriou C(1), Fumagalli D(1), Jimenez J(1), Aura C(1), Prudkin 
+L(1), Díaz-Delgado MC(1), de la Peña L(1), Loi S(1), Ellis C(1), Schultz N(1), 
+de Azambuja E(1), Harbeck N(1), Piccart-Gebhart M(1), Bernards R(1), Baselga 
+J(2).
+
+Author information:
+(1)Ian J. Majewski, Lorenza Mittempergher, Astrid J. Bosma, and René Bernards, 
+The Netherlands Cancer Institute, Amsterdam, the Netherlands; Paolo Nuciforo, 
+Jose Jimenez, Claudia Aura, Ludmila Prudkin, Maria Carmen Díaz-Delgado, Vall 
+D'Hebron Institute of Oncology; Lorena de la Peña, Spanish Breast Cancer 
+Cooperative Group SOLTI, Barcelona, Spain; Holger Eidtmann, University Hospital 
+Kiel, Kiel; Nadia Harbeck, University of Munich, Munich, Germany; Eileen Holmes, 
+Frontier Science Scotland, Kincraig, United Kingdom; Christos Sotiriou, Debora 
+Fumagalli, and Martine Piccart-Gebhart, Institut Jules Bordet, Université Libre 
+de Bruxelles; Evandro de Azambuja, BrEAST Data Center and Institut Jules Bordet, 
+Brussels, Belgium; Sherene Loi, Peter MacCallum Cancer Centre, East Melbourne, 
+Victoria, Australia; Catherine Ellis, GlaxoSmithKline, Collegeville, PA; and 
+Nikolaus Schultz and José Baselga, Memorial Sloan-Kettering Cancer Center, New 
+York, NY.
+(2)Ian J. Majewski, Lorenza Mittempergher, Astrid J. Bosma, and René Bernards, 
+The Netherlands Cancer Institute, Amsterdam, the Netherlands; Paolo Nuciforo, 
+Jose Jimenez, Claudia Aura, Ludmila Prudkin, Maria Carmen Díaz-Delgado, Vall 
+D'Hebron Institute of Oncology; Lorena de la Peña, Spanish Breast Cancer 
+Cooperative Group SOLTI, Barcelona, Spain; Holger Eidtmann, University Hospital 
+Kiel, Kiel; Nadia Harbeck, University of Munich, Munich, Germany; Eileen Holmes, 
+Frontier Science Scotland, Kincraig, United Kingdom; Christos Sotiriou, Debora 
+Fumagalli, and Martine Piccart-Gebhart, Institut Jules Bordet, Université Libre 
+de Bruxelles; Evandro de Azambuja, BrEAST Data Center and Institut Jules Bordet, 
+Brussels, Belgium; Sherene Loi, Peter MacCallum Cancer Centre, East Melbourne, 
+Victoria, Australia; Catherine Ellis, GlaxoSmithKline, Collegeville, PA; and 
+Nikolaus Schultz and José Baselga, Memorial Sloan-Kettering Cancer Center, New 
+York, NY. baselgaj@mskcc.org.
+
+Comment in
+    J Clin Oncol. 2015 Apr 20;33(12):1318-21. doi: 10.1200/JCO.2014.59.3160.
+
+PURPOSE: We investigated whether mutations in the gene encoding the 
+phosphatidylinositol 3-kinase (PI3K) catalytic subunit (PIK3CA) correlates with 
+response to neoadjuvant human epidermal growth factor receptor 2 (HER2) 
+-targeted therapies in patients with breast cancer.
+PATIENTS AND METHODS: Baseline tissue biopsies were available from patients with 
+HER2-positive early breast cancer who were enrolled onto the Neoadjuvant 
+Lapatinib and/or Trastuzumab Treatment Optimization trial (NeoALTTO). Activating 
+mutations in PIK3CA were identified using mass spectrometry-based genotyping.
+RESULTS: PIK3CA mutations were identified in 23% of HER2-positive breast tumors, 
+and these mutations were associated with poorer outcome in all of the treatment 
+arms. Patients treated with a combination of trastuzumab and lapatinib who had 
+wild-type PIK3CA obtained a total pathologic complete response (pCR) rate of 
+53.1%, which decreased to 28.6% in patients with tumors that carried PIK3CA 
+activating mutations (P = .012).
+CONCLUSION: Activating mutations in PIK3CA predicted poor pCR in patients with 
+HER2-positive breast cancer treated with neoadjuvant therapies that target HER2. 
+Consequently, the combination of anti-HER2 agents and PI3K inhibitors is being 
+investigated.
+
+© 2015 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2014.55.2158
+PMCID: PMC5087318
+PMID: 25559818 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors' disclosures of potential conflicts of 
+interest and author contributions are found at the end of this article.
