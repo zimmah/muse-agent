@@ -1,0 +1,50 @@
+1. BMC Cancer. 2013 May 16;13:241. doi: 10.1186/1471-2407-13-241.
+
+Alterations of the genes involved in the PI3K and estrogen-receptor pathways 
+influence outcome in human epidermal growth factor receptor 2-positive and 
+hormone receptor-positive breast cancer patients treated with 
+trastuzumab-containing neoadjuvant chemotherapy.
+
+Takada M(1), Higuchi T, Tozuka K, Takei H, Haruta M, Watanabe J, Kasai F, Inoue 
+K, Kurosumi M, Miyazaki M, Sato-Otsubo A, Ogawa S, Kaneko Y.
+
+Author information:
+(1)Department of Cancer Diagnosis, Research Institute for Clinical Oncology, 
+Saitama Cancer Center, 818 Komuro, Ina, Saitama, 362-0806, Japan.
+
+BACKGROUND: Chemotherapy with trastuzumab is widely used for patients with human 
+epidermal growth factor receptor 2-positive (HER2+) breast cancer, but a 
+significant number of patients with the tumor fail to respond, or relapse. The 
+mechanisms of recurrence and biomarkers that indicate the response to the 
+chemotherapy and outcome are not fully investigated.
+METHODS: Genomic alterations were analyzed using single-nucleotide polymorphism 
+arrays in 46 HER2 immunohistochemistry (IHC) 3+ or 2+/fluorescent in situ 
+hybridization (FISH)+ breast cancers that were treated with neoadjuvant 
+chemotherapy with paclitaxel, cyclophosphamid, epirubicin, fluorouracil, and 
+trastuzumab. Patients were classified into two groups based on presence or 
+absence of alterations of 65 cancer-associated genes, and the two groups were 
+further classified into four groups based on genomic HER2 copy numbers or 
+hormone receptor status (HR+/-). Pathological complete response (pCR) and 
+relapse-free survival (RFS) rates were compared between any two of the groups.
+RESULTS AND DISCUSSION: The pCR rate was 54% in 37 patients, and the RFS rate at 
+3 years was 72% (95% CI, 0.55-0.89) in 42 patients. The analysis disclosed 8 
+tumors with nonamplified HER2 and 38 tumors with HER2 amplification, indicating 
+the presence of discordance in tumors diagnosed using current HER2 testing. The 
+8 patients showed more difficulty in achieving pCR (P=0.019), more frequent 
+relapse (P=0.018), and more frequent alterations of genes in the PI3K pathway 
+(P=0.009) than the patients with HER2 amplification. The alterations of the PI3K 
+and estrogen receptor (ER) pathway genes generally indicated worse RFS rates. 
+The prognostic significance of the alterations was shown in patients with a HR+ 
+tumor, but not in patients with a HR- tumor when divided. Alterations of the 
+PI3K and ER pathway genes found in patients with a HR+ tumor with poor outcome 
+suggested that crosstalk between the two pathways may be involved in resistance 
+to the current chemotherapy with trastuzumab.
+CONCLUSIONS: We recommend FISH analysis as a primary HER2 testing because 
+patients with IHC 2+/3+ and nonamplified HER2 had poor outcome. We also support 
+concurrent use of trastuzumab, lapatinib, and cytotoxic and anti-hormonal agents 
+for patients having HR+ tumors with alterations of the PI3K and ER pathway 
+genes.
+
+DOI: 10.1186/1471-2407-13-241
+PMCID: PMC3663661
+PMID: 23679233 [Indexed for MEDLINE]
