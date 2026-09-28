@@ -1,0 +1,57 @@
+1. Chin Med J (Engl). 2022 Oct 5;135(19):2311-2318. doi: 
+10.1097/CM9.0000000000002197.
+
+Neoadjuvant therapy for early human epidermal growth factor receptor 2 positive 
+breast cancer in China: A multicenter real-world study (CSBrS-015).
+
+Cheng Y(1), Xiang H, Xin L, Duan X, Liu Y; Chinese Society of Breast Surgery 
+(CSBrS), Chinese Society of Surgery of Chinese Medical Association.
+
+Author information:
+(1)Breast Disease Center, Peking University First Hospital, Beijing 100034, 
+China.
+
+BACKGROUND: Pertuzumab has been approved for application in China by the 
+National Medical Products Administration, and both national and international 
+guidelines make recommendations for the use of neoadjuvant treatment with 
+trastuzumab or trastuzumab + pertuzumab plus chemotherapy regimens for patients 
+with indications. The goal of this study was to investigate the short-term 
+clinical efficacy of the neoadjuvant therapies trastuzumab and 
+trastuzumab+pertuzumab for patients with early human epidermal growth factor 
+receptor 2 (HER2)-positive breast cancer in China.
+METHODS: A real-world study was conducted using the clinicopathological data of 
+patients with early HER2-positive breast cancer who were admitted to the member 
+hospitals of the Chinese Society of Breast Surgery, Chinese Surgical Society of 
+Chinese Medical Association between March 2019 and December 2020. This study 
+analyzed the efficacy and tolerance of trastuzumab+chemotherapy and 
+trastuzumab+pertuzumab+chemotherapy in patients with early HER2-positive breast 
+cancer. The Response Evaluation Criteria in Solid Tumors 1.1 was adopted to 
+evaluate clinical efficacy. The pathological efficacy was evaluated using the 
+MillerPayne grade. The Common Terminology Criteria for Adverse Events (version 
+5.0) was adopted to evaluate adverse events (AEs). The propensity scores were 
+subjected to propensity score matching using the R language (1:1 matching with a 
+maximum allowable difference of 0.05 between the two groups). Efficacy was 
+compared using the chi-square test, and correlation analysis was performed using 
+linear regression.
+RESULTS: A total of 1032 patients with early HER2-positive breast cancer met the 
+enrollment criteria and were included in this study. Among these patients, 472 
+received neoadjuvant trastuzumab+chemotherapy (the trastuzumab group), and 560 
+received neoadjuvant trastuzumab+pertuzumab+chemotherapy (the 
+trastuzumab+pertuzumab group). The overall pathologic complete response (pCR) 
+rate was 47.2% (487/1032), while the pCR rates of the trastuzumab and 
+trastuzumab+pertuzumab groups were 34.5% (163/472) and 57.9% (324/560), 
+respectively, and the difference was significant (P < 0.001). The incidence of 
+grade 4 AEs was 24/321 (7.5%) in the trastuzumab+pertuzumab group, and there 
+were no cases in which the left ventricular ejection fraction decreased by more 
+than 10%.
+CONCLUSIONS: Patients in the trastuzumab+pertuzumab group had a higher pCR rate 
+than those in the trastuzumab group, and the toxic side effects were tolerable.
+
+Copyright © 2022 The Chinese Medical Association, produced by Wolters Kluwer, 
+Inc. under the CC-BY-NC-ND license.
+
+DOI: 10.1097/CM9.0000000000002197
+PMCID: PMC9771321
+PMID: 36535009 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
