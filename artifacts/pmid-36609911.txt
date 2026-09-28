@@ -1,0 +1,77 @@
+1. Breast Cancer. 2023 Mar;30(2):293-301. doi: 10.1007/s12282-022-01425-2. Epub 
+2023 Jan 7.
+
+Neoadjuvant chemotherapy using nanoparticle albumin-bound paclitaxel plus 
+trastuzumab and pertuzumab followed by epirubicin and cyclophosphamide for 
+operable HER2-positive primary breast cancer: a multicenter phase II clinical 
+trial (PerSeUS-BC04).
+
+Futamura M(1), Ishihara K(2), Nagao Y(3), Ogiso A(3), Niwa Y(4), Nakada T(5), 
+Kawaguchi Y(6), Ikawa A(7), Kumazawa I(8), Mori R(4), Kitazawa M(6), Hosono 
+Y(5), Kuno M(2), Kawajiri M(2), Nakakami A(4), Takeuchi M(9), Morikawa A(9), 
+Tokumaru Y(4), Katagiri Y(10), Asano Y(11), Mushika Y(12), Shimokawa T(13), 
+Matsuhasih N(14).
+
+Author information:
+(1)Department of Breast Surgery, Gifu University Hospital, 1-1 Yanagido, Gifu, 
+501-1194, Japan. mfutamur@gifu-u.ac.jp.
+(2)Department of Surgery, Gihoku Kosei Hospital, Gifu, 501-2105, Japan.
+(3)Department of Surgery, Gifu Prefectural General Medical Center, Gifu, Japan.
+(4)Department of Breast Surgery, Gifu University Hospital, 1-1 Yanagido, Gifu, 
+501-1194, Japan.
+(5)Department of Breast Surgery, Gifu Municipal Hospital, Gifu, 500-8513, Japan.
+(6)Department of Breast Surgery, Asahi University Hospital, Gifu, 500-8523, 
+Japan.
+(7)Department of Surgery, Takayama Red Cross Hospital, Takayama, 506-8550, 
+Japan.
+(8)Department of Surgery, Gifu-Seino Medical Center, Ibi Hospital, Ibi, 
+501-0696, Japan.
+(9)Department of Breast Surgery, Central Japan International Medical Center, 
+Minokamo, 505-8510, Japan.
+(10)Department of Pathology, Gifu University Hospital, Gifu, 501-1194, Japan.
+(11)Department of Surgery, Municipal Ena Hospital, Ena, 509-7201, Japan.
+(12)Department of Breast Surgery, Daiyukai General Hospital, Ichinomiya, 
+491-8551, Japan.
+(13)Clinical Study Support Center, Wakayama Medical University, Wakayama, 
+614-8509, Japan.
+(14)Department of Gastroenterological Surgery, Gifu University Hospital, Gifu, 
+501-1194, Japan.
+
+BACKGROUND: Nanoparticle albumin-bound paclitaxel (nab-PTX) is a promising 
+antibody partner for anti-human epidermal growth factor receptor 2 (HER2). We 
+performed neoadjuvant chemotherapy (NAC) for HER2-positive breast cancer (BC) 
+using nab-PTX plus trastuzumab (T-mab) and pertuzumab (P-mab), followed by 
+epirubicin and cyclophosphamide (EC).
+METHODS: In this multicenter phase II clinical trial (January 2019-July 2020), 
+patients with stage I (T1c)-IIIB HER2-positive primary BC were treated with four 
+cycles of nab-PTX plus T-mab and P-mab, followed by four cycles of EC. The 
+primary endpoint was the pathological complete response (pCR) rate. Secondary 
+endpoints were clinical response rate (RR), adverse events (AE), and 
+tumor-infiltrating lymphocytes (TILs) in biopsy samples.
+RESULTS: In total, 43 patients were enrolled (mean age, 54 years). Twenty-two 
+patients had HER2, and 21 patients had luminal/HER2-subtypes. The overall pCR 
+rate was 53.5% (23/43, 95% CI: 42.6-64.1%, p = 0.184), whilst the pCR for HER2 
+was 68.2% (15/22, 95% CI: 45.1-86.1) and 38.1% for luminal/HER2 (8/21, 95% CI: 
+18.1-61.6%). The RR was 100% [clinical (c) CR:25, partial response (PR): 18]. 
+AEs (≥ G3) included neutropenia (23.3%), leukopenia (7.0%), liver dysfunction 
+(7.0%), and peripheral neuropathy (4.7%) when nab-PTX was administered. EC 
+administration resulted in leukopenia (34.2%), neutropenia (31.6%), and febrile 
+neutropenia (15.8%). The TILs in preoperative biopsy samples were significantly 
+higher in pCR compared to non-pCR samples.
+CONCLUSION: Nab-PTX plus T-mab and P-mab induced a high pCR rate in 
+HER2-positive BC, particularly in the HER2-subtype. Given that AEs are 
+acceptable, this regimen is safe and acceptable as NAC for HER2-positive BC.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s12282-022-01425-2
+PMCID: PMC9950177
+PMID: 36609911 [Indexed for MEDLINE]
+
+Conflict of interest statement: MF-Remuneration: Chugai, Taiho, Takeda, 
+Kaken-Seiyaku, Nippon-Kayaku, Daiichi-Sankyo, AstraZeneca, Pfizer, Lilly, and 
+Eisai. KI-Remuneration: Nihon-Kayaku, Kyowa-Hakko-Kirin, Daiichi-Sankyo, and 
+Eisai. YN-Remuneration: Kyowa-Hakko-Kirin. TN-Remuneration: Daichi-Sankyo, 
+Pfizer, Chugai, Taiho, AstraZeneca, and Lilly. YK-Remuneration: Chugai, 
+Daiichi-Sankyo, Kyowa-Hakko-Kirin, Taiho, and Eisai. AM-Remuneration: Chugai and 
+Eisai.
