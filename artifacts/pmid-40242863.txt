@@ -1,0 +1,48 @@
+1. Cancer Biother Radiopharm. 2025 Sep;40(7):481-489. doi: 10.1089/cbr.2025.0038.
+ Epub 2025 Apr 17.
+
+High Expression of Complement 3 Enhances the Efficacy of Neoadjuvant 
+Chemotherapy Prior to Oncoplastic Surgery for HER2-Positive Breast Cancer.
+
+Chen B(1), Huang L(2)(3), Gui M(1), Torres-de la Roche LA(4), De Wilde RL(4), 
+Shi W(5), Liu H(6), Gong Z(1).
+
+Author information:
+(1)Department of Medical Aesthetic Surgery, The First Affiliated Hospital of 
+Guilin Medical University, Guilin, China.
+(2)Clinicopathological Diagnosis & Research Center, the Affiliated Hospital of 
+Youjiang Medical University for Nationalities, Baise, China.
+(3)Key Laboratory of Tumor Molecular Pathology of Guangxi Higher Education 
+Institutes, Baise, China.
+(4)Pius-Hospital, University Hospital for Gynecology, University Medicine 
+Oldenburg, Oldenburg, Germany.
+(5)Medical Faculty and University Hospital Magdeburg, Molecular and Experimental 
+Surgery, Clinic for General, Visceral, Vascular and Transplantation Surgery, 
+Otto-von-Guericke University, Magdeburg, Germany.
+(6)School of Public Health, Guilin Medical University, Guilin, China.
+
+Background: Neoadjuvant chemotherapy for breast cancer (BC) improves patient 
+prognosis, but its efficacy is hindered by the disease's high heterogeneity. 
+This study enhances effectiveness of targeted therapy to improve clinical 
+outcomes. Methods: This study enrolled 335 patients from three centers. 
+Differentially expressed genes were identified using DESeq2, and Venn analysis 
+was applied to identify hub Complement genes. Hub gene expression was validated 
+through public databases and IHC in real-world samples. In addition, 
+associations between these genes and clinical factors were evaluated. Survival 
+analysis, using the log-rank test, assessed overall survival (OS), 
+disease-specific survival (DSS), and progression-free interval (PFI) as end 
+points. The authors also locate hub Complement 3 gene position by 
+immunofluorescence. Results: The study identified C3 as a hub Complement gene 
+associated with trastuzumab sensitivity. C3 shows higher expression in normal 
+than tumor tissues. C3 was highly expressed in HER2-negative and early-stage BC, 
+but showed no differences in lymph node or metastasis subgroups. High C3 
+expression correlated with better OS, DSS, and PFI, particularly in HER2+ 
+patients. IHC analysis confirmed higher C3 expression in normal tissues with the 
+lowest in triple-negative BC. Immunofluorescence findings suggest that C3 
+recruits complement receptor 2 to enhance trastuzumab efficacy in HER2+ 
+patients. Conclusions: This finding highlights the potential of complement 3 to 
+improve therapeutic outcomes and pave the way for more personalized treatment 
+strategies in BC.
+
+DOI: 10.1089/cbr.2025.0038
+PMID: 40242863 [Indexed for MEDLINE]
