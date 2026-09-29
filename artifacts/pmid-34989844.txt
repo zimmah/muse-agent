@@ -1,0 +1,53 @@
+1. Eur Radiol. 2022 Jun;32(6):4056-4066. doi: 10.1007/s00330-021-08461-0. Epub
+2022  Jan 6.
+
+Prediction of pathologic complete response on MRI in patients with breast cancer 
+receiving neoadjuvant chemotherapy according to molecular subtypes.
+
+Kim J(1)(2), Han BK(3), Ko EY(1), Ko ES(1), Choi JS(1), Park KW(1).
+
+Author information:
+(1)Department of Radiology and Center for Imaging Science, Samsung Medical 
+Center, Sungkyunkwan University School of Medicine, 81 Irwon-ro, Gangnam-gu, 
+Seoul, 06351, South Korea.
+(2)Department of Radiology, Haeundae Paik Hospital, Inje University College of 
+Medicine, Busan, South Korea.
+(3)Department of Radiology and Center for Imaging Science, Samsung Medical 
+Center, Sungkyunkwan University School of Medicine, 81 Irwon-ro, Gangnam-gu, 
+Seoul, 06351, South Korea. bkhan@skku.edu.
+
+OBJECTIVES: This study aimed to investigate the predictability of breast MRI for 
+pathologic complete response (pCR) by molecular subtype in patients with breast 
+cancer receiving neoadjuvant chemotherapy (NAC) and investigate the MRI findings 
+that can mimic residual malignancy.
+METHODS: A total of 506 patients with breast cancer who underwent MRI after NAC 
+and underwent surgery between January and December 2018 were included. Two 
+breast radiologists dichotomized the post-NAC MRI findings as radiologic 
+complete response (rCR) and no-rCR. The diagnostic performance of MRI predicting 
+pCR was evaluated. pCR was determined based on the final pathology reports. 
+Tumors were divided according to hormone receptor (HR) and human epidermal 
+growth factor receptor (HER) 2. Residual lesions on post-NAC MRI were divided 
+into overt and subtle which classified as nodularity or delayed enhancement. 
+Pearson's χ2 and Wilcoxon rank-sum tests were used for MRI findings causing 
+false-negative pCR.
+RESULTS: The overall pCR rate was 30.04%. The overall accuracy for predicting 
+pCR using MRI was 76.68%. The accuracy was significantly different by subtypes 
+(p < 0.001), as follows in descending order: HR - /HER2 - (85.63%), 
+HR + /HER2 - (82.84%), HR + /HER2 + (69.37%), and HR - /HER2 + (62.38%). MRI in 
+the HR - /HER2 + type showed the highest false-negative rate (18.81%) for 
+predicting pCR. The subtle residual enhancement observed only in the delayed 
+phase was associated with false-negative findings (76.2%, p = 0.016).
+CONCLUSIONS: The diagnostic accuracy of MRI for predicting pCR differed by 
+molecular subtypes. When the residual enhancement on MRI after NAC is subtle and 
+seen only in the delayed phase, overinterpretation of residual tumors should be 
+performed with caution.
+KEY POINTS: • In patients with breast cancer after completion of neoadjuvant 
+chemotherapy, the diagnostic accuracy of MRI for predicting pathologic complete 
+response (pCR) differed according to molecular subtype. • When residual 
+enhancement on MRI is subtle and seen only in the delayed phase, this finding 
+could be associated with false-negative pCR results.
+
+© 2022. The Author(s), under exclusive licence to European Society of Radiology.
+
+DOI: 10.1007/s00330-021-08461-0
+PMID: 34989844 [Indexed for MEDLINE]
