@@ -1,0 +1,53 @@
+1. Int J Mol Sci. 2024 Aug 27;25(17):9268. doi: 10.3390/ijms25179268.
+
+In-Depth Analysis of the Peripheral Immune Profile of HER2+ Breast Cancer 
+Patients on Neoadjuvant Treatment with Chemotherapy Plus Trastuzumab Plus 
+Pertuzumab.
+
+Pesce Viglietti AI(1), Bordignon MB(1), Ostinelli A(2), Rizzo MM(3), Cueto G(4), 
+Sanchez MB(1), Perazzo F(5), Amat M(2), Coló F(2), Costanzo MV(2), Nervo A(2), 
+Nadal J(2), Crimi G(5), Mc Lean I(3), Spengler EA(3), Mordoh J(1), Mandó P(5), 
+Levy EM(1).
+
+Author information:
+(1)Centro de Investigaciones Oncológicas (FUCA), Fundación Cáncer, Ciudad 
+Autónoma de Buenos Aires C1426AOE, Argentina.
+(2)Instituto Alexander Fleming, Ciudad Autónoma de Buenos Aires C1426AOE, 
+Argentina.
+(3)Clinical Oncology Unit, Hospital Universitario Austral, Derqui-Pilar, Buenos 
+Aires B1629ODT, Argentina.
+(4)Grupo de Bioestadística Aplicada, Departamento de Ecología, Genética y 
+Evolución, Instituto de Ecología, Genética y Evolución de Buenos Aires 
+(IEGEBA-UBA/CONICET), Facultad de Ciencias Exactas y Naturales, Universidad de 
+Buenos Aires, Ciudad Autónoma de Buenos Aires C1428AOE, Argentina.
+(5)Centro de Educación Médica e Investigaciones Clínicas (CEMIC), Ciudad 
+Autónoma de Buenos Aires C1431AOE, Argentina.
+
+Currently, therapy for early-stage human epidermal growth factor receptor 
+2-positive (HER2+) breast cancer (BC) is based on the combination of trastuzumab 
+and pertuzumab plus chemotherapy in a neoadjuvant regimen. The INMUNOHER study 
+aimed to detect immunological markers in peripheral blood and their association 
+with treatment response. Sixty-two HER2+ BC patients were recruited. 
+Pre-treatment samples were obtained before the start of treatment, while 
+post-treatment samples were obtained after completing therapy and before surgery 
+and were analyzed by flow cytometry. The pathologic complete response (pCR) rate 
+achieved was 82.3%. The expression of the NKp30, PD-1, and TIM-3 receptors was 
+reduced in the Natural Killer (NK)-CD56dim subset of patients who did not 
+achieve pCR. Following therapy, many changes were found in leukocytes, including 
+alterations in T cell lymphocyte proportions. Also, the percentage of NK cells 
+decreased, and several phenotypic changes were observed in this population. 
+After treatment, IFN-γ production by NK cells against HER2+-cells with or 
+without trastuzumab was significantly reduced. HER2-targeted therapy plus 
+chemotherapy demonstrated high efficacy in most patients, reducing the 
+statistical power for finding immunological markers. However, NK subset 
+phenotypes correlated better with response groups, and numerous changes in the 
+percentage of leukocytes and T and NK cells, as well as changes in the 
+functionality of NK cells, were observed in most patients after treatment, 
+encouraging further research into these immune populations.
+
+DOI: 10.3390/ijms25179268
+PMCID: PMC11395157
+PMID: 39273217 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial or 
+nonfinancial interests to disclose.
