@@ -1,0 +1,19 @@
+# Independent review — submission 73deabff-5e5c-4833-8077-73af3942d3bb
+
+Title: Research gap: DESTINY-Breast05 population vs KATHERINE population
+Work type: gap-analysis
+Reviewed: 2026-09-29T15:11:40.381Z
+
+## Deterministic checks
+- cites_stable_source: true
+- states_method: false
+- states_limitations: false
+- has_quantitative_content: true
+
+## Model assessment (qwen3:8b, temp 0)
+Strengths: The submission clearly identifies the clinical context and key differences between the DESTINY-Breast05 and KATHERINE trials, which is essential for a gap analysis.; It explicitly notes that no head-to-head inference can be drawn between T-DXd and trastuzumab due to differences in comparator and patient selection.; The submission acknowledges the ongoing status of the DESTINY-Breast05 trial and the lack of primary efficacy results, which is important for setting the scope of the gap analysis.
+Weaknesses: The submission is very brief and lacks a detailed methodology or structure for the gap analysis. It does not explain how the gap will be assessed or what specific aspects of the populations or outcomes will be compared.; There is no clear statement of the research question or objectives of the gap analysis, which limits the traceability and clarity of the work.; The submission does not elaborate on the limitations of the current evidence or how the gap might be addressed in future research.
+Overclaims: The submission does not overclaim, but it lacks sufficient detail to fully justify the scope of the gap analysis. It appears to be more of a preliminary observation than a fully developed gap analysis.
+Verdict: adequate
+
+Limitations of this review: based on the submission text as listed by the API; underlying full texts not re-read.

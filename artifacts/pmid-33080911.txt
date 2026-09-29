@@ -1,0 +1,129 @@
+1. Cancers (Basel). 2020 Oct 17;12(10):3021. doi: 10.3390/cancers12103021.
+
+Progression-Free Survival and Overall Survival in Patients with Advanced 
+HER2-Positive Breast Cancer Treated with Trastuzumab Emtansine (T-DM1) after 
+Previous Treatment with Pertuzumab.
+
+Michel LL(1)(2), Hartkopf AD(3), Fasching PA(4), Kolberg HC(5), Hadji P(6), 
+Tesch H(7), Häberle L(4)(8), Ettl J(9), Lüftner D(10), Wallwiener M(1), Müller 
+V(11), Beckmann MW(4), Belleville E(12), Volz B(13), Huebner H(4), Wimberger 
+P(14)(15)(16), Hielscher C(17), Mundhenke C(18), Kurbacher C(19), Wuerstlein 
+R(20), Untch M(21), Overkamp F(22), Huober J(23), Janni W(23), Taran FA(24), Lux 
+MP(25), Wallwiener D(3), Brucker SY(3), Schneeweiss A(2), Fehm TN(26).
+
+Author information:
+(1)Department of Gynecology and Obstetrics, Heidelberg University Hospital, 
+69120 Heidelberg, Germany.
+(2)National Center for Tumor Diseases, Heidelberg University Hospital, German 
+Cancer Research Center (DKFZ), 69120 Heidelberg, Germany.
+(3)Department of Obstetrics and Gynecology, University of Tübingen, 72076 
+Tübingen, Germany.
+(4)Department of Gynecology and Obstetrics, Erlangen University Hospital, 
+Comprehensive Cancer Center Erlangen-EMN, Friedrich Alexander University of 
+Erlangen-Nuremberg, 91054 Erlangen, Germany.
+(5)Department of Gynecology and Obstetrics, Marienhospital Bottrop, 46236 
+Bottrop, Germany.
+(6)Frankfurt Center for Bone Health, 60313 Frankfurt am Main, Germany.
+(7)Oncology Practice, Bethanien Hospital, 60389 Frankfurt am Main, Germany.
+(8)Biostatistics Unit, Department of Gynecology and Obstetrics, Erlangen 
+University Hospital, 91054 Erlangen, Germany.
+(9)Department of Obstetrics and Gynecology, Klinikum rechts der Isar, Technical 
+University of Munich, 81675 Munich, Germany.
+(10)Department of Hematology, Oncology and Tumor Immunology, Charité University 
+Hospital, Campus Benjamin Franklin, 12203 Berlin, Germany.
+(11)Department of Gynecology, Hamburg-Eppendorf University Medical Center, 20246 
+Hamburg, Germany.
+(12)ClinSol GmbH & Co KG, 97074 Würzburg, Germany.
+(13)Ansbach University of Applied Sciences, 91522 Ansbach, Germany.
+(14)Department of Gynecology and Obstetrics, Carl Gustav Carus Faculty of 
+Medicine and University Hospital, Technical University of Dresden, 01307 
+Dresden, Germany.
+(15)National Center for Tumor Diseases (NCT), Partner Site Dresden, Carl Gustav 
+Carus Faculty of Medicine and University Hospital, Technical University of 
+Dresden, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), 01328 Dresden, Germany.
+(16)German Cancer Consortium (DKTK), Dresden and German Cancer Research Center 
+(DKFZ), 69120 Heidelberg, Germany.
+(17)g.SUND Gynäkologie-Onkologisches Zentrum, 18435 Stralsund, Germany.
+(18)Department of Gynecology and Obstetrics, Klinik Hohe Warte, 95445 Bayreuth, 
+Germany.
+(19)Department of Gynecology I (Gynecologic Oncology), Gynecologic Center 
+Bonn-Friedensplatz, 53111 Bonn, Germany.
+(20)Department of Gynecology and Obstetrics, Breast Center and CCC Munich, 
+Munich University Hospital, 81377 Munich, Germany.
+(21)Department of Gynecology and Obstetrics, Helios Clinics Berlin-Buch, 13125 
+Berlin, Germany.
+(22)OncoConsult Overkamp GmbH, 10557 Berlin, Germany.
+(23)Department of Gynecology and Obstetrics, Ulm University Hospital, 89075 Ulm, 
+Germany.
+(24)Department of Gynecology, Zurich University Hospital, 8091 Zurich, 
+Switzerland.
+(25)Kooperatives Brustzentrum Paderborn, Department of Gynecology and 
+Obstetrics, Frauenklinik St. Louise, Paderborn, St. Josefs-Krankenhaus, 
+Salzkotten, 33098 Paderborn, Germany.
+(26)Department of Gynecology and Obstetrics, Düsseldorf University Hospital, 
+40225 Düsseldorf, Germany.
+
+The approval of trastuzumab emtansine (T-DM1) was conducted without pertuzumab 
+as previous therapy. Efficacy data on T-DM1 following pertuzumab treatment are 
+therefore limited. This study explores this issue in a real-world setting. 
+Within the prospective PRAEGNANT (Prospective Academic Translational Research 
+Network for the Optimization of the Oncological Health Care Quality in the 
+Advanced Setting) metastatic breast cancer registry (NCT02338167), patients in 
+all therapy lines receiving any kind of treatment were eligible for inclusion. 
+This report describes patient characteristics and progression-free survival 
+(PFS) in human epidermal growth factor receptor 2 (HER2)-positive patients 
+receiving T-DM1 after pertuzumab treatment. Seventy-six patients were 
+identified, 39 of whom received T-DM1 as second-line therapy, 25 as third-line, 
+and 12 as fourth-line therapy or higher. Pertuzumab was mostly administered as a 
+first-line treatment (n = 61; 80.3%). The median PFS in all patients was 3.5 
+months (95% CI: 2.8-7.8); in second-line treatment, 7.7 months (95% CI: 
+2.8-11.0); in third-line, 3.4 months (95% CI: 2.3-not reached (NR)); and in 
+fourth-line therapy or higher, 2.7 months (95% CI: 1.2-NR). T-DM1 was mainly 
+administered second-line after pertuzumab, but also in more heavily pretreated 
+patients. The PFS in higher therapy lines appears to be shorter than in 
+second-line.
+
+DOI: 10.3390/cancers12103021
+PMCID: PMC7603111
+PMID: 33080911
+
+Conflict of interest statement: E.B. has received honoraria from Novartis, 
+Celgene, EISAI, Daiichi Sankyo, Merrimack, AstraZeneca, Riemser, Pfizer, Hexal, 
+Amgen, and onkowissen.de for consulting, clinical research management, or 
+medical education activities. J.E. has received honoraria from Roche, Celgene, 
+Novartis, Pfizer, Lilly, Pierre Fabre, Teva, and Tesaro, as well as travel 
+support from Celgene, Novartis, Lilly, Pfizer, Teva, and Tesaro. P.A.F. has 
+received honoraria from Roche, Pfizer, Novartis, and Celgene; his institution 
+conducts research for Novartis. A.D.H. has received honoraria from Teva, Genomic 
+Health, Celgene, AstraZeneca, Novartis, Pfizer, and Roche. C.H. has received 
+honoraria from Amgen, Celgene, Oncovis, Roche, and Pfizer. J.H. has received 
+honoraria from Novartis, Roche, Celgene, Teva, and Pfizer, as well as travel 
+support from Roche, Celgene, and Pfizer. C.K. has received honoraria from Amgen, 
+Roche, Teva, Novartis, MSD, Axios, and Riemser. H.C.K. has received honoraria 
+from Carl Zeiss meditec, Teva, Theraclion, Novartis, Amgen, AstraZeneca, Pfizer, 
+Janssen-Cilag, GSK, LIV Pharma, Roche, MSD, SurgVision, Onkowissen, and Genomic 
+Health. M.P.L. has received honoraria from Lilly, Pfizer, Roche, MSD, Hexal, 
+Novartis, AstraZeneca, Eisai, and medac for advisory boards, lectures, and 
+travel support. V.M. has received speaker honoraria from Amgen, AstraZeneca, 
+Celgene, Daiichi-Sankyo, Eisai, Pfizer, Pierre-Fabre, Novartis, Roche, Teva, and 
+Janssen–Cilag, and consultancy honoraria from Genomic Health, Roche, Pierre 
+Fabre, Amgen, Daiichi-Sankyo, and Eisai. F.O. has received speaker and 
+consultancy honoraria from Amgen, AstraZeneca, Bayer, BMS, Boehringer, Celgene, 
+Chugai, Eisai, Gilead, Hexal, Ipsen, Janssen, Merck, MSD, Novartis, Novonordisc, 
+Riemser, Roche, Servier, Shire, Tesaro, and Teva. P.H. has received honoraria, 
+unrestricted educational grants, and research funding from Amgen, AstraZeneca, 
+Eli Lilly, MSD, Novartis, Pfizer, and Roche. A.S. has received honoraria from 
+Roche, Celgene, AstraZeneca, Novartis, Pfizer, Zuckschwerdt Verlag GmbH, Georg 
+Thieme Verlag, Aurikamed GmbH, MCI Deutschland GmbH, bsh medical communications 
+GmbH, and promedicis GmbH. H.T. has received honoraria from Novartis, Roche, 
+Celgene, Teva, and Pfizer, as well as travel support from Roche, Celgene, and 
+Pfizer. M.W. received speaker honoraria from AstraZeneca, Celgene, Roche, MSD 
+and Novartis. R.W. has received honoraria from Roche, Celgene, Novartis, Pfizer, 
+Teva, MSD, Eisai, Genomic Health, Agendia, Prosigna, Amgen, Pierre Fabre, and 
+AstraZeneca. F.A.T. has received honoraria from AstraZeneca, Genomic Health, 
+Novartis, Roche, Tesaro, and Teva, as well as travel support from Novartis and 
+Tesaro. P.W. has received honoraria from Roche, Novartis, Amgen, AstraZeneca, 
+Pfizer, MSD, Clovis, Tesaro, Celgene, Teva, Eisai, and Eli Lilly. D.L. received 
+honoraria from Amgen, Loreal, Pfizer, Novartis, Eli Lilly, Samsung, Celgene, 
+Astra Zeneca, Teva and GSK. All remaining authors have declared that they have 
+no conflicts of interest.
