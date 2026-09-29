@@ -1,0 +1,49 @@
+1. J Coll Physicians Surg Pak. 2022 Jun;32(6):746-750. doi: 
+10.29271/jcpsp.2022.06.746.
+
+Assessment of Pathological Complete Response in Patients with Breast Cancer 
+Receiving Neoadjuvant Systemic Therapy.
+
+Farrukh N(1), Bano R(1), Naqvi SRQ(1), Latif H(1).
+
+Author information:
+(1)Department of Breast Surgery, Combined Military Hospital, Rawalpindi, 
+Pakistan.
+
+OBJECTIVE: To quantify the rate of pathological complete response (PCR) in a 
+tertiary care hospital in Pakistan, and to explore the association of 
+pathological complete response with tumour histology, tumour grade, and 
+histological subtype based on receptors.
+STUDY DESIGN: Descriptive study.
+PLACE AND DURATION OF STUDY: Combined Military Hospital, Rawalpindi, Pakistan 
+from January 2016 to December 2018.
+METHODOLOGY: Data for 110 patients was retrospectively extracted from the 
+medical records for the last three years. Inclusion criteria comprised of 
+patients with non-metastatic breast cancer staged as cT1- 4 N0-1-2 breast cancer 
+who received neoadjuvant systemic therapy, and undergone subsequent surgical 
+procedures and adjuvant treatment as required. Assessment of pathological 
+response was performed on the final (surgical) histopathology specimen. Complete 
+pathological response (PCR) was evaluated according to Austrian Breast and 
+Colorectal Cancer Study Group, and Neo-Breast International Group criteria as no 
+invasive cancer in the breast or nodes; noninvasive breast residuals allowed 
+(ypT0/is ypN0).
+RESULTS: The mean age of the study group was 47.21±9.5 years with an age range 
+of 27 - 68 years. Among 110 patients undergoing neoadjuvant systemic therapy and 
+surgery, the rate of pathological complete response was found to be 27.2% 
+(30/110). Univariate analysis showed that pathological complete response was 
+significantly associated with age category, tumour grade, cancer subtype, 
+lymphovascular invasion, and Trastuzumab administration. The occurrence of 
+pathological complete response was significantly different among different 
+cancer subtype groups, being highest (42.8%) among triple-negative cancer 
+subtype, followed by HR-ve/Her+ve, HR+ve/Her+ve, and HR+ve/Her-ve (40.0%, 34.4%, 
+and 13.0% respectively, p=0.022).
+CONCLUSION: Achieving PCR after neoadjuvant chemotherapy is quite promising 
+keeping into consideration that PCR a potential marker for progression-free 
+survival and overall survival. Tumour grade, age of the patient, Her2 positive 
+subtype, anti-Her2 directed therapy, and negative lymphovascular invasion are 
+found to be potential predictors of complete pathological response.
+KEY WORDS: Breast cancer, Chemotherapy, Neoadjuvant systemic therapy, 
+Pathological complete response, Surgery.
+
+DOI: 10.29271/jcpsp.2022.06.746
+PMID: 35686406 [Indexed for MEDLINE]
