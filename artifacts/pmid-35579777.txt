@@ -1,0 +1,89 @@
+1. Sci China Life Sci. 2022 Nov;65(11):2205-2217. doi: 10.1007/s11427-022-2104-3.
+ Epub 2022 May 13.
+
+A 10-miRNA risk score-based prediction model for pathological complete response 
+to neoadjuvant chemotherapy in hormone receptor-positive breast cancer.
+
+Gong C(#)(1), Cheng Z(#)(2), Yang Y(#)(1), Shen J(#)(2), Zhu Y(#)(3), Ling 
+L(#)(3)(4), Lin W(1), Yu Z(5), Li Z(6), Tan W(7), Zheng C(2), Zheng W(7), Zhong 
+J(8), Zhang X(2), Zeng Y(8), Liu Q(1), Huang RS(9), Komorowski AL(10), Yang 
+ES(11), Bertucci F(12), Ricci F(13), Orlandi A(14), Franceschini G(15), Takabe 
+K(16), Klimberg S(17), Ishii N(18), Toss A(19), Tan MP(20), Cherian MA(21), Song 
+E(22).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Breast Tumor 
+Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, 
+510120, China.
+(2)Department of Radiology, Sun Yat-sen Memorial Hospital, Sun Yat-sen 
+University, Guangzhou, 510120, China.
+(3)Clinical Research Design Division, Clinical Research Center, Sun Yat-sen 
+Memorial Hospital, Sun Yat-sen University, Guangzhou, 510120, China.
+(4)Department of Medical Statistics, School of Public Health, Sun Yat-sen 
+University, Guangzhou, 510080, China.
+(5)Department of Breast Surgery, the Second Affiliated Hospital, Shandong 
+University, Jinan, 250033, China.
+(6)Department of Breast Surgery, Key Laboratory of Breast Diseases, Third 
+Hospital of Nanchang, Nanchang, 330009, China.
+(7)Department of Breast Surgery, the First Affiliated Hospital, Guangzhou 
+Medical University, Guangzhou, 510120, China.
+(8)Department of Pathology, Sun Yat-sen Memorial Hospital, Sun Yat-sen 
+University, Guangzhou, 510120, China.
+(9)Department of Experimental and Clinical Pharmacology, University of 
+Minnesota, Minneapolis, MN, 55455, USA.
+(10)Department of Surgery, College of Medicine, University of Rzeszów, Rzeszów, 
+35-959, Poland.
+(11)Department of Radiation Oncology, O'Neal Comprehensive Cancer Center, 
+University of Alabama at Birmingham School of Medicine, Birmingham, AL, USA.
+(12)Laboratoty of Predictive Oncology, Institut Paoli-Calmettes, Centre de 
+Recherche en Cancérologie de Marseille, INSERM UMR1068, CNRS UMR725, Marseille, 
+France.
+(13)Department of Drug Development and Innovation(D3i), Institut Curie, Paris, 
+75005, France.
+(14)Comprehensive Cancer Center, UOC di Oncologia Medica, Fondazione Policlinico 
+Universitario A. Gemelli IRCCS, Rome, 00168, Italy.
+(15)Multidisciplinary Breast Unit, Fondazione Policlinico Universitario Agostino 
+Gemelli IRCCS, Università Cattolica del Sacro Cuore, Rome, 00168, Italy.
+(16)Breast Surgery, Department of Surgical Oncology, Roswell Park Comprehensive 
+Cancer Center, Buffalo, NY, USA.
+(17)Department of Surgery, MD Anderson Cancer Center, Houston, TX, 77030, USA.
+(18)Department of Plastic and Reconstructive Surgery, International University 
+of Health and Welfare Hospital, Nasushiobara City, Tochigi, 329-2763, Japan.
+(19)Department of Oncology and Hematology, University Hospital of Modena, 
+Modena, 41124, Italy.
+(20)MammoCare: Breast Clinic and Surgery in Singapore, Singapore, 228510, 
+Singapore.
+(21)The Ohio State University Comprehensive Cancer Center, Arthur G. James 
+Cancer Hospital and Richard J. Solove Research Institute, Columbus, OH, 43210, 
+USA.
+(22)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+Regulation, Guangdong-Hong Kong Joint Laboratory for RNA Medicine, Breast Tumor 
+Center, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, 
+510120, China. songew@mail.sysu.edu.cn.
+(#)Contributed equally
+
+Patients with hormone receptor (HR)-positive tumors breast cancer usually 
+experience a relatively low pathological complete response (pCR) to neoadjuvant 
+chemotherapy (NAC). Here, we derived a 10-microRNA risk score (10-miRNA 
+RS)-based model with better performance in the prediction of pCR and validated 
+its relation with the disease-free survival (DFS) in 755 HR-positive breast 
+cancer patients (273, 265, and 217 in the training, internal, and external 
+validation sets, respectively). This model, presented as a nomogram, included 
+four parameters: the 10-miRNA RS found in our previous study, progesterone 
+receptor (PR), human epidermal growth factor receptor 2 (HER2) status, and 
+volume transfer constant (Ktrans). Favorable calibration and discrimination of 
+10-miRNA RS-based model with areas under the curve (AUC) of 0.865, 0.811, and 
+0.804 were shown in the training, internal, and external validation sets, 
+respectively. Patients who have higher nomogram score (>92.2) with NAC treatment 
+would have longer DFS (hazard ratio=0.57; 95%CI: 0.39-0.83; P=0.004). In 
+summary, our data showed the 10-miRNA RS-based model could precisely identify 
+more patients who can attain pCR to NAC, which may help clinicians formulate the 
+personalized initial treatment strategy and consequently achieves better 
+clinical prognosis for patients with HR-positive breast cancer.
+
+© 2022. Science China Press and Springer-Verlag GmbH Germany, part of Springer 
+Nature.
+
+DOI: 10.1007/s11427-022-2104-3
+PMID: 35579777 [Indexed for MEDLINE]
