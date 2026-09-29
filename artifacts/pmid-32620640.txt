@@ -1,0 +1,49 @@
+1. Anticancer Res. 2020 Jul;40(7):3973-3981. doi: 10.21873/anticanres.14390.
+
+Resumption of Trastuzumab in Patients With Disease Recurrence After (Neo-) 
+Adjuvant Anti-HER2-therapy in Patients With HER2-positive Breast Cancer.
+
+Hanker LC(1), FÖrster F(2), SchrÖder J(3), Grafe A(4), Hitschold T(5), Hesse 
+T(6), Lattrich CR(7), Rody A(8).
+
+Author information:
+(1)Gynecology and Obstetrics Department, University of Schleswig-Holstein, 
+Campus Lübeck, Lübeck, Germany Lars.Hanker@uksh.de.
+(2)Center for Gynecological Oncology and Palliative Medicine, University of 
+Applied Sciences, Chemnitz, Germany.
+(3)Hematology and Oncology Practice, Mülheim an der Ruhr, Germany.
+(4)Health Care Center Nordhausen gGmbH, Nordhausen, Germany.
+(5)Klinikum Worms gGmbH, Worms, Germany.
+(6)Gynecology Department, Agaplesion Diakonieklinikum, Rotenburg an der Wümme, 
+Germany.
+(7)Roche Pharma AG, Grenzach, Germany.
+(8)Gynecology and Obstetrics Department, University of Schleswig-Holstein, 
+Campus Lübeck, Lübeck, Germany.
+
+BACKGROUND/AIM: HER2-positive breast cancers eventually relapse in about one 
+third of patients. Is anti-HER2-directed therapy with Herceptin® (trastuzumab) 
+effective in re-treatment? Between 2008 and 2018, 216 patients with recurrent 
+HER2-positive breast cancer (BC) were re-treated with Herceptin (HER) during 
+first-line therapy. This study assessed the effectiveness and tolerability of 
+re-treatment with HER.
+PATIENTS AND METHODS: After approval from Ethical committee, the NIS was 
+conducted according to German Drug Act. Re-treatment with HER was documented at 
+routine visits starting with a basic observational period of maximum 12 months 
+and a follow-up period of maximum additional four years.
+RESULTS: HER2-positive BC relapsed after a median of 36.5 months (mos). Patients 
+were re-treated with HER +/- chemotherapy +/- endocrine therapy. HER-containing 
+regimens resulted in median progression-free survival (mPFS) of 12.7 
+(95%CI=10.5-14.8) mos and overall survival (OS-2) of 31.6 mos (95%CI=28.8-38.4) 
+since recurrence diagnosis. Differentiation of recurrence types (local, 
+visceral, non-visceral) unfolded worst prognosis for patients with visceral 
+metastases. Cardiac monitoring within this non-interventional study (NIS) did 
+not result in new safety concerns.
+CONCLUSION: Re-therapy with HER in the first-line setting of advanced 
+HER2-positive breast cancer is effective and without unexpected or intensified 
+adverse events.
+
+Copyright© 2020, International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.14390
+PMID: 32620640 [Indexed for MEDLINE]
