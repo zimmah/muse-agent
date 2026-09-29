@@ -1,0 +1,80 @@
+1. J Natl Cancer Inst. 2019 Jan 1;111(1):86-94. doi: 10.1093/jnci/djy094.
+
+Adjuvant Anti-HER2 Therapy, Treatment-Related Amenorrhea, and Survival in 
+Premenopausal HER2-Positive Early Breast Cancer Patients.
+
+Lambertini M(1), Campbell C(2), Bines J, Korde LA(3), Izquierdo M(4), Fumagalli 
+D(5), Del Mastro L(6), Ignatiadis M(1), Pritchard K(7), Wolff AC(8), Jackisch 
+C(9), Lang I(10), Untch M(11), Smith I(12), Boyle F(13), Xu B(14), Barrios 
+CH(15), Baselga J(16)(17), Moreno-Aspitia A(18), Piccart M(1), Gelber RD(19), de 
+Azambuja E(1).
+
+Author information:
+(1)Department of Medical Oncology, Institut Jules Bordet and Université Libre de 
+Bruxelles, Brussels, Belgium.
+(2)Frontier Science, Kingussie, UK.
+(3)Breast Cancer Therapeutics, National Cancer Institute, Bethesda, MD.
+(4)Novartis Pharma AG, Basel, Switzerland.
+(5)Breast International Group, Brussels, Belgium.
+(6)Department of Medical Oncology, U.O. Sviluppo Terapie Innovative, Policlinico 
+San Martino-IRCCS per l'Oncologia, Department of Internal Medicine and Medical 
+Specialties (DIMI), School of Medicine, University of Genova, Genova, Italy.
+(7)Sunnybrook Odette Cancer Centre, the University of Toronto and the NCIC 
+Clinical Trials Group, Toronto, Ontario, Canada.
+(8)Johns Hopkins School of Medicine, Baltimore, MD.
+(9)Department of Gynecology and Obstetrics, Sana Klinikum Offenbach, Offenbach, 
+Germany.
+(10)National Institute of Oncology, Budapest, Hungary.
+(11)Helios Klinikum Berlin Buch, Multidisciplinary Breast Cancer Center, Berlin, 
+Germany.
+(12)Breast Unit, Royal Marsden Hospital and The Institute of Cancer Research, 
+London, UK.
+(13)Patricia Ritchie Centre for Cancer Care and Research, The University of 
+Sydney, Mater Hospital, North Sydney, Australia.
+(14)Cancer Hospital, Chinese Academy of Medical Sciences, Beijing, China.
+(15)Department of Medicine, PUCRS, School of Medicine, Porto Alegre, Brazil.
+(16)Instituto Nacional de Câncer, Rio de Janeiro, Brazil.
+(17)Memorial Sloan Kettering Cancer Center, New York, NY.
+(18)Mayo Clinic, Jacksonville, FL.
+(19)Department of Biostatistics and Computational Biology, Dana-Farber Cancer 
+Institute, Harvard Medical School, Harvard TH Chan School of Public Health and 
+Frontier Science and Technology Research Foundation, Boston, MA.
+
+Erratum in
+    J Natl Cancer Inst. 2019 Nov 1;111(11):1237. doi: 10.1093/jnci/djy197.
+
+Comment in
+    J Natl Cancer Inst. 2019 Jan 1;111(1):9-10. doi: 10.1093/jnci/djy092.
+
+BACKGROUND: In premenopausal patients with human epidermal growth factor 
+receptor 2 (HER2)-positive early breast cancer, the gonadotoxicity of 
+trastuzumab and lapatinib remains largely uncertain, and the prognostic effect 
+of treatment-related amenorrhea (TRA) is unknown.
+METHODS: In the Adjuvant Lapatinib and/or Trastuzumab Treatment Optimization 
+(BIG 2-06) phase III trial, HER2-positive early breast cancer patients were 
+randomized (1:1:1:1) to receive one year of trastuzumab, lapatinib, their 
+sequence, or their combination. As per study protocol, menopausal status was 
+collected in all patients at random assignment and at week 37 visit. We 
+investigated TRA rates and whether TRA in patients with hormone 
+receptor-positive and -negative tumors would impact disease-free survival (DFS) 
+and overall survival (OS). Landmark and time-dependent modeling were used to 
+account for guarantee-time bias. All statistical tests were two-sided.
+RESULTS: A total of 2862 premenopausal women were included, of whom 1679 (58.7%) 
+had hormone receptor-positive disease. Median age was 43 (interquartile range = 
+38-47) years. Similar TRA rates were observed in the trastuzumab (72.6%), 
+lapatinib (74.0%), trastuzumab→lapatinib (72.1%), and trastuzumab+lapatinib 
+(74.8%) arms (P = .64). The association between TRA and survival outcomes 
+differed according to hormone-receptor status (Pinteraction for DFS = .007; 
+Pinteraction for OS = .003). For hormone receptor-positive patients, the TRA 
+cohort had statistically significantly better DFS (adjusted hazard ratio [aHR] = 
+0.58, 95% confidence interval [CI] = 0.45 to 0.76) and OS (aHR = 0.63, 95% CI = 
+0.40 to 0.99) than the no TRA cohort. No difference was observed in hormone 
+receptor-negative patients.
+CONCLUSIONS: In this unplanned analysis, no association between TRA rate and 
+type of anti-HER2 treatment was observed. TRA was associated with statistically 
+significant survival benefits in premenopausal hormone 
+receptor-positive/HER2-positive early breast cancer patients.
+
+DOI: 10.1093/jnci/djy094
+PMCID: PMC6335113
+PMID: 29878225 [Indexed for MEDLINE]
