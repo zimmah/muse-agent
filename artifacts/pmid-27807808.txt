@@ -1,0 +1,56 @@
+1. Breast Cancer Res Treat. 2017 Jan;161(1):73-81. doi:
+10.1007/s10549-016-4040-4.  Epub 2016 Nov 2.
+
+Predictive factors of pathologic complete response of HER2-positive breast 
+cancer after preoperative chemotherapy with trastuzumab: development of a 
+specific predictor and study of its utilities using decision curve analysis.
+
+Jankowski C(1)(2)(3), Guiu S(4), Cortet M(5), Charon-Barra C(6), Desmoulins 
+I(7), Lorgis V(7), Arnould L(6), Fumoleau P(6), Coudert B(6), Rouzier R(8), 
+Coutant C(5)(9), Reyal F(8).
+
+Author information:
+(1)Department of Surgical Oncology, Georges-François Leclerc Cancer Center, 
+Dijon, France. cjankowski@cgfl.fr.
+(2)University of Burgundy, Dijon, France. cjankowski@cgfl.fr.
+(3)Department of Medical Oncology, Georges-François Leclerc Cancer Center, 
+Dijon, France. cjankowski@cgfl.fr.
+(4)Department of Medical Oncology, Institut du cancer, Montpellier, France.
+(5)Department of Surgical Oncology, Georges-François Leclerc Cancer Center, 
+Dijon, France.
+(6)Department on Pathology, Georges-François Leclerc Cancer Center, Dijon, 
+France.
+(7)Department of Medical Oncology, Georges-François Leclerc Cancer Center, 
+Dijon, France.
+(8)Department of Surgical Oncology, Curie Institute, Paris, France.
+(9)University of Burgundy, Dijon, France.
+
+PURPOSE: The aim of this study was to assess the Institut Gustave Roussy/M.D. 
+Anderson Cancer Center (IGR/MDACC) nomogram in predicting pathologic complete 
+response (pCR) to preoperative chemotherapy in a cohort of human epidermal 
+growth factor receptor 2 (HER2)-positive tumors treated with preoperative 
+chemotherapy with trastuzumab. We then combine clinical and pathological 
+variables associated with pCR into a new nomogram specific to HER2-positive 
+tumors treated by preoperative chemotherapy with trastuzumab.
+PATIENTS AND METHODS: Data from 270 patients with HER2-positive tumors treated 
+with preoperative chemotherapy with trastuzumab at the Institut Curie and at the 
+Georges François Leclerc Cancer Center were used to assess the IGR/MDACC 
+nomogram and to subsequently develop a new nomogram for pCR based on 
+multivariate logistic regression. Model performance was quantified in terms of 
+calibration and discrimination. We studied the utility of the new nomogram using 
+decision curve analysis.
+RESULTS: The IGR/MDACC nomogram was not accurate for the prediction of pCR in 
+HER2-positive tumors treated by preoperative chemotherapy with trastuzumab, with 
+poor discrimination (AUC = 0.54, 95% CI 0.51-0.58) and poor calibration 
+(p = 0.01). After uni- and multivariate analysis, a new pCR nomogram was built 
+based on T stage (TNM), hormone receptor status, and Ki67 (%). The model had 
+good discrimination with an area under the curve (AUC) at 0.74 (95% CI 
+0.70-0.79) and adequate calibration (p = 0.93). By decision curve analysis, the 
+model was shown to be relevant between thresholds of 0.3 and 0.7.
+CONCLUSION: To the best of our knowledge, ours is the first nomogram to predict 
+pCR in HER2-positive tumors treated by preoperative chemotherapy with 
+trastuzumab. To ensure generalizability, this model needs to be externally 
+validated.
+
+DOI: 10.1007/s10549-016-4040-4
+PMID: 27807808 [Indexed for MEDLINE]
