@@ -1,0 +1,46 @@
+1. PLoS One. 2016 Feb 17;11(2):e0142047. doi: 10.1371/journal.pone.0142047. 
+eCollection 2016.
+
+Effect of Imaging Parameter Thresholds on MRI Prediction of Neoadjuvant 
+Chemotherapy Response in Breast Cancer Subtypes.
+
+Lo WC(1), Li W(1), Jones EF(1), Newitt DC(1), Kornak J(2), Wilmes LJ(1), 
+Esserman LJ(3), Hylton NM(1).
+
+Author information:
+(1)Department of Radiology and Biomedical Imaging, University of California San 
+Francisco, San Francisco, California, United States of America.
+(2)Department of Epidemiology and Biostatistics, University of California San 
+Francisco, San Francisco, California, United States of America.
+(3)Department of Surgery and Radiology, University of California San Francisco, 
+San Francisco, California, United States of America.
+
+The purpose of this study is to evaluate the predictive performance of magnetic 
+resonance imaging (MRI) markers in breast cancer patients by subtype. Sixty-four 
+patients with locally advanced breast cancer undergoing neoadjuvant chemotherapy 
+were enrolled in this study. Each patient received a dynamic contrast-enhanced 
+(DCE-MRI) at baseline, after 1 cycle of chemotherapy and before surgery. 
+Functional tumor volume (FTV), the imaging marker measured by DCE-MRI, was 
+computed at various thresholds of percent enhancement (PEt) and 
+signal-enhancement ratio (SERt). Final FTV before surgery and percent changes of 
+FTVs at the early and final treatment time points were used to predict patients' 
+recurrence-free survival. The full cohort and each subtype defined by the status 
+of hormone receptor and human epidermal growth factor receptor 2 (HR+/HER2-, 
+HER2+, triple negative) were analyzed. Predictions were evaluated using the Cox 
+proportional hazard model when PEt changed from 30% to 200% in steps of 10% and 
+SERt changed from 0 to 2 in steps of 0.2. Predictions with high hazard ratios 
+and low p-values were considered as strong. Different profiles of FTV as 
+predictors for recurrence-free survival were observed in each breast cancer 
+subtype and strong associations with survival were observed at different 
+PEt/SERt combinations that resulted in different FTVs. Findings from this 
+retrospective study suggest that the predictive performance of imaging markers 
+based on FTV may be improved with enhancement thresholds being optimized 
+separately for clinically-relevant subtypes defined by HR and HER2 receptor 
+expression.
+
+DOI: 10.1371/journal.pone.0142047
+PMCID: PMC4757528
+PMID: 26886725 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.
