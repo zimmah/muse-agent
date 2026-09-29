@@ -1,0 +1,39 @@
+1. J Cancer Res Clin Oncol. 2011 Jul;137(7):1123-30. doi: 
+10.1007/s00432-011-0976-2. Epub 2011 Feb 16.
+
+Clinical significance of progesterone receptor and HER2 status in estrogen 
+receptor-positive, operable breast cancer with adjuvant tamoxifen.
+
+Moon YW(1), Park S, Sohn JH, Kang DR, Koo JS, Park HS, Chung HC, Park BW.
+
+Author information:
+(1)Division of Medical Oncology, Department of Internal Medicine, Yonsei 
+University College of Medicine, Seoul, Korea.
+
+PURPOSE: To evaluate prognostic factors in estrogen receptor (ER)-positive, 
+operable breast cancer focusing on the progesterone receptor (PR) and human 
+epidermal growth factor receptor 2 (HER2).
+PATIENTS AND METHODS: A total of 819 patients with ER-positive, operable breast 
+cancer were enrolled. All patients received upfront adjuvant tamoxifen, as 
+stipulated by eligibility criteria. Prognostic values of the PR status and HER2 
+status were evaluated using Cox regression.
+RESULTS: Of all patients enrolled, 72% were PR positive and 20% were HER2 
+positive. PR and HER2 status were inversely correlated (P = 0.014). PR-negative 
+tumors were associated with older age over 50 years (P < 0.001) and higher 
+histologic grade (P = 0.024). HER2 overexpression correlated with older age over 
+50 years (P = 0.007), higher T stage (P = 0.010), and higher histologic grade 
+(P = 0.047). For recurrence, PR negativity was a poor prognostic factor before 
+5 years postsurgery (hazard ratio = 1.57; P = 0.049) and HER2 overexpression was 
+a consistent poor prognostic factor over all time periods (hazard ratio = 1.93; 
+P = 0.001) in the multivariate model adjusted by age, T/N stage, and histologic 
+grade.
+CONCLUSIONS: In ER-positive, operable breast cancer, PR negativity may provide 
+additional information on poor prognosis or tamoxifen resistance during adjuvant 
+tamoxifen therapy within 5 years postsurgery. HER2 overexpression was a poor 
+prognostic factor consistently throughout time. This suggests that an 
+alternative adjuvant strategy, possibly incorporating prolonged HER2-targeted 
+therapy, needs to be evaluated for HER2-overexpressing tumors.
+
+DOI: 10.1007/s00432-011-0976-2
+PMCID: PMC11827958
+PMID: 21327800 [Indexed for MEDLINE]
