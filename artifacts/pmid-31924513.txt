@@ -1,0 +1,63 @@
+1. Clin Breast Cancer. 2020 Apr;20(2):174-181.e3. doi:
+10.1016/j.clbc.2019.06.016.  Epub 2019 Sep 5.
+
+Incidence and Management of Diarrhea With Adjuvant Pertuzumab and Trastuzumab in 
+Patients With Human Epidermal Growth Factor Receptor 2-Positive Breast Cancer.
+
+Bines J(1), Procter M(2), Restuccia E(3), Viale G(4), Zardavas D(5), Suter T(6), 
+Arahmani A(7), Van Dooren V(8), Baselga J(9), Clark E(10), Eng-Wong J(11), 
+Gelber RD(12), Piccart M(13), Mobus V(14), de Azambuja E(8); APHINITY Steering 
+Committee and Investigators.
+
+Author information:
+(1)Instituto Nacional de Câncer and Clínica São Vicente, Rio de Janeiro, Brazil. 
+Electronic address: jose_bines@yahoo.com.
+(2)Frontier Science, Kincraig, United Kingdom.
+(3)F. Hoffmann-La Roche Ltd, Basel, Switzerland.
+(4)University of Milan and European Institute of Oncology, Scientific Institute 
+for Research, Hospitalization, and Healthcare, Milan, Italy.
+(5)The Breast International Group, Brussels, Belgium; Bristol-Myers Squibb, 
+Princeton, NJ.
+(6)Roche Pharma, Bern, Switzerland.
+(7)The Breast International Group, Brussels, Belgium.
+(8)Breast European Adjuvant Study Team Data Center, Institut Jules Bordet, 
+Université Libre de Bruxelles, Brussels, Belgium.
+(9)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, NY.
+(10)Roche Products, Welwyn Garden City, United Kingdom.
+(11)Genentech, South San Francisco, CA.
+(12)Dana-Farber Cancer Institute, Boston, MA; Harvard Medical School, Boston, 
+MA; Harvard T.H. Chan School of Public Health, Boston, MA; Frontier Science and 
+Technology Research Foundation, Boston, MA.
+(13)Institut Jules Bordet, Université Libre de Bruxelles, Brussels, Belgium.
+(14)Clinical Center Frankfurt Höchst, Frankfurt, Germany.
+
+BACKGROUND: The APHINITY (BIG 4-11) study showed that pertuzumab significantly 
+improved the rates of invasive disease-free survival among patients with human 
+epidermal growth factor receptor 2 (HER2)-positive, operable breast cancer when 
+added to adjuvant trastuzumab and chemotherapy. Because diarrhea was a common 
+adverse event that could compromise treatment administration, we evaluated the 
+incidence and management of diarrhea in the APHINITY study.
+PATIENTS AND METHODS: The APHINITY trial is a prospective, randomized, 
+multicenter, multinational, double-blind, placebo-controlled trial. The eligible 
+patients were randomly assigned to receive standard adjuvant chemotherapy and 1 
+year of trastuzumab combined with pertuzumab or placebo. The diarrhea incidence, 
+severity (National Cancer Institute common terminology criteria for adverse 
+events, version 4.0), onset, and management were analyzed.
+RESULTS: A total of 4805 patients were randomized. Diarrhea of any grade was the 
+most common adverse event and occurred in 71% of patients in the pertuzumab arm 
+versus 45% in the placebo arm. Diarrhea grade 3 to 4 was observed in 10% and 4% 
+in the pertuzumab and placebo arms, respectively. The greatest incidence of 
+diarrhea was reported during the concomitant administration of HER2-targeted 
+therapy and taxane (61% vs. 34% of patients experienced an event with pertuzumab 
+vs. placebo, respectively). A marked decrease was observed on chemotherapy 
+cessation. Antidiarrheal agents were commonly used, and diarrhea rarely caused 
+treatment dose modifications or discontinuation.
+CONCLUSION: Diarrhea was a common adverse event in the APHINITY study. Most 
+episodes were low grade and were generally manageable with common antidiarrheal 
+agents. The incidence of diarrhea was greater with the combination of a taxane 
+and HER2-targeted treatment and decreased once chemotherapy was stopped.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2019.06.016
+PMID: 31924513 [Indexed for MEDLINE]
