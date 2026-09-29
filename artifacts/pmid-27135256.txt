@@ -1,0 +1,45 @@
+1. J Med Econ. 2016 Oct;19(10):923-7. doi: 10.1080/13696998.2016.1185013. Epub
+2016  May 18.
+
+The real-world cost-effectiveness of adjuvant trastuzumab in HER-2/neu-positive 
+early breast cancer in Taiwan.
+
+Lang HC(1), Chen HW(2), Chiou TJ(3), Chan AL(4).
+
+Author information:
+(1)a Institute of Hospital and Health Care Administration, National Yang-Ming 
+University , Taipei , Taiwan ;
+(2)b Novotech Clinical Research Taiwan PTY LTD , Taipei City , Taiwan ;
+(3)c Taipei Veterans General Hospital and National Yang-Ming University School 
+of Medicine , Taipei , Taiwan ;
+(4)d Department of Pharmacy , An-Nan Hospital, China Medical University , Tainan 
+, Taiwan.
+
+BACKGROUND: Trastuzumab was considered a cost-effective adjuvant treatment for 
+HER 2-positive early breast cancer. Since 2010, the Taiwanese National Health 
+Insurance (NHI) has started to reimburse for 1-year adjuvant treatment. This 
+study aims to provide an updated cost-effectiveness analysis from the NHI 
+perspective, which explores assumptions about long-term cardiac toxicity and 
+treatment benefit of 1-year adjuvant treatment sequentially after chemotherapy.
+METHODS: A Markov model was used to evaluate the cost-effectiveness of 1-year 
+adjuvant trastuzumab for HER-2/neu positive early breast cancer over a 20-year 
+life-time horizon. A probability sensitivity analysis using Monte Carlo 
+simulation was performed to characterize uncertainties in the expected outcomes, 
+which are expressed as an incremental costs effectiveness ratio (ICER, 
+cost/QALY). A willingness-to-pay threshold of 3-times the per capita gross 
+domestic product was adopted according to the WHO definition. The Taiwan per 
+capita gross domestic product in 2015 was US$22,355; thus, a threshold was 
+considered as NT$2,011,950 (US$67 065, 1USD =30 NTD in 2015).
+RESULTS: The model showed that adjuvant trastuzumab treatment in HER-2/neu 
+positive early breast cancer yielded 1.631 quality-adjusted life-years (QALY) 
+compared with no trastuzumab treatment. The ICER was US $51,863 per QALY gained 
+in the base-case scenario. The Monte Carlo simulation by varying all variables 
+simultaneously demonstrated that the probability of cost-effectiveness at the 
+willingness-to-pay threshold of US$67,065 was 50% for 1-year adjuvant 
+trastuzumab.
+CONCLUSIONS: From this real-world study, 1-year adjuvant trastuzumab treatment 
+is likely to be a cost-effective therapy for patients with HER-2 positive breast 
+cancer at the willingness-to-pay threshold of 3-times GDP per capita in Taiwan.
+
+DOI: 10.1080/13696998.2016.1185013
+PMID: 27135256 [Indexed for MEDLINE]
