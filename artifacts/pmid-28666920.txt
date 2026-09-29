@@ -1,0 +1,38 @@
+1. Breast. 2017 Aug;34 Suppl 1:S99-S103. doi: 10.1016/j.breast.2017.06.038. Epub 
+2017 Jun 27.
+
+Neoadjuvant therapy for triple negative and HER2-positive early breast cancer.
+
+Harbeck N(1), Gluz O(2).
+
+Author information:
+(1)Breast Center, Dept. OB&GYN, and CCC(LMU), University of Munich (LMU), 
+Germany; West German Study Group, Moenchengladbach, Germany. Electronic address: 
+nadia.harbeck@med.uni-muenchen.de.
+(2)West German Study Group, Moenchengladbach, Germany; Breast Center 
+Niederrhein, Moenchengladbach, Germany.
+
+Today, neoadjuvant therapy can be considered a therapy standard in triple 
+negative (TNBC) and in HER2-positive (HER2+) (particularly in HER2+ HR-) early 
+breast cancer (EBC). Patients with a pathological complete response (pCR) will 
+have a very favorable outcome. In TNBC, chemotherapy with anthracyclines and 
+taxanes is standard. Data regarding addition of bevacizumab are rather 
+heterogeneous. Addition of carboplatin improves pCR rates independent of BRCA 
+status; whether this will translate into a survival benefit is still unclear. In 
+HER2-positive (HER2+) disease, anti-HER2 antibody therapy with trastuzumab is 
+given together with chemotherapy. For patients at high risk of relapse, dual 
+HER2 blockade with trastuzumab and pertuzumab is standard. The chemotherapy 
+backbone consists either of an anthracycline-taxane sequence or of an 
+anthracycline-free regimen such as docetaxel and carboplatin. pCR rates depend 
+on hormone receptor (HR) status. Anti-HER2 therapy is completed after surgery 
+with trastuzumab for a total of one year. Future research needs to focus on 
+avoiding overtreatment in patients with pCR (de-escalation) as well as on 
+improved therapy options (escalation) for patients with non-pCR after standard 
+neoadjuvant therapy. Here, early response markers (e.g. biomarkers, molecular 
+imaging) as well as novel targeted agents may play an important role in the 
+future.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.breast.2017.06.038
+PMID: 28666920 [Indexed for MEDLINE]
