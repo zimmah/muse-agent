@@ -1,0 +1,37 @@
+1. Oncol Rep. 2015 Jul;34(1):504-10. doi: 10.3892/or.2015.3974. Epub 2015 May 12.
+
+Gemcitabine treatment enhances HER2 expression in low HER2-expressing breast 
+cancer cells and enhances the antitumor effects of trastuzumab emtansine.
+
+Kan S(1), Koido S(1), Okamoto M(2), Hayashi K(1), Ito M(1), Kamata Y(1), Komita 
+H(3), Ishidao T(4), Nagasaki E(1), Homma S(1).
+
+Author information:
+(1)Division of Oncology, Research Center for Medical Sciences, Jikei University 
+School of Medicine, Tokyo, Japan.
+(2)Department of Advanced Immunotherapeutics, Kitasato University School of 
+Pharmacy, Tokyo, Japan.
+(3)Shimbashi Medical Checkup Office, Jikei University Hospital, Tokyo, Japan.
+(4)Tella, Inc., Tokyo, Japan.
+
+Trastuzumab emtansine (T-DM1), trastuzumab-conjugated with a cytotoxic agent, 
+has shown promising antitumor effects in breast cancer. Since a good therapeutic 
+response using T-DM1 treatment requires high human epidermal growth factor 
+receptor 2 (HER2) expression, breast cancers with low or no HER2 expression have 
+not been used for T-DM1 treatment. The aim of the present study was to show that 
+treatment of low HER2-expressing breast cancer cells with gemcitabine (GEM) 
+enhanced HER2 expression using RT-qPCR, immunoblot and flow cytometric analysis. 
+The results showed that GEM treatment significantly enhanced HER2 expression in 
+MDA-MB-231, MCF7 and BT-20 breast cancer cells, while paclitaxel (PTX) treatment 
+induced lower or no enhancement in HER2 expression. The expression of HER2 mRNA 
+was also enhanced in GEM-treated MCF7 cells. Treatment with an inhibitor for 
+nuclear factor-(NF)-κB suppressed GEM-induced HER2 upregulation, indicating that 
+NF-κB activation by GEM may be associated with HER2 upregulation. T-DM1 binding 
+to HER2 on MCF-7 cells was enhanced by GEM pretreatment and the combined 
+treatment of GEM and T-DM1 synergistically inhibited the proliferation of MCF7 
+cells. Thus, the combined treatment with GEM and T-DM1 may be a promising 
+therapeutic modality for low HER2-expressing breast cancers, which was 
+facilitated by the unique HER2-upregulating effect of GEM.
+
+DOI: 10.3892/or.2015.3974
+PMID: 25976081 [Indexed for MEDLINE]
