@@ -1,0 +1,44 @@
+1. Anticancer Res. 2017 Aug;37(8):4539-4547. doi: 10.21873/anticanres.11851.
+
+Impact of a 21-Gene Recurrence Score Test on the Choice of Adjuvant Chemotherapy 
+for Hormone Receptor-positive Early-stage Breast Cancer: A Prospective Study.
+
+Zeng Y(1), Li Q(1), Qin T(2), Li S(1), Jin L(1), Wu J(1), Chen K(1), Deng H(1), 
+Rao N(1), Liu Q(1), Su F(1), Jia W(3), Yao H(3)(2).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+Regulation, Breast Cancer Tumor Center, Sun Yat-sen Memorial Hospital, Sun 
+Yat-sen University, Guangzhou, P.R. China.
+(2)Department of Medical Oncology, Sun Yat-sen Memorial Hospital, Sun Yat-sen 
+University, Guangzhou, P.R. China.
+(3)Guangdong Provincial Key Laboratory of Malignant Tumor Epigenetics and Gene 
+Regulation, Breast Cancer Tumor Center, Sun Yat-sen Memorial Hospital, Sun 
+Yat-sen University, Guangzhou, P.R. China yaoherui@163.com 
+jiaweijuan@aliyun.com.
+
+BACKGROUND: Studies have recommended a 21-gene recurrence score (RS) to optimize 
+adjuvant treatment for patients with early-stage breast cancer (EBC) with 
+hormone receptor-positive (HR+) and human epidermal growth factor receptor-2 
+negative (HER2-) tumors. This study aimed to prospectively evaluate the impact 
+of this RS in Chinese patients with breast cancer.
+PATIENTS AND METHODS: We prospectively collected 227 patients with EBC with 
+estrogen receptor-positive (ER+) and HER2- tumors. We used one-way analysis of 
+variance to compare the distribution of different risk groups based on a 21-gene 
+RS assay. A Kruskal-Wallis test and either a chi-square or Fisher's exact test 
+were used as appropriate to compare continuous and categorical variables, 
+respectively.
+RESULTS: Of the 227 eligible women enrolled, 61.2%, 30%, and 8.8% of patients 
+were in the low (≤17), intermediate (18-30) and high (≥31) RS groups, 
+respectively. Of the patients with a low RS, 74.8% were overestimated into the 
+intermediate-risk group by St. Gallen risk. The overall impact of the 21-gene RS 
+was reduced use of chemotherapy (78/227, 34.4%). In addition, Ki67 expression 
+was positively associated with the 21-gene RS (R=0.68).
+CONCLUSION: Among patients with ER+/HER2- EBC, the 21-gene RS was an effective 
+method for making a chemotherapy decision. Ki67 was associated with 21-gene RS.
+
+Copyright© 2017, International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.11851
+PMID: 28739750 [Indexed for MEDLINE]
