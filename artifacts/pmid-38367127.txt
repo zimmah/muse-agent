@@ -1,0 +1,64 @@
+1. Clin Exp Metastasis. 2024 Apr;41(2):91-102. doi: 10.1007/s10585-024-10278-2. 
+Epub 2024 Feb 17.
+
+Comparison of trastuzumab emtansine, trastuzumab deruxtecan, and disitamab 
+vedotin in a multiresistant HER2-positive breast cancer lung metastasis model.
+
+Pourjamal N(1)(2), Yazdi N(1)(2), Halme A(3), Joncour VL(3), Laakkonen 
+P(3)(4)(5), Saharinen P(3)(6), Joensuu H(1)(2)(7), Barok M(8)(9)(10).
+
+Author information:
+(1)Helsinki University Hospital and University of Helsinki, Helsinki, Finland.
+(2)Laboratory of Molecular Oncology, University of Helsinki, Helsinki, Finland.
+(3)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, Helsinki, Finland.
+(4)Neuroscience Center, Helsinki Institute of Life Sciences (HiLIFE), University 
+of Helsinki, Helsinki, Finland.
+(5)Laboratory Animal Center, Helsinki Institute of Life Science (HiLIFE), 
+University of Helsinki, Helsinki, Finland.
+(6)Wihuri Research Institute, University of Helsinki, Helsinki, Finland.
+(7)Department of Oncology, Helsinki University Hospital and University of 
+Helsinki, Helsinki, Finland.
+(8)Helsinki University Hospital and University of Helsinki, Helsinki, Finland. 
+mark.barok@helsinki.fi.
+(9)Laboratory of Molecular Oncology, University of Helsinki, Helsinki, Finland. 
+mark.barok@helsinki.fi.
+(10)Biomedicum Helsinki, Haartmaninkatu 8, Helsinki, 00290, Finland. 
+mark.barok@helsinki.fi.
+
+Human epidermal growth factor 2 (HER2)-positive breast cancer with lung 
+metastases resistant to targeted agents is a common therapeutic challenge. 
+Absence of preclinical lung metastasis models that are resistant to multiple 
+anti-HER2 targeted drugs hampers the development of novel therapies. We 
+established a novel HER2-positive breast cancer cell line (L-JIMT-1) with a high 
+propensity to form lung metastases from the parenteral JIMT-1 cell line by 
+injecting JIMT-1 cells into immunodeficient SCID mice. Lung metastases developed 
+in all mice injected with L-JIMT-1 cells, and more rapidly and in greater 
+numbers compared with the parental JIMT-1 cells. L-JIMT-1 cells expressed more 
+epidermal growth factor receptor and HER2 than JIMT-1 cells. L-JIMT-1 cells were 
+resistant to all five tyrosine kinase inhibitors tested in vitro (afatinib, 
+erlotinib, lapatinib, sapitinib, and tucatinib). When we compared JIMT-1 and 
+L-JIMT-1 sensitivity to three HER2-targeting antibody-drug conjugates (ADCs) 
+trastuzumab emtansine (T-DM1), trastuzumab deruxtecan (T-DXd), and disitamab 
+vedotin (DV) in vitro, JIMT-1 cells were resistant T-DXd, partially sensitive to 
+T-DM1, and sensitive to DV, while L-JIMT-1 cells were resistant to both T-DM1 
+and T-DXd, but moderately sensitive to DV. In a mouse model, all three ADCs 
+inhibited the growth of L-JIMT-1 lung metastases compared to a vehicle, but DV 
+and T-DXd more strongly than T-DM1, and DV treatment led to the smallest tumor 
+burden. The L-JIMT breast cancer lung metastasis model developed may be useful 
+in the evaluation of anti-cancer agents for multiresistant HER2-positive 
+advanced breast cancer.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s10585-024-10278-2
+PMCID: PMC10973002
+PMID: 38367127 [Indexed for MEDLINE]
+
+Conflict of interest statement: H. Joensuu has an advisory board relationship at 
+Orion Pharma, Neutron Therapeutics, and Maud Kuistila Foundation, has ownership 
+interest (including patents) at Sartar Therapeutics, has received a honorarium 
+for presentation from Deciphera Pharmaceuticals. M. Barok and H. Joensuu report 
+grants from Mersana Therapeutics, Defense Therapeutics, and Merck KGaA outside 
+the submitted work. No potential conflicts of interest were disclosed by the 
+other authors.
