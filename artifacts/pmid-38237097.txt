@@ -1,0 +1,56 @@
+1. JCO Precis Oncol. 2024 Jan;8:e2200667. doi: 10.1200/PO.22.00667.
+
+Prediction of Benefit From Adjuvant Pertuzumab by 80-Gene Signature in the 
+APHINITY (BIG 4-11) Trial.
+
+Krop IE(1), Mittempergher L(2), Paulson JN(3), Andre F(4), Bonnefoi H(5), Loi 
+S(6), Loibl S(7), Gelber RD(8), Caballero C(9), Bhaskaran R(2), Dreezen C(2), 
+Menicucci AR(2), Bernards R(2), van 't Veer LJ(2), Piccart MJ(9).
+
+Author information:
+(1)Yale Cancer Center, New Haven, CT.
+(2)Agendia, Amsterdam, the Netherlands.
+(3)Genentech, San Francisco, CA.
+(4)Gustave Roussy, Paris, France.
+(5)Bergonie Cancer Institute, Bordeaux, France.
+(6)Peter MacCallum Cancer Centre, Melbourne, Australia.
+(7)Goethe University, Frankfurt, Germany.
+(8)Dana-Farber Cancer Institute, Harvard Medical School, Harvard TH Chan School 
+of Public Health, and Frontier Science Foundation, Boston, MA.
+(9)Breast International Group (BIG), Brussels, Belgium.
+
+PURPOSE: At the primary analysis, the APHINITY trial reported a statistically 
+significant but modest benefit of adding pertuzumab to standard adjuvant 
+chemotherapy plus trastuzumab in patients with histologically confirmed human 
+epidermal growth factor receptor 2 (HER2)-positive early-stage breast cancer. 
+This study evaluated whether the 80-gene molecular subtyping signature (80-GS) 
+could identify patients within the APHINITY population who derive the most 
+benefit from dual anti-HER2 therapy.
+METHODS: In a nested case-control study design of 1,023 patients (matched event 
+to control ratio of 3:1), the 80-GS classified breast tumors into functional 
+luminal type, HER2 type, or basal type. Additionally, 80-GS distinguished tumor 
+subtypes that exhibited a single-dominant functional pathway versus tumors with 
+multiple activated pathways. The primary end point was invasive disease-free 
+survival (IDFS). Hazard ratios (HRs) were evaluated by Cox regression. After 
+excluding patients without appropriate consent and those with missing data, 964 
+patients were included.
+RESULTS: The 80-GS classified 50% (n = 479) of tumors as luminal type, 28% (n = 
+275) as HER2 type, and 22% (n = 209) as basal type. Most luminal-type tumors 
+(86%) displayed a single-activated pathway, whereas 49% of HER2-type and 42% of 
+basal-type tumors were dual activated. There was no significant difference in 
+IDFS among different conventional 80-GS subtypes (single- and dual-activated 
+subtypes combined). However, basal single-subtype tumors were significantly more 
+likely to have an IDFS event (hazard ratio, 1.69 [95% CI, 1.12 to 2.54]) 
+compared with other subtypes. HER2 single-subtype tumors displayed a trend 
+toward greater beneficial effect on the addition of pertuzumab (hazard ratio, 
+0.56 [95% CI, 0.27 to 1.16]) compared with all other subtypes.
+CONCLUSION: The 80-GS identified subgroups of histologically confirmed 
+HER2-positive tumors with distinct biological characteristics. Basal 
+single-subtype tumors exhibit an inferior prognosis compared with other 
+subgroups and may be candidates for additional therapeutic strategies. 
+Preliminary results suggest patients with HER2-positive, genomically HER2 
+single-subtype tumors may particularly benefit from added pertuzumab, which 
+warrants further investigation.
+
+DOI: 10.1200/PO.22.00667
+PMID: 38237097 [Indexed for MEDLINE]
