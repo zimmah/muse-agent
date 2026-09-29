@@ -1,0 +1,56 @@
+1. BMC Cancer. 2026 Jun 8;26(1):938. doi: 10.1186/s12885-026-16230-9.
+
+Meta-analysis reveals pathological complete response benefits from neoadjuvant 
+immuno-chemotherapy combination in patients with HER2-negative breast cancer.
+
+Wei Y(#)(1)(2), Qi Y(#)(1), Ge H(1), Zeng C(1), Li Q(2), Ma F(3).
+
+Author information:
+(1)Department of Medical Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, No. 17 Panjiayuan Nanli, Beijing, 100021, 
+China.
+(2)Department of Oncology, Beijing Friendship Hospital, Capital Medical 
+University, Beijing, 100050, China.
+(3)Department of Medical Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, No. 17 Panjiayuan Nanli, Beijing, 100021, 
+China. drmafei@126.com.
+(#)Contributed equally
+
+PURPOSE: This meta-analysis aims to evaluate the pooled pathological complete 
+response (pCR) rate and the relative benefits across different subgroups in 
+human epidermal growth factor receptor 2 (HER2) -negative breast cancer treated 
+with immunotherapy.
+METHODS: Clinical trials for neoadjuvant immunotherapy in combination with 
+chemotherapy were identified. The pooled pCR rate of total population and 
+patients across different subgroups was performed.
+RESULTS: Totally, the meta-analysis included 15 clinical trials comprising 3,885 
+patients. The pooled pCR rate was 58% (95% CI, 54-62) for triple-negative breast 
+cancer (TNBC) patients and 25% (95% CI, 22-27) for hormone receptor 
+(HR)-positive/HER2-negative (HR+HER2-) patients, respectively. However, the 
+relative benefit of neoadjuvant chemotherapy combined with immunotherapy 
+compared to chemotherapy was comparable (p = 0.70), with odds ratio (OR) of 1.76 
+(95% CI, 1.43-2.17) in TNBC patients and 1.87 (95% CI, 1.49-2.36) in HR+HER2- 
+patients. Subgroup analysis showed that programmed cell death ligand-1 
+(PD-L1)-positive patients had higher pCR benefits compared to PD-L1-negative 
+patients, regardless of whether it was immunotherapy combined with neoadjuvant 
+chemotherapy or neoadjuvant chemotherapy alone, with OR of 3.41 (2.61-4.45) and 
+2.48 (1.80-3.42) respectively. Conversely, among patients receiving chemotherapy 
+alone, the pCR rate in lymph node-positive cases was 42% lower than that in 
+lymph node-negative cases, while the addition of immunotherapy enabled lymph 
+node-positive patients to achieve a comparable pCR rate to lymph node-negative 
+patients (OR, 1.08).
+CONCLUSION: Immunotherapy showed substantial benefits in improving pCR rates in 
+both TNBC and HR+HER2- patients when combined with neoadjuvant chemotherapy, 
+especially in lymph node-positive breast cancer patients.
+
+© 2026. The Author(s).
+
+DOI: 10.1186/s12885-026-16230-9
+PMCID: PMC13445683
+PMID: 42260448 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
