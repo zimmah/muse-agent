@@ -1,0 +1,32 @@
+1. Anticancer Res. 2024 Jun;44(6):2755-2758. doi: 10.21873/anticanres.17084.
+
+Neoadjuvant Treatment for a cT4cN+ HER2+ Breast Cancer: Case Report of a 
+Therapeutic Success.
+
+Gunnellini M(1), Tornincasa A(2), Montedoro M(2), Caprodossi A(3), Prosperi 
+E(4), Peverini M(3), Sarti AM(3), Aiuti S(5), Morini T(3).
+
+Author information:
+(1)Medical Oncology, Usl Umbria 1, Perugia, Italy 
+marco.gunnellini@uslumbria1.it.
+(2)Medical Oncology, Usl Umbria 1, Perugia, Italy.
+(3)Pharmaceutical Service, Usl Umbria 1, Perugia, Italy.
+(4)Pathological Anatomy, Usl Umbria 1, Perugia, Italy.
+(5)Diagnostic Senology Unit, Usl Umbria 1, Perugia, Italy.
+
+BACKGROUND: HER2 positive disease accounts for 15-20% of early breast cancer. 
+Achieving a pathological complete response after neoadjuvant chemotherapy (NACT) 
+improves prognosis and decreases risk of recurrence.
+CASE REPORT: Our case report aimed to highlight an emblematic clinical success 
+and benefit of NACT with the addition of pertuzumab to the standard 
+trastuzumab/taxane/anthracycline combination in a patient with a 9 cm breast 
+neoplasm and extensive lymph node involvement (>4 pathological lymph nodes).
+CONCLUSION: Achieving a complete pathological response with NACT, should be the 
+main goal, especially in patients with triple negative and HER2 positive breast 
+cancer.
+
+Copyright © 2024 International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.17084
+PMID: 38821608 [Indexed for MEDLINE]
