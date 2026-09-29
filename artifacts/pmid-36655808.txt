@@ -1,0 +1,38 @@
+1. J Investig Med. 2023 Apr;71(4):384-393. doi: 10.1177/10815589231151232. Epub 
+2023 Jan 19.
+
+Comparison of clinicopathological characteristics and response to neoadjuvant 
+systemic therapy in patients with HER2-low-positive and HER2-zero breast cancer.
+
+Shi W(1), Wan X(1), He J(1), Wang Y(1), Zhang W(1), Xu Y(1), Huang X(1), Chen 
+R(1), Xu L(2), Zha X(1), Wang J(1).
+
+Author information:
+(1)Department of Breast Disease, The First Affiliated Hospital of Nanjing 
+Medical University, Nanjing, China.
+(2)Department of Clinical Nutrition, The First Affiliated Hospital of Nanjing 
+Medical University, Nanjing, China.
+
+Previous studies have observed that human epidermal growth factor receptor 2 
+(HER2)-low-positive patients and HER2-zero patients have different prognoses. 
+This study was conducted to investigate whether there are differences in 
+clinicopathological characteristics and the response to neoadjuvant systemic 
+therapy (NST) defined as systemic treatment prior to surgery between 
+HER2-low-positive patients and HER2-zero patients. We retrospectively analyzed 
+the data of patients with HER2-negative breast cancer who received NST at the 
+First Affiliated Hospital of Nanjing Medical University from 2014 to 2021. There 
+were 238 patients with HER2-low-positive status and 198 patients with HER2-zero 
+status. The proportion of hormone receptor (HR)-positive patients in the 
+HER2-low-positive group was significantly higher than that in the HER2-zero 
+group (82.8% vs 52.0%, p < 0.001). The HER2-low-positive group had more patients 
+with low Ki67 expression (23.9% vs 16.2%, p = 0.045), higher mastectomy rate 
+(94.5% vs 88.9%, p = 0.031), and larger pathological tumor size (21.6 vs 
+17.8 mm, p = 0.028) than the HER2-zero group. However, no significant 
+differences were found in pathologic complete response (pCR) rates between the 
+two groups. We draw a conclusion that patients with HER2-low status and 
+HER2-zero status were not found to have different pCR rates after NST, 
+irrespective of HR status. However, differences were observed in some 
+clinicopathological characteristics between the two groups.
+
+DOI: 10.1177/10815589231151232
+PMID: 36655808 [Indexed for MEDLINE]
