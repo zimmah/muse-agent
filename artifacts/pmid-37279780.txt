@@ -1,0 +1,51 @@
+1. Oncologist. 2024 Jan 5;29(1):e15-e24. doi: 10.1093/oncolo/oyad160.
+
+A Phase II Study of Neoadjuvant PLD/Cyclophosphamide and Sequential 
+nab-Paclitaxel Plus Dual HER2 Blockade in HER2-Positive Breast Cancer.
+
+Yang JX(1), Yang YQ(1), Hu WY(1), Yang L(1), Wu J(1), Wen XX(1), Yu J(1), Huang 
+ML(1), Xu DD(1), Tie DC(1), Wang L(1), Li FF(2), Li NL(1).
+
+Author information:
+(1)Department of Thyroid Breast and Vascular Surgery, Xijing Hospital of Air 
+Force Military Medical University, Xi'an 710032, People's Republic of China.
+(2)Department of Oncology, The Second Affiliated Hospital of Anhui Medical 
+University, Hefei 230601, People's Republic of China.
+
+BACKGROUND: Neoadjuvant trastuzumab/pertuzumab (HP) plus chemotherapy for 
+HER2-positive breast cancer (BC) achieved promising efficacy. The additional 
+cardiotoxicity still existed. Brecan study evaluated the efficacy and safety of 
+neoadjuvant pegylated liposomal doxorubicin (PLD)/cyclophosphamide and 
+sequential nab-paclitaxel based on HP (PLD/C/HP-nabP/HP).
+PATIENTS AND METHODS: Brecan was a single-arm phase II study. Eligible patients 
+with stages IIA-IIIC HER2-positive BC received 4 cycles of PLD, 
+cyclophosphamide, and HP, followed by 4 cycles of nab-paclitaxel and HP. 
+Definitive surgery was scheduled after 21 days for patients completing treatment 
+or experiencing intolerable toxicity. The primary endpoint was the pathological 
+complete response (pCR).
+RESULTS: Between January 2020 and December 2021, 96 patients were enrolled. 
+Ninety-five (99.0%) patients received 8 cycles of neoadjuvant therapy and all 
+underwent surgery with 45 (46.9%) breast-conserving surgery and 51 (53.1%) 
+mastectomy. The pCR was 80.2% (95%CI, 71.2%-87.0%). Four (4.2%) experienced left 
+ventricular insufficiency with an absolute decline in LVEF (43%-49%). No 
+congestive heart failure and ≥grade 3 cardiac toxicity occurred. The objective 
+response rate was 85.4% (95%CI, 77.0%-91.1%), including 57 (59.4%) complete 
+responses and 25 (26.0%) partial responses. The disease control rate was 99.0% 
+(95%CI, 94.3%-99.8%). For overall safety, ≥grade 3 AEs occurred in 30 (31.3%) 
+and mainly included neutropenia (30.2%) and asthenia (8.3%). No 
+treatment-related deaths occurred. Notably, age of >30 (P = .01; OR = 5.086; 
+95%CI, 1.44-17.965) and HER2 IHC 3+ (P = .02; OR = 4.398; 95%CI, 1.286-15.002) 
+were independent predictors for superior pCR (ClinicalTrials.gov Identifier 
+NCT05346107).
+CONCLUSION: Brecan study demonstrated the encouraging safety and efficacy of 
+neoadjuvant PLD/C/HP-nabP/HP, suggesting a potential therapeutic option in 
+HER2-positive BC.
+
+© The Author(s) 2023. Published by Oxford University Press.
+
+DOI: 10.1093/oncolo/oyad160
+PMCID: PMC10769796
+PMID: 37279780 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors indicated no financial 
+relationships.
