@@ -1,0 +1,47 @@
+1. Ned Tijdschr Geneeskd. 2008 Nov 15;152(46):2519-25.
+
+[Neoadjuvant systemic therapy in patients with operable primary breast cancer: 
+more benefits than breast-conserving therapy].
+
+[Article in Dutch]
+
+Straver ME(1), van Adrichem JC, Rutgers EJ, Rodenhuis S, Linn SC, Loo CE, 
+Gilhuijs KG, Oldenburg HS, Wesseling J, Russell NS, Antonini N, Vrancken Peeters 
+MT.
+
+Author information:
+(1)Afd. Chirurgie, Nederlands Kanker Instituut-Antoni van Leeuwenhoek 
+Ziekenhuis, Amsterdam.
+
+OBJECTIVE: To analyse the extent to which primary systemic therapy (PST) 
+achieves the main goals in patients with operable primary breast cancer, these 
+goals being breast-conserving therapy and pathological complete remission (pCR), 
+and to evaluate the response.
+DESIGN: Retrospective.
+METHOD: In a retrospective analysis of 254 patients treated with PST in 
+2000-2007 in the Netherlands Cancer Institute-Antoni van Leeuwenhoek Hospital, 
+patients with inoperable disease (T4 and/or N3) were excluded. The response was 
+mostly evaluated using contrast-enhanced MRI, whereby the chemotherapy regimen 
+was switched if the reduction in the largest diameter of contrast washout was 
+less than 25%. pCR was defined as no evidence of invasive cancer in the breast 
+and axilla in the resection specimen.
+RESULTS: In patients with ductal carcinoma and lobular carcinoma an increase in 
+breast-conserving therapy was seen in 32% and 17% of patients respectively. The 
+pCR rate was 12% and 2% respectively. Secondary mastectomy because of irradical 
+resection was required in 3% and 50% respectively. Multivariate analysis 
+indicated that molecular type, defined on the basis of the expression of hormone 
+receptors and human epidermal growth factor receptor 2 (HER2), i.e. luminal 
+(oestrogen receptor-positive), basal (hormone receptor-negative and 
+HER2-negative) and HER2-positive tumours treated with trastuzumab was the only 
+independent predictor of pCR; 2%, 28% and 35% respectively (p=0.004). In 43 
+patients the chemotherapy regimen was adjusted because the tumour did not 
+respond sufficiently. A favourable clinical response was observed in 72% (31/43) 
+of these patients.
+CONCLUSION: The observed increase in the number of breast-conserving therapies 
+after PST was clinically relevant. PST may be more effective when 
+contrast-enhanced MRI is used for interim evaluation, based on which the 
+treatment may be switched. There was a clear difference in histological and 
+molecular types of tumour and therefore the choice of treatment may be adjusted 
+accordingly.
+
+PMID: 19055260 [Indexed for MEDLINE]
