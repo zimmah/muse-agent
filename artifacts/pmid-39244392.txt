@@ -1,0 +1,53 @@
+1. Clin Breast Cancer. 2024 Dec;24(8):e723-e730. doi: 10.1016/j.clbc.2024.08.010.
+ Epub 2024 Aug 22.
+
+Analysis of Factors Associated With Pathological Complete Response in Patients 
+With HER2-Positive Breast Cancer Receiving Neoadjuvant Chemotherapy.
+
+Stjepanovic N(1), Kumar S(2), Jerzak KJ(2), Trudeau M(2), Warner E(2), Cao X(3), 
+Eisen A(2), Tran W(4), Pezo RC(5).
+
+Author information:
+(1)Division of Medical Oncology and Hematology, Sunnybrook Odette Cancer Centre, 
+Toronto, ON, Canada.
+(2)Division of Medical Oncology and Hematology, Sunnybrook Odette Cancer Centre, 
+Toronto, ON, Canada; Department of Medicine, University of Toronto, Toronto, ON, 
+Canada.
+(3)Research Design and Biostatistics, Sunnybrook Research Institute, Toronto, 
+ON, Canada.
+(4)Evaluative Clinical Sciences, Odette Cancer Research Program, Sunnybrook 
+Research Institute, Toronto, ON, Canada; Department of Radiation Oncology, 
+Sunnybrook Health Sciences Centre, Toronto, ON, Canada.
+(5)Division of Medical Oncology and Hematology, Sunnybrook Odette Cancer Centre, 
+Toronto, ON, Canada; Department of Medicine, University of Toronto, Toronto, ON, 
+Canada. Electronic address: rossanna.pezo@sunnybrook.ca.
+
+PURPOSE: This study aimed to examine the impact of the level of HER2 
+overexpression on pathologic and clinical outcomes in HER2-positive breast 
+cancer (BC) patients treated with neoadjuvant therapy (NAT).
+METHODS: Women with Stage II or III HER2-positive BC who received 
+anthracycline-taxane-trastuzumab NAT regimens followed by curative-intent 
+surgery were included. Patients were classified according to tumor HER2 
+expression into HER2-high (immunohistochemistry (IHC) 3+ or fluorescence in situ 
+hybridization (FISH) HER2/CEP17 ratio ≥5 or HER2 copy number ≥10) and 
+HER2-intermediate (IHC 2+ with HER2/CEP17 ratio ≥2 to <5 or copy number ≥4 to 
+<10). Univariate and multivariate logistic regression analyses were performed 
+using HER2 expression as a categorical variable. The primary outcome was 
+pathological complete response (pCR). Estimated 3-year disease-free survival 
+(DFS) and Overall Survival (OS) were secondary outcomes.
+RESULTS: Among 161 patients with HER2-positive BC, 139 (86%) and 22 (14%) were 
+classified as HER2-high and HER2-intermediate, respectively; 105 (65.2%) had 
+hormone receptor (HR)-positive tumors; 72 (45%) achieved a pCR. In the overall 
+population, pCR rates of 18% and 49% were achieved in HER2-intermediate and 
+HER2-high cases, respectively (odds ratio [OR] = 0.23 95% CI 0.07-0.72; P = 
+.007). No pCRs were observed among HR-positive, HER2-intermediate cases. 
+Estimated 3-year DFS was 97.1% versus 89.3% for patients achieving a pCR versus 
+those with residual disease, respectively (P = .0011).
+CONCLUSION: We found that patients with HER2-high disease were more likely to 
+achieve pCR after NAT compared to patients with HER2-intermediate BC, a subgroup 
+of patients that may benefit from more personalized NAT strategies.
+
+Copyright © 2024 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2024.08.010
+PMID: 39244392 [Indexed for MEDLINE]
