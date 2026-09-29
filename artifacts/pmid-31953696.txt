@@ -1,0 +1,101 @@
+1. Breast Cancer Res Treat. 2020 Feb;180(1):135-146. doi: 
+10.1007/s10549-020-05524-6. Epub 2020 Jan 17.
+
+A randomized, 3-arm, neoadjuvant, phase 2 study comparing 
+docetaxel + carboplatin + trastuzumab + pertuzumab (TCbHP), TCbHP followed by 
+trastuzumab emtansine and pertuzumab (T-DM1+P), and T-DM1+P in HER2-positive 
+primary breast cancer.
+
+Masuda N(1), Ohtani S(2), Takano T(3), Inoue K(4), Suzuki E(5), Nakamura R(6), 
+Bando H(7), Ito Y(8), Ishida K(9), Yamanaka T(10), Kuroi K(11), Yasojima H(1), 
+Kasai H(12), Takasuka T(13), Sakurai T(14), Kataoka TR(14), Morita S(15), Ohno 
+S(16), Toi M(17).
+
+Author information:
+(1)Department of Surgery, Breast Oncology, National Hospital Organization Osaka 
+National Hospital, Osaka, Japan.
+(2)Department of Breast Surgery, Hiroshima City Hiroshima Citizens Hospital, 
+Hiroshima, Japan.
+(3)Department of Medical Oncology, Toranomon Hospital, Tokyo, Japan.
+(4)Division of Breast Oncology, Saitama Cancer Center, Saitama, Japan.
+(5)Department of Breast Surgery, Kyoto University Hospital, Kyoto, Japan.
+(6)Division of Breast Surgery, Chiba Cancer Center, Chiba, Japan.
+(7)Breast and Endocrine Surgery, Faculty of Medicine, University of Tsukuba, 
+Tsukuba, Japan.
+(8)Breast Medical Oncology Department, Cancer Institute Hospital of Japanese 
+Foundation for Cancer Research, Tokyo, Japan.
+(9)Department of Surgery, Iwate Medical University, Morioka, Japan.
+(10)Department of Breast and Endocrine Surgery, Kanagawa Cancer Center, 
+Yokohama, Japan.
+(11)Department of Breast Surgery, Tokyo Metropolitan Health and Hospitals 
+Corporation Ebara Hospital, Tokyo, Japan.
+(12)Institute for Advancement of Clinical and Translational Science, Kyoto 
+University Hospital, Kyoto, Japan.
+(13)Oncology Lifecycle Management Department, Chugai Pharmaceutical Co., Ltd., 
+Tokyo, Japan.
+(14)Department of Diagnostic Pathology, Kyoto University Hospital, Kyoto, Japan.
+(15)Department of Biomedical Statistics and Bioinformatics, Kyoto University 
+Graduate School of Medicine, Kyoto, Japan.
+(16)Breast Oncology Center, Cancer Institute Hospital of Japanese Foundation for 
+Cancer Research, Tokyo, Japan.
+(17)Breast Cancer Unit, Kyoto University Hospital, Kyoto University, 54 
+Shogoin-Kawaharacho, Sakyo-ku, Kyoto, 606-8507, Japan. toi@kuhp.kyoto-u.ac.jp.
+
+PURPOSE: The standard of care in the neoadjuvant setting for human epidermal 
+growth factor receptor 2 (HER2)-positive breast cancer is dual HER2-targeted 
+therapy. However, a need to minimize treatment-related toxicity and improve 
+pathological complete response (pCR) rates, particularly in luminal 
+HER2-positive disease, exists.
+METHODS: Neopeaks, a randomized, phase 2 study, compared 
+docetaxel + carboplatin + trastuzumab + pertuzumab (TCbHP; 6 cycles; group A), 
+TCbHP (4 cycles) followed by trastuzumab emtansine + pertuzumab (T-DM1+P; 4 
+cycles; group B), and T-DM1+P (4 cycles; group C) regimens in HER2-positive 
+primary breast cancer patients; concurrent hormone therapy with T-DM1+P was 
+administered in case of estrogen receptor positivity (ER+). Based on tumor 
+shrinkage, nonresponders in group C were switched to 
+5-fluorouracil + epirubicin + cyclophosphamide (FEC; 4 cycles). Primary endpoint 
+was pCR (comprehensive pCR ypN0 [ypT0-TisypN0]).
+RESULTS: Of 236 patients enrolled, 204 were randomized to groups A (n = 51), B 
+(n = 52), and C (n = 101). In group C, 80 (79%) patients continued T-DM1+P 
+following favorable response, whereas 21 (21%) nonresponders switched to FEC. 
+pCR rate was numerically higher with the TCbHP →  T-DM1+P regimen (71%) versus 
+the standard TCbHP (57%) and T-DM1+P (57%) regimens. The rate in group C was 
+higher among responders continuing T-DM1+P (63%) versus nonresponders who 
+switched to FEC (38%). pCR rates after initial 4 cycles of T-DM1+P (group C; 
+57%) and standard TCbHP regimen (57%) were equivalent. pCR rate in patients with 
+ER+ was significantly higher in group B (69%) than groups A (43%) and C (51%), 
+but was comparable in patients with ER- (67-76%). Compared with the T-DM1-based 
+arm, the incidence of adverse events was higher in the taxane-based arms.
+CONCLUSION: In the neoadjuvant setting, the pCR rate with the standard TCbHP →  
+T-DM1+P regimen was numerically better than the TCbHP regimen alone and 
+significantly better in patients with ER+. Personalization of the T-DM1+P 
+regimen could serve as a reasonable approach to minimize toxicity while 
+maintaining efficacy. Trial registration ID: UMIN-CTR: UMIN000014649.
+
+DOI: 10.1007/s10549-020-05524-6
+PMCID: PMC7031180
+PMID: 31953696 [Indexed for MEDLINE]
+
+Conflict of interest statement: NM has received honoraria from Chugai, 
+AstraZeneca, Pfizer, Eli Lilly, Eisai, and Takeda; funding from Chugai, 
+AstraZeneca, Kyowa Hakko Kirin, MSD, Novartis, Pfizer, Eli Lilly, Eisai, and 
+Daiichi Sankyo; and is a board member of JBCRG. S. Ohtani has received honoraria 
+from Chugai, Eisai, AstraZeneca, and Pfizer. T. Takano has received honoraria 
+from Daiichi Sankyo, Kyowa Hakko Kirin, and Eisai; and research funding from 
+Chugai, Taiho, Novartis, Takeda, Ono, MSD, Merck Serono, Daiichi Sankyo, Kyowa 
+Hakko Kirin, and Eisai. K. Inoue has received funding from Parexel, Puma 
+Biotechnology, GlaxoSmithKline, Pfizer, Novartis, Chugai, Bayer, Daiichi Sankyo, 
+MSD, and Eli Lilly. HB has received honoraria from Chugai, AstraZeneca, Eisai, 
+Taiho, Novartis, Pfizer, Kyowa Hakko Kirin; and research funding from Taiho and 
+Eisai. YI has received funding from Daiichi Sankyo, Chugai, Novartis, Parexel, 
+EPS, MSD, AstraZeneca, Eli Lilly, Kyowa Hakko Kirin, Covance, Taiho, and A2 
+Healthcare. TY has received lecture fee from Chugai, Eisai, Novartis, Pfizer, 
+and Taiho. KK has received honoraria from Taiho Pharmaceutical Co, Kyowa Hakko 
+Kirin Co, Astellas Pharma Inc, Eisai Co, and Novartis Pharma K.K. T. Takasuka is 
+an employee and owns stocks of Chugai Pharmaceutical. SM received consulting 
+fees or honoraria from JBCRG and Chugai. S Ohno received consulting fees or 
+honoraria from Chugai, AstraZeneca, Taiho, Pfizer, Novartis, Kyowa Hakko Kirin, 
+and Eisai; and funding from Chugai, Taiho, Daiichi Sankyo, and Eisai. MT 
+received honoraria for lecture from Chugai and Takeda and funding from Chugai. 
+ES, RN, K Ishida, HY, HK, TS, and TRK do not have any conflicts of interest to 
+declare.
