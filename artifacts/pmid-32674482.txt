@@ -1,0 +1,81 @@
+1. Cancers (Basel). 2020 Jul 14;12(7):1902. doi: 10.3390/cancers12071902.
+
+ERBB2 mRNA Expression and Response to Ado-Trastuzumab Emtansine (T-DM1) in 
+HER2-Positive Breast Cancer.
+
+Griguolo G(1)(2), Brasó-Maristany F(3)(4), González-Farré B(4)(5), Pascual 
+T(3)(4)(6), Chic N(3)(4), Saurí T(3)(4), Kates R(7), Gluz O(7)(8)(9), Martínez 
+D(3)(4), Paré L(6), Tsvetkova V(2), Pesantez D(3)(4), Vidal M(3)(4)(6), Adamo 
+B(3)(4), Muñoz M(3)(4)(6), Galván P(3)(4), Barberá L(3)(4), Cuatrecasas M(5), 
+Christgen M(10), Kreipe H(10), Monge-Escartín I(11), Villagrasa P(6), Soy D(11), 
+Giarratano T(1), Dieci MV(1)(2), Conte P(1)(2), Harbeck N(12), Guarneri V(1)(2), 
+Prat A(3)(4)(6).
+
+Author information:
+(1)Division of Medical Oncology 2, Istituto Oncologico Veneto IOV-IRCCS, 35128 
+Padova, Italy.
+(2)Department of Surgery, Oncology and Gastroenterology, University of Padova, 
+35124 Padova, Italy.
+(3)Department of Medical Oncology, Hospital Clínic de Barcelona, 08036 
+Barcelona, Spain.
+(4)Translational Genomics and Targeted Therapeutics in Solid Tumors, August Pi i 
+Sunyer Biomedical Research Institute (IDIBAPS), 08036 Barcelona, Spain.
+(5)Department of Pathology, Hospital Clínic de Barcelona, 08036 Barcelona, 
+Spain.
+(6)SOLTI breast cancer cooperative group, 08008 Barcelona, Spain.
+(7)The West German Study Group, 41061 Mönchengladbach, Germany.
+(8)Ev. Hospital Bethesda, Breast Center Niederrhein, 41061 Mönchengladbach, 
+Germany.
+(9)University Clinics Cologne, 50937 Cologne, Germany.
+(10)Medical School Hannover, Institute of Pathology, 30625 Hannover, Germany.
+(11)Pharmacy Department, Division of Medicines, Hospital Clínic de Barcelona, 
+08036 Barcelona, Spain.
+(12)Breast Center, Department of Gynecology and Obstetrics, University of Munich 
+(LMU) and CCCLMU, 80337 Munich, Germany.
+
+Trastuzumab emtansine (T-DM1) is approved for the treatment of human epidermal 
+growth factor receptor 2 (HER2)-positive (HER2+) metastatic breast cancer (BC) 
+and for residual disease after neoadjuvant therapy; however, not all patients 
+benefit. Here, we hypothesized that the heterogeneity in the response seen in 
+patients is partly explained by the levels of human epidermal growth factor 
+receptor 2 gene (ERBB2) mRNA. We analyzed ERBB2 expression using a clinically 
+applicable assay in formalin-fixed paraffin-embedded (FFPE) tumors (primary or 
+metastatic) from a retrospective series of 77 patients with advanced HER2+ BC 
+treated with T-DM1. The association of ERBB2 levels and response was further 
+validated in 161 baseline tumors from the West German Study (WGS) Group ADAPT 
+phase II trial exploring neoadjuvant T-DM1 and 9 in vitro BC cell lines. 
+Finally, ERBB2 expression was explored in 392 BCs from an in-house dataset, 368 
+primary BCs from The Cancer Genome Atlas (TCGA) dataset and 10,071 tumors 
+representing 33 cancer types from the PanCancer TCGA dataset. High ERBB2 mRNA 
+was found associated with better response and progression-free survival in the 
+metastatic setting and higher rates of pathological complete response in the 
+neoadjuvant setting. ERBB2 expression also correlated with in vitro response to 
+T-DM1. Finally, our assay identified 0.20-8.41% of tumors across 15 cancer types 
+as ERBB2-high, including gastric and esophagus adenocarcinomas, urothelial 
+carcinoma, cervical squamous carcinoma and pancreatic cancer. In particular, we 
+identified high ERBB2 mRNA in a patient with HER2+ advanced gastric cancer who 
+achieved a long-lasting partial response to T-DM1. Our study demonstrates that 
+the heterogeneity in response to T-DM1 is partly explained by ERBB2 levels and 
+provides a clinically applicable assay to be tested in future clinical trials of 
+breast cancer and other cancer types.
+
+DOI: 10.3390/cancers12071902
+PMCID: PMC7409149
+PMID: 32674482
+
+Conflict of interest statement: Potential conflicts of interest are the 
+following: A.P. reports consulting fees from Nanostring Technologies Roche, 
+Pfizer, Novartis and Daiichi Sankyo outside the submitted work. A.P. is listed 
+as an inventor on a patent application on HER2 as a predictor of response to 
+dual HER2 blockade in the absence of cytotoxic therapy (WO2018/103834A1). MV.D. 
+reports lecture fees and honoraria for participation on advisory boards from 
+Roche, Genomic Health, Eli Lilly, and Celgene outside the submitted work. PF.C. 
+reports honoraria for participation on advisory boards from Eli Lilly, Novartis, 
+AstraZeneca, Tesaro, Roche Genentech, Daiichi Sankyo, and BMS, and research 
+grants to the Institution from Novartis, Roche Genentech, Merck KGaA, and BMS 
+outside the submitted work. V.G. reports lecture fees and honoraria for 
+participation on advisory boards from Eli Lilly, Roche Genentech and Novartis, 
+honoraria for participation on Speakers bureau from Eli Lilly and Novartis 
+outside the submitted work. N.H. reports fees for consulting and/or lectures 
+Novartis and Roche outside the submitted work and minority ownership in WSG 
+(Westdeutsche Studiengruppe).
