@@ -1,0 +1,43 @@
+1. J Surg Oncol. 2021 Dec;124(8):1224-1234. doi: 10.1002/jso.26646. Epub 2021 Aug
+ 20.
+
+Loss of HER2-positivity following neoadjuvant targeted therapy for breast cancer 
+is not associated with inferior oncologic outcomes.
+
+Wetzel CL(1), Sutton TL(1), Gardiner S(2), Farinola M(3), Johnson N(4), Garreau 
+JR(4).
+
+Author information:
+(1)Department of Surgery, Oregon Heath & Science University (OHSU), Portland, 
+Oregon, USA.
+(2)Legacy Health, Devers Eye Institute, Legacy Research Institute, Portland, 
+Oregon, USA.
+(3)Department of Pathology, Legacy Health, Portland, Oregon, USA.
+(4)Legacy Cancer Institute, Legacy Medical Group Surgical Oncology, Portland, 
+Oregon, USA.
+
+BACKGROUND: Patients with human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer are treated with trastuzumab-based neoadjuvant 
+therapy (NAT); some patients with residual disease post-NAT show loss of HER2 
+amplification and has been inconsistently associated with oncologic outcomes.
+METHODS: We queried our multi-institutional cancer registry for women with 
+HER2-positive breast cancer undergoing NAT from 2011 to 2018. Clinicopathologic, 
+treatment-related, and outcomes data were collected. Kaplan-Meier and Cox 
+proportional hazards analysis were used to evaluate oncologic outcomes.
+RESULTS: A total of 348 patients were identified; 166 (48%) had a pathologic 
+complete response. Of the 182 patients with residual disease, 87 (48%) were 
+HER2-positive, 34 (19%) were HER2-negative, and 61 (33%) were HER2-unknown, with 
+a median follow-up of 44 months. There were no factors associated with HER2 loss 
+apart from age. On Kaplan-Meier analysis, estimated 5-year recurrence-free 
+survival (RFS) and overall survival (OS) for patients with HER2-positive 
+residual disease was 81% and 92%, respectively, and 74% (log rank p = 0.75) and 
+81% (p = 0.35) in patients with HER2-negative residual disease.
+CONCLUSION: The loss of HER2-positivity following NAT is not associated with 
+worse 5-year RFS or OS. We do not recommend retesting HER2 status following NAT 
+for the purpose of clinical management; these patients should complete targeted 
+adjuvant therapy.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jso.26646
+PMID: 34416025 [Indexed for MEDLINE]
