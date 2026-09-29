@@ -1,0 +1,36 @@
+1. Ann Surg. 2013 Jan;257(1):133-7. doi: 10.1097/SLA.0b013e3182686bd9.
+
+Breast cancer molecular phenotype and the use of HER2-targeted agents influence 
+the accuracy of breast MRI after neoadjuvant chemotherapy.
+
+Moon HG(1), Han W, Ahn SK, Cho N, Moon WK, Im SA, Park IA, Noh DY.
+
+Author information:
+(1)Department of Surgery, Seoul National University College of Medicine, Seoul 
+National University Hospital, South Korea.
+
+OBJECTIVE: To investigate whether the accuracy of magnetic resonance imaging 
+(MRI) after neoadjuvant systemic therapy (NST) is affected by molecular features 
+of primary breast cancer and the use of human epidermal growth factor receptor 2 
+(HER2)-targeted agents.
+BACKGROUND: Improved understanding of factors affecting the accuracy of breast 
+MRI after NST can lead to more tailored use of MRI in deciding surgical extent 
+after NST.
+METHODS: We analyzed the imaging and clinicopathological data of 463 patients 
+who underwent NST. We aimed to investigate whether the molecular subtypes, and 
+the use of targeted therapies, were associated with changes in the accuracy of 
+MRI predicting residual tumor extent.
+RESULTS: The accuracy of MRI predicting the residual tumor extent was most 
+accurate in triple-negative breast cancer and was least accurate in Luminal A 
+subtype (Pearson correlation coefficient of 0.754 and 0.531, respectively). 
+Multivariate analysis suggested estrogen receptor (ER) status as an independent 
+factor influencing the MRI accuracy. In HER2-amplified tumors, the use of 
+HER2-targeted agents was associated with a less accurate MRI prediction.
+CONCLUSIONS: The accuracy of MRI in predicting residual tumor extent was lowest 
+in ER-positive tumors treated with NST. In HER2-positive tumors, the use of 
+HER2-targeted agents resulted in a less accurate MRI after NST. These factors 
+should be considered for deciding the extent of breast conservation after 
+neoadjuvant chemotherapy.
+
+DOI: 10.1097/SLA.0b013e3182686bd9
+PMID: 22968080 [Indexed for MEDLINE]
