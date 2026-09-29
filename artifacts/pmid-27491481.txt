@@ -1,0 +1,59 @@
+1. Cancer Chemother Pharmacol. 2016 Oct;78(4):685-95. doi: 
+10.1007/s00280-016-3107-6. Epub 2016 Aug 4.
+
+Phase II trial of neoadjuvant letrozole and lapatinib in Asian postmenopausal 
+women with estrogen receptor (ER) and human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer [Neo-ALL-IN]: Highlighting the TILs, ER 
+expressional change after neoadjuvant treatment, and FES-PET as potential 
+significant biomarkers.
+
+Park JH(1), Kang MJ(1), Ahn JH(1), Kim JE(1), Jung KH(1), Gong G(2), Lee HJ(2), 
+Son BH(3), Ahn SH(3), Kim HH(4), Shin HJ(4), Moon DH(5), Kim SB(6).
+
+Author information:
+(1)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Korea.
+(2)Department of Pathology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(3)Department of Surgery, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(4)Department of Radiology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(5)Department of Nuclear Medicine, Asan Medical Center, University of Ulsan 
+College of Medicine, Seoul, Korea.
+(6)Department of Oncology, Asan Medical Center, University of Ulsan College of 
+Medicine, 88 Olympic-ro 43-gil, Songpa-gu, Seoul, 05505, Korea. 
+sbkim3@amc.seoul.kr.
+
+PURPOSE: Neo-ALL-IN (NCT 01275859) is a single-center, phase II study aimed to 
+evaluate the efficacy and safety profiles of neoadjuvant letrozole plus 
+lapatinib, as well as potential biomarkers, in postmenopausal women with ER- and 
+HER2-positive (ER+HER2+) breast cancer.
+METHODS: Postmenopausal ER+HER2+ breast cancer of stages II-III was eligible. 
+Daily 2.5 mg letrozole plus 1500 mg lapatinib were administered for 18-21 weeks 
+before surgery. Clinical responses were assessed by palpation with caliper, 
+breast ultrasonography, mammogram, and/or MRI. Biologic samples were collected 
+for biomarker analyses at three time points (baseline, day 14, and before 
+surgery). Baseline fluorine-18 fluorodeoxyglucose and fluorine-18 
+fluoroestradiol PET-CT scans were performed.
+RESULTS: Among 24 patients enrolled, 17 (70.8 %) completed planned neoadjuvant 
+treatment, whereas 7 prematurely terminated the treatment and proceeded to 
+surgery because of toxicity or progression; 2 patients showed definite 
+progression, and 2 showed clinical regrowth by palpation regardless of minimal 
+response. All patients eventually underwent breast cancer surgery. Toxicities 
+were generally mild mostly within grades 1-2 except prolonged or recurrent grade 
+3 liver toxicities in 3 patients (13.6 %) regardless of sequential dose 
+reduction, which finally led to discontinuation of treatment. The overall 
+clinical response rates were 62.5 % (n = 15) including 1 CR in breast. However, 
+no pathologic CR (ypT0-is N0) was achieved. SUVmax lower than 5.5 in baseline 
+FES PET-CT (p = 0.007), baseline TILs over 20 % (p = 0.026), and decreased IHC 
+ER Allred score after neoadjuvant treatment (p = 0.021) were significantly 
+associated with adverse clinical response.
+CONCLUSIONS: When this chemo-free, combination neoadjuvant therapy with 
+letrozole and lapatinib is given for Asian postmenopausal ER+HER2+ breast 
+cancer, TILs, change of ER expression following neoadjuvant treatment, and 
+SUVmax in baseline FES-PET are to be considered potential biomarkers in these 
+patients.
+
+DOI: 10.1007/s00280-016-3107-6
+PMID: 27491481 [Indexed for MEDLINE]
