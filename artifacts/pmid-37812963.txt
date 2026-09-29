@@ -1,0 +1,56 @@
+1. Breast. 2023 Dec;72:103586. doi: 10.1016/j.breast.2023.103586. Epub 2023 Oct
+3.
+
+Prognostic impact of reduced HER2 protein expression in post-neoadjuvant therapy 
+resection specimens: A single institution experience and review of the 
+literature.
+
+Mogica JP(1), Tang H(2), Liang Y(2), Zhong M(2), Hui P(2), Harigopal M(2), 
+Krishnamurti U(2), Fischbach NA(3), Zhan H(4).
+
+Author information:
+(1)Department of Oncology, Yale-New Haven Health Bridgeport Hospital, 
+Bridgeport, CT, USA.
+(2)Department of Pathology, Yale University School of Medicine, New Haven, CT, 
+USA.
+(3)Department of Oncology, Yale University School of Medicine, New Haven, CT, 
+USA.
+(4)Department of Pathology, Yale University School of Medicine, New Haven, CT, 
+USA. Electronic address: haiying.zhan@yale.edu.
+
+BACKGROUND: Retesting for Human epidermal growth factor receptor-2 (HER2) in 
+post-neoadjuvant therapy resection is variable, and data is conflicting 
+regarding the prognostic significance of changes in HER2 expression pre and post 
+therapy.
+METHODS: We identified 104 patients with localized HER2 IHC 3+ breast cancer who 
+received neoadjuvant trastuzumab(T)/pertuzumab(P) containing chemotherapy at 
+Yale Cancer Center between 2012 and 2022. Patients were divided into 3 cohorts 
+by response and HER2 IHC in the residual disease: Cohort 1 pathologic complete 
+response (pCR), Cohort 2 pre-treatment IHC 3+/post treatment IHC 1+/2+, and 
+Cohort 3 pre-treatment IHC 3+/post-treatment IHC 3+. Kaplan-Meier survival 
+analysis was performed to assess recurrence free survival at 36 months.
+RESULTS: The overall pCR rate was 62.5% (65/104), while 37.5% (39/104) of 
+patients had residual disease (RD). Among patients with RD, 58.9% (23/39) 
+remained IHC 3+ and 41.1% (16/39) had reduced HER2 expression IHC1+ or 2+. In 
+patients with HER2 IHC 3+ RD, 26% (6/23) developed local recurrence or distant 
+metastasis while none of patients with post NAT HER2 IHC 1+ or 2+ RD had relapse 
+(p = 0.0309). In patients with pCR, 6.15% (4/65) had recurrence. Kaplan-Meier 
+survival analysis revealed superior disease-free survival in patients with 
+reduced HER2 IHC expression compared to those with remained IHC 3+ (log rank 
+p = 0.004).
+CONCLUSION: We conclude that reduced HER2 expression by IHC following 
+neoadjuvant treatment was associated with lower recurrence rates in HER2 IHC 3+ 
+breast cancer. If confirmed, RD HER2 IHC expression could be used as a 
+prognostic biomarker to stratify patients in adjuvant trials and identify 
+patients who may benefit from more intensive adjuvant therapy and post therapy 
+surveillance.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.breast.2023.103586
+PMCID: PMC10568274
+PMID: 37812963 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that there is no conflict of interest regarding the publication of this 
+paper.
