@@ -1,0 +1,41 @@
+1. Crit Rev Oncol Hematol. 2007 Apr;62(1):1-8. doi: 
+10.1016/j.critrevonc.2006.10.004. Epub 2007 Feb 21.
+
+Selection of chemotherapeutic drugs in adjuvant programs based on molecular 
+profiles: where do we stand?
+
+Biganzoli L(1), Claudino WM, Pestrin M, Pozzessere D, Di Leo A.
+
+Author information:
+(1)Sandro Pitigliani Medical Oncology Unit, Department of Oncology, Hospital of 
+Prato, Piazza dell'Ospedale 2, 59100 Prato, Italy.
+
+Tumors have usually been classified by their morphologic appearances. 
+Unfortunately, these current classification schemes have serious drawbacks. They 
+are not able to stratify similar histopathological appearances that will follow 
+significantly different clinical courses or respond differently to chemotherapy. 
+The information that a specific molecular profile correlates with important 
+clinical endpoints should permit physicians to take treatment decisions based on 
+the molecular characteristics of each tumor. Lessons from the metastatic setting 
+have been translated to the adjuvant setting, and several strategies have been 
+evaluated in clinical trials. The expression of estrogen receptors (ER) in 
+breast cancer enables physicians to make treatment decisions related to the use 
+of hormonal manipulations. In this context, the challenge is to define a 
+suitable subgroup of patients who will benefit from the addition of 
+chemotherapy. Otherwise, the lack of ER expression predicts no benefit from 
+hormonotherapy. In this setting chemotherapy plays a central role. The selection 
+of the most appropriate regimen based on HER-2 status remains an uncertain 
+strategy. However, the expression of the oncoprotein HER-2 has been linked to 
+the probability of response to the target-designed monoclonal antibody 
+trastuzumab. The role of trastuzumab in the adjuvant setting is supported by the 
+early results of three large clinical trials presented at the American Society 
+Clinical Oncology meeting in 2005. These trials have shown a striking impact of 
+trastuzumab on the main endpoints such as disease-free survival and overall 
+survival. In this context, the integration of trastuzumab with taxane and 
+anthracycline-based-chemotherapy seems to be the appropriate choice. This review 
+will combine data from breast cancer biology with clinical evidence coming from 
+large phase III trials in the attempt to propose a molecular targeted approach 
+to the adjuvant treatment strategy of early breast cancer patients.
+
+DOI: 10.1016/j.critrevonc.2006.10.004
+PMID: 17317203 [Indexed for MEDLINE]
