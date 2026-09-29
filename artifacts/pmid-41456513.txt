@@ -1,0 +1,69 @@
+1. Clin Breast Cancer. 2026 Jan;26(1):131-138. doi: 10.1016/j.clbc.2025.11.014. 
+Epub 2025 Dec 1.
+
+Survival Outcomes and Recurrence Patterns of Early-Stage HER2-Positive Breast 
+Cancer Patients on Adjuvant T-DM1 Treatment: Turkish Oncology Group (TOG) Study.
+
+Türkel A(1), Onur İD(2), Karakayalı A(3), Alemdar MB(4), Türkmen E(5), Alkan 
+A(6), Yıldız S(7), Majidova N(8), Emin G(9), Gürbüz AF(10), Şahin E(11), Şakalar 
+T(12), Yalıcı Ö(13), Erdoğan AP(5), Coşar R(7), Karaman E(9), Eryılmaz MK(10), 
+Doğan M(2).
+
+Author information:
+(1)Department of Medical Oncology, Dr.Abdurrahman Yurtaslan Ankara Oncology 
+Research and Treatment Hospital, Ankara, Turkey. Electronic address: 
+turkelalperr@gmail.com.
+(2)Department of Medical Oncology, Dr.Abdurrahman Yurtaslan Ankara Oncology 
+Research and Treatment Hospital, Ankara, Turkey.
+(3)Department of Medical Oncology, Kocaeli University Faculty of Medicine, 
+Kocaeli, Turkey.
+(4)Department of Medical Oncology, Aydın Adnan Menderes University, Aydın, 
+Turkey.
+(5)Department of Medical Oncology, Manisa Celal Bayar University, Manisa, 
+Turkey.
+(6)Department of Medical Oncology, Muğla Sıtkı Koçman University, Muğla, Turkey.
+(7)Department of Medical Oncology, Afyon Kocatepe University, Afyon, Turkey.
+(8)Department of Medical Oncology, Nargiz Majidova, Marmara University, 
+İstanbul, Turkey.
+(9)Department of Medical Oncology, Karadeniz Technical University, Trabzon, 
+Turkey.
+(10)Department of Medical Oncology, Necmettin Erbakan University, Konya, Turkey.
+(11)Department of Medical Oncology, Kocaeli City Hospital, Kocaeli, Turkey.
+(12)Department of Medical Oncology, Kahramanmaraş Sütçü İmam University, 
+Kahramanmaraş, Turkey.
+(13)Department of Medical Oncology, Tekirdağ Namık Kemal University, Faculty of 
+Medicine, Tekirdağ, Turkey.
+
+PURPOSE: This study aimed to investigate the survival outcomes of adjuvant 
+trastuzumab emtansine (T-DM1) in patients with early-stage HER2-positive breast 
+cancer and the recurrence patterns in those who experienced recurrence.
+METHODS: This multicenter, retrospective study included 121 patients with 
+early-stage HER2-positive breast cancer who underwent surgery following 
+neoadjuvant chemotherapy and anti-HER2 therapy and received adjuvant T-DM1 for 
+residual disease. Recurrence within the first 12 months of adjuvant T-DM1 was 
+defined as ``early recurrence,'' while recurrence after 12 months (> 12 months) 
+was defined as ``late recurrence.'
+' RESULTS: With a median follow-up of 36 months, recurrence occurred in 23 
+patients (median time: 11 months). Twenty-two had distant metastases-most 
+commonly lung (n = 14) and CNS (n = 6)-and one had local recurrence. The 
+recurrent subgroup had higher Ki67, tumor grade, and HR-negativity rate (P = 
+.015, P = .034, and P = .014, respectively). Among recurrences, 12 were early (≤ 
+12 months) and 11 were late recurrence (> 12 months). Patients with early 
+recurrence were significantly younger (P = .007) and had a numerically higher 
+median Ki67 (40% vs. 30%, P = .062). DFS rates at 12, 24, and 36 months were 
+93.3%, 75.2%, and 62.8%, respectively; OS rates were 100%, 98.3%, and 93.1%.
+CONCLUSIONS: Younger patients with HR-negative, high-grade, high Ki67 tumors had 
+significantly higher rates of recurrence. Defining patient subpopulations 
+through biomarker identification is crucial for tailoring escalation and 
+de-escalation strategies, thereby enabling more effective treatments and 
+improved long-term survival. The mechanisms of T-DM1 resistance require 
+investigation through larger trials and molecular profiling.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clbc.2025.11.014
+PMID: 41456513 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors declare that they have no 
+known competing financial interests or personal relationships that could have 
+appeared to influence the work reported in this paper.
