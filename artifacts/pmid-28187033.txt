@@ -1,0 +1,48 @@
+1. Appl Immunohistochem Mol Morphol. 2018 Sep;26(8):523-532. doi: 
+10.1097/PAI.0000000000000466.
+
+Prognostic Significance of Stromal Versus Intratumoral Infiltrating Lymphocytes 
+in Different Subtypes of Breast Cancer Treated With Cytotoxic Neoadjuvant 
+Chemotherapy.
+
+Khoury T(1), Nagrale V(1), Opyrchal M(2), Peng X(3), Wang D(3), Yao S(4).
+
+Author information:
+(1)Departments of Pathology.
+(2)Oncology.
+(3)Biostatistics.
+(4)Epidemiology, Roswell Park Cancer Institute, Buffalo, NY.
+
+BACKGROUND: The aim of the study was to investigate if there were differences in 
+associations of stromal versus intratumoral tumor infiltrating lymphocytes 
+(TILs) with pathology complete response (pCR) among breast cancer (BC) subtypes 
+treated with neoadjuvant therapy.
+MATERIALS AND METHODS: The hematoxylin and eosin slides of BC-core biopsy 
+consecutive cases (n=331) were reviewed from a single institution between 2000 
+and 2014. TIL-stroma (TIL-str) was scored from 0% to 100%. Intratumoral 
+lymphocytes (iTu-Ly) were scored semiquantitatively incorporating the infiltrate 
+grade (0 to 3) and the corresponding percentage resulting in a score ranging 
+from 0 to 300. pCR was defined as no residual infiltrating tumor in the tumor 
+bed and the lymph nodes.
+RESULTS: pCR was achieved in 29 of 95 (30.9%) triple negative cases, 25 of 77 
+(32.5%) HER2+, and 9 of 159 (5.6%) luminal tumors. In univariate analysis, 
+invasive nonlobular carcinoma, higher Nottingham grade, nonluminal subtypes, 
+trastuzumab therapy, nonadvanced clinical T stage (T1 and T2), TIL-str, and 
+iTu-Ly-predicted pCR. In luminal subtype, iTu-Ly but not TIL-str was an 
+independent predictor for pCR [odds ratio (OR)=1.44, 95% confidence interval 
+(CI), 1.08-1.9, P=0.013]. In triple negative subtype, both TIL-str and iTu-Ly 
+were independent predictors for pCR (OR=1.68, 95% CI, 1.29-2.18, P=0.001; 
+OR=1.31, 95% CI, 1.05-1.63, P=0.017, respectively). In HER2+ subtype, neither 
+TIL-str nor iTu-Ly predicted pCR.
+CONCLUSIONS: TILs are variably correlated with better neoadjuvant chemotherapy 
+response depending on their location and clinical subtype of BC. It could 
+indicate that TILs might be functionally heterogeneous with regard to their role 
+in mediating antitumor immune response, depending on their location and BC 
+subtypes.
+
+DOI: 10.1097/PAI.0000000000000466
+PMCID: PMC5550367
+PMID: 28187033 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures: The authors declare that they have 
+no conflicts of interest.
