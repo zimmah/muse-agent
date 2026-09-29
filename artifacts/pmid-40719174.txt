@@ -1,0 +1,69 @@
+1. Elife. 2025 Jul 28;14:RP101583. doi: 10.7554/eLife.101583.
+
+Efficacy and safety of neoadjuvant stereotactic body radiation therapy plus 
+dalpiciclib and exemestane for hormone receptor-positive, HER2-negative breast 
+cancer: A prospective pilot study.
+
+Zhang Y(#)(1)(2)(3)(4), Cao S(#)(1), Niu N(#)(1)(2)(3), Shan H(#)(1), Xue 
+J(#)(1)(2)(3), Chen G(1)(2)(3), Xu Y(1), Yin J(1), Liu C(1)(2)(3), Sun 
+L(1)(2)(3), Jiang X(1)(2)(3), Tang M(1), Xu Q(1)(2), Jia M(1), Zhang X(1), Zhang 
+Z(1), Zhang Q(5), Wang J(6), Li A(1), Yang Y(7), Liu C(1)(2)(3).
+
+Author information:
+(1)Department of Oncology, Shengjing Hospital of China Medical University, 
+Shenyang, China.
+(2)Cancer Stem Cell and Translational Medicine Laboratory, Shengjing Hospital of 
+China Medical University, Shenyang, China.
+(3)Innovative Cancer Drug Research and Development Engineering Center of 
+Liaoning Province, Shenyang, China.
+(4)Department of Gastrointestinal Surgery, Yantai Affiliated Hospital of Binzhou 
+Medical University, Yantai, China.
+(5)Department of Pathology, the First Affiliated Hospital and College of Basic 
+Medical Sciences of China Medical University, Shenyang, China.
+(6)Jiangsu Hengrui Pharmaceuticals, Shanghai, China.
+(7)School of Bioengineering, Dalian University of Technology, Dalian, China.
+(#)Contributed equally
+
+Update of
+    doi: 10.1101/2024.08.31.24312890.
+    doi: 10.7554/eLife.101583.1.
+    doi: 10.7554/eLife.101583.2.
+
+BACKGROUND: Both neoadjuvant chemotherapy and endocrine therapy only result in 
+trivial pathological complete response rates and moderate objective response 
+rates (ORR) in hormone receptor (HR)-positive, human epidermal growth factor 
+receptor-2 (HER2)-negative breast cancer, more promising alternatives are 
+urgently needed. With proven synergistic effect of cyclin-dependent kinase 4/6 
+(CDK4/6) inhibitor and radiotherapy in preclinical studies, this pilot study 
+aimed to explore the efficacy and safety of neoadjuvant stereotactic body 
+radiation therapy (SBRT) followed by dalpiciclib and exemestane in HR-positive, 
+HER2-negative breast cancer.
+METHODS: This was a single-arm, non-controlled prospective pilot study. 
+Treatment-naive patients with unilateral HR-positive, HER2-negative breast 
+cancer received neoadjuvant radiotherapy (24 Gy/3 F) followed by dalpiciclib and 
+exemestane for six cycles. The primary endpoint was the proportion of patients 
+with residual cancer burden (RCB) score of 0-I. Key secondary endpoints included 
+ORR, breast-conservation rate, biomarker analysis, and safety.
+RESULTS: All 12 enrolled patients completed the study treatment and surgery. Two 
+(16.7%) of them achieved the RCB 0-I with the ORR of 91.7% (11/12). Analyses of 
+tumor specimens showed significant increase of infiltrating T cells rather than 
+alteration of PD-L1 positive immune cells. The most common grade 3 adverse 
+events (AEs) were neutropenia (66.7%) and leukopenia (25.0%), but no grade 4-5 
+AE or death occurred.
+CONCLUSIONS: Our results suggested neoadjuvant SBRT followed by dalpiciclib and 
+exemestane is effective and tolerable and provides novel insights for the 
+neoadjuvant treatment of HR+/HER2- breast cancer, which may be considered as a 
+feasible option for patients with HR-positive, HER2-negative breast cancer.
+FUNDING: None.
+CLINICAL TRIAL NUMBER: ClinicalTrials.gov: NCT05132790.
+
+© 2025, Zhang, Cao, Niu et al.
+
+DOI: 10.7554/eLife.101583
+PMCID: PMC12303570
+PMID: 40719174 [Indexed for MEDLINE]
+
+Conflict of interest statement: YZ, SC, NN, HS, JX, GC, YX, JY, CL, LS, XJ, MT, 
+QX, MJ, XZ, ZZ, QZ, AL No competing interests declared, JW is an employee of 
+Jiangsu Hengrui Pharmaceuticals Co., Ltd, YY Reviewing editor, eLife, CL Senior 
+editor, eLife
