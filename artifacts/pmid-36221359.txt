@@ -1,0 +1,54 @@
+1. Medicine (Baltimore). 2022 Oct 7;101(40):e30892. doi: 
+10.1097/MD.0000000000030892.
+
+Real-world study of trastuzumab and pertuzumab combined with chemotherapy in 
+neoadjuvant treatment for patients with HER2-positive breast cancer.
+
+Ma X(1), Zhang X(2)(3), Zhou X(4), Ren X(1)(3), Ma X(1)(3), Zhang W(1)(3), Yang 
+R(4), Song T(4), Liu Y(1)(3).
+
+Author information:
+(1)Department of Breast Center, Fourth Hospital of Hebei Medical University, 
+Shijiazhuang City, Hebei, China.
+(2)Research Center, Fourth Hospital of Hebei Medical University, Shijiazhuang 
+City, Hebei, China.
+(3)Hebei Provincial Key Laboratory of Tumor Microenvironment and Drug 
+Resistance, Hebei Medical University, Shijiazhuang City, Hebei, China.
+(4)Department of Breast Surgery, Handan Central Hospital, Handan City, Hebei, 
+China.
+
+Clinical trials have shown that trastuzumab (H) and pertuzumab (P) combined with 
+chemotherapy as neoadjuvant therapy increased pathological complete response 
+(pCR) rate of patients with human epidermal growth factor receptor 2 
+(HER2)-positive breast cancer. However, date in China in the real world are 
+currently limited. Clinical data from patients with HER2-positive breast cancer 
+who received HP combined with chemotherapy as neoadjuvant therapy at 2 
+institutions from March 2019 to February 2022 were retrospectively analyzed. 
+Adverse reactions were evaluated using CTCAE version 5.0. The primary endpoint 
+was total pathologic complete response (tpCR; ypT0/isypN0), and the secondary 
+endpoints were breast pathologic complete response (bpCR; ypT0/is) and axillary 
+pathologic complete response (apCR; ypN0). Factors influencing tpCR were also 
+analyzed. A total of 302 patients were included in the analysis, of which 145 
+were treated with H + P + taxane + carboplatin (TcbHP), 94 with H + P + taxane 
+(THP) and 63 with sequential anthracycline and cyclophosphamide, followed by H + 
+P + taxane (AC-THP). The overall tpCR rate was 64.9%, and those of TcbHP, THP, 
+and AC-THP were 73.1%, 52.1%, and 65.1%, respectively. The tpCR rate of the 
+hormone receptor (HR) negative group (80.3%) was higher than that of the HR 
+positive group (52.1%). The overall bpCR rate was 73.5% and the apCR rate was 
+75.8%. In the univariate analysis, HR, HER2 status and treatment regimen were 
+related factors that affected tpCR. In the multivariate analysis, HR, HER2 
+status and treatment regimen were independent predictors of tpCR (P < .001, P < 
+.001 and P = .009). The levels 3 and 4 toxicities rates of TcbHP were slightly 
+higher than those of THP and AC-THP. HP combined with chemotherapy has achieved 
+a high pCR rate. The TcbHP regimen had the highest pCR. HR-negative tumors 
+demonstrated a higher pCR. HR, HER2 status and treatment regimen were 
+independent predictors of tpCR. The adverse reactions are controllable.
+
+Copyright © 2022 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000030892
+PMCID: PMC9543020
+PMID: 36221359 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
