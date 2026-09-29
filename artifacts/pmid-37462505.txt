@@ -1,0 +1,26 @@
+1. Cancer Invest. 2023 Jul;41(6):593-600. doi: 10.1080/07357907.2023.2238312.
+Epub  2023 Jul 26.
+
+Neoadjuvant Therapy and Axillary Lymph Node Status in HER2-Positive Breast 
+Cancer.
+
+Danzinger S(1), Pfeifer C(2), Wimmer S(1), Tendl-Schulz K(3), Singer CF(1).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Medical University of Vienna, 
+Vienna, Austria.
+(2)Department of Statistics, University of Innsbruck, Innsbruck, Austria.
+(3)Department of Pathology, Medical University of Vienna, Vienna, Austria.
+
+Based on an estimating model, the aim of our study was to evaluate the axillary 
+lymph node involvement of patients with primary invasive early human epidermal 
+growth factor receptor 2 (HER2)-positive breast cancer before receiving 
+neoadjuvant therapy (NAT). Patients with primary surgery (n = 63) were compared 
+with patients who had received NAT (combined chemo/HER2-targeted antibody 
+therapy) before surgery (n = 152). In patients receiving NAT, a positive N stage 
+was estimated in 73.2 (49.8%) tumors resulting in a conversion (positive N 
+stage-ypNpositive) of 35.5%. In 126 cases with ypN0 stage, a positive N stage 
+was estimated in 41.4%.
+
+DOI: 10.1080/07357907.2023.2238312
+PMID: 37462505 [Indexed for MEDLINE]
