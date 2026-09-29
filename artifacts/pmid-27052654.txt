@@ -1,0 +1,68 @@
+1. Ann Oncol. 2016 Jul;27(7):1249-56. doi: 10.1093/annonc/mdw157. Epub 2016 Apr
+6.
+
+Trastuzumab emtansine (T-DM1) plus docetaxel with or without pertuzumab in 
+patients with HER2-positive locally advanced or metastatic breast cancer: 
+results from a phase Ib/IIa study.
+
+Martin M(1), Fumoleau P(2), Dewar JA(3), Albanell J(4), Limentani SA(5), Campone 
+M(6), Chang JC(7), Patre M(8), Strasak A(9), de Haas SL(10), Xu J(11), 
+Garcia-Saenz JA(12).
+
+Author information:
+(1)Medical Oncology Service, Hospital General Universitario Gregorio Marañón, 
+Madrid, Spain mmartin@geicam.org.
+(2)Medical Oncology, Georges Francois Leclerc Centre, Dijon, France.
+(3)Department of Oncology, Ninewells Hospital, Dundee, UK.
+(4)Medical Oncology, Hospital del Mar, Barcelona Cancer Research Program, IMIM, 
+Barcelona CEXS, Ponpeu Fabra University, Barcelona, Spain.
+(5)Hematology -Medical Oncology Department, Levine Cancer Institute, Charlotte, 
+USA.
+(6)Medical Oncology, Institute of Cancer Research (ICO) in Western France, 
+Nantes, France.
+(7)Houston Methodist Cancer Center, Houston Methodist Hospital, Houston, USA.
+(8)Pharma Development Oncology.
+(9)Department of Biostatistics.
+(10)Oncology Biomarker Development, F. Hoffmann-La Roche Ltd, Basel, 
+Switzerland.
+(11)Department of Clinical Pharmacology, Genentech, Inc., South San Francisco, 
+USA.
+(12)Medical Oncology Department, Hospital Universitario Clínico San Carlos, 
+Madrid, Spain.
+
+BACKGROUND: Trastuzumab emtansine (T-DM1) exhibited enhanced antitumor activity 
+when combined with docetaxel or pertuzumab in preclinical studies. This phase 
+Ib/IIa study assessed the feasibility of T-DM1 + docetaxel in patients with 
+human epidermal growth factor receptor 2 (HER2)-positive metastatic breast 
+cancer (MBC) and T-DM1 + docetaxel ± pertuzumab in patients with HER2-positive 
+locally advanced breast cancer (LABC).
+PATIENTS AND METHODS: Phase Ib (part 1) explored dose escalation, with T-DM1 + 
+docetaxel administered for greater than or equal to six cycles in patients with 
+MBC. Phase Ib (part 2) began with the maximum tolerated dose (MTD) identified in 
+part 1. Patients with LABC were administered less than or equal to six cycles of 
+T-DM1 + docetaxel or T-DM1 + docetaxel + pertuzumab. Phase IIa explored the MTDs 
+identified in phase Ib.
+RESULTS: Administered with T-DM1 (3.6 mg/kg), the docetaxel MTD was 60 mg/m(2) 
+in MBC. In LABC, the MTD was 100 mg/m(2) docetaxel in combination with T-DM1 
+(3.6 mg/kg), given with granulocyte colony-stimulating factor (G-CSF). 
+Administered with T-DM1 (3.6 mg/kg) + pertuzumab (840 mg, cycle 1; 420 mg, 
+subsequent cycles), the docetaxel MTD in LABC was 75 mg/m(2) with G-CSF support. 
+Neutropenia was the most common grade 3-4 adverse event (AE; MBC, 72% and LABC, 
+29%). In total, 48% (12/25) of MBC patients and 47% (34/73) of LABC patients 
+experienced AEs requiring dose modification. In MBC (median prior systemic 
+agents = 5), the objective response rate was 80.0% (20/25; 95% confidence 
+interval [CI] 59.3-93.2) and the median progression-free survival was 13.8 
+months (range, 1.6-33.5). The pathologic complete response (ypT0/is, ypN0) rate 
+in LABC was 60.3% (44/73; 95% CI 48.1-71.5). Pharmacokinetic analyses indicated 
+a low risk of drug-drug interaction between T-DM1 and docetaxel.
+CONCLUSIONS: T-DM1 combined with docetaxel ± pertuzumab appeared efficacious in 
+MBC or LABC; however, nearly half of patients experienced AEs requiring dose 
+reductions with these T-DM1 combinations.
+CLINICALTRIALSGOV IDENTIFIER: NCT00934856.
+
+© The Author 2016. Published by Oxford University Press on behalf of the 
+European Society for Medical Oncology. All rights reserved. For permissions, 
+please email: journals.permissions@oup.com.
+
+DOI: 10.1093/annonc/mdw157
+PMID: 27052654 [Indexed for MEDLINE]
