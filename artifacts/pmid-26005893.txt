@@ -1,0 +1,62 @@
+1. Farm Hosp. 2015 May 1;39(3):171-5. doi: 10.7399/fh.2015.39.3.8912.
+
+Trastuzumab emtansine in locally advanced or metastatic HER2 positive breast 
+cancer; GENESIS-SEFH drug evaluation report.
+
+Miranda Romero P(1), Marín Gil R(2).
+
+Author information:
+(1)Virgen del Rocío University Hospital. Sevilla.. 
+roberto.marin.sspa@juntadeandalucia.es.
+(2)Valme University Hospital. Sevilla. España.. 
+roberto.marin.sspa@juntadeandalucia.es.
+
+Trastuzumab emtansina (T-DM1) is an antibody-drug conjugate directed against the 
+HER2 for the treatment of HER2+ mestastatic breast cancer (MBC), who has 
+previously received trastuzumab plus a taxane. According to the results of the 
+EMILIA trial versus lapatinib plus capecitabine T-DM1 shows an improvement in 
+progression-free survival (PFS) and the overall survival (OS). It has a 
+favorable profile reducing the incidence of grade 3-4 adverse reactions such as 
+hand-foot syndrome and diarrhea. On the contrary increases significantly severe 
+thrombocytopenia; bleeding risk and liver function should also be monitored. 
+With the current import price T-DM1 has a cost per QALY of over 120,000 €. The 
+price of the drug for the Spanish NHS has not yet been established. Drug cost 
+would be the key factor in the sensitivity analysis and a 50% reduction in the 
+price of the drug would place it close to the threshold of cost-effectiveness 
+usually considered in our midst. According to the budget impact model used, a 
+maximum of 1,218 patients / year and the budgetary impact throughout the Spanish 
+state would be at € 70,490,850. In the initial analysis no advantage was found 
+for T-DM1 in those patients without visceral involvement. Although a subsequent 
+re-analysis of the results of PFS in which the definition of visceral 
+involvement was specified a significant benefit was shown in this subgroup. We 
+believe that this approach introduces a high degree of uncertainty, which does 
+not guarantee the benefit achieved for this subgroup of patients.
+
+Publisher: T-DM1 es un conjugado anticuerpo-farmaco dirigido contra el HER2 para 
+el tratamiento del cancer de mama metastasico (CMM) HER2 +, que ha recibido 
+previamente trastuzumab mas un taxano. De acuerdo con los resultados del ensayo 
+EMILIA frente a lapatinib mas capecitabina T-DM1 muestra una mejora en la 
+supervivencia libre de progresion (SLP) y la supervivencia global (SG). Tiene un 
+perfil favorable reducir la incidencia de reacciones adversas grado 3-4 tales 
+como el sindrome mano- pie y la diarrea. Sin embargo, aumenta significativamente 
+el riesgo de trombocitopenia grave y debe monitorizarse el riesgo de hemorragia 
+y la funcion hepatica. Con el precio de importacion actual T-DM1 tiene un coste 
+por AVAC de mas de 120.000 €. El precio del farmaco para el Sistema Nacional de 
+Salud en Espana aun no ha sido establecido. El precio del farmaco seria el 
+factor clave en el analisis de sensibilidad y una reduccion del 50% en el precio 
+lo situaria cerca del umbral de coste-efectividad generalmente considerada en 
+nuestro medio como aceptable. De acuerdo con el modelo de impacto presupuestario 
+utilizado, se trataria un maximo de 1.218 pacientes / ano y el impacto 
+presupuestario de todo el estado espanol estaria entorno a 70.490.850 € para 
+este volumen de pacientes. En el analisis inicial no se encontro ninguna ventaja 
+para T-DM1 en aquellos pacientes sin afectacion visceral. Aunque un re-analisis 
+posterior de los resultados de SLP en el que se especifica la definicion de la 
+afectacion visceral se muestra un beneficio significativo en este subgrupo. 
+Creemos que este enfoque presenta un alto grado de incertidumbre, y no garantiza 
+el beneficio logrado para este subgrupo de pacientes.
+
+Copyright AULA MEDICA EDICIONES 2014. Published by AULA MEDICA. All rights 
+reserved.
+
+DOI: 10.7399/fh.2015.39.3.8912
+PMID: 26005893 [Indexed for MEDLINE]
