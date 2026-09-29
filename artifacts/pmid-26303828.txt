@@ -1,0 +1,54 @@
+1. Clin Exp Metastasis. 2015 Oct;32(7):729-37. doi: 10.1007/s10585-015-9740-3.
+Epub  2015 Aug 25.
+
+Activity of T-DM1 in Her2-positive breast cancer brain metastases.
+
+Bartsch R(1)(2), Berghoff AS(1)(2), Vogl U(3), Rudas M(1)(4), Bergen E(1)(2), 
+Dubsky P(1)(5), Dieckmann K(1)(6), Pinker K(1)(7), Bago-Horvath Z(1)(4), Galid 
+A(8), Oehler L(3), Zielinski CC(1)(2), Gnant M(1)(5), Steger GG(1)(2), Preusser 
+M(9)(10).
+
+Author information:
+(1)Comprehensive Cancer Centre Vienna, Medical University of Vienna, Vienna, 
+Austria.
+(2)Department of Medicine I, Clinical Division of Oncology, Comprehensive Cancer 
+Center Vienna, Central Nervous System Unit (CCC-CNS), Medical University of 
+Vienna, Waehringer Guertel 18-20, 1090, Vienna, Austria.
+(3)Department of Medicine, St. Joseph Hospital, Vienna, Vienna, Austria.
+(4)Department of Pathology, Medical University of Vienna, Vienna, Austria.
+(5)Department of Surgery, Medical University of Vienna, Vienna, Austria.
+(6)Department of Radiotherapy, Medical University of Vienna, Vienna, Austria.
+(7)Biomedical Imaging and Image-guided Therapy, Division of Molecular and Gender 
+Imaging, Medical University of Vienna, Vienna, Austria.
+(8)Department of Gynaecology, Hanusch Hospital, Vienna, Austria.
+(9)Comprehensive Cancer Centre Vienna, Medical University of Vienna, Vienna, 
+Austria. matthias.preusser@meduniwien.ac.at.
+(10)Department of Medicine I, Clinical Division of Oncology, Comprehensive 
+Cancer Center Vienna, Central Nervous System Unit (CCC-CNS), Medical University 
+of Vienna, Waehringer Guertel 18-20, 1090, Vienna, Austria. 
+matthias.preusser@meduniwien.ac.at.
+
+Brain metastases (BM) are frequently diagnosed in metastatic Her2-positive 
+breast cancer. Local treatment remains the standard of care but lapatinib plus 
+capecitabine was recently established as systemic therapy option. Due to a 
+disruption of the blood-brain/tumour-barrier at metastatic sites, even large 
+molecules may penetrate into the central nervous system (CNS). Here, we report 
+on the activity of T-DM1 in Her2-positive breast cancer BM. T-DM1 was 
+administered at a dose of 3.6 mg once every 3 weeks as primary systemic therapy 
+for BM or upon documented CNS progression after initial local treatment. Thus, 
+this study allowed for the appraisal of T-DM1 activity in BM. Restaging was 
+conducted every 12 weeks with MRI or whenever symptoms of disease progression 
+occurred. Ten patients were included; in two asymptomatic subjects, T-DM1 was 
+administered as primary therapy, while eight had progressive BM. All patients 
+had received prior treatment with trastuzumab, six had already received 
+lapatinib, and three pertuzumab as well. Three patients had partial remission of 
+BM, and two patient had stable disease lasting for ≥6 months; two further 
+patients had stable disease for <6 months while three progressed despite 
+treatment. At 8.5 months median follow-up, intracranial PFS was 5 months, and 
+median OS from initiation of T-DM1 was not reached. Local treatment of BM 
+remains the standard of care; lapatinib plus capecitabine is currently the best 
+established systemic therapy option. Still, T-DM1 apparently offers relevant 
+clinical activity in BM and further investigation is warranted.
+
+DOI: 10.1007/s10585-015-9740-3
+PMID: 26303828 [Indexed for MEDLINE]
