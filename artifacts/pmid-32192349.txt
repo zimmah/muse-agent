@@ -1,0 +1,43 @@
+1. Chin Clin Oncol. 2020 Jun;9(3):27. doi: 10.21037/cco.2020.01.06. Epub 2020 Mar
+ 13.
+
+Biomarkers of neoadjuvant/adjuvant chemotherapy for breast cancer.
+
+Iwamoto T(1), Kajiwara Y(2), Zhu Y(2), Iha S(3).
+
+Author information:
+(1)Department of Breast and Endocrine Surgery, Okayama University Hospital, 
+Okayama, Japan. tiwamoto@md.okayama-u.ac.jp.
+(2)Department of Breast and Endocrine Surgery, Okayama University Hospital, 
+Okayama, Japan.
+(3)Department of Breast Oncology, Miyake Ofuku Clinic, Okayama, Japan.
+
+The improvement of tumor biomarkers prepared for clinical use is a long process. 
+A good biomarker should predict not only prognosis but also the response to 
+therapies. In this review, we describe the biomarkers of neoadjuvant/adjuvant 
+chemotherapy for breast cancer, considering different breast cancer subtypes. In 
+hormone receptor (HR)-positive/human epidermal growth factor 2 (HER2)-negative 
+breast cancers, various genomic markers highly associated with proliferation 
+have been tested. Among them, only two genomic signatures, the 21-gene 
+recurrence score and 70-gene signature, have been reported in prospective 
+randomized clinical trials and met the primary endpoint. However, these genomic 
+markers did not suffice in HER2-positive and triple-negative (TN) breast 
+cancers, which present only classical clinical and pathological information 
+(tumor size, nodal or distant metastatic status) for decision making in the 
+adjuvant setting in daily clinic. Recently, patients with residual invasive 
+cancer after neoadjuvant chemotherapy are at a high-risk of recurrence for 
+metastasis, which, in turn, make these patients best applicants for clinical 
+trials. Two clinical trials have shown improved outcomes with post-operative 
+capecitabine and ado-trastuzumab emtansine treatment in patients with either TN 
+or HER2-positive breast cancer, respectively, who had residual disease after 
+neoadjuvant chemotherapy. Furthermore, tumor-infiltrating lymphocytes (TILs) 
+have been reported to have a predictive value for prognosis and response to 
+chemotherapy from the retrospective analyses. So far, TILs have to not be used 
+to either withhold or prescribe chemotherapy based on the absence of 
+standardized evaluation guidelines and confirmed information. To overcome the 
+low reproducibility of evaluations of TILs, gene signatures or digital image 
+analysis and machine learning algorithms with artificial intelligence may be 
+useful for standardization of assessment for TILs in the future.
+
+DOI: 10.21037/cco.2020.01.06
+PMID: 32192349 [Indexed for MEDLINE]
