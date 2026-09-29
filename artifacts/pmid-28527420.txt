@@ -1,0 +1,48 @@
+1. Eur J Cancer. 2017 Jul;79:226-234. doi: 10.1016/j.ejca.2017.04.012. Epub 2017 
+May 18.
+
+Factors predictive of locoregional recurrence following neoadjuvant chemotherapy 
+in patients with large operable or locally advanced breast cancer: An analysis 
+of the EORTC 10994/BIG 1-00 study.
+
+Gillon P(1), Touati N(2), Breton-Callu C(1), Slaets L(2), Cameron D(3), Bonnefoi 
+H(4).
+
+Author information:
+(1)Department of Radiotherapy, Institut Bergonié Unicancer, Bordeaux, France.
+(2)EORTC, Statistics Department, Avenue Emmanuel Mounier 83b11, 1200 Brussels, 
+Belgium.
+(3)Western General Hospital, Edinburgh Cancer Centre, Crewe Road South, GB 
+Edinburgh EH4 2XU, United Kingdom.
+(4)Department of Medical Oncology, Institut Bergonié Unicancer, Univ. Bordeaux, 
+INSERM U1218, INSERM CIC1401 Bordeaux, France. Electronic address: 
+h.bonnefoi@bordeaux.unicancer.fr.
+
+PURPOSE: Identification of clinicopathological factors predicting for a 
+locoregional recurrence (LRR) after neoadjuvant chemotherapy (NAC) could help to 
+decide on the optimal locoregional radiotherapy. The objective of this trial is 
+to identify those factors in the context of a phase III trial (European 
+Organisation for Research and Treatment of Cancer 10994).
+METHODS: Patients received NAC followed by surgery with or without radiotherapy. 
+Radiotherapy was administered according to pre-specified guidelines. Patients 
+with hormone receptor positive tumours received adjuvant hormonal therapy. A 
+proportion of patients with human epidermal growth factor receptor 2 (HER2) 
+positive cancer received adjuvant trastuzumab. The predictive factors for LRR 
+were identified by multivariate analysis with time to LRR as first event as the 
+primary end-point.
+RESULTS: The median follow-up was 4.4 years. In 1553 eligible patients, there 
+were 76 LRRs with a 5-year cumulative incidence of 4.9% (95% confidence 
+interval, CI [3.76-6.04]). In multivariate analysis, breast cancer subtype was a 
+significant predictor of LRR (p < 0.0001): hazard ratio (HR) 6.44 (95% 
+CI [2.83-14.69]) for triple negative, 6.26 (95% CI [2.81-13.93]) for HER2+ 
+without trastuzumab (T) and 3.37 (95% CI [1.10-10.34]) for HER2+ with T cancers, 
+all compared to luminal A patients. Lack of pathological response was also 
+associated with significantly higher LRR risk in case of ≥4 pathologically 
+positive nodes, HR 2.43 (95% CI [1.34-4.40], p < 0.0001).
+CONCLUSION: Breast cancer subtype and lack of pathological response are 
+predictive factors for high LRR after NAC.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2017.04.012
+PMID: 28527420 [Indexed for MEDLINE]
