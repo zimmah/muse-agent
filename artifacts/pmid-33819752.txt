@@ -1,0 +1,126 @@
+1. ESMO Open. 2021 Apr;6(2):100099. doi: 10.1016/j.esmoop.2021.100099. Epub 2021 
+Apr 2.
+
+T-DM1 versus pertuzumab, trastuzumab and a taxane as first-line therapy of 
+early-relapsed HER2-positive metastatic breast cancer: an Italian multicenter 
+observational study.
+
+Schettini F(1), Conte B(2), Buono G(3), De Placido P(4), Parola S(4), Griguolo 
+G(5), Fabi A(6), Bighin C(7), Riccardi F(8), Cianniello D(9), De Laurentiis 
+M(9), Puglisi F(10), Pelizzari G(11), Bonotto M(12), Russo S(12), Frassoldati 
+A(13), Pazzola A(14), Montemurro F(15), Lambertini M(16), Guarneri V(5), 
+Cognetti F(17), Locci M(18), Generali D(19), Conte P(5), De Placido S(4), 
+Giuliano M(4), Arpino G(4), Del Mastro L(20).
+
+Author information:
+(1)Department of Clinical Medicine and Surgery, University of Naples 'Federico 
+II', Naples, Italy; Translational Genomics and Targeted Therapies in Solid 
+Tumors Group, August Pi i Sunyer Biomedical Research Institute (IDIBAPS), 
+Barcelona, Spain; SOLTI Breast Cancer Research Group, Barcelona, Spain. 
+Electronic address: schettini@clinic.cat.
+(2)SOLTI Breast Cancer Research Group, Barcelona, Spain; Medical Oncology Unit 
+2, IRCCS Ospedale Policlinico San Martino, Genoa, Italy.
+(3)Oncology Unit, San Rocco Hospital, Sessa Aurunca, Italy.
+(4)Department of Clinical Medicine and Surgery, University of Naples 'Federico 
+II', Naples, Italy.
+(5)Division of Oncology 2, Istituto Oncologico Veneto IRCCS, Padua, Italy; 
+Department of Surgery, Oncology and Gastroenterology, University of Padova, 
+Padua, Italy.
+(6)Division of Medical Oncology 1, IRCCS Regina Elena National Cancer Institute, 
+Rome, Italy.
+(7)Medical Oncology Unit 2, IRCCS Ospedale Policlinico San Martino, Genoa, 
+Italy.
+(8)Medical Oncology, 'A. Cardarelli' Hospital, Naples, Italy.
+(9)National Cancer Institute Fondazione 'G. Pascale', Naples, Italy.
+(10)Department of Medicine (DAME), University of Udine, Udine, Italy; Department 
+of Clinical Oncology, CRO Aviano National Cancer Institute, Aviano, Italy.
+(11)Department of Clinical Oncology, CRO Aviano National Cancer Institute, 
+Aviano, Italy.
+(12)Department of Oncology, ASUFC University Hospital, Udine, Italy.
+(13)Oncology Unit, University Hospital St. Anna, Ferrara, Italy.
+(14)Division of Medical Oncology, AOU Sassari, Sassari, Italy.
+(15)Depertment of Medical Oncology, Candiolo Cancer Institute, Candiolo, Italy.
+(16)Department of Internal Medicine and Medical Specialties (DiMI), School of 
+Medicine, University of Genova, Genoa, Italy; Department of Medical Oncology, 
+U.O.C. Clinica di Oncologia Medica, IRCCS Ospedale Policlinico San Martino, 
+Genoa, Italy.
+(17)Department of Clinic and Molecular Medicine, 'La Sapienza' University of 
+Rome, Rome, Italy.
+(18)Department of Neuroscience, Reproductive Medicine, Odontostomatology, 
+University of Naples 'Federico II', Naples, Italy.
+(19)Breast Cancer Unit, Azienda Socio Sanitaria Territoriale di Cremona, 
+Cremona, Italy; Department of Medical, Surgery and Health Sciences, University 
+of Trieste, Trieste, Italy.
+(20)Department of Internal Medicine and Medical Specialties (DiMI), School of 
+Medicine, University of Genova, Genoa, Italy; U.O.S.D. Breast Unit, IRCCS 
+Ospedale Policlinico San Martino, Genoa, Italy.
+
+BACKGROUND: The current standard first-line treatment of human epidermal growth 
+factor receptor 2 (HER2)-positive (+) metastatic breast cancer is the 
+combination of pertuzumab, trastuzumab and a taxane (P + T + taxane), while 
+standard second-line is ado-trastuzumab-emtansine (T-DM1). The registration 
+trial of pertuzumab, however, did not include early-relapsing patients, defined 
+as patients experiencing tumor relapse ≤12 months from the end of (neo)adjuvant 
+anti-HER2 therapy. Conversely, the pivotal trial of T-DM1 included some patients 
+relapsing ≤6 months after the end of (neo)adjuvant trastuzumab. Thus, a 
+proportion of early-relapsing patients are currently eligible to receive T-DM1 
+as first-line treatment. Nevertheless, no direct comparison exists between the 
+two regimens in this clinical setting.
+PATIENTS AND METHODS: We retrospectively compared T-DM1 versus P + T + taxane as 
+first-line treatment in two cohorts of early-relapsing patients in an Italian 
+'real-world' setting, involving 14 public health care institutions. The primary 
+endpoint was progression-free survival. Secondary endpoints included patients' 
+characterization, overall survival and post-progression survival. Univariate and 
+multivariate analyses were carried out. All tests were two-sided and a P ≤ 0.05 
+was considered statistically significant.
+RESULTS: Among 1252 screened patients, 75 met the inclusion criteria. Forty-four 
+(58.7%) received P + T + taxane and 31 (41.3%) received T-DM1. The two cohorts 
+showed similar characteristics of aggressiveness and no significant differences 
+in treatment history. T-DM1, compared with P + T + taxane was associated with 
+worse progression-free survival (adjusted hazard ratio: 2.26, 95% confidence 
+interval: 1.13-4.52, P = 0.021) and overall survival (adjusted hazard ratio: 
+3.95, 95% confidence interval: 1.38-11.32, P = 0.010), irrespective of previous 
+(neo)adjuvant treatment, age, hormone receptors status, time-to-relapse (≤6 
+months or within 6-12 months) and presence of visceral/brain metastases. No 
+differences were observed in post-progression survival (P = 0.095).
+CONCLUSIONS: Our study suggests superiority for P + T + taxane over T-DM1 as 
+up-front treatment of early-relapsing HER2+ metastatic breast cancer, which 
+merits further assessment in larger and prospective trials.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.esmoop.2021.100099
+PMCID: PMC8047485
+PMID: 33819752 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure MG, GA and SDP have declared 
+honoraria from Roche, Pfizer, Astra-Zeneca, Novartis, Celgene, Eli Lilly, Amgen 
+and Eisai outside the submitted work. ML acted as consultant for Roche, 
+AstraZenenca, Novartis, and received speaker honoraria from Roche, Takeda, 
+Novartis, Lilly, Pfizer, Sandoz outside the submitted work. LDM has declared 
+honoraria from Roche, Pfizer, Ipsen, Eli Lilly, Eisai, Novartis, Takeda and 
+Merck Sharp & Dohme (MSD), consulting/advisory role for Roche and Eli Lilly, 
+travels, accommodations and expenses from Roche, Pfizer and Celgene outside the 
+submitted work. MDL has declared consulting fees from Pfizer, Novartis, Eli 
+Lilly, Roche, Eisai, Celgene. FP has declared honoraria for advisory boards, 
+activities as a speaker, travel grants, research grants from Amgen, AstraZeneca, 
+Celgene, Eisai, Eli Lilly, Ipsen, MSD, Novartis, Pierre-Fabre, Pfizer, Roche and 
+Takeda, and research funding from AstraZeneca, Eisai, Roche and Italian Ministry 
+of Health outside the submitted work. PFC reports grants from Merck KGaA, Roche 
+and Bristol-Myers Squibb; grants and personal fees from Novartis and EliLilly; 
+personal fees from AstraZeneca, outside the submitted work. VG reports personal 
+fees from Novartis, Roche, EliLilly, MSD, outside the submitted work. DG has 
+declared consulting fees from Novartis, Lilly and Pfizer, research funding from 
+LILT, Novartis, AstraZeneca and University of Trieste outside the submitted 
+work. GB received honoraria for speaker activities and travel grants from 
+GlaxoSmithKline, Novartis, Pfizer, Roche, Genetic Spa, outside the submitted 
+work. FM declared advisory role for Roche, Novartis, AstraZeneca, Pfizer, Eli 
+Lilly, Pierre Fabre, Daiichi Sankyo, travel grants from Roche and financial 
+support from the Fondazione Piemontese per la Ricerca sul Cancro (FPRC) Onlus 5 
+x mille funding from the Italian Ministry of Health 2017 outside the submitted 
+work. AF has declared honoraria for advisory board from Roche and Novartis, 
+activity as speaker for Pfizer and Lilly, travel grant from Roche, Novartis, 
+Pfizer, Lilly and AstraZeneca outside the submitted work. The other authors have 
+nothing to declare. Data sharing The anonymized database is available from the 
+corresponding author upon reasonable request. The R codes used are available 
+from the corresponding author upon reasonable request.
