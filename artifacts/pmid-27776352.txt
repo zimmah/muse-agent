@@ -1,0 +1,54 @@
+1. Oncotarget. 2016 Nov 15;7(46):75518-75525. doi: 10.18632/oncotarget.12782.
+
+The impact of ERBB-family germline single nucleotide polymorphisms on survival 
+response to adjuvant trastuzumab treatment in HER2-positive breast cancer.
+
+Toomey S(1), Madden SF(2), Furney SJ(3), Fan Y(4), McCormack M(5), Stapleton 
+C(5), Cremona M(1), Cavalleri GL(5), Milewska M(1), Elster N(1), Carr A(1), Fay 
+J(6), Kay EW(6), Kennedy S(7), Crown J(7), Gallagher WM(4), Hennessy BT(1)(8), 
+Eustace AJ(1).
+
+Author information:
+(1)Medical Oncology Group, Department of Molecular Medicine, Royal College of 
+Surgeons in Ireland, Ireland.
+(2)Population Health Sciences Division, Royal College of Surgeons in Ireland, 
+Ireland.
+(3)School of Medicine, University College Dublin, Ireland.
+(4)University College Dublin, UCD School of Biomolecular and Biomedical Science, 
+Conway Institute of Biomolecular and Biomedical Research, Ireland.
+(5)Molecular and Cellular Therapeutics, Royal College of Surgeons in Ireland, 
+Ireland.
+(6)Department of Histopathology, Beaumont Hospital, Dublin, Ireland.
+(7)St Vincent's University Hospital, Dublin Ireland.
+(8)Department of Oncology, Beaumont Hospital, Dublin, Ireland.
+
+BACKGROUND: Trastuzumab treatment for women with HER2-positive breast cancer 
+(BC) resulted in the significant improvement of both relapse free survival (RFS) 
+and overall survival (OS). However, many women who are classified as 
+HER2-positive do not respond. Many studies have focused on the role of somatic 
+mutations rather than germline polymorphisms in trastuzumab resistance.
+RESULTS: We completed an Agena MassArray screen of 10 ERBB-family single 
+nucleotide polymorphisms (SNPs) in 194 adjuvant trastuzumab treated 
+HER2-positive BC patients. SNPs in EGFR genes have a significant association 
+with RFS and OS. Patients with the minor allele of EGFR N158N had significantly 
+worse OS (hazard ratio (HR) = 4.01, (confidence interval (CI) = 1.53- 10.69), p 
+= 0.05) relative to those with either the heterozygous or wild-type (WT) allele. 
+Patients with the minor allele of EGFR T903T (HR = 3.52, (CI = 1.38- 8.97), p = 
+0.05) had worse RFS relative to those with either the heterozygous or WT allele.
+PATIENTS AND METHODS: Using next generation sequencing (NGS) we identified 
+ERBB-family (EGFR, HER2, HER3 and HER4) single nucleotide polymorphisms (SNPs) 
+that occurred in 2 or more patients of a 32 HER2-positive BC patient cohort. 
+Agena MassArray analysis confirmed the frequency of these SNPs in 194 women with 
+HER2-positive BC who received trastuzumab in the adjuvant setting. Using 
+Kaplan-Meier estimates and Cox regression analysis we correlated the presence of 
+ERBB-family SNPs with both RFS and OS.
+CONCLUSIONS: The presence of germline ERBB-family SNPs may play an important 
+role in how a patient responds to adjuvant trastuzumab, and clinical assessment 
+of these SNPs by targeted genetic screening of patients' blood may be important 
+to stratify patients for treatment.
+
+DOI: 10.18632/oncotarget.12782
+PMCID: PMC5342757
+PMID: 27776352 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST None.
