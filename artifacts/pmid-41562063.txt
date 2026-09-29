@@ -1,0 +1,48 @@
+1. Front Immunol. 2026 Jan 5;16:1668995. doi: 10.3389/fimmu.2025.1668995. 
+eCollection 2025.
+
+Case Report: Pathological complete response yet early brain relapse in 
+HER2-positive breast cancer: a case-based review.
+
+Feng J(#)(1), Tong Y(#)(1), Zhang Z(1), He Y(2).
+
+Author information:
+(1)Department of Breast Center, Mianyang Central Hospital, School of Medicine, 
+University of Electronic Science and Technology of China, Mianyang, 
+Sichuan, China.
+(2)Department of Dermatology, Mianyang Central Hospital, School of Medicine, 
+University of Electronic Science and Technology of China, Mianyang, 
+Sichuan, China.
+(#)Contributed equally
+
+Despite advances in anti-HER2 therapies leading to high pathological complete 
+response (pCR) rates, the blood-brain barrier (BBB) still shelters 
+micrometastatic deposits, so intracranial relapse continues to pose a formidable 
+therapeutic obstacle in HER2-positive breast cancer (BC). Understanding the 
+mechanisms underlying early central nervous system (CNS) relapse and integrating 
+BBB-penetrant strategies remain urgent unmet needs. We report a 60-year-old 
+woman with HER2-positive, hormone receptor-negative breast cancer who achieved 
+pCR after neoadjuvant docetaxel combined with trastuzumab and pertuzumab, 
+followed by 12 months of maintenance trastuzumab and pertuzumab. Despite 
+achieving pCR and comprehensive systemic control, the patient developed 
+multifocal brain metastases two months after completing maintenance therapy, 
+without extracranial recurrence. This case underscores the limitations of 
+large-molecule monoclonal antibodies in preventing CNS recurrence due to poor 
+BBB permeability, allowing dormant CNS-adapted clones to persist and later 
+expand. Emerging CNS-active therapies, including small-molecule tyrosine kinase 
+inhibitors (TKIs) such as tucatinib and next-generation antibody-drug conjugates 
+(ADCs) like trastuzumab deruxtecan, have shown promising intracranial activity. 
+In addition, advanced strategies such as intensified MRI surveillance, 
+radiomics, liquid biopsy, focused ultrasound-mediated BBB disruption, 
+nanoparticle delivery systems, and radionuclide therapy offer potential avenues 
+for early identification and prevention of cerebral metastases.
+
+Copyright © 2026 Feng, Tong, Zhang and He.
+
+DOI: 10.3389/fimmu.2025.1668995
+PMCID: PMC12813026
+PMID: 41562063 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
