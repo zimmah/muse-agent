@@ -1,0 +1,79 @@
+1. Curr Oncol. 2025 Aug 7;32(8):444. doi: 10.3390/curroncol32080444.
+
+Multidisciplinary Practical Guidance for Implementing Adjuvant CDK4/6 Inhibitors 
+for Patients with HR-Positive, HER2-Negative Early Breast Cancer in Canada.
+
+Jerzak KJ(1), Sehdev S(2), Boileau JF(3), Brezden-Masley C(4), Califaretti N(5), 
+Edwards S(6), Gordon J(7), Henning JW(8), LeVasseur N(9), Railton C(8).
+
+Author information:
+(1)Division of Medical Oncology, Sunnybrook Odette Cancer Centre, University of 
+Toronto, Toronto, ON M4N 3M5, Canada.
+(2)Division of Medical Oncology, The Ottawa Hospital Cancer Centre, Ottawa, ON 
+K1H 8L6, Canada.
+(3)Department of Surgery, Jewish General Hospital, Montreal, QC H3T 1E2, Canada.
+(4)Department of Medical Oncology, Mount Sinai Hospital, Toronto, ON M5G 1X5, 
+Canada.
+(5)Grand River Regional Cancer Centre, Kitchener, ON N2G 1G3, Canada.
+(6)Dr. H. Bliss Murphy Cancer Centre, St. John's, NL A1B 3V6, Canada.
+(7)Rethink Breast Cancer, Toronto, ON M4M 3G3, Canada.
+(8)Department of Oncology, University of Calgary, Calgary, AB T2N 1N4, Canada.
+(9)Department of Medical Oncology, BC Cancer, Vancouver, BC V5Z 4E6, Canada.
+
+Cyclin-dependent kinase (CDK)4/6 inhibitors have become a key component of 
+adjuvant treatment for patients with hormone receptor-positive (HR+), human 
+epidermal growth factor receptor 2-negative (HER2-) early breast cancer who are 
+at high risk of recurrence. The addition of abemaciclib and ribociclib to 
+standard endocrine therapy has demonstrated clinically meaningful improvements 
+in invasive disease-free survival, supported by the monarchE and NATALEE trials, 
+respectively. With expansion of patient eligibility for CDK4/6 inhibitors, 
+multidisciplinary coordination among medical oncologists, surgeons, nurses, 
+pharmacists, and other health care providers is critical to optimizing patient 
+identification, monitoring, and management of adverse events. This expert 
+guidance document provides practical recommendations for implementing adjuvant 
+CDK4/6 inhibitor therapy in routine clinical practice, incorporating insights 
+from multiple specialties and with patient advocacy representation. Key 
+considerations include patient selection based on clinical trial data, treatment 
+duration, dosing schedules, adverse event profiles, monitoring requirements, 
+drug-drug interactions, and patient-specific factors such as tolerability, cost, 
+and quality of life. This guidance aims to support Canadian clinicians in 
+effectively integrating CDK4/6 inhibitors into clinical practice, ensuring 
+optimal patient outcomes through a multidisciplinary and patient-centric 
+approach.
+
+DOI: 10.3390/curroncol32080444
+PMCID: PMC12384589
+PMID: 40862813 [Indexed for MEDLINE]
+
+Conflict of interest statement: K.J.J.: Consultant, speaker, or advisory board 
+member—Amgen, AstraZeneca, Apo Biologix, Daiichi Sankyo, Eli Lilly, Esai, 
+Genomic Health, Gilead Sciences, Knight Therapeutics, Merck, Myriad Genetics, 
+Novartis, Organon, Pfizer, Roche, and Viatris. Research funding—AstraZeneca, Eli 
+Lilly, and Pfizer; S.S.: Consulting fees/advisory board—Roche, Novartis, Lilly, 
+Pfizer, BMS, Merck, AstraZeneca, Gilead, AbbVie, Incyte, Knight, Helsinn. Travel 
+support—Gilead, AbbVie; J.-F.B.: Speaking honoraria—Roche, Novartis, Genomic 
+Health/Exact Sciences, Pfizer, Allergan, Merck, Lilly, AstraZeneca, Daiichi 
+Sankyo, Gilead. Honoraria—Roche and Amgen. Advisory Committee—Roche, Genomic 
+Health/Exact Sciences, Nanostring Technologies, Pfizer, Lilly, Novartis, Merck, 
+AstraZeneca and Daiichi Sankyo. Steering Committee—AstraZeneca. Travel 
+support—Roche, GSK, Novartis, Pfizer and Lifecell. Research funding—Roche, 
+Novartis, Pfizer, Abbvie, Merck, Rna Diagnostics Inc., Lilly, Bristol Myers 
+Squibb, Genomic Health & AstraZeneca; C.B.-M.: Speakers Fee—Amgen, Astellas, 
+AstraZeneca, BMS, Daiichi Sankyo, Eli Lilly, Exact Sciences, Gilead Sciences, 
+Knight, Merck, Novartis, Pfizer. Consulting/Honoraria—Amgen, Apo-Biologix, 
+Astellas, AstraZeneca, BMS, Daiichi Sankyo, Eli Lilly, Exact Sciences, Gilead 
+Sciences, Knight, Merck, Novartis, Pfizer, Roche. Grants/Research 
+Support—Astellas, AstraZeneca, Eli Lilly, Gilead Sciences, Merck, Novartis, 
+Pfizer; N.C.: Speaker’s honoraria—AstraZeneca, Eli Lilly, Gilead, Knight, Merck, 
+Novartis, Pfizer; S.E.: Speaker’s fee—Astellas Pharma, Astra Zeneca, 
+Apobiologix, Bayer, Gilead, Janssen, Novartis, Pfizer, Ipsen, Eisai, Merck, 
+Lilly, Roche. Advisory boards—Pfizer, Ipsen, Bayer, Novartis, Roche, Astellas; 
+J.G.: Honoraria—Eli Lilly Canada, Novartis; J.-W.H.: Advisory boards and speaker 
+honoraria—Astra Zeneca, Novartis, Pfizer, Gilead, Eli Lilly, Seagen, Merck; 
+N.L.; Speakers Bureau/Honoraria—AstraZeneca, Daiichi Sankyo, Eli Lilly, Gilead, 
+Knight Therapeutics, Merck, Novartis, Pfizer, Roche, Seagen, TerSera. Consulting 
+Fees—AstraZeneca, Daiichi Sankyo, Eli Lilly, Gilead, Knight Therapeutics, Merck, 
+Novartis, Pfizer, Roche, Seagen, TerSera. Grants/Research Support—AbbVie, 
+AstraZeneca, Eli Lilly, Exact Sciences, Gilead, Pfizer, Roche; C.R.: Consulting 
+fees: AstraZeneca, Gilead, Novartis. Grants/research support—Oneball Charitable 
+Cancer Organization.
