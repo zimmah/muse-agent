@@ -1,0 +1,24 @@
+1. Future Oncol. 2020 Nov;16(32):2595-2609. doi: 10.2217/fon-2020-0219. Epub 2020
+ Jul 31.
+
+Trastuzumab emtansine: a game changer in HER2-positive early breast cancer.
+
+Mano M(1).
+
+Author information:
+(1)Hospital Sírio-Libanês, Oncology Center, Rua Dona Adma Jafet, 91 - Bela 
+Vista, São Paulo - SP, 01308-050, Brazil.
+
+Trastuzumab emtansine (T-DM1), given postoperatively for 14 cycles to patients 
+with human epidermal growth factor receptor 2-positive (HER2-positive) early 
+breast cancer (EBC) who failed to achieve a pathological complete response after 
+standard chemotherapy and HER2 blockade, represents probably the greatest 
+progress in the management of this aggressive form of breast cancer since the 
+adjuvant trastuzumab pivotal trials. This article addresses the rationale behind 
+the conception of the KATHERINE trial, T-DM1's structure and pharmacokinetics 
+data, clinical efficacy data of the KATHERINE trial and of other EBC trials with 
+T-DM1, safety aspects, implications of the KATHERINE trial results to clinical 
+practice and future perspectives in the management of HER2-positive EBC.
+
+DOI: 10.2217/fon-2020-0219
+PMID: 32734779 [Indexed for MEDLINE]
