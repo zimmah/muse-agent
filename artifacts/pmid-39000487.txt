@@ -1,0 +1,55 @@
+1. Int J Mol Sci. 2024 Jul 5;25(13):7381. doi: 10.3390/ijms25137381.
+
+Pathological Changes Following Neoadjuvant Endocrine Therapy (NAET): A 
+Multicentre Study of 391 Breast Cancers.
+
+Miligy IM(1)(2), Badr N(2), Stevens A(3), Spooner D(3), Awasthi R(1), Mir Y(4), 
+Khurana A(4), Sharma V(4), Chandaran U(5), Rakha EA(6), Maurice Y(7), Kearns 
+D(1), Oweis R(8), Asar A(8), Ironside A(9), Shaaban AM(1)(10).
+
+Author information:
+(1)Cellular Pathology, Queen Elizabeth Hospital, Birmingham B15 2GW, UK.
+(2)Histopathology Department, Faculty of Medicine, Menoufia University, Shebin 
+El-Kom 11352, Egypt.
+(3)Oncology Department, Queen Elizabeth Hospital, Birmingham B15 2GW, UK.
+(4)Pathology, Liverpool University Hospitals NHS Foundation Trust, Liverpool L7 
+8XP, UK.
+(5)Histopathology Department, Salford Royal Hospital, Salford M6 8HD, UK.
+(6)Histopathology Department, Nottingham City Hospital, Nottingham NG5 1PB, UK.
+(7)Histopathology Department, Heartlands General Hospital, Birmingham B9 5SS, 
+UK.
+(8)Histopathology Department, Rotherham Foundation Trust, Rotherham S60 2UD, UK.
+(9)Department of Pathology, NHS Lothian, Edinburgh EH41 3PF, UK.
+(10)Institute of Cancer and Genomic Sciences, University of Birmingham, 
+Birmingham B15 2SY, UK.
+
+Oestrogen receptor (ER)-positive breast cancer (BC) is generally well responsive 
+to endocrine therapy. Neoadjuvant endocrine therapy (NAET) is increasingly being 
+used for downstaging ER-positive tumours. This study aims to analyse the effect 
+of NAET on a well-characterised cohort of ER-positive BC with particular 
+emphasis on receptor expression. This is a retrospective United Kingdom (UK) 
+multicentre study of 391 patients who received NAET between October 2012 and 
+October 2020. Detailed analyses of the paired pre- and post-NAET morphological 
+changes and hormone receptor (HR) and human epidermal growth factor receptor 2 
+(HER2) expression were performed. The median duration of NAET was 86 days, with 
+median survival and overall survival rates of 380 days and 93.4%, respectively. 
+A total of 90.3% of cases achieved a pathological partial response, with a 
+significantly higher rate of response in the HER2-low cancers. Following NAET, 
+BC displayed some pathological changes involving the tumour stroma including 
+central scarring and an increase in tumour infiltrating lymphocytes (TILs) and 
+tumour cell morphology. Significant changes associated with the duration of NAET 
+were observed in tumour grade (30.6% of cases), with downgrading identified in 
+19.3% of tumours (p < 0.001). The conversion of ER status from positive to low 
+or negative was insignificant. The conversion of progesterone receptor (PR) and 
+HER2 status to negative status was observed in 31.3% and 38.1% of cases, 
+respectively (p < 0.001). HER2-low breast cancer decreased from 63% to 37% 
+following NAET in the paired samples. Significant morphological and biomarker 
+changes involving PR and HER2 expression occurred following NAET. The findings 
+support biomarker testing on pre-treatment core biopsies and post-treatment 
+residual carcinoma.
+
+DOI: 10.3390/ijms25137381
+PMCID: PMC11242101
+PMID: 39000487 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
