@@ -1,0 +1,49 @@
+1. Breast. 2015 Feb;24(1):18-23. doi: 10.1016/j.breast.2014.10.008. Epub 2014 Nov
+ 20.
+
+Pathologic complete response rates in triple-negative, HER2-positive, and 
+hormone receptor-positive breast cancers after anthracycline-free neoadjuvant 
+chemotherapy with carboplatin and paclitaxel with or without trastuzumab.
+
+Shinde AM(1), Zhai J(2), Yu KW(3), Frankel P(4), Yim JH(5), Luu T(1), Kruper 
+L(5), Vito C(5), Shaw S(6), Vora NL(6), Kirschenbaum M(7), Somlo G(8).
+
+Author information:
+(1)Department of Medical Oncology and Therapeutic Research, City of Hope, 1500 
+East Duarte Rd., Duarte, CA 91010, USA.
+(2)Department of Pathology, City of Hope, 1500 East Duarte Rd., Duarte, CA 
+91010, USA.
+(3)Department of Clinical Pharmacy, City of Hope, 1500 East Duarte Rd., Duarte, 
+CA 91010, USA.
+(4)Department of Information Sciences, City of Hope, 1500 East Duarte Rd., 
+Duarte, CA 91010, USA.
+(5)Department of General Oncologic Surgery, City of Hope, 1500 East Duarte Rd., 
+Duarte, CA 91010, USA.
+(6)Department of Diagnostic Radiology, City of Hope, 1500 East Duarte Rd., 
+Duarte, CA, 91010 USA.
+(7)Office of Clinical Trials, City of Hope, 1500 East Duarte Rd., Duarte, CA 
+91010, USA.
+(8)Department of Medical Oncology and Therapeutic Research, City of Hope, 1500 
+East Duarte Rd., Duarte, CA 91010, USA. Electronic address: GSomlo@coh.org.
+
+BACKGROUND: Pathologic complete response (pCR) to neoadjuvant chemotherapy (NCT) 
+is considered a surrogate for improved survival. Platinum-containing NCT, 
+particularly in patients with HER2+ and triple-negative breast cancers (TNBC) 
+may increase pCR rates.
+METHODS: Tumor characteristics, pCR rates (no invasive disease in breast and 
+lymph nodes), toxicities, and survival in patients who received carboplatin, a 
+taxane, and trastuzumab (HER2+ disease) between April 2009 and December 2011, 
+were reviewed.
+RESULTS: Thirty eight patients (39 tumors) completed a median of 4 cycles of 
+NCT. Eighteen of 39 (46%) tumors were HER2+, 8/18 (44%) responded with pCR; 
+13/18 HER2+ tumors were HR+ (72%) and 4/13 (31%) had a pCR. Ten of 39 (26%) 
+tumors were TNBC; 6/10 (60%) had a pCR. At a median of 25-months no recurrences 
+were observed in patients with pCR.
+CONCLUSIONS: Prospective studies of anthracycline-free platinum-containing NCT 
+are warranted in LABC patients with HER2+ and TNBC.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.breast.2014.10.008
+PMCID: PMC4596816
+PMID: 25467313 [Indexed for MEDLINE]
