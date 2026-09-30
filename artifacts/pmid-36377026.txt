@@ -1,0 +1,29 @@
+1. J Coll Physicians Surg Pak. 2022 Nov;32(11):1501-1502. doi: 
+10.29271/jcpsp.2022.11.1501.
+
+Concomitant Use of Ado-trastuzumab Emtansine and Imatinib in a Patient of CML 
+and Metastatic Breast Cancer.
+
+Karacin C(1), Bilgetekin I(1), Basal FB(1), Oksuzoglu OB(1).
+
+Author information:
+(1)Department of Medical Oncology, HSU Dr. Abdurrahman Yurtaslan Oncology 
+Training and Research Hospital, Ankara, Turkey.
+
+Imatinib is a CYP3A4 inhibitor, while ado-trastuzumab is a CYP3A4 substrate. 
+Imatinib can interact with ado-trastuzumab emtansine (T-DM1) and can increase 
+T-DM1 concentrations, leading to T-DM1-related toxicity. There is no trial or 
+case report in the literature on the concomitant use of Imatinib and T-DM1. 
+Herein, we report a case in which T-DM1 was used effectively with imatinib in a 
+patient with chronic myeloid leukaemia (CML) and metastatic Her-2-positive 
+breast cancer. A 37-year female using imatinib for CML was diagnosed with breast 
+cancer and a modified radical mastectomy was performed. Skin metastasis occurred 
+within one year after adjuvant therapy was completed. Lung metastasis occurred 
+after Trastuzumab + vinorelbine treatment and T-DM1 and imatinib were given to 
+the patient. No side effects were observed except for grade 1 fatigue. This case 
+report is the first to report the concomitant use of T-DM1 and imatinib in a 
+patient of CML and metastatic breast cancer. Key Words: Imatinib, 
+Ado-trastuzumab emtansine, Breast cancer, Chronic myeloid leukaemia.
+
+DOI: 10.29271/jcpsp.2022.11.1501
+PMID: 36377026 [Indexed for MEDLINE]
