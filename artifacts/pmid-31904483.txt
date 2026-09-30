@@ -1,0 +1,60 @@
+1. Cancer Lett. 2020 Mar 31;473:156-163. doi: 10.1016/j.canlet.2019.12.037. Epub 
+2020 Jan 2.
+
+ARX788, a novel anti-HER2 antibody-drug conjugate, shows anti-tumor effects in 
+preclinical models of trastuzumab emtansine-resistant HER2-positive breast 
+cancer and gastric cancer.
+
+Barok M(1), Le Joncour V(2), Martins A(3), Isola J(4), Salmikangas M(5), 
+Laakkonen P(6), Joensuu H(7).
+
+Author information:
+(1)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, 00014, Helsinki, Finland; Laboratory of Molecular 
+Oncology, University of Helsinki, Helsinki, FIN-00290, Finland. Electronic 
+address: mark.barok@helsinki.fi.
+(2)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, 00014, Helsinki, Finland. Electronic address: 
+vadim.lejoncour@helsinki.fi.
+(3)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, 00014, Helsinki, Finland. Electronic address: 
+ana.martins@helsinki.fi.
+(4)Tampere University, Faculty of Medicine and Health Technology, Tampere, 
+Finland. Electronic address: jorma.isola@tuni.fi.
+(5)Laboratory of Molecular Oncology, University of Helsinki, Helsinki, 
+FIN-00290, Finland. Electronic address: marko.salmikangas@helsinki.fi.
+(6)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, 00014, Helsinki, Finland; Laboratory Animal Center, 
+HiLIFE - Helsinki Institute of Life Science, University of Helsinki, Helsinki, 
+Finland. Electronic address: pirjo.laakkonen@helsinki.fi.
+(7)Translational Cancer Medicine Research Program, Faculty of Medicine, 
+University of Helsinki, 00014, Helsinki, Finland; Laboratory of Molecular 
+Oncology, University of Helsinki, Helsinki, FIN-00290, Finland; Department of 
+Oncology, Helsinki University Hospital and University of Helsinki, Helsinki, 
+FIN-00029, Finland. Electronic address: heikki.joensuu@hus.fi.
+
+The majority of HER2-positive breast or gastric cancers treated with T-DM1 
+eventually show resistance to this agent. We compared the effects of T-DM1 and 
+ARX788, a novel anti-HER2 antibody-drug conjugate, on cell growth and apoptosis 
+in HER2-positive breast cancer and gastric cancer cell lines sensitive to T-DM1, 
+gastric cancer cell lines resistant to T-DM1, HER2-negative breast cancer cell 
+lines, and T-DM1-resistant xenograft models. ARX788 was effective in 
+T-DM1-resistant in vitro and in vivo models of HER2-positive breast cancer and 
+gastric cancer. ARX788 showed a pronounced growth inhibitory effect on all five 
+HER2-positive cell lines tested, of which two gastric cancer cell lines had 
+acquired resistance to T-DM1. ARX788 evoked more apoptotic events compared to 
+T-DM1. While JIMT-1 and RN-87 xenograft tumors progressed on T-DM1 treatment, 
+all such tumors responded to ARX788, and four out of the six JIMT-1 tumors and 
+nine out of the twelve RN-87 tumors disappeared during the ARX788 treatment. 
+Mice treated with ARX788 survived longer than those treated with T-DM1. The data 
+support evaluation of ARX788 in patients with HER2-positive breast cancer or 
+gastric cancer including cancers that progress during T-DM1 therapy.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.canlet.2019.12.037
+PMID: 31904483 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Heikki Joensuu 
+is a board member of Sartar Therapeutics, has a co-appointment at Orion Pharma, 
+and has received fees from Orion Pharma and Neutron Therapeutics Ltd.
