@@ -1,0 +1,51 @@
+1. J Clin Oncol. 2011 Jun 1;29(16):2150-7. doi: 10.1200/JCO.2010.31.9079. Epub
+2011  Apr 25.
+
+Cytoplasmic poly(adenosine diphosphate-ribose) polymerase expression is 
+predictive and prognostic in patients with breast cancer treated with 
+neoadjuvant chemotherapy.
+
+von Minckwitz G(1), Müller BM, Loibl S, Budczies J, Hanusch C, Darb-Esfahani S, 
+Hilfrich J, Weiss E, Huober J, Blohmer JU, du Bois A, Zahm DM, Khandan F, 
+Hoffmann G, Gerber B, Eidtmann H, Fend F, Dietel M, Mehta K, Denkert C.
+
+Author information:
+(1)German Breast Group, Neu-Isenburg, Germany. 
+Gunter.vonMinckwitz@germanbreastgroup.de
+
+Comment in
+    J Clin Oncol. 2011 Jun 1;29(16):2130-2. doi: 10.1200/JCO.2010.34.1990.
+    J Clin Oncol. 2011 Dec 1;29(34):4586-8; author reply 4588. doi: 
+10.1200/JCO.2011.38.1988.
+
+PURPOSE: Poly(adenosine diphosphate-ribose) polymerase (PARP) plays a key role 
+in DNA repair and cellular stress response. Inhibitors of PARP show promising 
+clinical activity in metastatic, triple-negative or BRCA-mutated breast cancer.
+PATIENTS AND METHODS: We investigated cytoplasmic PARP (cPARP) and nuclear PARP 
+(nPARP) expression by immunohistochemistry in 638 pretreatment biopsies from 
+patients on the GeparTrio study and evaluated its predictive and prognostic 
+value after neoadjuvant anthracycline/taxane-based chemotherapy.
+RESULTS: cPARP expression was high in 23.7%, intermediate in 50.9%, and negative 
+in 25.4% of tumors. High cPARP expression was significantly correlated with 
+nonlobular histology (P < .001), undifferentiated grade (P < .001), positive 
+nodal status (P = .049), and negative hormone receptor (HR) status (P < .001) 
+but not with human epidermal growth factor receptor 2 (HER2) status. Expression 
+was high in 35.5% of triple-negative tumors, 24.6% of HER2-positive tumors, and 
+18.0% of HR-positive/HER2-negative tumors (P < .001). Pathologic complete 
+response (pCR) rates were 26.5%, 19.1%, and 8.0% in patients with high, 
+intermediate, or negative expression, respectively (P < .001). This predictive 
+effect was most prominent in HR-positive tumors (P = .035) or HER2-negative 
+tumors (P < .001). High cPARP expression was a negative, but not independent, 
+prognostic factor for disease-free survival (DFS; P = .0025) and overall 
+survival (OS; P = .0022). cPARP expression was highly prognostic in patients 
+without a pCR (DFS, P < .001; OS, P < .001) and in patients with HR-positive 
+tumors (DFS, P < .001; OS, P < .001). No such correlations were found for nPARP 
+expression.
+CONCLUSION: High cPARP expression correlates with aggressive tumor pattern and 
+predicts high sensitivity to neoadjuvant taxane/anthracycline-based chemotherapy 
+but also unfavorable long-term prognosis. As a potential target for PARP 
+inhibitors, cPARP-positive breast cancer might become a new, clinically relevant 
+entity.
+
+DOI: 10.1200/JCO.2010.31.9079
+PMID: 21519019 [Indexed for MEDLINE]
