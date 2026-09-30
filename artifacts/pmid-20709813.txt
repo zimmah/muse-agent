@@ -1,0 +1,49 @@
+1. Ann Oncol. 2011 Mar;22(3):588-594. doi: 10.1093/annonc/mdq406. Epub 2010 Aug
+13.
+
+Neoadjuvant capecitabine and docetaxel (plus trastuzumab): an effective 
+non-anthracycline-based chemotherapy regimen for patients with locally advanced 
+breast cancer.
+
+Wildiers H(1), Neven P(2), Christiaens MR(2), Squifflet P(3), Amant F(2), 
+Weltens C(2), Smeets A(2), van Limbergen E(2), Debrock G(4), Renard V(5), Van 
+Eenoo L(6), Wynendaele W(7), Paridaens R(8).
+
+Author information:
+(1)Multidisciplinary Breast Center; Department of General Medical Oncology, 
+University Hospitals Leuven, Leuven. Electronic address: 
+hans.wildiers@uzleuven.be.
+(2)Multidisciplinary Breast Center.
+(3)International Drug Development Institute, Louvain.
+(4)Department of Medical Oncology, Ziekenhuis-Oost-Limburg, Genk.
+(5)Department of Medical Oncology, AZ St-Lucas, Gent.
+(6)Department of General Medical Oncology, University Hospitals Leuven, Leuven.
+(7)Multidisciplinary Breast Center; Department of Medical Oncology, Imelda 
+Ziekenhuis, Bonheiden, Belgium.
+(8)Multidisciplinary Breast Center; Department of General Medical Oncology, 
+University Hospitals Leuven, Leuven.
+
+BACKGROUND: To evaluate capecitabine-docetaxel (XT), with trastuzumab (H) in 
+human epidermal growth factor receptor 2 (HER2)-positive disease, in inoperable 
+locally advanced breast cancer (LABC).
+PATIENTS AND METHODS: Patients received up to six neoadjuvant 21-day cycles of 
+capecitabine 900 mg/m(2) twice daily, days 1-14, plus docetaxel 36 mg/m(2), days 
+1 and 8. Patients with HER2-positive disease also received trastuzumab 6 mg/kg 
+every 3 weeks. The primary end point was pathologic complete response (pCR) 
+rate, evaluated separately in HER2-negative and HER2-positive cohorts. Secondary 
+end points included clinical response rates and tolerability.
+RESULTS: The pCR rate was 15% [95% confidence interval (CI) 7-28] in 53 patients 
+receiving XT and 40% (95% CI 26-55) in 50 patients receiving HXT. After 
+neoadjuvant therapy, 50 patients receiving XT and 45 receiving HXT underwent 
+surgery. No unexpected toxicity was observed: the most common grade ≥3 adverse 
+events were diarrhea/mucositis (30% and 20%, respectively) and grade 3 hand-foot 
+syndrome (11% and 6%, respectively). Disease-free survival and overall survival 
+were similar with XT and HXT after median follow-up of 22 months in the XT 
+cohort and 21 months in the HXT cohort.
+CONCLUSION: Neoadjuvant XT (HXT in HER2-positive disease) is highly effective in 
+inoperable LABC, demonstrating pCR rates of 15% and 40%, respectively. This 
+non-anthracycline-containing regimen offers obvious benefits in early disease, 
+where avoidance of long-term cardiotoxicity is particularly important.
+
+DOI: 10.1093/annonc/mdq406
+PMID: 20709813 [Indexed for MEDLINE]
