@@ -1,0 +1,38 @@
+1. Breast. 2009 Oct;18 Suppl 3:S18-24. doi: 10.1016/S0960-9776(09)70267-X.
+
+Adjuvant chemotherapy--the dark side of clinical trials. Have we learnt more?
+
+Oakman C(1), Pestrin M, Cantisani E, Licitra S, DeStefanis M, Biganzoli L, Di 
+Leo A.
+
+Author information:
+(1)Sandro Pitigliani Medical Oncology Unit, Department of Oncology, Hospital of 
+Prato, Tuscany Cancer Institute, Prato, Italy.
+
+Large adjuvant trials, over many years, have randomised thousands of women with 
+early breast cancer to different regimens. They have been instrumental in 
+defining our current approach in the adjuvant setting. However in clinical 
+practice with each patient, we still have the difficulty of targeting their 
+specific therapy, as results relating to the average trial population are often 
+not transferable to the individual. This review of adjuvant chemotherapy trials 
+focuses on the heterogeneity of disease, treatment, mechanisms of chemotherapy 
+action and risk. These issues are of key importance in our interpretation and 
+application of results from adjuvant trials. A critical issue in adjuvant 
+chemotherapy is identification of patients at high risk of recurrence who have 
+chemosensitive tumours. Risk of relapse does not always correlate with 
+chemosensitivity, and cytotoxic therapy in patients with chemorefractory disease 
+may be ineffective and associated only with toxicity. Rather than general 
+sensitivity to cytotoxics, we need predictive biomarkers to guide which specific 
+therapy will be effective in a particular patient. Assessment of specific 
+biomarkers as predictive tools may individualise care and see chemotherapy 
+implementation as targeted agents, with tumour heterogeneity reflected in 
+heterogeneity of intervention. Already with trastuzumab, we have a subgroup 
+predicted by Her-2 gene amplification. Anthracyclines and taxanes, whilst widely 
+used, do not yet have prospectively proven biomarkers to predict response. 
+Potential biomarkers for anthracyclines include topoisomerase II alpha and 
+markers of DNA repair dysfunction, whilst for taxanes, microtubule-associated 
+proteins may play a role. The basal phenotype may be predictive of benefit from 
+DNA damaging agents.
+
+DOI: 10.1016/S0960-9776(09)70267-X
+PMID: 19914536 [Indexed for MEDLINE]
