@@ -1,0 +1,53 @@
+1. Breast Cancer Res Treat. 2020 Nov;184(2):481-489. doi: 
+10.1007/s10549-020-05868-z. Epub 2020 Aug 29.
+
+Carboplatin dose capping affects pCR rate in HER2-positive breast cancer 
+patients treated with neoadjuvant Docetaxel, Carboplatin, Trastuzumab, 
+Pertuzumab (TCHP).
+
+Howell SJ(1)(2), Coe F(3), Wang X(4), Horsley L(1), Ekholm M(5)(6)(7).
+
+Author information:
+(1)Department of Medical Oncology, The Christie NHS Foundation Trust, 
+Manchester, UK.
+(2)Division of Cancer Sciences, University of Manchester, Manchester, UK.
+(3)Department of Pharmacy, The Christie NHS Foundation Trust, Manchester, UK.
+(4)Department of Analytics and Statistics, Digital Services, The Christie NHS 
+Foundation Trust, Manchester, UK.
+(5)Department of Medical Oncology, The Christie NHS Foundation Trust, 
+Manchester, UK. maria.ekholm@rjl.se.
+(6)Department of Oncology, Ryhov Hospital, 551 85, Jönköping, Sweden. 
+maria.ekholm@rjl.se.
+(7)Department of Clinical Sciences, Division of Oncology and Pathology, Lund 
+University, Lund, Sweden. maria.ekholm@rjl.se.
+
+PURPOSE: Estimated glomerular filtration rate (eGFR) is commonly used to 
+calculate carboplatin doses and capping the eGFR may be used to reduce the risk 
+of excessive dosing and toxicity. We sought to retrospectively examine the 
+impact of our carboplatin guidelines on pathological complete response rates 
+(pCR) and toxicity in women with HER2+ breast cancer receiving neoadjuvant 
+docetaxel, carboplatin, trastuzumab and pertuzumab (TCHP).
+METHODS: The delivered area under the curve (dAUC) was calculated [(actual 
+carboplatin dose at cycle 1 ÷ dose calculated with uncapped/unbanded eGFR) × 6] 
+and dichotomized at the median value. The impact of this and other clinical 
+factors on pCR rate, dose intensity (DI) and toxicity was assessed.
+RESULTS: 124 eligible patients were identified of whom 63.7% (79/124) achieved 
+pCR. The median dAUC at cycle 1 was 5.75 mg × ml/min. Those with lower dAUC were 
+more frequently younger and overweight/obese. Patients with lower dAUC had 
+significantly inferior pCR rates of 54.8% (34/62) vs 72.6% (45/62), respectively 
+(p = 0.040). Similar results were seen in the ER+ subgroup; 45.2% (19/42) vs 
+68.3% (28/41), p = 0.037%, whereas no significant difference was seen among ER- 
+patients; 75.0% (15/20) vs 81.0% (17/21), p = 0.72. DI and toxicity were 
+comparable between the two dAUC groups.
+CONCLUSIONS: The overall pCR rate was high in patients with HER2+ breast cancer 
+receiving the TCHP regimen; however, carboplatin dose capping resulted in 
+inferior pCR rates, particularly in the ER+ subgroup. To ensure optimal dosing, 
+isotopic measurement of renal function is warranted in patients who would 
+otherwise have their eGFR and dose capped.
+
+DOI: 10.1007/s10549-020-05868-z
+PMCID: PMC7599187
+PMID: 32860550 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors have any competing 
+interests, financial and non-financial, in relation to the work described.
