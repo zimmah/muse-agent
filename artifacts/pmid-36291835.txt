@@ -1,0 +1,100 @@
+1. Cancers (Basel). 2022 Oct 15;14(20):5051. doi: 10.3390/cancers14205051.
+
+Event-Free Survival in Patients with Early HER2-Positive Breast Cancer with a 
+Pathological Complete Response after HER2-Targeted Therapy: A Pooled Analysis.
+
+Swain SM(1), Macharia H(2), Cortes J(3)(4), Dang C(5), Gianni L(6), Hurvitz 
+SA(7), Jackisch C(8), Schneeweiss A(9), Slamon D(7), Valagussa P(6), du Toit 
+Y(10), Heinzmann D(2), Knott A(2), Song C(10), Cortazar P(10).
+
+Author information:
+(1)Lombardi Comprehensive Cancer Center, Georgetown University Medical Center, 
+MedStar Health, Washington, DC 20057, USA.
+(2)F. Hoffmann-La Roche Ltd., 4070 Basel, Switzerland.
+(3)Quirónsalud Group, IOB Institute of Oncology, Madrid and Barcelona, 08023 
+Barcelona, Spain.
+(4)Vall d'Hebron Institute of Oncology (VHIO), 08023 Barcelona, Spain.
+(5)Department of Medicine, Breast Medicine Service, Memorial Sloan Kettering 
+Cancer Center, New York, NY 10013, USA.
+(6)Fondazione Michelangelo, 20121 Milano, Italy.
+(7)David Geffen School of Medicine, University of California Los Angeles, Los 
+Angeles, CA 94720, USA.
+(8)Sana Klinikum Offenbach, 63069 Offenbach, Germany.
+(9)National Center for Tumor Diseases (NCT), 69120 Heidelberg, Germany.
+(10)Genentech, Inc., South San Francisco, CA 94080, USA.
+
+The standard-of-care for patients with pathological complete response (pCR) 
+after neoadjuvant human epidermal growth factor receptor 2 (HER2)-targeted 
+therapy plus chemotherapy is continuation of HER2-targeted therapy in the 
+adjuvant setting. Our objective was to evaluate risk of recurrence or death in 
+these patients and determine if outcomes differed by the HER2-targeted regimen 
+received in each setting. We analyzed patient-level data from five randomized 
+trials evaluating trastuzumab, pertuzumab, or both as part of systemic 
+neoadjuvant and adjuvant therapy for HER2-positive early breast cancer, and 
+assessed event-free survival (EFS) in 1763 patients. Patients with pCR had 
+decreased risk of an EFS event versus those with residual disease (unadjusted 
+hazard ratio [HR] = 0.35; 95% confidence interval [CI]: 0.27-0.46). Regardless 
+of pCR status, after adjusting for baseline factors, reduction in EFS event risk 
+was greater in patients administered pertuzumab/trastuzumab in both settings 
+versus those administered only trastuzumab in both settings (HR = 0.36; 95% CI: 
+0.26-0.49), or pertuzumab/trastuzumab in the neoadjuvant setting and only 
+trastuzumab in the adjuvant setting (HR = 0.67; 95% CI: 0.47-0.96). Patients 
+with pCR had longer EFS than those with residual disease. Patients treated with 
+pertuzumab/trastuzumab in both the neoadjuvant and adjuvant settings had the 
+lowest risk of breast cancer recurrence.
+
+DOI: 10.3390/cancers14205051
+PMCID: PMC9599862
+PMID: 36291835
+
+Conflict of interest statement: S.M. Swain has been an advisory board member 
+and/or consultant for AstraZeneca, Athenex, Beijing Medical Foundation, Daiichi 
+Sankyo, Exact Sciences, Genentech/Roche, Inviata, Lilly Pharmaceuticals, Merck, 
+Molecular Templates, Natera, and Silverback Therapeutics; has received research 
+funding to her institution from Genentech and Kailos Institution; has received 
+travel or accommodations expenses paid by Caris Life Sciences, Daiichi Sankyo 
+and Genentech/Roche; and reports other relationships with AstraZeneca and Roche. 
+J. Cortes has been an advisory board member and/or consultant for Roche, 
+Celgene, Cellestia, AstraZeneca, Biothera Pharmaceutical, Merus, Seattle 
+Genetics, Daiichi Sankyo, Erytech, Athenex, Polyphor, Lilly, Servier, and Merck 
+Sharpe&Dohme; has received honoraria from Roche, Novartis, Celgene, Eisai, 
+Pfizer, Samsung, Lilly, Merck Sharpe&Dohme; has received research funding to his 
+institution from Roche, Ariad Pharmaceuticals, AstraZeneca, Baxalta GMBH/Servier 
+Affairs, Bayer Healthcare, Eisai, Guardant Health, Merck Sharpe&Dohme, Pfizer, 
+Piqur Therapeutics, Puma, Queen Mary University of London, and Seagen; and has 
+MedSIR stock, patents, or intellectual property. C. Dang has received honoraria 
+as a consultant for Roche/Genentech, Puma, Daiichi Sankyo, Lilly, Evivore, 
+Novartis, and Pfizer, and has received grant/research support from Roche 
+Genentech, and Puma. L. Gianni has been an advisory board member and/or 
+consultant for ADC Therapeutics, AstraZeneca, Celgene, Eli Lilly, G1 
+Therapeutics, Genentech, Genomic Health, Merck Sharp & Dohme, Oncolytics 
+Biotech, Odonate Therapeutics, Onkaido Therapeutics, Roche, Pfizer, Taiho 
+Pharmaceutical, Hexal Sandoz, Seattle Genetics, Synthon, Zymeworks, 
+Sanofi-Aventis, Forty Seven (CD47), GENENTA, METIS Precision Medicine, Synaffix, 
+Menarini Ricerche, Amgen, and Biomedical Insights Inc., and a Research Grant 
+from Revolution Medicines was granted to his institution outside the submitted 
+work. S.A. Hurvitz has an immediate family member with stock or other ownership 
+interests in Ideal Implant and ROMTech; her institution has received research 
+funding from Genentech/Roche, Novartis, GlaxoSmithKline, Sanofi, Pfizer, Amgen, 
+OBI Pharma, Puma Biotechnology, Dignitana, Bayer, BioMarin, Lilly, Merrimack, 
+Cascadian Therapeutics, Seattle Genetics, Daiichi Sankyo, Macrogenetics, Ambryx, 
+Immunomedics, Pieris, Radius, Arvinas, Zymeworks, Gilead Sciences, Phoenix 
+Molecular Designs, CytomX Therapeutics, and Samumed; she has had travel or 
+accommodations expenses paid by Lilly; and reports other relationships with 
+Roche and Pfizer. C. Jackisch has received honoraria from AstraZeneca, Pfizer, 
+Roche, Lilly, Exact Science, Pierre Fabré, and Amgen. A. Schneeweiss has 
+provided expert testimony for Roche and AstraZeneca; his institution has 
+received research grants from Celgene, Roche, and Abbvie; he has had travel or 
+accommodations expenses paid by Celgene, Roche, and Pfizer; has received 
+honoraria from Roche, Celgene, Pfizer, AstraZeneca, Novartis, MSD, Tesaro, 
+Lilly, and Seagen; and has received non-financial medical writing support from 
+Roche. D. Slamon has been a consultant for Lilly, Novartis, Pfizer and Seagen; 
+has BioMarin corporate board membership; has equity ownership in Amgen, 
+BioMarin, Merck Sharpe&Dohme, Pfizer, Seagen, Vertex, TORL BioTherapeutics, and 
+1200 Pharma; has received honoraria from Novartis; reports research 
+funding/grants from Novartis, Pfizer, and Seagen; has been on a speaker’s bureau 
+for Novartis; and he has had travel or accommodations expenses paid by Novartis 
+and Pfizer. P. Valagussa has no conflicts of interest to declare. H. Macharia, 
+D. Heinzmann, and A. Knott, are employees of and own stock in F. Hoffmann-La 
+Roche, Ltd. Y. du Toit, C. Song, and P. Cortazar are employees of Genentech and 
+own stock in F. Hoffmann-La Roche, Ltd.
