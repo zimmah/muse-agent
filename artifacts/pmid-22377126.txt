@@ -1,0 +1,54 @@
+1. Lancet Oncol. 2012 Apr;13(4):375-84. doi: 10.1016/S1470-2045(12)70049-9. Epub 
+2012 Feb 28.
+
+Neoadjuvant bevacizumab, trastuzumab, and chemotherapy for primary inflammatory 
+HER2-positive breast cancer (BEVERLY-2): an open-label, single-arm phase 2 
+study.
+
+Pierga JY(1), Petit T, Delozier T, Ferrero JM, Campone M, Gligorov J, Lerebours 
+F, Roché H, Bachelot T, Charafe-Jauffret E, Pavlyuk M, Kraemer S, Bidard FC, 
+Viens P.
+
+Author information:
+(1)Institut Curie, Paris, France.
+
+Comment in
+    Lancet Oncol. 2012 Apr;13(4):324-6. doi: 10.1016/S1470-2045(12)70081-5.
+
+BACKGROUND: Bevacizumab and trastuzumab are efficacious for treatment of 
+advanced or HER2-positive metastatic breast cancer; however, few data exist for 
+this regimen in inflammatory breast cancer. In our phase 2 trial, we aimed to 
+assess efficacy and safety of neoadjuvant bevacizumab combined with trastuzumab 
+and chemotherapy in patients with primary HER2-positive inflammatory breast 
+cancer.
+METHODS: In our phase 2, multicentre, open-label, single-arm, non-comparative 
+trial, we enrolled women (aged ≥ 18 years) with histologically confirmed 
+HER2-positive non-metastatic inflammatory breast cancer at private or public 
+oncology centres in France. Before surgery, patients were treated with 
+fluorouracil, epirubicin, cyclophosphamide, and bevacizumab (cycles 1-4) and 
+docetaxel, bevacizumab, and trastuzumab (cycles 5-8) in 3-week cycles. After 
+surgery, patients received adjuvant radiotherapy, trastuzumab, and bevacizumab. 
+For the primary endpoint, we assessed the proportion of patients who achieved a 
+pathological complete response (defined by central review of surgical specimens 
+according to Sataloff classification, counting missing data as failure) and 
+adverse events in all enrolled patients. This study is registered with 
+ClinicalTrials.gov, number NCT00717405.
+FINDINGS: Between Oct 23, 2008, and Oct 28, 2009, we enrolled 52 patients at 21 
+centres. 42 (81%) of 52 patients received all eight cycles of neoadjuvant 
+therapy and 49 (94%) underwent surgery. After neoadjuvant therapy, 33 of 52 
+patients had a pathological complete response according to central review 
+(63·5%, 95% CI 49·4-77·5). The most common adverse events were asthenia and 
+nausea (both occurred in 36 [69%] of 52 patients). 25 (48%) patients had grade 
+3-4 neutropenia, which was the most common grade 3-4 adverse event. Only one 
+grade 3 or worse adverse event regarded as related to bevacizumab was reported 
+(hypertension, one patient). Four patients (8%) had cardiac failure.
+INTERPRETATION: Neoadjuvant treatment with bevacizumab, trastuzumab, and 
+chemotherapy was efficacious and well tolerated in patients with previously 
+untreated primary inflammatory breast cancer. Further confirmation of use of 
+bevacizumab in inflammatory breast cancer is needed.
+FUNDING: Roche (France).
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(12)70049-9
+PMID: 22377126 [Indexed for MEDLINE]
