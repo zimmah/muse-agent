@@ -1,0 +1,129 @@
+1. Nat Commun. 2023 Nov 3;14(1):7053. doi: 10.1038/s41467-023-42635-2.
+
+Immunological and clinicopathological features predict HER2-positive breast 
+cancer prognosis in the neoadjuvant NeoALTTO and CALGB 40601 randomized trials.
+
+Rediti M(1), Fernandez-Martinez A(2), Venet D(1), Rothé F(1), Hoadley KA(2), 
+Parker JS(2), Singh B(3), Campbell JD(4), Ballman KV(5), Hillman DW(4), Winer 
+EP(6), El-Abed S(7), Piccart M(8), Di Cosimo S(9), Symmans WF(10), Krop IE(6), 
+Salgado R(11)(12), Loi S(12), Pusztai L(13), Perou CM(2), Carey LA(14), Sotiriou 
+C(15).
+
+Author information:
+(1)Breast Cancer Translational Research Laboratory, Institut Jules Bordet, 
+Hôpital Universitaire de Bruxelles (H.U.B), Université Libre de Bruxelles (ULB), 
+Brussels, Belgium.
+(2)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel 
+Hill, NC, USA.
+(3)White Plains Hospital, White Plains, NY, USA.
+(4)Alliance Statistics and Data Management Center, Mayo Clinic, Rochester, MN, 
+USA.
+(5)Alliance Statistics and Data Management Center, Weill Cornell Medicine, New 
+York, NY, USA.
+(6)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA.
+(7)Breast International Group, Brussels, Belgium.
+(8)Medical Oncology Department, Institut Jules Bordet and l'Université Libre de 
+Bruxelles (U.L.B.), Brussels, Belgium.
+(9)Integrated biology platform unit, Department of Applied Research and 
+Technological Development, Fondazione IRCCS Istituto Nazionale dei Tumori, 
+Milan, Italy.
+(10)Department of Pathology, University of Texas, MD Anderson Cancer Center, 
+Houston, TX, 77030, USA.
+(11)Department of Pathology, GZA-ZNA Ziekenhuizen, Antwerp, Belgium.
+(12)Division of Research, Peter MacCallum Cancer Centre, Melbourne, VIC, 
+Australia.
+(13)Breast Medical Oncology, Yale Cancer Center, Yale School of Medicine, New 
+Haven, CT, USA.
+(14)Division of Hematology-Oncology, Department of Medicine, School of Medicine, 
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.
+(15)Breast Cancer Translational Research Laboratory, Institut Jules Bordet, 
+Hôpital Universitaire de Bruxelles (H.U.B), Université Libre de Bruxelles (ULB), 
+Brussels, Belgium. christos.sotiriou@hubruxelles.be.
+
+The identification of prognostic markers in patients receiving neoadjuvant 
+therapy is crucial for treatment optimization in HER2-positive breast cancer, 
+with the immune microenvironment being a key factor. Here, we investigate the 
+complexity of B and T cell receptor (BCR and TCR) repertoires in the context of 
+two phase III trials, NeoALTTO and CALGB 40601, evaluating neoadjuvant 
+paclitaxel with trastuzumab and/or lapatinib in women with HER2-positive breast 
+cancer. BCR features, particularly the number of reads and clones, evenness and 
+Gini index, are heterogeneous according to hormone receptor status and PAM50 
+subtypes. Moreover, BCR measures describing clonal expansion, namely evenness 
+and Gini index, are independent prognostic factors. We present a model developed 
+in NeoALTTO and validated in CALGB 40601 that can predict event-free survival 
+(EFS) by integrating hormone receptor and clinical nodal status, breast 
+pathological complete response (pCR), stromal tumor-infiltrating 
+lymphocyte levels (%) and BCR repertoire evenness. A prognostic score derived 
+from the model and including those variables, HER2-EveNT, allows the 
+identification of patients with 5-year EFS > 90%, and, in those not achieving 
+pCR, of a subgroup of immune-enriched tumors with an excellent outcome despite 
+residual disease.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-42635-2
+PMCID: PMC10624889
+PMID: 37923752 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+interests. J.S.P.: equity and consulting from Reveal Genomics; royalties from 
+patent from Veracyte. B.S.: participation in speaker’s Bureau for AstraZeneca. 
+E.P.W.: honoraria and equity, board member for Oncoclinicas; consultant 
+honoraria from Carrick Therapeutics, GSK, Jounce Therapeutics; 
+Consultant/Honoraria Research to Institute from Genentech/Roche; honoraria from 
+Genomic Health; scientific advisory board honoraria from Leap Therapeutics. 
+S.E.-A.: grant from Novartis within the submitted work and from Roche/Genentech 
+and Pfizer outside the submitted work. M.P.: invited speaker for AstraZeneca, 
+Lilly, MSD, Novartis, Pfizer, Roche-Genentech; consultant for 
+Camel-IDS/Precirix, Roche-Genentech; advisory board for Frame Therapeutics, 
+Gilead, Immunomedics, Immutep, Menarini, NBE Therapeutics, Odonate, 
+Roche-Genentech, SeaGen, Seattle Genetics; member of boards of directors, 
+scientific board for Oncolytics; research grants to her Institution from 
+AstraZeneca, Immunomedics, Lilly; funding to her Institution from Menarini, MSD, 
+Novartis, Pfizer, Radius, Roche-Genentech, Servier, Synthon. S.DC.: fees for 
+medical education from Novartis, Pierre-Fabre, and IQVIA; institutional grant IG 
+20774 of Fondazione Associazione Italiana Ricerca contro il Cancro (AIRC); “ad 
+hoc” medical advisor for Medica Scientia Innovation Research (MEDSIR), Barcelona 
+(Spain). W.F.S.: founder stock in Delphi Diagnostics and publicly traded stock 
+in IONIS Pharmaceuticals and Eiger BioPharmaceuticals; consultant/advisor to 
+Merck, AstraZeneca; co-inventor of pending patent “Targeted Measure of 
+Transcriptional Activity Related to Hormone Receptors”, United States, 
+Provisional Patent Application Serial No. 62/329,774; support for unrelated 
+research from Pfizer; uncompensated scientific advisor to Delphi Diagnostics. 
+I.E.K.: advisory board participation/consultant and received honoraria from 
+Bristol Meyers Squibb, Daiichi/Sankyo, Macrogenics, Genentech/Roche, Seagen, 
+AstraZeneca, Novartis, Merck; institutional research funding/grants (paid to 
+Institution) from Genentech/Roche, Pfizer, Macrogenics. S.L.: research funding 
+to her institution from Novartis, Bristol Meyers Squibb, Merck, Puma 
+Biotechnology, Eli Lilly, Nektar Therapeutics, AstraZeneca, Roche-Genentech and 
+Seattle Genetics; consultant (not compensated) to Seattle Genetics, Novartis, 
+Bristol Meyers Squibb, Merck, AstraZeneca, Eli Lilly, Pfizer, Gilead 
+Therapeutics and Roche-Genentech; consultant (paid to her institution) to Aduro 
+Biotech, Novartis, GlaxoSmithKline, Roche-Genentech, AstraZeneca, Silverback 
+Therapeutics, G1 Therapeutics, PUMA Biotechnologies, Pfizer, Gilead 
+Therapeutics, Seattle Genetics, Daiichi Sankyo, Merck, Amunix, Tallac 
+Therapeutics, Eli Lilly and Bristol Meyers Squibb. L.P.: consulting fees and 
+honoraria from Seagen, Pfizer, AstraZeneca, Merck, Novartis, Bristol-Myers 
+Squibb, Pfizer, Genentech, Eisai, Pieris, Immunomedics, Clovis, Syndax, H3Bio, 
+Radius Health, Personalis, Daiichi, Natera and institutional research funding 
+from Seagen, AstraZeneca, Merck, Pfizer and Bristol Myers Squibb. R.S.: 
+non-financial support from Merck and Bristol Myers Squibb (BMS); research 
+support from Merck, Puma Biotechnology and Roche; personal fees from Roche, BMS 
+and Exact Sciences for advisory boards. C.M.P.: equity stock holder and 
+consultant of BioClassifier LLC; listed as an inventor on patent applications 
+for the Breast PAM50 Subtyping assay; equity stock holder and consultant of 
+Reveal Genomics. L.A.C.: research funding to her Institution from Sindax, 
+Novartis, NanoString Technologies, Seattle Genetics, Veracyte, AstraZeneca; 
+Royalty-sharing agreement, investorship interest in licensed intellectual 
+property to startup company, Falcon Therapeutics, that is designing neural stem 
+cell–based therapy for glioblastoma multiforme (immediate family member); 
+uncompensated relationship for Eisai, Sanofi, Lilly, SeaGen, Novartis 
+(Institution), G1 Therapeutics (Institution), Genentech/Roche (Institution), 
+GlaxoSmithKline (Institution), AstraZeneca (Institution), Daiichi Sanyo 
+(Institution), Exact Sciences (Institution). C.S.: advisory board (receipt of 
+honoraria or consultations fees) for Astellas, Cepheid, Vertex, Seattle 
+genetics, Puma, Amgen, Exact Sciences; participation in company sponsored 
+speaker’s bureau for Eisai, Prime Oncology, Teva, Foundation Medicine, Exact 
+Sciences; other support (travel, accommodation expenses) from Roche, Genentech, 
+Pfizer. The remaining authors declare no non-financial or financial competing 
+interests.
