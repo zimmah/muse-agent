@@ -1,0 +1,39 @@
+1. Turk J Med Sci. 2022 Aug;52(4):1111-1117. doi: 10.55730/1300-0144.5414. Epub 
+2022 Aug 10.
+
+Predictors of lymphovascular invasion in estrogen receptor positive/Her-2 
+negative breast cancer patients treated with neoadjuvant chemotherapy.
+
+Çavdar E(1), İriağaç Y(1).
+
+Author information:
+(1)Department of Medical Oncology, Faculty of Medicine, Tekirdağ Namık Kemal 
+University, Tekirdağ, Turkey.
+
+BACKGROUND: Lymphovascular invasion (LVI) is considered a high-risk factor for 
+recurrence in early-stage breast cancer, hence examination of LVI in 
+pathological samples is an absolute recommendation. We aim to investigate 
+predictive factors of LVI in preneoadjuvant chemotherapy (NAC) patients with 
+estrogen receptor positive (ER+) and human epidermal growth factor receptor 2 
+negative (HER2-) molecular subtypes of breast cancer.
+METHODS: One hundred and thirty-four patients treated with NAC were included in 
+this study who were ER+/HER2-. The clinical characteristics of the patients, the 
+data obtained from the core needle biopsy before NAC and the LVI status in the 
+pathology that examined after breast surgery were collected. Univariate and 
+multivariate analysis were performed using the logistic regression model.
+RESULTS: An examination of the association between LVI and clinical-pathological 
+patient characteristics showed that advanced age (>40 years old) (p = 0.021), 
+ductal histology (p = 0.039), and presence of axillary lymph node metastasis (p 
+= 0.005) were predictors of LVI. Independent predictors of LVI in a multivariate 
+logistic model included advanced age (p = 0.037), and the presence of axillary 
+lymph node metastasis prior to NAC (p = 0.006). The median RFS (Recurrence-free 
+survival) time was 22.8 months for all patients. RFS was shorter in patients 
+with LVI (log-rank p = 0.037).
+DISCUSSION: Independent predictors of LVI are advanced age and lymph node 
+positivity at the time of diagnosis. Our study is the first study that evaluates 
+pre-NAC predictive factors of LVI in ER+/HER2- breast cancer patients treated 
+with NAC.
+
+DOI: 10.55730/1300-0144.5414
+PMCID: PMC10387951
+PMID: 36326379 [Indexed for MEDLINE]
