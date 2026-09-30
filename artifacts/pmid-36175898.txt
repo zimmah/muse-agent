@@ -1,0 +1,68 @@
+1. World J Surg Oncol. 2022 Sep 29;20(1):326. doi: 10.1186/s12957-022-02787-9.
+
+Real-world data on breast pathologic complete response and disease-free survival 
+after neoadjuvant chemotherapy for hormone receptor-positive, human epidermal 
+growth factor receptor-2-negative breast cancer: a multicenter, retrospective 
+study in China.
+
+Guan D(1), Jie Q(2), Wu Y(3), Xu Y(2), Hong W(4), Meng X(5).
+
+Author information:
+(1)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital, Hangzhou Medical College, Shangtang Road No. 158, 
+Hangzhou, 310014, Zhejiang, China.
+(2)Zhejiang Chinese Medical University, Hangzhou, Zhejiang, China.
+(3)Zhejiang University of Technology, Hangzhou, Zhejiang, China.
+(4)Hangzhou Medical College, Hangzhou, Zhejiang, China.
+(5)General Surgery, Cancer Center, Department of Breast Surgery, Zhejiang 
+Provincial People's Hospital, Hangzhou Medical College, Shangtang Road No. 158, 
+Hangzhou, 310014, Zhejiang, China. mxlmail@126.com.
+
+BACKGROUND: The data in the real-world setting on breast pathologic complete 
+response (pCR) after neoadjuvant chemotherapy (NAC) for hormone 
+receptor-positive, human epidermal growth factor receptor-2-negative (HR+, 
+HER2-) breast cancer (BC) is limited. The present study aims to screen for some 
+predictors and investigate the prognostic significance of breast pCR after NAC 
+in HR+, HER2- BC in China.
+METHODS: This was a multicenter, retrospective study. In this study, three 
+hundred eighty-four HR+, HER2- BC patients who received NAC were enrolled 
+between 2010 and 2016 from Shanghai Jiaotong University Breast Cancer Database 
+(SJTU-BCDB). These patients were dichotomized according to the presence of 
+breast pCR after NAC. Logistic analysis was used to screen for predictors 
+associated with breast pCR. Kaplan-Meier (K-M) curve and a propensity score 
+matching (PSM) analysis were performed to compare the disease-free survival 
+(DFS) between the two groups. Cox regression was used to analyze the prognostic 
+significance of breast pCR on DFS in HR+, HER2- BC. A nomogram model was 
+established to predict the probability of DFS at 1, 3, and 5 years after NAC.
+RESULTS: Fifty-seven patients (14.8%) achieved breast pCR. Univariate analysis 
+showed that tumor size, estrogen receptor (ER), progesterone receptor (PR), and 
+Ki67 were associated with breast pCR. Further, multivariate analysis showed that 
+tumor size, PR, and Ki67 remained statistically significant. K-M curves showed a 
+statistical difference between the breast pCR and non-pCR groups before PSM (p = 
+0.047), and a more significant difference was shown after PSM (p = 0.033). Cox 
+regression after PSM suggested that breast pCR, adjuvant ET, clinical T stage, 
+and Ki67 status were the significant predictive factors for DFS in HR+, HER2- BC 
+patients. The adjusted hazards ratio (aHR) for breast pCR was 0.228 (95% CI, 
+0.070~0.739; p = 0.014), for adjuvant endocrine therapy was 0.217 (95% CI, 
+0.059~0.801; p = 0.022), for Ki67 was 1.027 (95% CI, 1.003~1.052; p = 0.027), 
+for cT stages 2 and 3 compared with 1, the values were 1.331 (95% CI, 
+0.170~10.389), and 4.699 (95% CI, 0.537~41.142), respectively (p = 0.043). A 
+nomogram was built based on these significant predictors, providing an 
+integrated probability of DFS at 1, 3, and 5 years. The values of area under the 
+receiver operating characteristic (ROC) curve (AUC) were 0.967, 0.991, and 
+0.787, at 1 year, 3 years, and 5 years, respectively, demonstrating the ability 
+of the nomogram to predict the DFS.
+CONCLUSIONS: This real-world study demonstrates that tumor size, PR, and Ki67 
+were independent predictive factors for breast pCR in HR+, HER2- BC. Breast pCR 
+after NAC was an independent predictor for DFS in HR+, HER2- patients, 
+regardless of a change in nodes. Furthermore, the nomogram built in our study 
+could predict the probability of individualized DFS in HR+, HER2- BC patients.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12957-022-02787-9
+PMCID: PMC9520808
+PMID: 36175898 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
