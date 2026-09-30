@@ -1,0 +1,64 @@
+1. Sci Rep. 2025 May 28;15(1):18625. doi: 10.1038/s41598-025-03678-1.
+
+Pyrotinib promotes the antitumor effect of T-DM1 by increasing drug endocytosis 
+in HER2-positive breast cancer.
+
+Ren W(#)(1), Liu J(2), Zhao R(3), Zhao F(1), Zhang Y(4), Mu J(5), Zhu 
+T(#)(6)(7).
+
+Author information:
+(1)Department of Oncology, Hebei Medical University, Shijiazhuang, 050017, 
+Hebei, China.
+(2)Department of Medical Oncology, Bethune International Peace Hospital, 
+Shijiazhuang, 050082, Hebei, China. liujiankun1982@163.com.
+(3)Department of Immunology, Key Laboratory of Immune Mechanism and Intervention 
+on Serious Disease in Hebei Province, Hebei Medical University, Shijiazhuang, 
+050017, Hebei, China.
+(4)Department of Medical Oncology, Bethune International Peace Hospital, 
+Shijiazhuang, 050082, Hebei, China.
+(5)Department of Oncology, ShengJi Cancer Hospital, Handan, 056000, Hebei, 
+China.
+(6)Department of Oncology, Hebei Medical University, Shijiazhuang, 050017, 
+Hebei, China. zhutienian2023@outlook.com.
+(7)Department of Medical Oncology, Bethune International Peace Hospital, 
+Shijiazhuang, 050082, Hebei, China. zhutienian2023@outlook.com.
+(#)Contributed equally
+
+Erratum in
+    Sci Rep. 2026 Jan 23;16(1):3062. doi: 10.1038/s41598-026-36768-9.
+
+Anti-HER2 therapy is integral to the treatment of HER2-positive breast cancer, 
+but drug resistance hampers its effectiveness. Although antibody-drug conjugates 
+(ADCs) are increasingly used in clinical practice, their application is often 
+hindered by adverse reactions and drug resistance. Therefore, it is crucial to 
+enhance the bioavailability of ADCs and reduce their dosages to mitigate both 
+adverse effects and resistance. Pyrotinib's effect on HER2-positive breast 
+cancer cell lines (SK-BR-3 and JIMT-1) was investigated via western blot, 
+focusing on HER2 and downstream pathways. Pyrotinib's influence on HER2 
+ubiquitination and internalization was assessed through RT-qPCR, western blot, 
+and immunofluorescence. The ability of pyrotinib to augment trastuzumab 
+emtansine (T-DM1) endocytosis and antiproliferative effects was studied via 
+CCK-8 and immunofluorescence. In vivo experiments in nude mice were conducted to 
+explore the therapeutic efficacy of T-DM1 combined with pyrotinib. The 
+single-drug study showed that pyrotinib downregulated HER2 protein levels and 
+HER2 downstream signaling pathways. The mechanism of downregulating HER2 protein 
+levels involved the promotion of HER2 internalization and degradation through 
+the ubiquitin-proteasome pathway. The two-drug combination study showed that 
+pyrotinib promoted the endocytosis of T-DM1, which improved its bioavailability. 
+Increased cellular uptake further enhanced the antitumor effects of T-DM1 in 
+both in vitro and in vivo experiments. Our results reveal the molecular 
+mechanism by which pyrotinib regulates HER2 levels by promoting HER2 
+internalization, thereby facilitating the endocytosis of T-DM1. These findings 
+suggest a potential combination treatment strategy for the targeted therapy of 
+HER2-positive breast cancer.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-03678-1
+PMCID: PMC12120082
+PMID: 40437017 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests. Ethical approval: The animal study protocol was 
+approved by the ethics committee of Bethune International Peace Hospital 
+(protocol code dwsy–22-12-10).
