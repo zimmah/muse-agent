@@ -1,0 +1,64 @@
+1. J Clin Oncol. 2016 Jul 10;34(20):2416-27. doi: 10.1200/JCO.2016.67.0182. Epub 
+2016 Apr 18.
+
+Selection of Optimal Adjuvant Chemotherapy Regimens for Human Epidermal Growth 
+Factor Receptor 2 (HER2) -Negative and Adjuvant Targeted Therapy for 
+HER2-Positive Breast Cancers: An American Society of Clinical Oncology Guideline 
+Adaptation of the Cancer Care Ontario Clinical Practice Guideline.
+
+Denduluri N(1), Somerfield MR(1), Eisen A(1), Holloway JN(1), Hurria A(1), King 
+TA(1), Lyman GH(1), Partridge AH(1), Telli ML(1), Trudeau ME(1), Wolff AC(1).
+
+Author information:
+(1)Neelima Denduluri, US Oncology Network, Virginia Cancer Specialists, 
+Arlington; Jamie N. Holloway, Patient Representative, Arlington; Mark R. 
+Somerfield, American Society of Clinical Oncology, Alexandria, VA; Andrea Eisen 
+and Maureen E. Trudeau, Sunnybrook Health Sciences Centre, and Cancer Care 
+Ontario, Toronto, Ontario, Canada; Arti Hurria, City of Hope, Duarte; Melinda L. 
+Telli, Stanford University, Palo Alto, CA; Tari A. King, Dana-Farber/Brigham and 
+Women's Cancer Center; Ann H. Partridge, Dana-Farber Cancer Institute, Boston, 
+MA; Gary H. Lyman, Fred Hutchinson Cancer Research Center, Seattle, WA; and 
+Antonio C. Wolff, The Johns Hopkins Sidney Kimmel Comprehensive Cancer Center, 
+Baltimore, MD.
+
+Erratum in
+    J Clin Oncol. 2017 Jan 10;35(2):263. doi: 10.1200/JCO.2016.71.6175.
+    J Clin Oncol. 2017 Apr 1;35(10):1140. doi: 10.1200/JCO.2017.72.7198.
+
+Comment in
+    J Clin Oncol. 2017 Apr 1;35(10):1138. doi: 10.1200/JCO.2016.68.6212.
+    J Clin Oncol. 2017 Apr 1;35(10):1137-1138. doi: 10.1200/JCO.2016.68.2393.
+    J Clin Oncol. 2017 Apr 1;35(10):1139. doi: 10.1200/JCO.2016.70.9758.
+
+PURPOSE: A Cancer Care Ontario (CCO) guideline on the selection of optimal 
+adjuvant chemotherapy regimens for early breast cancer including adjuvant 
+targeted therapy for human epidermal growth factor receptor 2 (HER2)-positive 
+breast cancers was identified for adaptation.
+METHODS: The American Society of Clinical Oncology (ASCO) has a policy and set 
+of procedures for adapting clinical practice guidelines developed by other 
+organizations. The CCO guideline was reviewed for developmental rigor and 
+content applicability.
+RESULTS: On the basis of the content review of the CCO guideline, the ASCO Panel 
+agreed that, in general, the recommendations were clear and thorough and were 
+based on the most relevant scientific evidence, and they presented options that 
+will be acceptable to patients. However, for some topics addressed in the CCO 
+guideline, the ASCO Panel formulated a set of adapted recommendations on the 
+basis of local context and practice beliefs of the Panel members.
+RECOMMENDATIONS: Decisions regarding adjuvant chemotherapy regimens should take 
+into account baseline recurrence risk, toxicities, likelihood of benefit, and 
+host factors such as comorbidities. In high-risk HER2-negative populations with 
+excellent performance status, anthracycline- and taxane-containing regimens are 
+the standard of care. Docetaxel and cyclophosphamide for four cycles is an 
+acceptable non-anthracycline regimen. In high-risk HER2-positive disease, 
+sequential anthracycline and taxanes administered concurrently with trastuzumab 
+or docetaxel, carboplatin, and trastuzumab for six cycles are recommended. An 
+alternative regimen in a lower-risk, node-negative, HER2-positive population is 
+paclitaxel and trastuzumab once per week for 12 cycles. Trastuzumab should be 
+given for 1 year. Platinum salts should not be routinely administered in the 
+adjuvant triple-negative population until survival efficacy data become 
+available.
+
+© 2016 by American Society of Clinical Oncology.
+
+DOI: 10.1200/JCO.2016.67.0182
+PMID: 27091714 [Indexed for MEDLINE]
