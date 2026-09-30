@@ -1,0 +1,39 @@
+1. Curr Oncol. 2022 Jan 10;29(1):283-293. doi: 10.3390/curroncol29010026.
+
+Immune Effective Score as a Predictor of Response to Neoadjuvant Trastuzumab 
+Therapy and a Prognostic Indicator for HER2-Positive Breast Cancer.
+
+Wu X(1), Zhang C(1), Zhang H(2).
+
+Author information:
+(1)Institute of Molecular Medicine, Peking University, Beijing 100871, China.
+(2)Biomedical Innovation Center, Beijing Shijitan Hospital, School of Oncology, 
+Capital Medical University, Beijing 100038, China.
+
+BACKGROUND: HER2-positive breast cancer (BC) is a highly aggressive phenotype. 
+The role of the host immune features in predictive response to anti-HER2 
+therapies and prognosis in BC has already been suggested. We aimed to develop a 
+predictive and prognostic model and examine its relevance to the clinical 
+outcomes of patients with HER2-positive BC.
+METHODS: Immune effective score (IES) was constructed using principal component 
+analysis algorithms. A bioinformatic analysis using four independent cohorts 
+(GSE66305, n = 88; GSE130786, n = 110; TCGA, n = 123; METABRIC, n = 236) 
+established associations between IES and clinical outcomes.
+RESULTS: Genes associated with neoadjuvant trastuzumab therapy response were 
+enriched in pathways related to antitumor immune activities. IES was 
+demonstrated to be a predictive biomarker to neoadjuvant trastuzumab therapy 
+benefits (GSE66305: area under the curve (AUC) = 0.804; GSE130786: AUC = 0.704). 
+In addition, IES was identified as an independent prognostic factor for overall 
+survival (OS) in the TCGA cohort (p = 0.036, hazard ratio (HR): 0.66, 95% 
+confidence interval (CI): 0.449-0.97) and METABRIC cohort (p = 0.037, HR: 0.9, 
+95% CI: 0.81-0.99).
+CONCLUSION: IES has a predictive value for response to neoadjuvant trastuzumab 
+therapy and independent prognostic value for HER2-positive breast cancer.
+
+DOI: 10.3390/curroncol29010026
+PMCID: PMC8775173
+PMID: 35049700 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest regarding the 
+submission of this manuscript, and all authors have approved the manuscript for 
+publication.
