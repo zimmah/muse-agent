@@ -1,0 +1,52 @@
+1. BMC Cancer. 2020 Jul 18;20(1):675. doi: 10.1186/s12885-020-07179-4.
+
+Effect of neoadjuvant therapy on breast cancer biomarker profile.
+
+Rey-Vargas L(1)(2), Mejía-Henao JC(3), Sanabria-Salas MC(4), Serrano-Gomez 
+SJ(5).
+
+Author information:
+(1)Grupo de investigación en biología del cáncer, Instituto Nacional de 
+Cancerología, Calle 1a #9-85, Bogotá D. C, Colombia.
+(2)Pontificia Universidad Javeriana, Bogotá, Colombia.
+(3)Grupo de patología oncológica, Instituto Nacional de Cancerología, Bogotá, 
+Colombia.
+(4)Subdirección de Investigaciones - Instituto Nacional de Cancerología de 
+Colombia, Bogotá, Colombia.
+(5)Grupo de investigación en biología del cáncer, Instituto Nacional de 
+Cancerología, Calle 1a #9-85, Bogotá D. C, Colombia. sserrano@cancer.gov.co.
+
+BACKGROUND: Breast cancer clinical management requires the assessment of hormone 
+receptors (estrogen (ER) and progesterone receptor (PR)), human epidermal growth 
+factor receptor 2 (HER2) and cellular proliferation index Ki67, by 
+immunohistochemistry (IHC), in order to choose and guide therapy according to 
+tumor biology. Many studies have reported contradictory results regarding 
+changes in the biomarker profile after neoadjuvant therapy (NAT). Given its 
+clinical implications for the disease management, we aimed to analyze changes in 
+ER, PR, HER2, and Ki67 expression in paired core-needle biopsies and surgical 
+samples in breast cancer patients that had either been treated or not with NAT.
+METHODS: We included 139 patients with confirmed diagnosis of invasive ductal 
+breast carcinoma from the Colombian National Cancer Institute. Variation in 
+biomarker profile were assessed according to NAT administration (NAT and no-NAT 
+treated cases) and NAT scheme (hormonal, cytotoxic, cytotoxic + trastuzumab, 
+combined). Chi-squared and Wilcoxon signed-rank test were used to identify 
+changes in biomarker status and percentage expression, respectively, in the 
+corresponding groups.
+RESULTS: We did not find any significant variations in biomarker status or 
+expression values in the no-NAT group. In cases previously treated with NAT, we 
+did find a statistically significant decrease in Ki67 (p < 0.001) and PR 
+(p = 0.02605) expression. When changes were evaluated according to NAT scheme, 
+we found a significant decrease in both Ki67 status (p = 0.02977) and its 
+expression values (p < 0.001) in cases that received the cytotoxic treatment.
+CONCLUSIONS: Our results suggest that PR and Ki67 expression can be altered by 
+NAT administration, whereas cases not previously treated with NAT do not present 
+IHC biomarker profile variations. The re-evaluation of these two biomarkers 
+after NAT could provide valuable information regarding treatment response and 
+prognosis for breast cancer patients.
+
+DOI: 10.1186/s12885-020-07179-4
+PMCID: PMC7368678
+PMID: 32682413 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
