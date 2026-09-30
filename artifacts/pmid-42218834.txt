@@ -1,0 +1,66 @@
+1. Cancer Treat Rev. 2026 Jun;147:103161. doi: 10.1016/j.ctrv.2026.103161. Epub 
+2026 May 27.
+
+The role of the 21-gene assay in the neoadjuvant setting for hormone 
+receptor-positive HER2-negative breast cancer: Impact on systemic and surgical 
+treatment decisions.
+
+Zotano ÁG(1), Allweis TM(2), Foerster R(3), Palmieri C(4), Gluz O(5), Chia S(6), 
+Sotiriou C(7), Bianchini G(8).
+
+Author information:
+(1)Medical Oncology Department, Instituto Valenciano de Oncología, Valencia, 
+Spain; GEICAM, Spanish Breast Cancer Group, Madrid, Spain. Electronic address: 
+angel.guerrero@geicam.org.
+(2)Dept. of Breast Surgery, Hadassah Medical Center, Jerusalem, Israel; Faculty 
+of Medicine, Hebrew University, Jerusalem, Israel.
+(3)Exact Sciences (Abbott Cancer Diagnostics), Baar, Zug, Switzerland.
+(4)The Clatterbridge Cancer Centre NHS Foundation Trust, Liverpool, UK; 
+University of Liverpool, Liverpool, UK.
+(5)West German Study Group (WSG), Moenchengladbach, Germany; Breast Center 
+Niederrhein, Ev. Hospital Bethesda, Moenchengladbach, Germany; University 
+Clinics Cologne, Women's Clinic and Breast Center, Cologne, Germany.
+(6)Medical Oncology, British Columbia Cancer Agency, Vancouver, BC, Canada.
+(7)Breast Cancer Translational Research Laboratory, Department of Medical 
+Oncology, Institut Jules Bordet, Hôpital Universitaire de Bruxelles (H.U.B), 
+Brussels, Belgium; Université Libre de Bruxelles (ULB), Brussels, Belgium.
+(8)Medical Oncology Department, IRCCS San Raffaele Hospital, Milan, Italy; 
+Vita-Salute San Raffaele University, Milan, Italy.
+
+In breast cancer, one of the main objectives of neoadjuvant treatment, 
+regardless of the specific breast cancer subtype, is to downstage the disease in 
+both the breast and the lymph nodes, thereby allowing surgical de-escalation. In 
+patients with inoperable disease, downstaging could lead to a feasible surgical 
+resection; whereas, in patients presenting with operable disease, it could 
+increase the eligibility for breast-conserving surgery (i.e., lumpectomy) 
+instead of a mastectomy as well as spare some patients an axillary lymph node 
+dissection. In patients with hormone receptor-positive (HR + ) human epidermal 
+growth factor receptor 2 (HER2)-negative early-stage breast cancer, neoadjuvant 
+treatment modalities include chemotherapy (NCT) and endocrine therapy (NET). The 
+21-gene Oncotype DX Breast Recurrence Score® assay is a multigene assay that 
+determines a Recurrence Score® (RS) result (range, 0-100) based on gene 
+expression profile within the primary tumor. The RS is a validated 
+prognosticator and predictor of benefit from adjuvant CT. Beyond its validation, 
+it has shown clinical utility in 3 prospective randomized clinical trials in the 
+adjuvant setting (TAILORx, RxPONDER, and WSG PlanB). In these studies, all 
+assays were performed on surgical excision samples. This review focuses on the 
+utility of the 21-gene assay in patients with HR + HER2-negative early-stage 
+breast cancer in the neoadjuvant setting. It discusses the analytical validation 
+of performing the assay on core biopsies, its clinical validation as a tool to 
+guide neoadjuvant treatment decisions (primary surgery, NET, or NCT), the 
+association of the RS result with clinical outcomes, the impact of the RS 
+results on neoadjuvant treatment decisions in real-life clinical practice, the 
+inclusion of the assay in the neoadjuvant setting in clinical-practice 
+guidelines, access of patients worldwide to this approach, and potential 
+directions for additional studies examining the role of the RS in other steps in 
+the clinical pathway of HR + HER2-negative early-stage breast cancer.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ctrv.2026.103161
+PMID: 42218834 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
