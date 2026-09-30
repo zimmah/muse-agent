@@ -1,0 +1,49 @@
+1. Cancer Res Commun. 2023 Sep 25;3(9):1927-1939. doi: 
+10.1158/2767-9764.CRC-23-0302.
+
+HER2-Selective and Reversible Tyrosine Kinase Inhibitor Tucatinib Potentiates 
+the Activity of T-DM1 in Preclinical Models of HER2-positive Breast Cancer.
+
+Olson D(1), Taylor J(1), Willis K(1), Hensley K(1), Allred S(1), Zaval M(1), 
+Farr L(1), Thurman R(1), Jain N(1), Hein R(1), Ulrich M(1), Peterson S(1), 
+Kulukian A(1).
+
+Author information:
+(1)Seagen Inc., Bothell, Washington.
+
+The oncogenic receptor HER2 is overexpressed in many cancers, including up to 
+20% of breast cancers. Despite the availability of HER2-targeted treatments, 
+patients’ disease often progresses during therapy, underscoring the need for 
+novel treatment strategies. The addition of tucatinib, a reversible, highly 
+selective HER2 tyrosine kinase inhibitor (TKI), to treatment with trastuzumab 
+and capecitabine significantly improved survival outcomes of patients with 
+HER2-positive metastatic breast cancer, including those with active brain 
+metastases. We rationalized that combining tucatinib with other HER2-targeting 
+agents with complementary mechanisms of action would further increase efficacy 
+against tumors. We characterized the activity of tucatinib with the 
+antibody–drug conjugate T-DM1 in preclinical models of breast cancer, including 
+HER2-positive breast cancer cells and patient-derived xenograft (PDX) models. 
+Mechanistic details on tucatinib activity were obtained in internalization and 
+catabolism studies. In combination, tucatinib and T-DM1 showed an enhanced, 
+often synergistic, cytotoxic response and demonstrated improved antitumor 
+activity in vivo, including in PDX models refractory to T-DM1 single-agent 
+activity. Mechanistically, tucatinib mediated an increase in inactive HER2 
+molecules at the cell surface through inhibition of HER2 ubiquitination, 
+resulting in increased internalization and catabolism of T-DM1. The combination 
+was correlated with enhanced HER2 pathway inhibition, decreased proliferation, 
+and increased apoptosis. In a xenograft model of brain metastasis, tucatinib 
+penetrated intracranial tumor tissues, inhibiting tumor growth and improving 
+survival. These results suggest that tucatinib may be the optimal TKI partner 
+for HER2-targeted therapies and support clinical studies of its combination with 
+T-DM1, including in patients with brain metastases.
+SIGNIFICANCE: The preclinical findings in breast cancer models presented here 
+demonstrate that combining tucatinib with T-DM1 enhances the antitumor activity 
+of either agent alone, supporting clinical studies of the combination in 
+HER2-positive breast cancer, including in patients with brain metastases, which 
+remains an important unmet medical need.
+
+© 2023 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/2767-9764.CRC-23-0302
+PMCID: PMC10519189
+PMID: 37721518 [Indexed for MEDLINE]
