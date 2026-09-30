@@ -1,0 +1,123 @@
+1. J Cell Physiol. 2020 Nov;235(11):7900-7910. doi: 10.1002/jcp.29445. Epub 2020 
+Jan 15.
+
+Impact of BMI on HER2+ metastatic breast cancer patients treated with pertuzumab 
+and/or trastuzumab emtansine. Real-world evidence.
+
+Krasniqi E(1), Pizzuti L(1), Barchiesi G(1), Sergi D(1), Carpano S(1), Botti 
+C(2), Kayal R(3), Sanguineti G(4), Marchetti P(5)(6), Botticelli A(5), Marinelli 
+D(6), Gamucci T(7), Natoli C(8), Grassadonia A(8), Tinari N(8), Tomao S(9), 
+Tonini G(10), Santini D(10), Michelotti A(11), Mentuccia L(12), Vaccaro A(12), 
+Magnolfi E(12), Gelibter A(5), Magri V(5), Cortesi E(5), D'Onofrio L(10), 
+Cassano A(13), Cazzaniga M(14), Moscetti L(15), Fabbri A(16), Scinto AF(17), 
+Corsi D(17), Carbognin L(18)(19), Bria E(18)(20), La Verde N(21), Garufi C(22), 
+Di Stefano P(22), Mirabelli R(23), Veltri E(24), Paris I(19), Giotta F(25), 
+Lorusso V(25), Landucci E(11), Ficorella C(26), Roselli M(27), Adamo V(28), 
+Ricciardi G(28), Russo A(29), Valerio MR(29), Berardi R(30), Pistelli M(30), 
+Cannita K(31), Zamagni C(32), Garrone O(33), Baldini E(34), Livi L(35), Meattini 
+I(35), Del Medico P(36), Generali D(37), De Maria R(38), Risi E(39), Ciliberto 
+G(40), Villa A(41), Sperduti I(42), Mazzotta M(6), Barba M(1), Giordano A(43), 
+Vici P(1).
+
+Author information:
+(1)Division of Medical Oncology 2, IRCCS Regina Elena National Cancer Institute, 
+Rome, Italy.
+(2)Department of Surgery, IRCCS Regina Elena National Cancer Institute, Rome, 
+Italy.
+(3)Department of Radiology and Diagnostic Imaging, IRCCS Regina Elena National 
+Cancer Institute, Rome, Italy.
+(4)Department of Radiation Oncology, IRCCS Regina Elena National Cancer 
+Institute, Rome, Italy.
+(5)Medical Oncology Unit B, Policlinico Umberto I, Rome, Italy.
+(6)Department of Clinical and Molecular Medicine, Azienda Ospedaliera 
+Sant'Andrea, "Sapienza" University of Rome, Rome, Italy.
+(7)Medical Oncology, Sandro Pertini Hospital, Rome, Italy.
+(8)Department of Medical, Oral and Biotechnological Sciences and CeSI-MeT, G. 
+D'Annunzio University, Chieti, Italy.
+(9)Department of Radiological, Oncological and Anatomo-Pathological Sciences, 
+Policlinico Umberto I, 'Sapienza' University of Rome, Rome, Italy.
+(10)Department of Oncology, University Campus Biomedico of Rome, Rome, Italy.
+(11)Dipartimento di Oncologia, Dei Trapianti e Delle Nuove Tecnologie, UO 
+Oncologia Medica I, S. Chiara Hospital, Azienda Ospedaliera Universitaria 
+Pisana, Pisa, Italy.
+(12)Medical Oncology Unit, ASL Frosinone, Frosinone, Italy.
+(13)Department of Medical Oncology, Policlinico Universitario "A. Gemelli", 
+Rome, Italy.
+(14)Research Unit Phase I Trials and Oncology Unit, ASST Monza, Monza, Italy.
+(15)Division of Medical Oncology, Department of Oncology and Hematology, 
+University Hospital of Modena, Modena, Italy.
+(16)Medical Oncology Unit, Belcolle Hospital, Viterbo, Italy.
+(17)Medical Oncology Unit, Fatebenefratelli Hospital, Rome, Italy.
+(18)University of Verona, Verona, Italy.
+(19)Division of Gynecologic Oncology, Department of Woman and Child Health, 
+Fondazione Policlinico Universitario A. Gemelli IRCCS, Roma, Italy.
+(20)Comprehensive Cancer Center, Fondazione Policlinico Universitario A. Gemelli 
+IRCCS, Università Cattolica Del Sacro Cuore, Roma, Italy.
+(21)Oncology Unit, ASST Fatebenefratelli Sacco Presidio Ospedaliero 
+Fatebenefratelli, Milano, Italy.
+(22)Medical Oncology, "Santo Spirito" Hospital, Pescara, Italy.
+(23)Department of Hematology & Oncology, Azienda Ospedaliera Pugliese-Ciaccio, 
+Catanzaro, Italy.
+(24)Oncology Unit, S. Maria Goretti Hospital, Latina, Italy.
+(25)Department of Medical Oncology, "Giovanni Paolo II" Institute, Bari, Italy.
+(26)Department of Biotechnological and Applied Clinical Sciences, Medical 
+Oncology, University of L'Aquila, L'Aquila, Italy.
+(27)Department of Systems Medicine, Medical Oncology, University of Rome "Tor 
+Vergata", Rome, Italy.
+(28)Department of Human Pathology, Medical Oncology Unit A.O. Papardo, 
+University of Messina, Messina, Italy.
+(29)Department of Surgical, Oncological and Oral Sciences, Section of Medical 
+Oncology, University of Palermo, Palermo, Italy.
+(30)Oncology Clinic, Università Politecnica delle Marche, Ancona, Italy.
+(31)Medical Oncology, St. Salvatore Hospital, L'Aquila, Italy.
+(32)Medical Oncology Unit, Addarii Institute of Oncology, S. Orsola-Malpighi 
+Hospital, Bologna, Italy.
+(33)Medical Oncology, A.O. Ospedale di Insegnamento S. Croce e Carle, Cuneo, 
+Italy.
+(34)Department of Oncology, San Luca Hospital, Lucca, Italy.
+(35)Department of Clinical and Experimental Biomedical Sciences "Mario Serio," 
+Radiation Oncology Unit, Azienda Ospedaliera Universitaria Careggi, University 
+of Florence, Florence, Italy.
+(36)Division of Medical Oncology, Reggio Calabria General Hospital, Reggio 
+Calabria, Italy.
+(37)Breast Cancer Unit & Translational Research Unit, ASST Cremona, Cremona, 
+Italy.
+(38)Institute of General Pathology, Catholic University of the Sacred Heart, 
+Rome, Italy.
+(39)Department of "Sandro Pitigliani" Medical Oncology, Santo Stefano Hospital, 
+Prato, Italy.
+(40)Scientific Direction, IRCCS Regina Elena National Cancer Institute, Rome, 
+Italy.
+(41)Endocrinology Unit, Fondazione Policlinico Universitario A. Gemelli IRCCS, 
+Roma - Università Cattolica del Sacro Cuore, Rome, Italy.
+(42)Department of Bio-Statistics, IRCCS Regina Elena National Cancer Institute, 
+Rome, Italy.
+(43)Department of Biology, Sbarro Institute for Cancer Research and Molecular 
+Medicine, Temple University, Philadelphia, Pennsylvania.
+
+Body mass index (BMI) is a main indicator of obesity and its association with 
+breast cancer is well established. However, little is known in the metastatic 
+setting, especially in HER2-positive patients. We assessed the influence of BMI 
+on clinical outcomes of patients treated with pertuzumab and/or trastuzumab 
+emtansine (T-DM1) for HER2+ metastatic breast cancer (mBC). BMI was addressed as 
+a categorical variable, being classified on the basis of the following ranges, 
+that is, 18.5-24.9, 25-29.9, and 30.0-34.9, namely, normal weight, overweight, 
+and Class I obesity. The outcomes chosen were progression-free survival to 
+first-line chemotherapy (PFS1) and overall survival (OS). Overall (N = 709), no 
+impact of BMI was observed on PFS1 (p = .15), while BMI ≥ 30 was associated with 
+worse OS (p = .003). In subjects who progressed to first line (N = 575), 
+analyzing data across PFS1 quartiles and strata of disease burden, BMI predicted 
+lower PFS1 in patients within the I PFS1 quartile and with the lowest disease 
+burden (p = .001). Univariate analysis showed a detrimental effect of BMI ≥ 30 
+on OS for women within the I PFS1 quartile (p = .03). Results were confirmed in 
+multivariate analysis. According to PFS1 quartiles a higher percentage of 
+patients with high BMI and low disease burden progressed within 6 months of 
+therapy. The effect of BMI on prognosis was also confirmed in multivariate 
+analysis of OS for overall population. In our cohort, a BMI ≥ 30 correlated with 
+worse OS in patients with HER2+ mBC who received pertuzumab and/or T-DM1 but had 
+no impact on PFS to first line. BMI predicted worse I PFS1 quartile.
+
+© 2020 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcp.29445
+PMID: 31943171 [Indexed for MEDLINE]
